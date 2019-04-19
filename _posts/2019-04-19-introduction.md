@@ -4,21 +4,34 @@ title: Introduction
 published: true
 ---
 
-Hey there.
-
 ## About me
 
-As you may be aware, I am a student of Rationality.
-Also I formally study Computer Science at the [University of Freiburg](https://www.facebook.com/wolfram.burgard/posts/10214519864453611).
+Hello there. My human friends call me Felix, computers usually one of {fkarg, Felix, ced}. Feel free to call me Felix :)
 
-I'm interested in all kind of different areas, including:
-- Mathematics
-- Physics
-- Chemistry
-- Biology
-- Management
-- Strategy
-- Rationaity (duh)
-- ...
+I study Computer Science at an [university](https://en.wikipedia.org/wiki/University), but all areas of science interest me. This includes Biology just as well as Physics (though I still have to do some catching up on Biology ...).
 
-That being said, I'm always open to all kind of discussions. This blog will be a collection of things I'll encounter along my research into various fields, including these listed.
+I'm familiar with some programming languages, so yes, I can [code](https://fkarg.github.io/aboutme/). And no, I'm not actively looking for a job.
+
+You may know this feeling. When reading through an article of sorts on a random news website, or even a physical book: You want to think about this more. Explore this idea further, that was just presented to you. Sometimes there's the option to comment. But sometimes this just doesn't cut it. This blog is for those cases. Where my thoughts are a bit more than would fit in a comment. Or, more accurately: should fit.
+
+So what will this be about? Well, roughly about what I'll encounter (or have encountered already) in everyday life.
+
+### What is this going to be?
+
+Currently it's a few things about Programming, a bit of general science-stuff (the pictures of the black hole would be an example), rocket launches, and so on. But, I will also write about Strategy, Coaching, Management, and Business-stuff, since I will be freelancing soon, and I kind of want to write about these topics, as they massively interest me. Also, I may encounter all sorts of philosophical dilemmas and such, and other situations and productivity hacks I may write about.
+
+So, yea. If you're interested in any of this, or just want to learn with me about a variarity of things, then this is the right place for you.
+
+Anyways, as I'm not an expert about every topic I'll be writing about, and some of the thoughts will only be speculation from my side - I may be wrong. I may be wrong about a lot of things, so please feel free to comment, to ask for clarification or whatever. Please do so!
+
+### So, what do I want to achieve here?
+
+I want to explain things I think might be good to know. About how the world works, and how to _win_.
+
+Examples for this may be how to apply Strategy to everyday life, or how to actually achieve your goals. Like, for real.
+
+This includes some knowledge about planning, and some about how the brain works. We're just going to use that to our advantage.
+
+
+Well, here we go. 
+
