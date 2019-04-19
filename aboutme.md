@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who is this guy?
 ---
 
 I'm a CS student, science and space enthusiast. Rationalist and Strategist.
