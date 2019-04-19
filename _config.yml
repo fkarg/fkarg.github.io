@@ -72,13 +72,14 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "fkarg10@gmail.com"
+  #  email: "fkarg10@gmail.com"
+  email: "kargf@informatik.uni-freiburg.de"
   #   facebook: daattali
   github: fkarg
   #   twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: felix-karg-33973b178
+#  linkedin: felix-karg-33973b178
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
