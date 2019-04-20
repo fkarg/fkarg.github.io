@@ -5,7 +5,7 @@
 en: &DEFAULT_EN
   comments_label             : "Leave a comment"
   comments_title             : "Comments"
-  comment_form_info          : "Your email address will not be published. Required fields are marked"
+  comment_form_info          : "Your email address will only be hashed, not saved. Required fields are marked"
   comment_form_comment_label : "Comment"
   comment_form_md_info       : "Markdown is supported."
   comment_form_name_label    : "Name"
@@ -174,7 +174,7 @@ zh-HK:
 de: &DEFAULT_DE
   comments_label             : "Hinterlasse einen Kommentar"
   comments_title             : "Kommentare"
-  comment_form_info          : "Die E-Mail Adresse wird nicht veröffentlicht. Benötigte Felder sind markiert"
+  comment_form_info          : "Die E-Mail Adresse wird nur gehasht, nicht gespeichert. Benötigte Felder sind markiert"
   comment_form_comment_label : "Kommentar"
   comment_form_md_info       : "Markdown wird unterstützt."
   comment_form_name_label    : "Name"
