@@ -101,8 +101,8 @@ comments:
   # Use your OWN siteKey and secret.
   reCaptcha:
     enabled: true
-    siteKey: "6LduRZ8UAAAAAGmL5bYju-9Dmnm3o6c4ayhAwhED"
+    siteKey: "6LfqSJ8UAAAAAHcR84-QqKY2ZsbAzxx21YDRkgjq"
     # (!) ENCRYPT reCaptcha secret key using Staticman /encrypt endpoint
     # i.e. https://staticman3.herokuapp.com/v3/encrypt/{your-site-secret}
     # For more information, https://staticman.net/docs/encryption
-    secret: "dc7W/2kS5sy15Nf8VT18n4ewo2ZPJVgMvEUKdLzRF7D26BQVsDLuuBSKD0XmiUFP6joXE55JsRIfP0So/wOKRjdNdDT79R2ug0sGSdbOEV1zUmtz2c+SxHkzt+bJG7LkvCxFl3FBWz57jE38ZuCQ06UzeL+UILRJVL8yTs0UekQ="
+    secret: "BujKw292lJjh9VDsssNeQkYljZYrSeRZiMmU7IO27Wutz/zoRiaBq4u6hGeOome/y++BEFGhqSwU2GnB24lVuEz1gMIW97J/bOEeHneNlISB/r5PxrlMwe7v+C5v6SXjA9IRwdihNC5EPA0h6x2/raOWq05hxzmVZuGv/2TwOoTepSvJT8F5Iwp3s9Wb4mGamf9ALhz4DXmcDaLdqMIYj0jSyammkTCqjjsb2TOxpOxyvGdK7IpCOSNGT6wtLXqin/BJ8YZePJIBwJyb1/a/xGRAe1sC3/IbRsIiCPYnMInHv6Zy8Rt92mWnhU4L+UD/LtyJr8dLRBqhoUUL9ltP2g=="
