@@ -134,14 +134,19 @@ url-pretty: "fkarg.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Staticman support
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+  repository : fkarg/fkarg.github.io
+  # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : master
+      # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
-    # reCaptcha for Staticman (OPTIONAL)
-    # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+#     # reCaptcha for Staticman (OPTIONAL)
+#     # If you use reCaptcha, you must also set these parameters in staticman.yml
+    siteKey  : "6LduRZ8UAAAAAGmL5bYju-9Dmnm3o6c4ayhAwhED"
+        # Use your own site key, you need to apply for one on Google
+        #     secret   : "6LduRZ8UAAAAAPOsb1L_HFhrIXiIbtLuNpWJ44sy"
+    secret   : "d3xt2sIbjh926ZMPTFZhPFTCFWFe3pnhD0NYDEPibhHyHp8MpOJHFkIFjorJ5fkNFB16jag7QhARbPsItNbx6M399vs/Ec0HWDZINPgGVHDFRP+DEhVwPfiuWfaNLNJyj9qlL1lJQ6H+KApasTTMTSXw7YKM/ydov45CnFQp5GM="
+        # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
