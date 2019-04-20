@@ -145,7 +145,7 @@ staticman:
     siteKey  : "6LduRZ8UAAAAAGmL5bYju-9Dmnm3o6c4ayhAwhED"
         # Use your own site key, you need to apply for one on Google
         #     secret   : "6LduRZ8UAAAAAPOsb1L_HFhrIXiIbtLuNpWJ44sy"
-    secret   : "d3xt2sIbjh926ZMPTFZhPFTCFWFe3pnhD0NYDEPibhHyHp8MpOJHFkIFjorJ5fkNFB16jag7QhARbPsItNbx6M399vs/Ec0HWDZINPgGVHDFRP+DEhVwPfiuWfaNLNJyj9qlL1lJQ6H+KApasTTMTSXw7YKM/ydov45CnFQp5GM="
+    secret   : "dc7W/2kS5sy15Nf8VT18n4ewo2ZPJVgMvEUKdLzRF7D26BQVsDLuuBSKD0XmiUFP6joXE55JsRIfP0So/wOKRjdNdDT79R2ug0sGSdbOEV1zUmtz2c+SxHkzt+bJG7LkvCxFl3FBWz57jE38ZuCQ06UzeL+UILRJVL8yTs0UekQ="
         # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
