@@ -14,3 +14,4 @@ I'm striving to better the world, for better or worse, for at least I have to tr
 My interests range far and wide, if you have something you think could be interesting to me,
 questions, feedback, or just want to get in touch: drop me a mail!
 
+(You might want to read my introductory post [here](https://fkarg.github.io/2019-04-19-introduction/))
