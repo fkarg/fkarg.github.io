@@ -14,11 +14,11 @@ I'm familiar with some programming languages, so yes, I can [code](https://fkarg
 
 You may know this feeling. When reading through an article of sorts on a random news website, or even a physical book: You want to think about this more. Explore this idea further, that was just presented to you. Sometimes there's the option to comment. But sometimes this just doesn't cut it. This blog is for those cases. Where my thoughts are a bit more than would fit in a comment. Or, more accurately: should fit.
 
-So what will this be about? Well, roughly about what I'll encounter (or have encountered already) in everyday life.
+So what will this be about? Well, just about everything I'll encounter (or have encountered already) in everyday life.
 
 ### What is this going to be?
 
-Currently it's a few things about Programming, a bit of general science-stuff (the pictures of the black hole would be an example), rocket launches, and so on. But, I will also write about Strategy, Coaching, Management, and Business-stuff, since I will be freelancing soon, and I kind of want to write about these topics, as they massively interest me. Also, I may encounter all sorts of philosophical dilemmas and such, and other situations and productivity hacks I may write about.
+Currently it's a few things about Programming, a bit of general science-stuff (the pictures of the black hole would be an example), rocket launches, and so on. But, I will also write about Strategy, Coaching, Management, and Business-stuff, since I will be freelancing soon, and I kind of want to write about these topics, as they massively interest me. Also, I may encounter all sorts of philosophical dilemmas, or simply productivity hacks.
 
 So, yea. If you're interested in any of this, or just want to learn with me about a variarity of things, then this is the right place for you.
 
@@ -33,5 +33,4 @@ Examples for this may be how to apply Strategy to everyday life, or how to actua
 This includes some knowledge about planning, and some about how the brain works. We're just going to use that to our advantage.
 
 
-Well, here we go. 
-
+Well, here we go.
