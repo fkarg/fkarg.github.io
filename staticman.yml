@@ -105,4 +105,4 @@ comments:
     # (!) ENCRYPT reCaptcha secret key using Staticman /encrypt endpoint
     # i.e. https://staticman3.herokuapp.com/v3/encrypt/{your-site-secret}
     # For more information, https://staticman.net/docs/encryption
-    secret: "d3xt2sIbjh926ZMPTFZhPFTCFWFe3pnhD0NYDEPibhHyHp8MpOJHFkIFjorJ5fkNFB16jag7QhARbPsItNbx6M399vs/Ec0HWDZINPgGVHDFRP+DEhVwPfiuWfaNLNJyj9qlL1lJQ6H+KApasTTMTSXw7YKM/ydov45CnFQp5GM="
+    secret: "dc7W/2kS5sy15Nf8VT18n4ewo2ZPJVgMvEUKdLzRF7D26BQVsDLuuBSKD0XmiUFP6joXE55JsRIfP0So/wOKRjdNdDT79R2ug0sGSdbOEV1zUmtz2c+SxHkzt+bJG7LkvCxFl3FBWz57jE38ZuCQ06UzeL+UILRJVL8yTs0UekQ="
