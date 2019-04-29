@@ -3,8 +3,10 @@ layout: post
 published: false
 title: Starting Point
 ---
-</Abstract>
-In the ultimate game of life, not even our starting points are equal.
+Sometimes we start new things.
+
+_Isn't it exciting, you can discover quite a few things by only thinking about them!_
+
 
 ## Starting equally
 
@@ -29,44 +31,24 @@ Will you play better than the one who left earlier? Will you be able to build up
 
 Consider the following; a _really long_ running game, with teams. One of the teams gets to regularly exchange their players (even if the others still could have gone on), whilst the other does not. All else being equal (let it be some kind of [strategic](https://en.wikipedia.org/wiki/Game_classification) game), which team do you think is more likely to win?
 
+At least in my intuition it is the one frequently switching players. The reason? _Every time_ they switch, the new player _completely reevaluates_ at least most of the board, the new positions, etc.. So if there is no considerable time penalty (each team has basically too little time for each turn, or similiar) for switching players, with each _complete reevaluation_ there is a small chance for noticing small things the other player wouldn't have noticed if he would have continued to play.
 
+Those are [Cached Thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts). Reevaluating them frequently is always an advantage, because there is always something that's not up to date anymore. Sadly, we frequently do not even notice beliefs that are not valid any more.
 
+## Starting Point
 
+Well, and this is your starting point. The takeaway? Frequently reevaluate as if you'd have never seen this situation before. Make new plans for the future. Consider new things. Bonus: In real life, not just in games.
 
+But what are the rules of the real life? What is the goal, what are the metrics, what is it you want to strive for? In what direction to plan? All of this is a topic for another day, and they all have multiple answers even.
 
-Do you know the rules? Do you _understand_ the game?
+However, take your time and think about it. Do you know the rules, the _actual_ rules of the game you're playing? And if you know the rules, do you _understand_ the game?
 
+What is your starting point, what are your resources (intellect, money, networks of people, job, ...), what are your limits (how far can you go? what would you need to do for that?), what are your next steps, for which plans?
 
+Don't get me wrong. Frequently reevaluate, but don't throw away all the plans you made. Throw away those that aren't liable anymore, those needing severe updating, those not helping any more.
 
-- birth up to realisation of self
-- intervals of retrospective, planning
+Are you aware of your situation? Of your (current) starting point? How far can you go? How far will you go continuing like this?
 
+## some implications
 
-</shortIntroduction>
-
-</Pictures>
-
-</Questions>
-
-## what does this depend upon
-
-## why is this the case
-
-## what happenes if this is different
-
-# how can we use/apply this new knowledge
-
-</Answers>
-
-
-
-# Summary
-
-
-
-Topics:
-- we all start equal (at birth)
-- we can have starting points (again)
-
-
-_Isn't it exciting, you can discover quite a few things by only thinking about them!_
+What are some implications of actually _frequently_ doing this? If you do this today, take yourself some time for it, and don't let yourself get distracted. 
