@@ -19,15 +19,23 @@
     <!-- Start new comment form -->
     <div class="page__comments-form">
       <h3 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_label | default: "Leave a Comment" }}</h3>
-      <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published or saved (only hashed). Required fields are marked \* \n
+      <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published or saved (only hashed). Required fields are marked" }} <span class="required">*</span></p>
+      <div class="ModerationGuidelinesBox-root"><div class="ModerationGuidelinesBox-moderationGuidelines"><div>
 
-      Commenting guidelines: \n
+      <p><em>Commenting guidelines:</em></p>
+      <p>
+        <b>Aim to explain, not persuade.</b> Write your true reasons for believing something, not what you think is most likely to persuade others. Try to offer concrete models, make predictions, and note what would change your mind.
+      </p> 
+      <!--
+      <p>
+        <b>Present your own perspective.</b> Make personal statements instead of statements that try to represent a group consensus (“I think X is wrong” vs. “X is generally frowned upon”). Avoid stereotypical arguments that will cause others to round you off to someone else they’ve encountered before. Tell people how <b>you</b> think about a topic, instead of repeating someone else’s arguments (e.g. “But Nick Bostrom says…”).
+      </p>
+      <p>
+        <b>Get curious.</b> If I disagree with someone, what might they be thinking; what are the moving parts of their beliefs? What model do I think they are running? Ask yourself - what about this topic do I not understand? What evidence could I get, or what evidence do I already have?
+      </p>
+      -->
 
-      Aim to explain, not persuade. Write your true reasons for believing something, not what you think is most likely to persuade others. Try to offer concrete models, make predictions, and note what would change your mind. \n
-
-      Present your own perspective. Make personal statements instead of statements that try to represent a group consensus (“I think X is wrong” vs. “X is generally frowned upon”). Avoid stereotypical arguments that will cause others to round you off to someone else they’ve encountered before. Tell people how you think about a topic, instead of repeating someone else’s arguments (e.g. “But Nick Bostrom says…”). \n
-
-      Get curious. If I disagree with someone, what might they be thinking; what are the moving parts of their beliefs? What model do I think they are running? Ask yourself - what about this topic do I not understand? What evidence could I get, or what evidence do I already have?" }} <span class="required">*</span></p>
+      <!-- </div><a class="ModerationGuidelinesBox-collapse">(Click to Collapse)</a></div></div> -->
       <form id="new_comment" class="page__comments-form js-form form" method="post" action="{{ site.staticman.endpoint | default: 'https://staticmanat.herokuapp.com/v3/entry/github/' }}{{ site.staticman.repository }}/{{ site.staticman.branch }}/comments">
         <div class="form-group">
           <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label><br>
