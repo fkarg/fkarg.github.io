@@ -3,10 +3,7 @@ layout: post
 published: true
 title: Starting Point
 ---
-Sometimes we start new things.
-
-_Isn't it exciting, you can discover quite a few things by only thinking about them!_
-
+Sometimes we start new things. Here is your wakeup-call.
 
 ## Starting equally
 
@@ -64,3 +61,7 @@ What are some implications of actually _frequently_ doing this? Well - if you do
 Obviously, don't expect huge changes within a week. It doesn't even matter if you don't start out doing it as frequently. Just start doing it. At some point you will get the feeling of wanting to reanalyze, in which case you should make some time for it.
 
 Did you try? Did you notice something? Did you change your behaviour? Did it not work for you? Do you know why? Did it work for you? Did you improve it? Combine it with other techniques? - I'd love to hear what you tried, and if it worked out for you or not.
+
+
+
+_Isn't it exciting, you can discover quite a few things by only thinking about them!_
