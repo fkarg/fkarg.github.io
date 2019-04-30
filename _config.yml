@@ -25,7 +25,7 @@ description: Exploring thoughts
 navbar-links:
   About Me: "aboutme"
   More:
-      - Privacy Policy "https://fkarg.github.io/privacy_policy/"
+    - Privacy Policy: "https://fkarg.github.io/privacy_policy/"
   #   Resources:
   #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #     - Learn markdown: "http://www.markdowntutorial.com/"
