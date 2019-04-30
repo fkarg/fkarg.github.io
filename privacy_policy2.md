@@ -4,6 +4,20 @@ title: Privacy Policy
 subtitle: Who has your Data?
 ---
 
+
+### Google Analytics
+I use Google Analytics to determine site traffic, sources of said traffic, and user behavior. Neither I nor this site will attempt to identify you personally using Google Analytics.
+
+I also have demographics enabled on Google Analytics, which only tells me aggregated information on users’ age, gender, and interests.
+
+If you wish to know more or even opt out, view Google’s privacy policy.
+
+
+### Amazon Affiliate
+
+This site participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for this site to earn fees by linking to Amazon.com and affiliated sites.
+
+
 ### Comments
 
 I use a Jekyll and GitHub Page commenting system known as StaticMan. Each comment requires a comment, a name, and an email. I never see the email nor save it in plaintext. It is hashed and stored using MD5, which allows me to access profile images associated with the email via Gravatar.
