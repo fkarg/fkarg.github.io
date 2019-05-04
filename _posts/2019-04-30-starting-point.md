@@ -24,11 +24,13 @@ But then again, here you go. This is your starting point. Complaining won't do y
 
 Can you? Yes. Will you? _Will you?_
 
+
 ## Reevaluating
 
 The first step is usually reevaluating the situation. You at least try make the best out of the situation, since, you kind of want to _win,_ too. Depending on the game played, it might not be possible to win anymore. But you do so anyways. You completely analyze the situation in front of you, evaluate your choices, and act accordingly. Will it be the best action? Maybe. At least according to your capabilities.
 
 Will you play better than the one who left earlier? Will you be able to build upon what he started, to notice his intricate design of the current situation in front of you? This usually depends on you, on the skill you have at this game, on the _level_ you play this game at.
+
 
 ### The Benefit
 
@@ -37,6 +39,7 @@ Consider the following; a _really long_ running game, with teams. One of the tea
 At least in my intuition it is the one frequently switching players. The reason? _Every time_ they switch, the new player _completely reevaluates_ at least most of the board, the new positions, etc.. So if there is no considerable time penalty (for completely reanalyzing the board) for switching players, with each _complete reevaluation_ there is a small chance for noticing small things the other player wouldn't have noticed if he would have continued to play.
 
 Those are [Cached Thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts). Reevaluating them frequently is bound to be an advantage, because there is always something that's not up to date anymore. Sadly, we frequently do not even notice [beliefs](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences) that are not valid any more.
+
 
 ## Starting Point
 
@@ -53,6 +56,7 @@ Don't get me wrong. Frequently reevaluate, but don't throw away all the plans yo
 Everyone has a different starting point. Is this fair? Depends on your definition of fairness. We've all been equal at birth, and time passes for everyone equally. Sure, external circumstances are different, but isn't your life in your control? It's as fair as it'll get.
 
 Are you aware of your situation? Of your (current) starting point? How far can you go? How far will you go continuing like this?
+
 
 ## Some more thoughts
 
