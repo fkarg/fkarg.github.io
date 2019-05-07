@@ -29,6 +29,22 @@ When I first read about it, I thought it would be something really awesome. Then
 
 Let me be more specific.
 
+> - Make a plan.
+
+Simple enough. So far so good.
+
+> - Imagine that you’ve passed the deadline and find out that the plan failed.
+
+Well this one is also not hard. We usually find a whole bunch of reasons why it might fail.
+
+> - If you’re shocked in this scenario, you’re done.
+
+We haven't been shocked so we're not done yet.
+
+> - Otherwise, simulate the most likely failure mode, defend against it, and repeat.
+
+This one is the crux. If you were to actually do this, to try and defend against _all_ failures you could come up with - would this be possible even? I mean, at _some_ point, you would start considering how to avoid a meteor-strike killing the person you want to meet just before you meet. There's just about no practical way to stop this scenario. (Actually, forget that, it's a [bad example](http://yudkowsky.net/rational/technical/)).
+
 
 ## The good side
 
