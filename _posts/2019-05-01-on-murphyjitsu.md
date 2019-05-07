@@ -45,16 +45,18 @@ We haven't been shocked so we're not done yet.
 
 This one is the crux. No, you don't have to try and defend against _all_ failures you could come up with - would this be possible even? You only need to defend against those that you deem [probable][1] (you can start at the 'blue tentacle' part). Which is still a whole bunch I guess.
 
-Do you notice it? Sure, there is the first few things, like us being devoid of motivation, energy or whatever, there is external influences, systems (computers, cars, ...) not working, other people not doing what would have been their responsibility, something urgent coming up inbetween, and combinations, obviously.
+Do you notice it? Sure, there is the first few things, like us being devoid of motivation, energy or whatever, there is external influences, systems (computers, cars, ...) not working, other people not doing what would have been their responsibility, something urgent coming up inbetween,  wrong prioritizing, combinations, and some other things you're not considering.
 
-
+Thus I saw it as a technique, that when used, could be supremely powerful, but using it would require some _conscious effort_ and time. Is everything I do worth that overhead? Certainly not. And so, even after some time now, I haven't consciously used it once. Since, after all, I get most of my things done anyways, without this technique even.
 
 
 ## The good side
 
-Now, quite some time later (without even having actively used it even once!), I noticed something. I noticed, that I'm doing it unconsciously all the time!!
+But still, I noticed something. I noticed, that I'm doing it unconsciously all the time!! What do I mean by that? And how did that happen?
 
-[Intent to kill](https://www.hpmor.com/chapter/16)
+Are you aware of [intent to kill][2]? In short, it's a mindset to get things done _whatever it takes_. And truly, that's it. If you use your 'intent to kill' on something, you'll get it done. You get it done, _whatever it takes_. Guess the implications. Well, some basic questions for that mindset are 'What do I _need_ to do to get this done?' as well as 'What else is possible?' or 'How far can I go?'. However, by no means, lower _what_ you want to achieve. This completely defeats the purpose, and will only make you weaker in the long run.
+
+
 
 
 </shortIntroduction>
@@ -79,6 +81,7 @@ Now, quite some time later (without even having actively used it even once!), I 
 
 
 [1]: http://yudkowsky.net/rational/technical/
+[2]: https://www.hpmor.com/chapter/16
 
 
 _Isn't it exciting, you can discover quite a few things by only thinking about them!_
