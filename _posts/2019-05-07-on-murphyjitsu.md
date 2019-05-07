@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: On Murphyjitsu
 ---
 Why I thought it was useless and why it is still a supremely powerful technique to boost your efficacy.
