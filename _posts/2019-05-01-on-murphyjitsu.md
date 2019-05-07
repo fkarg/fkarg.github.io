@@ -25,7 +25,7 @@ What is important for Murphyjitsu to work is that you're able to find reasons fo
 
 ## The bad sides
 
-When I first read about it, I thought it would be something really awesome. Then I noticed that it actually has quite the overhead, meaning you can't simply use it, but that usage would require quite a bit of effort.
+When I first read about it, I thought it would be something really awesome. Then I noticed that it actually has quite the overhead, meaning you can't simply use it, but that usage would require quite a bit of effort. It takes too much time.
 
 Let me be more specific.
 
@@ -43,7 +43,11 @@ We haven't been shocked so we're not done yet.
 
 > - Otherwise, simulate the most likely failure mode, defend against it, and repeat.
 
-This one is the crux. If you were to actually do this, to try and defend against _all_ failures you could come up with - would this be possible even? I mean, at _some_ point, you would start considering how to avoid a meteor-strike killing the person you want to meet just before you meet. There's just about no practical way to stop this scenario. (Actually, forget that, it's a [bad example](http://yudkowsky.net/rational/technical/)).
+This one is the crux. No, you don't have to try and defend against _all_ failures you could come up with - would this be possible even? You only need to defend against those that you deem [probable][1] (you can start at the 'blue tentacle' part). Which is still a whole bunch I guess.
+
+Do you notice it? Sure, there is the first few things, like us being devoid of motivation, energy or whatever, there is external influences, systems (computers, cars, ...) not working, other people not doing what would have been their responsibility, something urgent coming up inbetween, and combinations, obviously.
+
+
 
 
 ## The good side
@@ -74,6 +78,7 @@ Now, quite some time later (without even having actively used it even once!), I 
 # Summary
 
 
+[1]: http://yudkowsky.net/rational/technical/
 
 
 _Isn't it exciting, you can discover quite a few things by only thinking about them!_
