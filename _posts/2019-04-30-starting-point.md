@@ -3,7 +3,9 @@ layout: post
 published: true
 title: Starting Point
 ---
-Sometimes we start new things. Here is your wakeup-call.
+You are in competition with others, on an unfair playing field. Are you aware of this?
+
+Are you good at Games?
 
 ## Starting equally
 
@@ -46,98 +48,94 @@ only thing left is to make the best of it.
 Can you? Yes. Will you? _Will you?_
 
 
-## Reevaluating
+## Advantages in Games
 
-The first step is usually reevaluating the situation. You at least try make the
-best out of the situation, since, you kind of want to _win,_ too. Depending on
-the game played, it might not be possible to win anymore. But you do so
-anyways. You completely analyze the situation in front of you, evaluate your
-choices, and act accordingly. Will it be the best action? Maybe. At least
-according to your capabilities.
-
-Will you play better than the one who left earlier? Will you be able to build
-upon what he started, to notice his intricate design of the current situation
-in front of you? This usually depends on you, on the skill you have at this
-game, on the _level_ you play this game at.
+So how come, that even if you start out equally, someone wins, while others
+don't? That sometimes you win, and sometimes others? Sure, part of it might be
+due to randomness, e.g. in Games like [Blackjack][1], [Roulette][2], or those
+involving Dice. Even in Poker there's a huge reliance on Randomness, but
+there's more. Skill. And that's where the difference comes in. You certainly
+know this if you've frequently played games with other people (e.g. your
+family), you usually end up around the same position (with the same players).
+So the difference is within the person. They differ in skill (on this game).
+But you can improve your Skill.
 
 
-### The Benefit
+## Life is Competitive
 
-Consider the following; a _really long_ running game, with teams. One of the
-teams gets to regularly exchange their players (even if the others still could
-have gone on), whilst the other does not. All else being equal (let it be some
-kind of [strategic](https://en.wikipedia.org/wiki/Game_classification) game),
-which team do you think is more likely to win?
+I'm not sure if you're aware of that yet, but our [everyday lives are pretty
+competitive][3]. Sadly, we live in a Society where basically no one is saying
+this. Even on sports-days, they say that 'it's all about taking part'. Sure. If
+you give out prices. That's what a Competition is. Grades in school? A
+competition. I'm not sure if it was like this for you, but some give grades
+based on relative performance (which is a really bad measure in my opinion, but
+that's another topic). Utterly competitive. Getting a Spouse? Competition with
+just about _everyone_ else. A Job? Competition with the others wanting the same
+Job. Is there just about anything _not_ a competition?
 
-At least in my intuition it is the one frequently switching players. The
-reason? _Every time_ they switch, the new player _completely reevaluates_ at
-least most of the board, the new positions, etc.. So if there is no
-considerable time penalty (for completely reanalyzing the board) for switching
-players, with each _complete reevaluation_ there is a small chance for noticing
-small things the other player wouldn't have noticed if he would have continued
-to play.
+Well, a few things, but most are. Back to topic. Our Life is filled to the brim
+with competitions, but do we see them as competion? Rarely. So what happens
+when you start seeing it as competition? That's only the beginning. Because you
+still need to actually compete. There's so much to compete for, you can't do
+all of it once. If you want to actually compete (you certainly did
+unconsciously), you need to improve.
 
-Those are [Cached
-Thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts).
-Reevaluating them frequently is bound to be an advantage, because there is
-always something that's not up to date anymore. Sadly, we frequently do not
-even notice
-[beliefs](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)
-that are not valid any more.
+Why is there competition? There's too many reasons, some of them being 'because
+it works' and 'because it's fun'.
 
 
-## Starting Point
+## Seeing Life as a Game
 
-Well, and this is your starting point. The takeaway? Frequently reevaluate as
-if you'd have never seen this situation before. Make new plans for the future.
-Consider new things. Bonus: In real life, not just in games.
+So what about this competition called 'Life'? There's competition everywhere.
+There's even games about life, like [the Sims][4]. Some mirror reality quite
+well. So what would you do in one of these Games? Be successful and rich? What
+is needed to get to get there?
 
-But what are the rules of the real life? What is the goal, what are the
-metrics, what is it you want to strive for? In what direction to plan? All of
-this is a topic for another day, and they all have multiple answers even. Don't
-worry, I'll get to that eventually.
+Spend your days at home wondering which series to watch next? Yeah, right. Do
+some Work, improving your skills? Real Life [works][5] [the][6] [same][7] (if
+you haven't noticed).
 
-However, take your time and think about it. Do you know _which_ 'game' you're
-playing? Do you know the rules, the _actual_ rules of the 'game' you're
-playing? And if you know the rules, do you _understand_ the 'game'?
+Sure, there's some differences to be made, you only have this one Life, and
+people don't like to be treated as 'objects', so you shouldn't do that. But
+that's only if you misinterpret some parts, because it's not NPC-Interaction.
+It's Player-Player interaction!
 
-What is your starting point, what are your resources (intellect, money,
-networks of people, job, ...), what are your limits (how far can you go? what
-would you need to do for that?), what are your next steps, for which plans?
+There's rounds/stages, even! It's called age! What did you do this last round?
+What do you plan on doing this next round?
 
-Don't get me wrong. Frequently reevaluate, but don't throw away all the plans
-you made. Throw away those that aren't liable anymore, those needing severe
-updating, those not helping any more.
-
-Everyone has a different starting point. Is this fair? Depends on your
-definition of fairness. We've all been equal at birth, and time passes for
-everyone equally. Sure, external circumstances are different, but isn't your
-life in your control? It's as fair as it'll get.
-
-Are you aware of your situation? Of your (current) starting point? How far can
-you go? How far will you go continuing like this?
+So what happens if you start playing Sims with yourself? What would you let
+yourself do? What would you change, compared to your everyday routine?
 
 
-## Some more thoughts
+## Your Starting Point
 
-What are some implications of actually _frequently_ doing this? Well - if you
-do it right, meaning: actually measuring your performances - you get the
-benefit of knowing at each point roughly where you're standing, how good your
-body is trained physically, mentally, and in other ways. Also, what you're
-training, and why, and how much you've progressed since the last milestone. You
-get actual goals, actual _meaning_ in your life, which will lead to a
-fulfilling life. If you set your goals right. Not too hard, not too easy.
+Either way, if you accept Life as a sort of game or not, it _is_ a competition.
+What do you do to compete? How do you train? Will you be better than the
+competition? Can you do more? They are somewhere relative to you on this huge
+board, based on skills, endurance, experience, knowledge, and more. What do
+they do? Can you do more? Will you do more? Why not? This is your starting
+point, what do you think, how far can you go until next round?
 
-Obviously, don't expect huge changes within a week. It doesn't even matter if
-you don't start out doing it as frequently. Just start doing it. At some point
-you will get the feeling of wanting to reanalyze, in which case you should make
-some time for it.
+Remember: Nothing is [really][8] [impossible][9]. So where are you currently
+going? Where do you want to go? What do you need to do for this?
 
-Did you try? Did you notice something? Did you change your behaviour? Did it
-not work for you? Do you know why? Did it work for you? Did you improve it?
-Combine it with other techniques? - I'd love to hear what you tried, and if it
-worked out for you or not.
+
+
 
 
 
 _Isn't it exciting, you can discover quite a few things by only thinking about them!_
+
+**Edit**: In the first post, I didn't really say what I wanted to say, but strayed on related topics. So this is the second version, I'm much more content with this one. (it's the same only up to the second paragraph.) If you have feedback, I'd love to hear it!
+
+
+
+[1]: https://en.wikipedia.org/wiki/Blackjack
+[2]: https://en.wikipedia.org/wiki/Roulette
+[3]: https://www.quora.com/Is-life-competition
+[4]: https://en.wikipedia.org/wiki/The_Sims
+[5]: https://www.quora.com/Do-you-see-life-as-a-game-If-so-why
+[6]: https://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/
+[7]: https://www.youtube.com/watch?v=vkg7M_SoP2g
+[8]: https://www.lesswrong.com/posts/fpecAJLG9czABgCe9/on-doing-the-impossible
+[9]: https://www.lesswrong.com/posts/nCvvhFBaayaXyuBiD/shut-up-and-do-the-impossible
