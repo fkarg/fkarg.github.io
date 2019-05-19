@@ -107,6 +107,29 @@ So what happens if you start playing Sims with yourself? What would you let
 yourself do? What would you change, compared to your everyday routine?
 
 
+## When to use this View
+
+I found this view particularly helpful when I just had to take a hit
+emotionally. For example not passing an exam you really put some effort in,
+this is not easy to take. Hey, you didn't pass, but this is your starting
+point.
+
+When finally mustering up the courage to confess, only to blatantly get
+rejected. Hey, this is your starting point.
+
+When you're starting to only see the negative parts about life, the bad things,
+you'd rather not think about (especially if you're prone to depression, or have
+depressive tendencies): Sure, things go bad every now and then. But they do for
+everyone. **This** is your starting point.
+
+This is probably the most effective part, since I start to think of myself as
+being pathetic quite fast sometimes. However, thinking about it as your
+starting point jumps from the focus on the past, to focus on the future. To get
+you moving again, to get you to re-think your current (actually not even half
+as bad as you thought a) situation. Since every failure is the potential of an
+equally big success.
+
+
 ## Your Starting Point
 
 Either way, if you accept Life as a sort of game or not, it _is_ a competition.
@@ -128,6 +151,7 @@ _Isn't it exciting, you can discover quite a few things by only thinking about t
 
 **Edit**: In the first post, I didn't really say what I wanted to say, but strayed on related topics. So this is the second version, I'm much more content with this one. (it's the same only up to the second paragraph.) If you have feedback, I'd love to hear it!
 
+**Edit 2**: Added the paragraph about 'when to use it'.
 
 
 [1]: https://en.wikipedia.org/wiki/Blackjack
