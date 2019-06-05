@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   comment_form_website_label : "Website (optional)"
   comment_btn_submit         : "Submit comment"
   comment_btn_submitted      : "Submitted"
-  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_success_msg        : "Thanks for your comment! It will show up in a few seconds."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
 en-US:
   <<: *DEFAULT_EN
@@ -182,7 +182,7 @@ de: &DEFAULT_DE
   comment_form_website_label : "Webseite (optional)"
   comment_btn_submit         : "Kommentar absenden"
   comment_btn_submitted      : "Versendet"
-  comment_success_msg        : "Danke für den Kommentar! Er wird nach Prüfung auf der Seite angezeigt."
+  comment_success_msg        : "Danke für den Kommentar! Er wird in ein paar sekuden angezeigt."
   comment_error_msg          : "Entschuldigung, es gab einen Fehler. Bitte fülle alle benötigten Felder aus und versuche es erneut."
 de-DE:
   <<: *DEFAULT_DE
