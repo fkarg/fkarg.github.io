@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Against Schrödingers Cat
 ---
 You know how Schrödingers cat is one of these things people associate with quantum physics? Except for it's not really related.
