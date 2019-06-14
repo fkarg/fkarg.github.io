@@ -12,10 +12,7 @@ What is Strategy? Why is it easy to get wrong and so hard to get right?
 
 ## Structures in Life
 
-This is the first post of a 'Structures in Life' Series. The previous post can be found [here][prev] and the next [here][next]
-
-[prev]:
-[next]: 
+This is the first post of a 'Structures in Life' Series.
 
 
 So, in short, **what is Strategy?** Strategy is everything related to getting from one point in concept-space to other points in a predefined direction by predefined actions.
