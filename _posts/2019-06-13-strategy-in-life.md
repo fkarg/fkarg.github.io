@@ -5,6 +5,7 @@ title: Strategy in Life
 ---
 What is Strategy? Why is it easy to get wrong and so hard to get right?
 
+---
 
 # Strategy
 
@@ -83,6 +84,8 @@ Let's put it all together. Creating a new Strategy is not that hard, continuousl
 ## Using Strategies
 
 When having set the goal, the direction and some actions towards the goal, make sure to continuously update your direction slightly (e.g. from 'studying' to 'study physics primarily' for an upcoming test), if conditions change. Also: at some point you need to consciously run through the actions you did, and devise new ones. Some actions may have been one-time applicable, and other possibilities may have opened up for you. So you need to update your set of actions bringing you towards your goal continuously. Can you do that?
+
+---
 
 
 # Summary
