@@ -13,8 +13,8 @@ What is Strategy? Why is it easy to get wrong and so hard to get right?
 
 This is the first post of a 'Structures in Life' Series. The previous post can be found [here][prev] and the next [here][next]
 
-[prev] :
-[next] : 
+[prev]:
+[next]: 
 
 
 So, in short, **what is Strategy?** Strategy is everything related to getting from one point in concept-space to other points in a predefined direction by predefined actions.
@@ -40,7 +40,7 @@ Okay, this is slightly trickier. Remember that we can not know all of concept-sp
 
 Direction is relevant. Back to the school-setting, you might want to graduate with some good grades. This is an absolutely _existing_ point in concept-space, no matter if you are an A+ or D- student. The concept exists. So what do I mean with 'direction' here? You know, the location of concepts in concept-space is more or less fixed, so _where_ you want to go is the same. However, the _angle_ at which you need to go there, the _direction_ is different, since you [start out somewhere else][startingpoint], even if the goal is the same. Conceptually, for you get there from being a D- student, it is obvious that you would need to do a lot more (it is conceptually farther away) than from being an A+ student already.
 
-[startingpoint] : https://fkarg.github.io/2019-04-30-starting-point/
+[startingpoint]: https://fkarg.github.io/2019-04-30-starting-point/
 
 ![A picture of stars](https://www.wonderopolis.org/_img?img=/wp-content/uploads/2011/03/open-cluster-in-perseus_shutterstock_55193803.jpg&transform=resizeCrop,720,450)
 
@@ -72,7 +72,7 @@ Your surroundings, the location you are at in concept-space, is enormously impor
 
 Also, simply from knowing _where to go_, there usually still are a lot of different directions you can start off from. Usually, goals are clusters of concepts (different context is creating a different concept, a game of chess can be won many different ways), so the direction you start off in only needs to 'roughly' head towards your goal, you can always correct later with more information. However, if you can't _find_ a direction to head in (to reach your goal), then finding actions to actually get you there is basically impossible.
 
-[map] : https://wiki.lesswrong.com/wiki/Map_and_Territory
+[map]: https://wiki.lesswrong.com/wiki/Map_and_Territory
 
 
 ## Creating Strategies
