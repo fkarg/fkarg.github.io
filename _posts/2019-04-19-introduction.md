@@ -20,7 +20,7 @@ So what will this be about? Well, just about everything I'll encounter (or have 
 
 Currently it's a few things about Programming, a bit of general science (the pictures of the black hole would be an example), rocket launches, and so on. But, I will also write about Strategy, Coaching, Management, and business-related topics, since I will be freelancing soon, and I kind of want to write about these topics, as they massively interest me. Also, I may encounter all sorts of philosophical dilemmas, or simply productivity hacks.
 
-So, yea. If you're interested in any of this, or just want to learn with me about a variarity of things, then this is the right place for you.
+So, yea. If you're interested in any of this, or just want to learn with me about a variety of things, then this is the right place for you.
 
 Anyways, as I'm not an expert about every topic I'll be writing about, and some of the thoughts will only be speculation from my side - I may be wrong. I may be wrong about a lot of things, so please feel free to comment, to ask for clarification or whatever. Please do so!
 

@@ -21,7 +21,7 @@ So what is Murphyjtsu? In short:
 > - If you’re shocked in this scenario, you’re done.
 > - Otherwise, simulate the most likely failure mode, defend against it, and repeat.
 
-What is important for Murphyjitsu to work is that you're able to find reasons for plans being unsuccesful. But, I think Humans are pretty good at that.
+What is important for Murphyjitsu to work is that you're able to find reasons for plans being unsuccessful. But, I think Humans are pretty good at that.
 
 ## The bad sides
 
@@ -45,7 +45,7 @@ We haven't been shocked so we're not done yet.
 
 This one is the crux. No, you don't have to try and defend against _all_ failures you could come up with - would this be possible even? You only need to defend against those that you deem [probable][1] (you can start at the 'blue tentacle' part). Which is still a whole bunch I guess.
 
-Do you notice it? Sure, there is the first few things, like us being devoid of motivation, energy or whatever, there is external influences, systems (computers, cars, ...) not working, other people not doing what would have been their responsibility, something urgent coming up inbetween,  wrong prioritizing, combinations, and some other things you're not considering.
+Do you notice it? Sure, there is the first few things, like us being devoid of motivation, energy or whatever, there is external influences, systems (computers, cars, ...) not working, other people not doing what would have been their responsibility, something urgent coming up in between,  wrong prioritizing, combinations, and some other things you're not considering.
 
 Thus I saw it as a technique, that when used, could be supremely powerful, but using it would require some _conscious effort_ and time. Is everything I do worth that overhead? Certainly not. And so, even after some time now, I haven't consciously used it once. Since, after all, I get most of my things done anyways, without this technique even.
 
@@ -67,11 +67,11 @@ This is Murphyjitsu, but not on a conscious level. I didn't do it with 'Oh let's
 
 There's two questions you need to ask yourself, before I describe more. First: Do you have intent to kill? Do you apply it?
 
-If you have intent to kill, and you apply it, you probably do something similiar already. If you haven't done yet, watch yourself planning, I'm sure you find a few things to optimize.
+If you have intent to kill, and you apply it, you probably do something similar already. If you haven't done yet, watch yourself planning, I'm sure you find a few things to optimize.
 
 If you have intent to kill, but aren't using it: Why are you holding back? Apply it. Train it. Do the conscious version of Murphyjitsu to familiarize yourself with how to use your intent to kill. And then apply it not only to this area, but to everything you encounter.
 
-If you do not have intent to kill (yet), or aren't sure (then you don't), do the conscious version a few times to get a hang of it. You can still apply it, and it will still be a relly good technique, but you won't have the last multiplier.
+If you do not have intent to kill (yet), or aren't sure (then you don't), do the conscious version a few times to get a hang of it. You can still apply it, and it will still be a really good technique, but you won't have the last multiplier.
 
 Actually, to get to the unconscious version, I think that you only need to do two things, first: make it an unconscious habit of asking 'how could this go wrong'. If you're in MINT, this is most likely second nature already. _Apply it_. Second: Consciously apply it a few times (this is helping wonders, I tell you) to internalize it. That's it.
 

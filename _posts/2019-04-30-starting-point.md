@@ -16,7 +16,7 @@ having an earlier turn increases your chances of winning, since otherwise it
 would be seriously fought over as well. So yes - in the beginning all things
 are equal.
 
-And then you make your first moves, start to plan, strategize, politicise,
+And then you make your first moves, start to plan, strategize, politicize,
 control and manipulate - even if only your own pieces. At some point, even
 though everyone started off equally (at least from the perspective of the
 game), _someone_ is going to win. At some point, if the board hasn't been
@@ -28,7 +28,7 @@ off being 'equal', and usually someone, be it a team or a single person, ends
 up winning or losing. Sometimes both.
 
 
-## Starting inequally
+## Starting unequally
 
 Now take the case where next to you a group of people is playing a game for
 some time now, one of them leaving, and they ask you to play instead, which you
@@ -74,7 +74,7 @@ just about _everyone_ else. A Job? Competition with the others wanting the same
 Job. Is there just about anything _not_ a competition?
 
 Well, a few things, but most are. Back to topic. Our Life is filled to the brim
-with competitions, but do we see them as competion? Rarely. So what happens
+with competitions, but do we see them as competition? Rarely. So what happens
 when you start seeing it as competition? That's only the beginning. Because you
 still need to actually compete. There's so much to compete for, you can't do
 all of it once. If you want to actually compete (you certainly did
