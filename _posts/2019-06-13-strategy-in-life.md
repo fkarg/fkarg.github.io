@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Strategy in Life
+tags: [strategy]
 ---
 What is Strategy? Why is it easy to get wrong and so hard to get right?
 

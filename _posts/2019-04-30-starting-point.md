@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Starting Point
+tags: [starting]
 ---
 You are in competition with others, on an unfair playing field. Are you aware of this?
 

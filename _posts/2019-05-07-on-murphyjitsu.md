@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: On Murphyjitsu
+tags: [lesswrong]
 ---
 Why I thought it was useless and why it is still a supremely powerful technique to boost your efficacy.
 
