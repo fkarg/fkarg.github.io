@@ -147,10 +147,10 @@ share-links-active:
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 
-matomo:
-  site_id: "1"
-  uri: "github.matomo.cloud/"
-  opt-out: true
+# matomo:
+#   site_id: "1"
+#   uri: "github.matomo.cloud/"
+#   opt-out: true
 
 # Staticman support
 staticman:
