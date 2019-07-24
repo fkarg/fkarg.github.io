@@ -150,7 +150,10 @@ going? Where do you want to go? What do you need to do for this?
 
 _Isn't it exciting, you can discover quite a few things by only thinking about them!_
 
-**Edit**: In the first post, I didn't really say what I wanted to say, but strayed on related topics. So this is the second version, I'm much more content with this one. (it's the same only up to the second paragraph.) If you have feedback, I'd love to hear it!
+**Edit**: In the first post, I didn't really say what I wanted to say, but
+strayed on related topics. So this is the second version, I'm much more content
+with this one. (it's the same only up to the second paragraph.) If you have
+feedback, I'd love to hear it!
 
 **Edit 2**: Added the paragraph about 'when to use it'.
 
