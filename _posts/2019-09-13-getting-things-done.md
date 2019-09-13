@@ -5,10 +5,10 @@ title: Getting Things Done
 subtitle: the art of stress-free productivity
 tags: [book]
 ---
-My thoughts about books I read.
+My thoughts about books I read. Coming soon: the updated edition of David Allans bestseller GTD.
 
 
-# Getting Things Done 
+# Overview
 
 If you are not aware, there is a book from David Allen called like this. And
 well, I just started reading it. This will become a summary for myself. You
@@ -22,6 +22,18 @@ process of reading as well (just 40 Pages of GEB to go ...).
 
 I'm not there yet. Will update as soon as I am.
 
+
+## Coming Soon
+
+I have some more books I want to write about soon (I have some of them physically already, but not others):
+
+- [ ] Will Pemble: Goal Boss
+- [ ] From Zero to One
+- [ ] Seven Habits of highly effective people
+- [ ] Mark Manson: Everything is f\*cked - A Book about Hope
+- [ ] Strategy Beyond the Hockey Stick: People, Probabilities, and Big Moves to Beat the Odds
+- [ ] Richard Rumelt: Good Strategy, Bad Strategy (though I've read that alreay, I should re-read it again at some point)
+- [ ] ...
 
 
 
