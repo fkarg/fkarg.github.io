@@ -9,7 +9,7 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #202020;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -33,7 +33,7 @@ a:focus {
   color: {{ site.hover-col }};
 }
 blockquote {
-  color: #808080;
+  color: #505050;
 /*  font-style: italic; */
 }
 blockquote p:first-child {
