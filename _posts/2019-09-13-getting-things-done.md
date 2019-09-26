@@ -6,7 +6,7 @@ subtitle: the art of stress-free productivity
 tags:
   - book
 ---
-Coming soon: My review of the updated edition of David Allan's bestseller GTD.
+In Progress: My review of the updated edition of David Allan's bestseller GTD.
 
 
 # Overview
