@@ -26,7 +26,7 @@ First, he gives an introduction in how and why most of probably aren't as produc
 
 There was this one quote (there are one or more quotes on each page):
 
-> The winds and waves are always on the side of the ablest navigators.
+> The winds and waves are always on the side of the ablest navigators. - Edward Gibbon
 
 Honestly, that got me thinking. I mean the funniest part of it is that is 'true', or rather, that it might seem that way. The core idea here is that for the 'ablest navigators', it doesn't matter how the wind and waves are, as they can utilize them well. For the novice, it seems as they are 'on their side', however, but they simply know much better how to deal with it. That got me wondering, as it applies to all problem types. The unexperienced is unlikely to notice the intricacies that _are_ there, and thus it seems that everything is going for the expert, the 'able', and much more so for the 'ablest'.
 
@@ -51,7 +51,7 @@ For the rest of the chapter, he repeatedly focuses on these three points, to des
 
 ## Noteworthy Quotes
 
-Since there are one or two quotes on each (!) page, here is a collection of quotes I found intriguing or noteworthy. Those that are only quoted from other people are noted as such, the others I assume ar from David Allen himself.
+Since there are one or two quotes on each (!) page, here is a collection of quotes I found intriguing or noteworthy. Those that are only quoted from other people are noted as such, the others I assume are from David Allen himself.
 
 > The winds and waves are always on the side of the ablest navigators. - Edward Gibbon
 
