@@ -2,7 +2,8 @@
 layout: post
 published: true
 title: On Murphyjitsu
-tags: [lesswrong]
+tags:
+  - lesswrong
 ---
 Why I thought it was useless and why it is still a supremely powerful technique to boost your efficacy.
 
@@ -44,7 +45,7 @@ Well this one is also not hard. We usually find a whole bunch of reasons why it 
 
 > - If you’re shocked in this scenario, you’re done.
 
-We haven't been shocked so we're not done yet.
+Usually this is quite easy to imagine.
 
 > - Otherwise, simulate the most likely failure mode, defend against it, and repeat.
 
