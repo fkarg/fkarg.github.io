@@ -51,7 +51,7 @@ For the rest of the chapter, he repeatedly focuses on these three points, to des
 
 ## Noteworthy Quotes
 
-Since there are one or two quotes on each (!) page, here is a collection of quotes I found intriguing or noteworthy. Those that are only quoted from other people are noted as such, the others I assume are from David Allen himself.
+Since there are one or more quotes on each (!) page (up to three, actually), here is a collection of quotes I found the most intriguing or noteworthy. Those that are only quoted from other people are noted as such, the others I assume are 'said' from David Allen himself.
 
 > The winds and waves are always on the side of the ablest navigators. - Edward Gibbon
 
