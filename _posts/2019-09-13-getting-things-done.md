@@ -59,6 +59,7 @@ Since there are one or more quotes on each (!) page (up to three, actually), her
 
 > There is no reason to ever have the same thought twice, unless you like having that thought.
 
+> have you envisioned wild success about anything lately?
 
 ## Current state
 
