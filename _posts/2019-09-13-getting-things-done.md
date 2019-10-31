@@ -61,17 +61,11 @@ create as little as you can get by with.
 
 
 ![GTD Clarify Workflow](https://i1.wp.com/www.samuelthomasdavies.com/wp-content/uploads/2017/02/Getting-Things-Done-Workflow-Chart.png?w=1007&ssl=1)
-<!-- Change to 'gtd clarify workflow' picture
-![Picture from https://www.wonderopolis.org/wonder/how-many-stars-are-in-the-sky](https://www.wonderopolis.org/_img?img=/wp-content/uploads/2011/03/open-cluster-in-perseus_shutterstock_55193803.jpg&transform=resizeCrop,720,450)
--->
 
-**Clarify** is mainly to ask the question as to if it is actionable or not, though the whole workflow is shown in the above image.
+**Clarify** is mainly to ask the question as to if it is actionable or not, though the whole workflow is shown in the above image (the squared boxes, the round ones are the next step).
 
 ![GTD Organize Workflow](http://donebeforebrekky.com/wp-content/uploads/2015/08/Getting-Things-Done-Flow-Diagram.jpg)
 
-<!-- Change to 'gtd organize workflow' picture
-![Picture from https://www.wonderopolis.org/wonder/how-many-stars-are-in-the-sky](https://www.wonderopolis.org/_img?img=/wp-content/uploads/2011/03/open-cluster-in-perseus_shutterstock_55193803.jpg&transform=resizeCrop,720,450)
--->
 
 **Organize** is to further put the things somewhere. A project is everything in
 the timeframe up to one year and requiring more than one 'next action'. There
