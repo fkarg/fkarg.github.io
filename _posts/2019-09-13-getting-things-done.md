@@ -46,6 +46,79 @@ Turns out, it is at least somewhat true for my case. Apparently I did better tha
 For the rest of the chapter, he repeatedly focuses on these three points, to describe better what he means by that.
 
 
+### Chapter two: Getting Control of Your Life - The Five Steps of Mastering Workflow
+
+Here he describes the five core concepts _Capture_, _Clarify_, _Organize_,
+_Reflect_, and _Engage_, and expands upon them.
+
+**Capture** is to catch all the things swirling in your head and put them in a
+reliable system of your choice. This has two benefits: One, you can look them
+up at any later point in time, and Two, you don't have the constant nagging
+feeling of 'Oh there was something else' and 'I need to do something about
+that', as all of what you need to do is _captured_ already. You need a couple
+of bakets for that (e.g. stuff to do at home, or at work), but you should only
+create as little as you can get by with.
+
+<!-- Change to 'gtd clarify workflow' picture
+![Picture from https://www.wonderopolis.org/wonder/how-many-stars-are-in-the-sky](https://www.wonderopolis.org/_img?img=/wp-content/uploads/2011/03/open-cluster-in-perseus_shutterstock_55193803.jpg&transform=resizeCrop,720,450)
+-->
+
+**Clarify** is mainly to ask the question as to if it is actionable or not, though the whole workflow is shown in the above image.
+
+<!-- Change to 'gtd organize workflow' picture
+![Picture from https://www.wonderopolis.org/wonder/how-many-stars-are-in-the-sky](https://www.wonderopolis.org/_img?img=/wp-content/uploads/2011/03/open-cluster-in-perseus_shutterstock_55193803.jpg&transform=resizeCrop,720,450)
+-->
+
+**Organize** is to further put the things somewhere. A project is everything in
+the timeframe up to one year and requiring more than one 'next action'. There
+are multiple 'next-action' Lists recommended, one for each of these projects,
+one for calls to make, one for things to do at the computer or in other
+contexts, one for people you are waiting for to come back to you (with new
+information you need, things that block other parts), and whatever else you
+deem needed. Make sure to also have a calender, in which _only_ the really
+time-specific events are in. This is not the place for daily todo-lists, as
+day-based events lose their urgency if you fail to do them a few times.
+
+
+**Reflect** is said to be one of the most neglected elements. The basic idea is
+to regularly review certaian items, e.g. when looking for something to do you
+only need to look in one of your lists of things to do, but you should get an
+overview as to what is in your lists at least once a week, and input new things
+(you should do that when you think about it in the first place!) you didn't put
+in yet.
+
+
+**Engage** is to actually engage with the things you need to do, based on
+different contexts and priorities. You need to make sure that, if you need to
+write some mails, that you have a computer with you. Or, to not to start a
+longer call just before the next meeting. The Four criterias he provides are
+the following: Context (where you are, what tools are with you), Available Time
+(how much time do you have until the next fixed thing), Energy available (how
+much energy do you have right now, and how tired are you), followed by
+Priority. The first three criteria constrain you in what you _can_ do right now,
+and the priority will give you the order in which to do them.
+
+
+He also specifies six 'layers' in which to review, I'll include them here 
+for completeness:
+
+Review-Hierarchies:
+- Horizon 5: Purpose and Principles
+- Horizon 4: Vision
+- Horizon 3: Goals
+- Horizon 2: Areas of focus and accountabilities
+- Horizon 1: Current Projects
+- Ground: Current Actions
+
+
+### Chapter three:
+
+
+### Chapter four:
+
+
+### Chapter five:
+
 
 
 
