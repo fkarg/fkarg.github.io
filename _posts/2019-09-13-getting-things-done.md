@@ -152,7 +152,28 @@ The rest of the chapter he explains about an organizing and filing system. He st
 
 
 
-### Chapter five:
+### Chapter five - Capturing: Corralling Your "Stuff"
+
+### Chapter six - Clarifying: Getting "In" to Empty
+
+### Chapter seven - Organizing: Setting Up the Right Buckets
+
+### Chapter eight - Reflecting: Keeping It All Fresh and Functional
+
+### Chapter nine - Engaging: Making the Best Action Choices
+
+### Chapter ten - Getting Projects Under Control
+
+
+## Part three: The Power of the Key Principles
+
+### Chapter eleven - The Power of the Capturing Habit
+
+### Chapter twelve - The Power of the Next-Action Decision
+
+### Chapter thirteen - The Power of Outcome Focusing
+
+...
 
 
 
