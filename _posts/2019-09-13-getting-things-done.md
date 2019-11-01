@@ -46,7 +46,7 @@ Turns out, it is at least somewhat true for my case. Apparently I did better tha
 For the rest of the chapter, he repeatedly focuses on these three points, to describe better what he means by that.
 
 
-### Chapter two: Getting Control of Your Life - The Five Steps of Mastering Workflow
+### Chapter two - Getting Control of Your Life: The Five Steps of Mastering Workflow
 
 Here he describes the five core concepts _Capture_, _Clarify_, _Organize_,
 _Reflect_, and _Engage_, and expands upon them.
@@ -109,13 +109,49 @@ Review-Hierarchies:
 - Ground: Current Actions
 
 
-### Chapter three:
+### Chapter three - Getting Projects Creatively Under Way: The Five Phases of Project Planning
+
+Here he defines a 'Natural Planning Model', consisting of the following five steps:
+- Defining Purpose and Principles
+- Outcome Visioning
+- Brainstorming
+- Organizing
+- Identifying next actions
+
+His claim is that most 'working' projects are planned using these 'natural' steps, and that a whole lot of people do not apply them. It is actively contrasted with the 'Reactive Planning Model', in which people first try to act (since the deadline is near, work harder!!), notice that this does not work, start to organize themselves, noticing more creativity is needed, start to brainstorm, and if at some point an external consultant might get hired, whose first question will be: 'What are you trying to do here?' 
+
+**Purpose** is *why*, it helps to set boundaries, what is *not* ment, and clarifies and explains tremendously. Also it helps to align resources, helps to set up criterias by which to decide. As a bonus there will be motivation, as there actually is a purpose.
+
+**Principles** are similarly import, as they create boundaries for the policies to use, and helps to align behaviours.
+
+**Outcome Visioning** provides the blueprint for what you want to achieve. Sure, a lot of details are missing, but the rough edges should be clear for you. This provides your *what*. Then he goes on and explains a few things about the power of focus and the reticular activating system.
+
+**Brainstorming** helps to clarify the *how*, mind-maps tend to be useful, but everything that captures them works. Really, it is hard to 'structure' your thoughts if you are not allowed to write them down, to put them in hierarchies. It is important not to judge or evaluate; to get as many ideas as possible; and to organize them only afterwards.
+
+**Organizing** provides the structure between a lot of the previously found ideas, including priorities and dependencies. Usually this results in form of plan, as to what would be necessary.
+
+**Next Actions** can be defined for all the *moving* parts of your Projects, the stuff everything else is depended upon. Maybe the next step is to think something through (again), and maybe it is to write some mails or call some people and ask for feedback. If the next action is not your responsibility however, make sure to clarify *whose* it is. It might still be of the 'defining more tasks to do' type.
+
+Then he clarifies some common questions you might still have, such as 'Need more Clarity/Happening/Planning/...?'.
+
+
+## Part 2: Practicing Stress-free Productivity
+
+
+
+
+
 
 
 ### Chapter four:
 
 
+
+
+
 ### Chapter five:
+
+
 
 
 
