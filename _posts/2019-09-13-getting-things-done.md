@@ -137,13 +137,16 @@ Then he clarifies some common questions you might still have, such as 'Need more
 
 ## Part 2: Practicing Stress-free Productivity
 
+This part is about step-by-step guidelines to set this process up and bootstrap it.
 
 
+### Chapter four - Getting Started: Setting Up the Time, Space and Tools
 
+Something he is really clear about is that you should put some time and space aside to set it up. An important part is to not let yourself get disturbed during the setting up. Also, the space you work in should be clearly bounded, meaning it should be distraction-free and complete, having everything that you regularly need. Also, you should have your *own* workspace, and not share it with someone else.
 
+Then he lists a few basic office processing tools, such as file folders, a calendar, and post-its, and reasons why you should have them. He also clarifies that you don't specifically need *these*, if you have systems that have equal purpose, but his experience is clear that most people work best with these physical ones.
 
-
-### Chapter four:
+The rest of the chapter he explains about an organizing and filing system. He stresses the importance of the one general reference filing system and that it needs to be easy to access and use. Also you should look over (clean, purge, rework) your filing system at least once a year.
 
 
 
