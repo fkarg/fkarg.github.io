@@ -18,121 +18,117 @@ So what is Murphyjtsu? In short:
 > against failure modes until you would be shocked to see it 
 > fail. Here’s the basic setup of Murphyjitsu:
 
-> - Make a plan.
-> - Imagine that you’ve passed the deadline and find out that the plan failed.
-> - If you’re shocked in this scenario, you’re done.
-> - Otherwise, simulate the most likely failure mode, defend against it, and repeat.
+> 1. Make a plan.
+> 2. Think about all events that could happen resulting in the plan failing, and what to do about these. 
+> 3. Imagine that you’ve passed the deadline and find out that the plan failed.
+> 4. If you’re shocked in this scenario, you are done.
+> 5. Otherwise, simulate the most likely failure mode, defend against it, and repeat (steps 3-5).
 
 What is important for Murphyjitsu to work is that you're able to find reasons
-for plans being unsuccessful. But, I think Humans are pretty good at that.
+for plans being unsuccessful. But, Humans are pretty good at that.
 
-## The bad sides
+## Detailed Description
 
 When I first read about it, I thought it would be something really awesome.
-Then I noticed that it actually has quite the overhead, meaning you can't
-simply use it, but that usage would require quite a bit of effort. It takes too
-much time.
+So I tried. And noticed that it has quite the overhead. I thought it would be
+possible to apply this to just about every problem I'm facing. Spoiler: this
+is not possible. Using this technique requires quite a bit of time and effort,
+sometimes more than some Problems are actually 'worth' it.
 
-Let me be more specific.
+Let me nail that down to a specific step.
 
-> - Make a plan.
+> 1. Make a plan.
 
-Simple enough. So far so good.
+Simple enough, this happens all the time, at smaller and bigger scales. From
+how to get to university, to moving to the next town or planning out my life.
 
-> - Imagine that you’ve passed the deadline and find out that the plan failed.
+> 2. Think about all events that could happen resulting in the plan failing, and what to do about these. 
 
-Well this one is also not hard. We usually find a whole bunch of reasons why it might fail.
+This is important to do upfront. It may seem unnecessary at first (since you
+would do something similar in step 5), but If you apply Murphyjitsu to a few
+problems, you tend to notice that a lot of the from step 5 noticed problems,
+have not been thought about yet in this step.
 
-> - If you’re shocked in this scenario, you’re done.
+> 3. Imagine that you’ve passed the deadline and find out that the plan failed.
 
-Usually this is quite easy to imagine.
+This tends to be much easier than you might imagine. Just think about every
+time someone else brings up a plan the first thing the human brain somewhat
+naturally thinks about is how that plan might fail. Just apply this to your own
+plans, and you'd be surprised how valid the claims might actually be. It is
+much more effective than asking someone else to point out failure modes, since
+the evaluations as to how likely which scenario is is much more correlated with
+your own estimation as to how critical they would be.
 
-> - Otherwise, simulate the most likely failure mode, defend against it, and repeat.
+> 4. If you’re shocked in this scenario, you are done.
+
+Yes, it is that easy. However, you will not be shocked in your first few
+iterations (because you will still notice things that are likely to go wrong).
+
+> 5. Otherwise, simulate the most likely failure mode, defend against it, and repeat (steps 3-5).
 
 This one is the crux. No, you don't have to try and defend against _all_
-failures you could come up with - would this be possible even? You only need to
-defend against those that you deem [probable][1] (you can start at the 'blue
-tentacle' part). Which is still a whole bunch I guess.
+failures you could come up with - this is neither possible nor necessary. You
+only need to defend against those that you deem [probable][1] (about the link:
+you can start at the 'blue tentacle' part). This will still be quite a few
+problems, so don't worry.
 
-Do you notice it? Sure, there is the first few things, like us being devoid of
-motivation, energy or whatever, there is external influences, systems
-(computers, cars, ...) not working, other people not doing what would have been
-their responsibility, something urgent coming up in between,  wrong
-prioritizing, combinations, and some other things you're not considering.
 
-Thus I saw it as a technique, that when used, could be supremely powerful, but
-using it would require some _conscious effort_ and time. Is everything I do
-worth that overhead? Certainly not. And so, even after some time now, I haven't
-consciously used it once. Since, after all, I get most of my things done
-anyways, without this technique even.
+## The bad side
+
+As you might have noticed, this might take some time until you are done. Until
+the plan you did is sufficiently robust. This overhead is absolutely not worth
+it for most problems. Still, if you _need_ to get something done, if it is
+worth it, this technique is exactly what you want to modify appropriately and
+use. Still, this is massively limited use for a seemingly awesome technique.
+
+This is why I did not really use it consciously for a long time. I got almost
+all of my plans done in the first place, and those that I did not manage to get
+done in time were not sufficiently important to apply Murphyjitsu toward.
 
 
 ## The good side
 
-But still, I noticed something. I noticed, that I'm doing it unconsciously all
-the time!! What do I mean by that? And how did that happen?
+At some point, I noticed something. I noticed that I'm doing it unconsciously
+all the time!! What do I mean by that? And how did that happen?
 
-Are you aware of [intent to kill][2]? In short, it's a mindset to get things
-done _whatever it takes_. And truly, that's it. If you use your 'intent to
-kill' on something, you'll get it done. You get it done, _whatever it takes_.
-Guess the implications. Well, some basic questions for that mindset are 'What
-do I _need_ to do to get this done?' as well as 'What else is possible?' or
-'How far can I go?'. However, by no means, lower _what_ you want to achieve.
-This completely defeats the purpose, and will only make you weaker in the long
-run.
+There is this mindset where you _really_ want something to be done. Think about
+the feeling you have when you stop thinking about your estimates as to what you
+should be capable of, and actually start doing things. Anyways, if you, from
+this state, try to make plans, you tend to factor in all kind of things
+already, as you _want this to be done_ in the first place. These plans are
+automatically much more robust than most I do otherwise - mainly because I
+already consider a couple things that could go wrong as well as
+countermeasures.
 
-So, what happened? Well, I usually apply my intent to kill to quite a few
-things, like getting done this new exercise sheet, or getting done this
-training, or solving this puzzle, or making this meeting, or ...
+So, what happened? Well, after becoming aware of Murphyjitsu, I somehow started
+applying it unconsciously when planning new things. It was not the full version
+of Murhpyjitsu however, as I did more 'intuitive' iterations instead of
+actively conscious ones. Still, they proved to be quite effective in helping me
+achieve the goals I intended to actually achieve.
 
-And what I only recently noticed, is that when planning I had thoughts like:
+The actual thoughts that go through my head are along the lines of 
 'Oh I won't make this one, I won't be able to get up early enough' or 'Oh I
 won't get away early enough from this meeting to get to the next one on time'
 or 'Well I need more concrete metrics/goals if I really want to achieve this, I
-won't get started like this'. And I usually do the obvious next thing: put
-something before the meeting I wouldn't get up for early enough, like going for
-a run with a friend; rescheduling the meeting I won't get away from early
+will not get started like this'. And I usually do the obvious next thing: put
+something before the meeting I would not get up for early enough, like going for
+a run with a friend; rescheduling the meeting I will not get away from early
 enough; and making abstract goals more concrete with actions I can do right
 now.
 
-This is Murphyjitsu, but not on a conscious level. I didn't do it with 'Oh
-let's apply Murphyjitsu on this schedule right there', or 'Okay what could go
-wrong here'. Those parts, those questions, this procedure is already part of
-me. I'm already applying it (not in it's full extend, since I miss out on
-things sometimes). I've internalized it to a degree I wasn't even aware of it.
-I would have told you 'Ah yea that's a good technique but it has too much
-overhead so I'm not using it'.
+This is, at least in my understanding, a less conscious version of
+Murphyjitsu, but the basic principles apply. I didn't do it with 'Oh let us
+apply Murphyjitsu on this schedule right there', or 'Okay what could go wrong
+here'. These are utterly necessary to do the conscious version, but having your
+unconsciousness do Murphyjitsu can be even more effective - mainly because it
+is signifacantly faster and delivers astonishingly good results. Still, for the
+most time, I was not even aware of that.
 
+## Conclusion
 
-## How can you apply this
+So much about me and my thougts about Murphyjitsu. Do not hesitate to give me
+feedback or tell me your thougths.
 
-There's two questions you need to ask yourself, before I describe more. First:
-Do you have intent to kill? Do you apply it?
-
-If you have intent to kill, and you apply it, you probably do something similar
-already. If you haven't done yet, watch yourself planning, I'm sure you find a
-few things to optimize.
-
-If you have intent to kill, but aren't using it: Why are you holding back?
-Apply it. Train it. Do the conscious version of Murphyjitsu to familiarize
-yourself with how to use your intent to kill. And then apply it not only to
-this area, but to everything you encounter.
-
-If you do not have intent to kill (yet), or aren't sure (then you don't), do
-the conscious version a few times to get a hang of it. You can still apply it,
-and it will still be a really good technique, but you won't have the last
-multiplier.
-
-Actually, to get to the unconscious version, I think that you only need to do
-two things, first: make it an unconscious habit of asking 'how could this go
-wrong'. If you're in MINT, this is most likely second nature already. _Apply
-it_. Second: Consciously apply it a few times (this is helping wonders, I tell
-you) to internalize it. That's it.
-
-
-## Your takeaway
-
-Did it help you? Did you try it? Did you modify it? As always, I'd love to hear your thoughts about this.
 
 [0]: https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu
 [1]: http://yudkowsky.net/rational/technical/
