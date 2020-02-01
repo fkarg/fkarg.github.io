@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Zero to One
+title: Book: Zero to One
 subtitle: Notes on Startups, or How to Build the Future
 tags:
 - book
