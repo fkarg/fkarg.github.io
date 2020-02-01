@@ -359,19 +359,23 @@ efficiancy and results.
 The main question being: Having built something really awesome, will people (be
 able to) buy it? For that, you should make it apparent on _how_ someone can buy
 your product, and make that as easy as possible. People do not like being sold,
-keep that in mind. For that, you should build something good enough that people
-want to buy it - as soon as they hear about it. It really is hard to make sales
-look easy.
+keep that in mind. People tend to buy feelings, not products, even if it is the
+'feeling' of being rational. For that, you should build something good enough
+that people want to buy it - as soon as they hear about it. It really is hard
+to make sales look easy.
 
-Start small. Get a couple of references fast - do not try to sell hundreds, and
-hundreds only. Start out with getting people and companies interested, starting
-small, and offer bigger packs along the way, the more references you have.
-Still, continue selling the smaller ones as well.
+Start small. Get a couple of references first - do not try to sell to the big
+ones only. They will not want anything from you, since you do not have any
+references yet. Start out with getting people and companies interested,
+starting small, and offer bigger packs along the way, the more references you
+have. Start small, then scale, in sales as well.
 
 Marketing is something big companies are pretty proud of - do not try to
-compete with them, you will lose. Utterly.
+compete with them, you will lose. Utterly. Their montlhy marketing budget is
+bigger than what your revenue should be in three years - do not even think
+about it.
 
-Still, you need to get _one_ distribution channel right.
+You only need to get _one_ distribution channel right.
 
 > everybody sells. Look around, if you do not see any salespeople, you are the salesperson.
 
@@ -381,11 +385,13 @@ Still, you need to get _one_ distribution channel right.
 ## 12 Man and Machine
 Computers are quickly getting better, but they are still some time away from
 even remotely replacing humans entirely. More so, they allow professionals
-(farmers, lawyers, doctors, ...) to do more work more efficiently. This will
+(farmers, lawyers, doctors, ...) to do their work more efficiently. This will
 only improve - take this dualism, computers being good with large amount of
-numbers, and humans being good at all the other things. Computers are part of
-an ideology, and they will continue helping humans to solver ever harder
-problems.
+numbers, and humans being good at all the other things.
+
+Computers are part of an ideology, and they will continue helping humans to
+solver ever harder problems. Ideally, you have a business model gaining an
+advantage by the future improvement of computers.
 
 
 ---
@@ -394,42 +400,52 @@ problems.
 Here there is a small history lesson on the cleantech bubble, and a recap of
 seven important questions, every business needs to answer:
 
-> Engineering: Can you create breakthrough technology, instead of incremental improvements?
+> Engineering: Can you create breakthrough technology, instead of incremental
+> improvements?
+
 It needs to be better by at least a magnitude (10x) for transparent
-superiority. Why should anyone bother bying your stuff over the competition?
+superiority. Why should anyone bother buying your stuff over the competition?
 
 > Timing: Is now the right time to start your particular business?
+
 There might be chances to get money easier right now, or in a couple of years -
 did the bubble burst just recently? You might want to wait some time then.
-Entering a slow moving market might be good, if you have a strategy to take it
-over.
+Entering a slow moving market might be good, if you have a solid strategy to
+take it over.
 
 > Monopoly: Are you starting with a big share of a small business?
+
 Make sure to dominate a meaningful market - one that exists and people care
-about.
+about, containing money.
 
 > People: Do you have the right team?
+
 Technologists tend to wear jeans and T-shirts, as the best sales(man) are
 hidden. They made it a rule to pass everyone wearing a suit - if they _look_
 like a salesperson already, do they really understand what they do in the first
 place?
 
 > Distribution: Do you have a way to not just create but deliver your product?
+
 Make your product accessable and get _one_ distribution channel to work. Do not
 care about the five dozen possible ways, get _one_ to working, and expand on
 it. Not multiple.
 
-> Durability: Will your market position be defensible in 10 or 20 years into the future?
+> Durability: Will your market position be defensible in 10 or 20 years into
+> the future?
+
 What will another company stop to wipe you out, to take your entire market
 share? Make your position defensible, not just today, but tomorrow as well.
 
 > Secret: Have you identified a unique opportunity that others do not see?
+
 Have a secret, a specific reason for success that other people will not see,
 and build upon it. Tell it to everyone necessary, but no one else.
 
 And always remember:
 
-> No sector will ever be so important that merely participating in it will be enough to build a great company.
+> No sector will ever be so important that merely participating in it will be
+> enough to build a great company. 
 
 
 ---
@@ -453,12 +469,11 @@ reality.
 # Overall
 
 Wow, what a book. Even thogh most things were pretty much known beforehand, it
-is nice seeing them written down like that, there is certainly a few 'basic
-general truths' in there. Though it is by far not the only one you would need
-to build a business, it gives a good glimpse in how to evaluate businesses, and
-maybe stay away from those that will certainly fail. I guess that going by
-these recommendations does not ensure success, but it at least makes success
-possible.
+is nice seeing them written down like that. This is a good collection of 'basic
+general thruths' about startups and reality in general. It gives a good glimpse
+in how to evaluate businesses, and maybe stay away from those that will
+certainly fail. I guess that going by these recommendations does not ensure
+success, but it at least makes success possible.
 
 
 ## Feedback
@@ -506,6 +521,7 @@ _Isn't it exciting, you can discover quite a few things by only thinking about t
 [pareto]: https://en.wikipedia.org/wiki/Pareto_principle
 
 
+<!--
 
 # backup
 
@@ -655,4 +671,4 @@ merging/unification is possible, but might require bigger forces
 > myth that he loses his mind. But an equally insideous danger for every
 > business is to lose all sense of myth and mistake disenchantment for wisdom.
 
-
+-->
