@@ -494,9 +494,13 @@ phrases mentioned in the book:
 > the only sustainable growth is viral growth
 
 
+## Criticism
+I have not yet gotten around to think really critically about all of the
+content. I think most things check out, even though some are portraied as more
+contrarian than they actually are.
 
 
-
+---
 
 # Meta:
 So I'm experimenting in how to better read books currently. The approach for
@@ -508,6 +512,10 @@ takeaways, without sorting them in chapters, or going in as much detail. I'll
 probably keep it that way.
 
 
+---
+
+**Edits:**
+- 2020-02-01: added Criticism
 
 _Isn't it exciting, you can discover quite a few things by only thinking about them!_
 
