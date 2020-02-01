@@ -24,12 +24,12 @@ opinion, the implications are the biggest part of the book, and that part is
 
 ---
 
-## 1 Challange of the Future
+## 1 Challenge of the Future
 
 A whole lot of people complain: 'Even if I were Steve Jobs, Apple has been made
 already'. Well the great thing about Steve Jobs is not that he made Apple, but
-that he would have been succesful in his own way, no matter what he would have
-done. The same story is with Bill Gates or Elon Musk. No matter how succesful
+that he would have been successful in his own way, no matter what he would have
+done. The same story is with Bill Gates or Elon Musk. No matter how successful
 they are today, they certainly did not start out like that.
 
 
@@ -153,7 +153,7 @@ with ChromeOS. They did invest a lot of resources in competing with the other
 
 > the focus was not on productivity, the focus was on beating the enemy
 
-Is what he describes as the mood of PayPals early days when competing with
+Is what he describes as the mood of PayPal's early days when competing with
 X.com.
 
 There is this quote from my father that came to mind:
@@ -164,7 +164,7 @@ This appears to have been the case here, and there certainly is a case made for
 competition, but not like this. This type of competition is not beneficial for
 anyone, and usually the only way to get them to work together again is a
 'greater threat', that requires them to work together. If you think this is a
-rare occurence, you might want to take a look at [the robbers cave experiment][cave].
+rare occurrence, you might want to take a look at [the robbers cave experiment][cave].
 
 
 ---
@@ -190,13 +190,13 @@ this future.
 
 There is a point made for the durability of a business. This durability might
 be based on one or more of the following points:
-- Propreatary technology being at least 10x better than the competition in a
+- Proprietary technology being at least 10x better than the competition in a
   dimension that matters
 - Network effects: social pressure to use it/it becomes better or cheaper by
-  more people using it (e.g. facebook, amazon)
+  more people using it (e.g. Facebook, amazon)
 - Economies of scale / potential for easy massive scaling (software is easier
   to duplicate/deploy and scale than training teachers for more yoga classes)
-- Branding: create a strong brand with a name, becoming synonimous with
+- Branding: create a strong brand with a name, becoming synonymous with
   positive values, up to becoming an entry in the dictionary (e.g. Let me
   google that ...)
 
@@ -226,7 +226,7 @@ The main point here is that while chances exist, and you may very well
 attribute achievements to luck, luck can be created, engineered and set up.
 There will always be some good and bad things happening, and you can
 attribute that to luck, but you can also create chances in which these things
-happen intentially, and prepare for them in advance.
+happen intentionally, and prepare for them in advance.
 
 So, if you got your priorities straight and do some decent planning and
 designing, you will be 'lucky' - success comes to the prepared.
@@ -237,12 +237,12 @@ designing, you will be 'lucky' - success comes to the prepared.
 ## 7 Follow the Money
 
 This chapter contains some really well thought through applications of the
-[power law][power], and its massive implictions, especially for businesses.
+[power law][power], and its massive implications, especially for businesses.
 Simply that part, simple with business examples, would be worth it for a lot of
 people.
 
 
-You might instead be familiar with the classic 80/20-[pareto principle][pareto],
+You might instead be familiar with the classic 80/20-[Pareto principle][pareto],
 basically saying that 20 percent of the effort get 80 percent of the results.
 
 
@@ -273,7 +273,7 @@ following questions:
 - What secrets is nature not telling you?
 - What secrets are people not telling you?
 
-Now, whom to tell your secrets? Whover you need to, and no more.
+Now, whom to tell your secrets? Whoever you need to, and no more.
 
 
 ---
@@ -294,7 +294,7 @@ the bigger they are, the more inefficient they tend to be. Three to five
 people, no more.
 
 
-Counterintuitively, the companies paying their CEO less were more
+Counter-intuitively, the companies paying their CEO less were more
 successful than those paying more. Think of Steve Jobs - he got a $1 salary
 every year (also resulting in this [funny anecdote][jobs mensa]). Their
 description is akin to being a 'volunteer'.
@@ -304,7 +304,7 @@ necessary risks to become successful - as someone with 'higher' status tends to
 try to keep this status - which is likely to doom your startup long-term.
 
 Also, there is a couple of traits to get right, the most fundamental one being
-'opennes to invention'. The reason is that it is impossible to get everything
+'openness to invention'. The reason is that it is impossible to get everything
 right from the get go - continue to innovate, and you will get things working
 eventually.
 
@@ -314,7 +314,7 @@ eventually.
 ## 10 The Mechanics of Mafia
 
 Think about the ideal workplace, how does it look like? A lot of green plants,
-big offices, opportunities for tabletennis and recreation in general? Well,
+big offices, opportunities for table tennis and recreation in general? Well,
 sure, these look good, but they do not have substance. These things will not
 get anything done. What will get something done?
 
@@ -346,7 +346,7 @@ thing only. Everyone will take on more responsibilities than they signed up
 for, and that is necessary, especially in early days. Still, evaluate them for
 only one thing, and that thing being different for everyone. This way you
 prevent them from 'competing' on projects they do together, improving
-efficiancy and results.
+efficiency and results.
 
 > [...] you don't need to worry if your company does not make sense to
 > conventional professionals. Better to be called a cult - or even a mafia.
@@ -371,7 +371,7 @@ starting small, and offer bigger packs along the way, the more references you
 have. Start small, then scale, in sales as well.
 
 Marketing is something big companies are pretty proud of - do not try to
-compete with them, you will lose. Utterly. Their montlhy marketing budget is
+compete with them, you will lose. Utterly. Their monthly marketing budget is
 bigger than what your revenue should be in three years - do not even think
 about it.
 
@@ -397,7 +397,7 @@ advantage by the future improvement of computers.
 ---
 
 ## 13 Seeing Green
-Here there is a small history lesson on the cleantech bubble, and a recap of
+Here there is a small history lesson on the clean-tech bubble, and a recap of
 seven important questions, every business needs to answer:
 
 > Engineering: Can you create breakthrough technology, instead of incremental
@@ -427,7 +427,7 @@ place?
 
 > Distribution: Do you have a way to not just create but deliver your product?
 
-Make your product accessable and get _one_ distribution channel to work. Do not
+Make your product accessible and get _one_ distribution channel to work. Do not
 care about the five dozen possible ways, get _one_ to working, and expand on
 it. Not multiple.
 
@@ -460,7 +460,7 @@ couple of seemingly complementary traits - however, make sure to be grounded in
 reality.
 
 > The single greatest danger for a founder is to become so certain of his own
-> myth that he loses his mind. But an equally insideous danger for every
+> myth that he loses his mind. But an equally insidious danger for every
 > business is to lose all sense of myth and mistake disenchantment for wisdom.
 
 
@@ -468,9 +468,9 @@ reality.
 
 # Overall
 
-Wow, what a book. Even thogh most things were pretty much known beforehand, it
+Wow, what a book. Even though most things were pretty much known beforehand, it
 is nice seeing them written down like that. This is a good collection of 'basic
-general thruths' about startups and reality in general. It gives a good glimpse
+general truths' about startups and reality in general. It gives a good glimpse
 in how to evaluate businesses, and maybe stay away from those that will
 certainly fail. I guess that going by these recommendations does not ensure
 success, but it at least makes success possible.
@@ -501,7 +501,7 @@ phrases mentioned in the book:
 # Meta:
 So I'm experimenting in how to better read books currently. The approach for
 GTD was to simply recapitulate each chapter in it's 'full' content, but I don't
-think it was that succesful. One of the obstacles was the continuous lagging
+think it was that successful. One of the obstacles was the continuous lagging
 behind. Like, I've read a few chapters more, but this is not yet reflected in
 the post about it. So I tried to, instead, just write down the overall key
 takeaways, without sorting them in chapters, or going in as much detail. I'll
@@ -526,13 +526,13 @@ _Isn't it exciting, you can discover quite a few things by only thinking about t
 # backup
 
 
-## 1 Challange of the Future
+## 1 Challenge of the Future
 
-- Starts out with: 'the next steve jobs would not build apple' and 'the next bill gates will not build microsoft'.
+- Starts out with: 'the next Steve jobs would not build apple' and 'the next bill gates will not build Microsoft'.
 - 'What important truth do very few people agree with you on'
 - vertical vs horizontal progress
 
-- his answer: 'most people think that the future of the world will be defined by globalisation, but the truth is that technology matters more.'
+- his answer: 'most people think that the future of the world will be defined by globalization, but the truth is that technology matters more.'
 - small groups necessary, because they can move faster and they need to question everything that was before them
 - own answer: you can create your own circumstances, no free will / less individuality than most are aware of / much more influenced from other people / you also have responsibility for other people / go _one_ path only to become an expert
 
@@ -542,7 +542,7 @@ _Isn't it exciting, you can discover quite a few things by only thinking about t
 
 - first step to clear thinking: question what you know about the past
 - dotcom-bubble history and (especially) mania
-- dotcom financing weirdness (5Million before having a contract / serious consideration of fermi estimates from newspapers)
+- dotcom financing weirdness (5Million before having a contract / serious consideration of Fermi estimates from newspapers)
 - four big lessons learned:
     - Small incremental advances
     - lean and flexible iteration
@@ -596,21 +596,21 @@ merging/unification is possible, but might require bigger forces
 - two types of secrets (valuable for businesses):
     - what secrets is nature not telling you?
     - what secrets are people not telling you?
-- whom to tell secrets? whover you need to, and no more
+- whom to tell secrets? whoever you need to, and no more
 
 ## 9 Foundations
 
 > a startup messed up at its foundation cannot be fixed
 
-- founders should have a history of working together bevor the company, and have complimentary skillsets
+- founders should have a history of working together before the company, and have complimentary skill sets
 - how to divide ownership, possession and control
 - boards with no more than three to five people
-- a company does better the less it pays to the ceo
+- a company does better the less it pays to the CEO
 - openness to invention is one of the most critical 'traits'
 
 ## 10 The Mechanics of Mafia
 
-- what does the ideal workplace look like? things with substance (actual culture, the not-tabletennis-parts) are more important
+- what does the ideal workplace look like? things with substance (actual culture, the not-table-tennis-parts) are more important
 - you need more than professional contact for a good business
 - you hire people for a conspiracy 
 - why should the 20th employee join your company? -> good answers are specific to your company
@@ -625,7 +625,7 @@ merging/unification is possible, but might require bigger forces
 
 - salespeople and other 'middlemen' supposedly get in the way
 - it is hard to make sales look easy
-- people do not like 'being sold', so the are called 'account executives, business development, investment bankers, or polictians'
+- people do not like 'being sold', so the are called 'account executives, business development, investment bankers, or politicians'
 - build a product that will sell itself ... as soon as people hear about it
 - good enterprise sales strategies start small ... as they must. To get references fast, then scale
 - do not try to compete in marketing with bigger companies (they are bound to be much better)
@@ -642,7 +642,7 @@ merging/unification is possible, but might require bigger forces
 
 
 ## 13 Seeing Green
-- cleantech bubble
+- clean-tech bubble
 - seven questions every business needs to answer:
 > Engineering: Can you create breakthrough technology, instead of incremental improvements?
     -> needs to be better by at least a magnitude (10x) for transparent superiority
@@ -651,7 +651,7 @@ merging/unification is possible, but might require bigger forces
 > Monopoly: Are you starting with a big share of a small business?
     -> make sure to dominate meaningful business areas
 > People: Do you have the right team?
-    -> technologists wear jeans + shirts, pass anyone dressing up for pithes, as the best sales are hidden
+    -> technologists wear jeans + shirts, pass anyone dressing up for pitches, as the best sales are hidden
 > Distribution: Do you have a way to not just create but deliver your product?
     -> make it easy for people to get your product
 > Durability: Will your market position be defensible in 10 or 20 years into the future?
@@ -668,7 +668,7 @@ merging/unification is possible, but might require bigger forces
 - make sure not to 'fall' to exaggerations of them
 
 > The single greatest danger for a founder is to become so certain of his own
-> myth that he loses his mind. But an equally insideous danger for every
+> myth that he loses his mind. But an equally insidious danger for every
 > business is to lose all sense of myth and mistake disenchantment for wisdom.
 
 -->
