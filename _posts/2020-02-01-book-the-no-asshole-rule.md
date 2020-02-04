@@ -23,6 +23,11 @@ only give you so much information about the contents’ implications. In my
 opinion, the implications are the biggest part of the book, and that part is
 (mainly) missing. 
 
+Instead, I took the liberty of 'connecting' the content with topics I am
+already familiar with, explaining it. This effectively means, if you wonder why
+something you read here is not in the book - it never was. 
+
+
 
 ## Chapter 1: 	What Assholes Do and Why You Know So Many
 ## Chapter 2: 	The Damage Done: Why Every Workplace Needs The Rule
