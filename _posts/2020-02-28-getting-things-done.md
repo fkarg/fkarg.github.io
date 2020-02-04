@@ -57,7 +57,9 @@ This part is about step-by-step guidelines to set this process up and bootstrap 
 
 ### Chapter thirteen - The Power of Outcome Focusing
 
-### Chatper fourteen - 
+### Chapter fourteen - GTD and Cognitive Science
+
+### Chapter fifteen - The Path of GTD Mastery
 
 
 
