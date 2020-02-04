@@ -8,12 +8,20 @@ date: '2020-02-10'
 Review of the book claiming to have answers to some of our everyday struggles.
 
 
-I did not read the book in english. This is because I came across this book in a bookstore in Basel. The english table of contents seems similiar enough, so I'll stay with the chapters. If something appears weird, that might be one reason. This also prevents me from directly quoting, but let's see.
+I did not read the book in english. This is because I came across this book in
+a bookstore in Basel. The english table of contents seems similiar enough, so
+I'll stay with the chapters. If something appears weird, that might be one
+reason. This also prevents me from directly quoting, but let's see.
 
 
 # Core Key Takeaways
 
-This is a collection of core key takeaways found within this book, particularly things I was not aware of, or good collections I wanted to share. Even though you might substitute reading this instead of the book itself, a summary can only give you so much information about the contents’ implications. In my opinion, the implications are the biggest part of the book, and that part is (mainly) missing.
+This is a collection of core key takeaways found within this book, particularly
+things I was not aware of, or good collections I wanted to share. Even though
+you might substitute reading this instead of the book itself, a summary can
+only give you so much information about the contents’ implications. In my
+opinion, the implications are the biggest part of the book, and that part is
+(mainly) missing. 
 
 
 ## Chapter 1: 	What Assholes Do and Why You Know So Many
