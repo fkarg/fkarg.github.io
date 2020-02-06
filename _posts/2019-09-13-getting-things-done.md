@@ -272,10 +272,8 @@ are 'said' from David Allen himself.
 
 ## Current state
 
-Well, this is how far I am as of right now. Do tell me if you would prefer me
-to not publish them until I'm finished with reading and reviewing this book.
-I'm reading at least a couple of pages each day, but I have several books I
-read concurrently.
+Actually, I'm finished already. I did not manage to fully implement it yet. I
+will re-write this post while fully implementing and adapting it. Stay tuned!
 
 
 ## Coming Soon
