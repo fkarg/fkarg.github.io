@@ -28,7 +28,7 @@ already familiar with, explaining it. This effectively means, if you wonder why
 something you read here is not in the book - it never was. 
 
 
-
+## Foreword
 ## Chapter 1: 	What Assholes Do and Why You Know So Many
 ## Chapter 2: 	The Damage Done: Why Every Workplace Needs The Rule
 ## Chapter 3: 	How to Implement the Rule, Enforce it, and Keep it Alive
@@ -37,6 +37,22 @@ something you read here is not in the book - it never was.
 ## Chapter 6: 	The Virtues of Assholes
 ## Chapter 7: 	The No Asshole Rule as a Way Life
 
+
+// <!- -
+
+# run 1: Notes
+
+## Foreword
+## Chapter 1: 	What Assholes Do and Why You Know So Many
+
+
+## Chapter 2: 	The Damage Done: Why Every Workplace Needs The Rule
+## Chapter 3: 	How to Implement the Rule, Enforce it, and Keep it Alive
+## Chapter 4: 	How to Stop Your "Inner Jerk" From Getting Out
+## Chapter 5: 	When Assholes Reign: Tips for Surviving Nasty People and Workplaces
+## Chapter 6: 	The Virtues of Assholes
+## Chapter 7: 	The No Asshole Rule as a Way Life
+<!-- -->
 
 # Overall
 
