@@ -206,6 +206,24 @@ Some heuristcs:
 ---
 
 ## Chapter 5: 	When Assholes Reign: Tips for Surviving Nasty People and Workplaces
+
+- millions feel 'contained' in pro-asshole cultures
+- statistically, 25% of those getting harrassed and 20% of those seing it, change jobs. usually this rate is about 5%
+- some cannot afford to change jobs
+
+How to fight against that:
+- do not victimize yourself
+> feet forward, do not fight against the flow
+
+- look for others in similar situations and band together
+- be content with _small victories_, small and gradual outings of them being assholes
+- this will give you enough self-confidence to hold on
+- reframe the situation: this is only temporary, it will barely affect your overall life
+- It is not your fault and there is no benefit in thinking otherwise - everyone would have been treated like this in your situation
+- 
+
+---
+
 ## Chapter 6: 	The Virtues of Assholes
 ## Chapter 7: 	The No Asshole Rule as a Way Life
 <!-- -->
