@@ -1,7 +1,10 @@
---- layout: post published: true title: 'Book: Getting Things Done' subtitle:
-the art of stress-free productivity tags:
-  - book --- In Progress: My review of the updated edition of David Allan's
-    bestseller GTD.
+---
+layout: post
+published: true
+title: 'Book: Getting Things Done'
+subtitle: the art of stress-free productivity
+---
+In Progress: My review of the updated edition of David Allan's bestseller GTD.
 
 
 # Overview
