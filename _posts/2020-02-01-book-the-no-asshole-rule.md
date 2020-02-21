@@ -29,13 +29,74 @@ something you read here is not in the book - it never was.
 
 
 ## Foreword
+
+There is situations, where you come across someone and just recognize that they
+are being an asshole. And, honestly, there just is no better word for it. Jerk?
+Well of course they are a jerk, but that kind of does not cut it. They are more
+than 'just a jerk'.
+
+The first time he came across the 'no asshole rule' was during a discussion
+about new professors in the stanford faculty, where someome said the following:
+
+> Listen, I do not care if he won the nobel price ... I just do not want an
+> asshole to ruin our group.
+
+And that kind of cut it. Over time, this really was implemented and it kept the
+climate really collegial.
+
+Early on, he wrote a short excerpt for the Harward Business Review, and as they
+have a right and proper image, he did not expect them to write the word
+'asshole'. After all, it was eight times in his article. But they did. And then
+a flood of feedback from all around the globe came in. Since, apparently, this
+is an everyday problem sometimes.
+
+Someone even proposed 'idiot-audits', with something along the following:
+
+> I propose to consider the following question: 'Why do we comply to such
+> behaviour?' If your answer is 'because the office can bill 2500 highly paid
+> hours from this creep', you at least got your priorities sorted, without
+> having to pay a cent for a consultant.
+
+---
+
 ## Chapter 1: 	What Assholes Do and Why You Know So Many
+
+Now the problem (?) is that not everyone is an asshole. Some just had a [very
+bad day][vending machine]. So how to differentiate between those with a bad day
+and those doing it regularly?
+
+He calls them 'temporary' vs 'certified' assholes, the meaning of which is
+self-explanatory.
+
+Is just one bad experience enough for them to be thought of as being a
+'certified' one? He tells a story about him being a new assistent professor,
+working really hard in 
+
+---
+
 ## Chapter 2: 	The Damage Done: Why Every Workplace Needs The Rule
 ## Chapter 3: 	How to Implement the Rule, Enforce it, and Keep it Alive
 ## Chapter 4: 	How to Stop Your "Inner Jerk" From Getting Out
 ## Chapter 5: 	When Assholes Reign: Tips for Surviving Nasty People and Workplaces
 ## Chapter 6: 	The Virtues of Assholes
 ## Chapter 7: 	The No Asshole Rule as a Way Life
+
+# Overall
+
+## Criticism
+
+## Favourite Quotes
+
+
+
+[wiki]: https://en.wikipedia.org/wiki/The_No_Asshole_Rule
+[vending machine]: https://www.lesswrong.com/posts/DB6wbyrMugYMK5o6a/correspondence-bias
+
+
+
+
+
+
 
 
 // <!- -
@@ -306,17 +367,6 @@ This shows seven central themes:
 ---
 
 <!-- -->
-
-# Overall
-
-## Criticism
-
-## Favourite Quotes
-
-
-
-[wiki]: https://en.wikipedia.org/wiki/The_No_Asshole_Rule
-
 
 ## A New Post
 
