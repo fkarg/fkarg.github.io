@@ -220,12 +220,91 @@ How to fight against that:
 - this will give you enough self-confidence to hold on
 - reframe the situation: this is only temporary, it will barely affect your overall life
 - It is not your fault and there is no benefit in thinking otherwise - everyone would have been treated like this in your situation
-- 
+- keep calm and keep positive
+
+- war captives that survived all had rituals of sort, to stay sane and in control
+- stay in control to stay sane
+
+- create safe rooms (e.g. break rooms)
+
+- always be deescalative and try to reeducate them
+	- even if it fails, the likelihood of outbursts is massively smaller
+- example: every bus driver is allowed to have three accidents every year
+> you should keep one for all the idiots during christmas rush times
+
+	- actually keeps accident rates way lower and gives drivers a feeling of control
+
+- even if you can endure, you probably should find a way to get away from them
+
 
 ---
 
 ## Chapter 6: 	The Virtues of Assholes
-## Chapter 7: 	The No Asshole Rule as a Way Life
+
+- did not want to write this chapter, but is 'necessary evil'
+- some are successful 'because', and not 'even though' they are assholes
+	- example: Steve Jobs
+    - apparently, it is in some cases useful
+- Is being seen as more competent, among others
+	- example: clip about Bill clinton angry vs calm after debacle
+    - follows: strategic anger can have massive influence
+- can be strategic tools for power
+- intimidation as motivation for work works, but rewards and similar are proven to be more effective
+- Successful assholes tend to be doing the sugar bread and whip strategy
+- good cop bad cop works the same way - makes it easier to bond with the good guy
+
+- sometimes it is beneficial to become a temporary asshole, e.g. if health insurance tries not to pay for medication it is much more successful to complain immediately
+- from a debt collectors perspective: stay calm with these already riled up, but induce fear in those staying calm
+- strategic outburst of rage: getting people at the flight company to pay attention to you, since they ignored you beforehand. Unclear if something else would have worked at all
+- also, you will be kept alone more often to actually get some work done
+
+Five ways for effective assholes:
+- openly shown anger and being mean can be effective tools for power
+- intimidation and viciousness are good for getting rid of competitors
+- when motivating people with fear, recognition every now and then works wonders
+- build a 'toxic tandem' with someone nicer / find your 'good cop'
+- solely being an asshole does not suffice, know when to be one, and especially when *not* to be one
+
+Reality from an assholes perspective
+- _even though_ they are an asshole, somehow they perform well, thus this will get associated - now you have a feedback loop from results to behavior that is actually not valid
+- the skills getting you an influental job, and those needed to do this job well tend to be different ones, if not the opposite ones
+- people stop telling you things that went wrong for fear of getting blamed - they think everything works, up until the point everything is about to crash and burn
+- people are good at looking different as long as the unliked person is watching. without you being around, they will much less motivation and energy to get anything done, and there is no way for you to find out about it
+- employees will focus on not getting blamed rather than actually solving the problems at hand
+- people (especially those charging you) will ask for considerably more when working with someone unlikeable, effectively taxing them
+- you continually create enemies, and they will try to harm you
+
+Is that really worth it?
+
+
+---
+
+## Chapter 7: 	The No Asshole Rule as a Way of Life
+
+first time heard of a book about assholes:
+- little joes', an asshole-like customer, complaining all the time, making everyone uncomfortable
+> Sie sind eine ganz erstaunliche Person. Ich habe schon überall nach jemandem wie Sie gesucht. Ich liebe es, wie sie sich in Szene setzen. Könnte ich bitte Ihren Namen haben?
+
+- told his name
+> Danke, ich weiß das zu schätzen. Wissen Sie, ich schreibe ein Buch über Arschlöcher ... und Sie sind die absolut perfekte Figur für Kapitel 13.
+
+- everyone laughed, he got quiet.
+
+This shows seven central themes:
+- A small number of creeps is sufficient to let everyones hostility and sincerity go bad
+	- get rid of them, fast; it takes a way larger number of friendly people to equalize that
+- talking about it is nice, but you also need to enforce it.
+	- otherwise you will be a hypocrite, among other things
+    - If you cannot enforce it, do not talk about it
+- The rule lives and dies in the moment, it needs to be enforced every moment
+- keep exemplary assholes, as a way to keep other people from becoming them
+- it is not the responsibility of management to enforce it. It is everyones first and foremost
+- pride and fear of exposure/shame are the main motivation.
+- The assholes - that is us. regularly take a view in the mirror
+
+
+---
+
 <!-- -->
 
 # Overall
