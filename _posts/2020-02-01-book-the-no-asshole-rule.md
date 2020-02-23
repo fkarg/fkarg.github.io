@@ -36,7 +36,8 @@ Well of course they are a jerk, but that kind of does not cut it. They are more
 than 'just a jerk'.
 
 The first time he came across the 'no asshole rule' was during a discussion
-about new professors in the stanford faculty, where someome said the following:
+about candidate selection for stanford professors, where someome said the
+following: 
 
 > Listen, I do not care if he won the nobel price ... I just do not want an
 > asshole to ruin our group.
@@ -59,7 +60,7 @@ Someone even proposed 'idiot-audits', with something along the following:
 
 ---
 
-## Chapter 1: 	What Assholes Do and Why You Know So Many
+## 1 What Assholes Do and Why You Know So Many
 
 Now the problem (?) is that not everyone is an asshole. Some just had a [very
 bad day][vending machine]. So how to differentiate between those with a bad day
@@ -70,16 +71,63 @@ self-explanatory.
 
 Is just one bad experience enough for them to be thought of as being a
 'certified' one? He tells a story about him being a new assistent professor,
-working really hard in 
+working really hard in improving his teaching. When he received the 'best
+lecturer'-award after three years, a jelous female colleague whispered to him
+in a condescending voice: "Well done. How about, after having satisfied the
+babies, to do some actual work?" Understandably, he was not exactly happy after
+this encounter.
+
+Which constitutes the first test: After encountering the person, do people feel
+oppressed, humiliated or otherwise worse about themselves?
+
+What else do they do to make you feel like that?
+He catalogued these unpleasant behaviours as The Dirty Dozen:
+- Insults
+- Violation of personal space
+- Unsolicited touching
+- Threats
+- Sarcasm
+- Flames
+- Humiliation
+- Shaming
+- Interruption
+- Backbiting
+- Glaring
+- Snubbing
+
+
+This, however, is apparently not sufficient, since everyone behaves like that
+sometimes. He himself gives the example of sending a scornful email to a
+colleague because he wrongly believed she was trying to take an office away
+from his group - as soon as he realized this was not the case he apologized
+profoundly, but it was still done. As it was a 'one-time' occurence, this does
+not qualify him as anything more than a 'temporary' asshole.
+
+He then goes on and lists several 'publicly well-known' assholes, both male and
+female.
+
+The second test (apart from apparently that this needs to be repeated
+behaviour) is if the person primarily targets less powerful people.
+
+He does not, however, favour cowards or obsequious people, as they just try to
+avoid confrontation, with similar negative effects. He gives the example of
+intel doing 'constructive confrontation' workshops regularly, and having an
+accordingly confrontational culture.
+
+Also, during his research for another book, 'Weird Ideas that Work' (core:
+hiring 'eccentric' people you do not seem to need might boost overall
+creativity and productivity), he found that for some reason HR-people tend to
+ignore 'weird' mannerisms from people and downplay unfavourable ones for their
+achievements on paper.
 
 ---
 
-## Chapter 2: 	The Damage Done: Why Every Workplace Needs The Rule
-## Chapter 3: 	How to Implement the Rule, Enforce it, and Keep it Alive
-## Chapter 4: 	How to Stop Your "Inner Jerk" From Getting Out
-## Chapter 5: 	When Assholes Reign: Tips for Surviving Nasty People and Workplaces
-## Chapter 6: 	The Virtues of Assholes
-## Chapter 7: 	The No Asshole Rule as a Way Life
+## 2 The Damage Done: Why Every Workplace Needs The Rule
+## 3 How to Implement the Rule, Enforce it, and Keep it Alive
+## 4 How to Stop Your "Inner Jerk" From Getting Out
+## 5 When Assholes Reign: Tips for Surviving Nasty People and Workplaces
+## 6 The Virtues of Assholes
+## 7 The No Asshole Rule as a Way Life
 
 # Overall
 
@@ -119,14 +167,14 @@ Short article in HBR, expected not to get it printed, especially 'asshole'. Got 
 No rare case - they seem to be everywhere.
 
 
-## Chapter 1: 	What Assholes Do and Why You Know So Many
+## Chapter 1: What Assholes Do and Why You Know So Many
 
 - Core question: Who deserves being branded an asshole?
 - Some people just have a bad day
 - how to differentiate between 'temporary' and 'certified' ones
 - experience: worked hard to teach (Lehrpreis bekommen), to be told in condescending voice: 'now that the babies are happy, do some actual work'
 - First test:
-	- felt like being a 'worse' human being?
+    - felt like being a 'worse' human being?
     - felt demotivated, depressed, reduced?
 
 
@@ -135,20 +183,6 @@ Two tests are specified for recognition of the asshole:
 - After encountering the person, do people feel oppressed, humiliated or otherwise worse about themselves?
 - Does the person target people who are less powerful than him/her?
 
-Their unpleasant behaviours were catalogued by Sutton as The Dirty Dozen:
-
-Insults
-Violation of personal space
-Unsolicited touching
-Threats
-Sarcasm
-Flames
-Humiliation
-Shaming
-Interruption
-Backbiting
-Glaring
-Snubbing
 
 - but that is not sufficient: everyone is an asshole sometimes
 - Wikipedia: He gives the example of when he sent a scornful email to a colleague because he wrongly believed she was trying to take an office away from his group. In this instance, he was acting like a temporary asshole and to be a certified asshole he would have to act like a jerk persistently.
@@ -163,19 +197,19 @@ Snubbing
 
 ---
 
-## Chapter 2: 	The Damage Done: Why Every Workplace Needs The Rule
+## Chapter 2: The Damage Done: Why Every Workplace Needs The Rule
 
 - reiteration of: they are everywhere
 - they cost energy for everyone they interact with through small inconveniences
 - general demotivation and psychological pressure, higher rate for illnesses
 - higher 'turnover rate' -> people do not quit jobs, they quit managers
 - assholes suffer as well:
-	- demotivated teams
+    - demotivated teams
     - 'revenge' on boss
-    	-> if you respect your boss, do what he means, if you don't, do what he says
+     -> if you respect your boss, do what he means, if you don't, do what he says
     - frequently new people
     - get fired more frequently
-	- public social fallout (maybe on stocks or position)
+    - public social fallout (maybe on stocks or position)
     - 'playing the blame game' will get no mistakes reported, but they happen
     - Will keep potential new hires away
 - hiring new people frequently costs money
@@ -186,7 +220,7 @@ Snubbing
 
 ---
 
-## Chapter 3: 	How to Implement the Rule, Enforce it, and Keep it Alive
+## Chapter 3: How to Implement the Rule, Enforce it, and Keep it Alive
 
 - sometimes even glorified overarchievers become too much of an asshole
 - some calculate the costs and reduce their salary accordingly
@@ -203,7 +237,7 @@ Some heuristcs:
 - only invite people based on competence, to focus on the social side during the interview
 - walk around and talk to people, to get a feeling as to how that person integrates
 - have people below and above the position interview the new person.
-	This also prevents assholes to get in Manager or HR positions, they would multiply rapidly
+This also prevents assholes to get in Manager or HR positions, they would multiply rapidly
 
 - people tend to hire others that are similar to themselves or their ideal version
 - watch out for the chemistry within teams. Firing a 'star salesman' might increase general sales (by 30% or more)
@@ -213,25 +247,25 @@ Some heuristcs:
 
 - power corrupts, and 'rewarding' star-salespeople makes them correlate the reward with their behaviour
 - example of pavian-müllhaldenherde
-	- becoming less stressed and closer after initial 'assholes' vanish
-	- core: be an approachable boss
+- becoming less stressed and closer after initial 'assholes' vanish
+- core: be an approachable boss
 - reduce social differences between boss and employee, or at least downplay them
 
 - other example
-	- active anti-asshole workshops with reflection and sensibilisation
+- active anti-asshole workshops with reflection and sensibilisation
     - Massively positve results and many spin-offs
-    	- more than 30% less mobbing
+    - more than 30% less mobbing
         - way reduced overtime and sick days
         - big improvements in efficiency and revenue (9-30%)
 - intel did/(does?) regular constructive confrontation workshops with similar results
 
 - demonstration of people following the 'majority behaviour'
-	- even incresed if someone is seen violating it
+- even incresed if someone is seen violating it
     - if most people do not adhere to it, they would much more likely not do that either
-	-> might not be a good idea to hire 'exemplary' assholes
+        -> might not be a good idea to hire 'exemplary' assholes
     
 - ten rules about applying the anti-asshole-rule:
-	- talk about it, write about it, act after it
+    - talk about it, write about it, act after it
     - assholes multiply fast. They hire themselves and infect others
     - get rid of them as fast as possible
     - treat assholes as incompetent. Incompetent in communication, if nothing else
@@ -247,7 +281,7 @@ Some heuristcs:
 
 ---
 
-## Chapter 4: 	How to Stop Your "Inner Jerk" From Getting Out
+## Chapter 4: How to Stop Your "Inner Jerk" From Getting Out
 
 - now: applying it to yourself, and how to prevent yourself from becoming one
 - everyone happens to have a hard day sometimes -> everyone would kick the vending machine
@@ -266,7 +300,7 @@ Some heuristcs:
 
 ---
 
-## Chapter 5: 	When Assholes Reign: Tips for Surviving Nasty People and Workplaces
+## Chapter 5: When Assholes Reign: Tips for Surviving Nasty People and Workplaces
 
 - millions feel 'contained' in pro-asshole cultures
 - statistically, 25% of those getting harrassed and 20% of those seing it, change jobs. usually this rate is about 5%
@@ -289,25 +323,25 @@ How to fight against that:
 - create safe rooms (e.g. break rooms)
 
 - always be deescalative and try to reeducate them
-	- even if it fails, the likelihood of outbursts is massively smaller
+- even if it fails, the likelihood of outbursts is massively smaller
 - example: every bus driver is allowed to have three accidents every year
 > you should keep one for all the idiots during christmas rush times
 
-	- actually keeps accident rates way lower and gives drivers a feeling of control
+- actually keeps accident rates way lower and gives drivers a feeling of control
 
 - even if you can endure, you probably should find a way to get away from them
 
 
 ---
 
-## Chapter 6: 	The Virtues of Assholes
+## Chapter 6: The Virtues of Assholes
 
 - did not want to write this chapter, but is 'necessary evil'
 - some are successful 'because', and not 'even though' they are assholes
-	- example: Steve Jobs
+    - example: Steve Jobs
     - apparently, it is in some cases useful
 - Is being seen as more competent, among others
-	- example: clip about Bill clinton angry vs calm after debacle
+    - example: clip about Bill clinton angry vs calm after debacle
     - follows: strategic anger can have massive influence
 - can be strategic tools for power
 - intimidation as motivation for work works, but rewards and similar are proven to be more effective
@@ -340,7 +374,7 @@ Is that really worth it?
 
 ---
 
-## Chapter 7: 	The No Asshole Rule as a Way of Life
+## Chapter 7: The No Asshole Rule as a Way of Life
 
 first time heard of a book about assholes:
 - little joes', an asshole-like customer, complaining all the time, making everyone uncomfortable
@@ -353,9 +387,9 @@ first time heard of a book about assholes:
 
 This shows seven central themes:
 - A small number of creeps is sufficient to let everyones hostility and sincerity go bad
-	- get rid of them, fast; it takes a way larger number of friendly people to equalize that
+- get rid of them, fast; it takes a way larger number of friendly people to equalize that
 - talking about it is nice, but you also need to enforce it.
-	- otherwise you will be a hypocrite, among other things
+- otherwise you will be a hypocrite, among other things
     - If you cannot enforce it, do not talk about it
 - The rule lives and dies in the moment, it needs to be enforced every moment
 - keep exemplary assholes, as a way to keep other people from becoming them
