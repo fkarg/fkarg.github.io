@@ -120,10 +120,69 @@ creativity and productivity), he found that for some reason HR-people tend to
 ignore 'weird' mannerisms from people and downplay unfavourable ones for their
 achievements on paper.
 
+The other two points he still makes in this chapter are that there are a
+massive amount of assholes everywhere, and that the best way to measure a
+character is to see how a Person treats both people above and below herself.
+
 ---
 
 ## 2 The Damage Done: Why Every Workplace Needs The Rule
+
+First, he reiterates that they are literally everywhere, this time with a lot
+of numbers, stats. And they mainly damage their surroundings through small
+inconveniences for everyone they interact with, generally demotivating people
+and putting them psyochological pressure, which results in them having a
+statistically significant higher rate of illness.
+
+He then makes a really convincing point of 'people do not really quit their
+jobs, they quit managers and environments' - the average turnover rate is about
+5%, but for environments with asshole-managers it is up to 25% each year.
+
+But, they are not the only ones suffering, especially asshole-managers suffer
+from the following symptoms:
+- Demotivated teams, reducing effectivity
+- Nitpicking and small 'revenge' on them (they obvously do not notice)
+- They frequently have new people to teach, reducing overall productivity
+- They are getting fired more frequently as well, meaning a search for another
+  job ...
+- If someone out of the team, or maybe on social media gets to know about it,
+  there is a social fallout which might influence the stock market or your
+  ability to stay as a manager
+- Your team only tries to prevent getting blamed, no effort is made to actually
+  solve the problems at hand
+- They will not have the best canditates applying either, because a lot of
+  people get to know about bad managers from other employees social life
+
+
+What I was thinking about when reading the 'revenge'-part was something I read
+about the military somewhere (I cannot seem to find the source, contact me if
+you know where it is from exactly!):
+> if you respect your boss, do what he means, if you don't, do what he says
+
+Anyways, frequently searching and hiring new people is a lot of effort and thus
+money, even excluding the time needed to get them up to speed within the company.
+
+He then explains the 'snowstorm-indicator', basically a measure for how much
+people actually like working at their current job; Effectively it is the
+proportion of people coming to work even though they would have had a simple
+excuse (e.g. a snowstorm happening right now). 
+
+Assholes, especially as managers tend to require more effort, time and energy
+from everyone surrounding them for the same results. But since everyone else
+deserving credit is being held down by them, they seem much better than they
+are. 
+
+What follows is a very long list of potential 'money losing' actions and ways
+they do or are subject to, effectively costing the company money. This might allow you to calculate the cost of someone behaving as an asshole in your company.
+
+---
+
 ## 3 How to Implement the Rule, Enforce it, and Keep it Alive
+
+
+
+---
+
 ## 4 How to Stop Your "Inner Jerk" From Getting Out
 ## 5 When Assholes Reign: Tips for Surviving Nasty People and Workplaces
 ## 6 The Virtues of Assholes
@@ -139,6 +198,12 @@ achievements on paper.
 
 [wiki]: https://en.wikipedia.org/wiki/The_No_Asshole_Rule
 [vending machine]: https://www.lesswrong.com/posts/DB6wbyrMugYMK5o6a/correspondence-bias
+
+
+
+
+
+
 
 
 
