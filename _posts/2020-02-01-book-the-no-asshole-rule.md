@@ -136,7 +136,7 @@ statistically significant higher rate of illness.
 
 He then makes a really convincing point of 'people do not really quit their
 jobs, they quit managers and environments' - the average turnover rate is about
-5%, but for environments with asshole-managers it is up to 25% each year.
+5%, but for environments with asshole-managers it is up to 25% on average.
 
 But, they are not the only ones suffering, especially asshole-managers suffer
 from the following symptoms:
@@ -293,6 +293,40 @@ considerable jerk.
 
 ## 5 When Assholes Reign: Tips for Surviving Nasty People and Workplaces
 
+Apparently, millions feel 'contained' in pro-asshole company cultures.
+Statistically, 25% of those getting harrassed, and 20% of those witnessing it,
+will change their manager. This is much higher than the usual 5%. 
+
+Some are in situations where they cannot afford to change their job. The best
+way to fight against a nasty workplace is among the following:
+- Do not victimize yourself. It is not something you could change.
+- 'Do not fight against the flow'. Calm down and let them do their thing. It will be over soon.
+- Look for others in similar situations and get together, exchange hardships and achievements.
+- Be content with _small victories_, small and gradual outings of them being assholes.
+    - Build upon this. You are in control! Get some self-confidence from this to hold on.
+- Reframe the situation: The current situation is only temporary and will
+  not affect your overall life
+- It is not your fault and there is no benefit in thinking otherwise - Everyone
+  would have been treated like this in your situation
+- Have or create some sort of 'safe' break room, where your boss/(the asshole)
+  is not allowed to be in.
+- Keep calm and keep positive
+- Avoid contact as much as possible
+- Always be deescalative and try to reeducate the offenders
+    - Even if it fails, the likelihood of outbursts is massively smaller than
+      when angering them further
+- Even if you can endure, you probably should find a way to get away from it
+
+Additionally, there are two examples showing just how important control, or at
+least a feeling of control is:
+- Every surviving war prisoner (released from the vietnamese in 1973) had some
+  kind of small ritual, something they did every day, which kept them 'in
+  control' and sane.
+- In a bus depot in a city in Michigan they had the rule that they are allowed
+  to have 'three accidents every year'. And they should keep one of them for
+  all the idiots during christmas rush time. This gives them a lot of control,
+  and lets them keep calm even in pretty annoying situations, keeping their
+  actual accident rates very low and winning them multiple safety awards.
 
 
 ---
