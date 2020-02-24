@@ -173,13 +173,93 @@ deserving credit is being held down by them, they seem much better than they
 are. 
 
 What follows is a very long list of potential 'money losing' actions and ways
-they do or are subject to, effectively costing the company money. This might allow you to calculate the cost of someone behaving as an asshole in your company.
+they do or are subject to, effectively costing the company money. This might
+allow you to calculate the cost of someone behaving as an asshole in your
+company.
 
 ---
 
 ## 3 How to Implement the Rule, Enforce it, and Keep it Alive
 
+Sometimes glorified overarchievers become assholes over time, if they are not
+kept in check. There seems to be a company out there, roughly calculating the
+(asshole-) cost of one of their managers and deducting it from their pay
+(250k!).
 
+One reason assholes are tolerated is probably the existing 'winners mentality',
+especially in america. This means that 'just about everything' is allowed, as
+long as it gets the team winning; That it is expected for successful people to
+be not as nice as others.
+
+So what a lot of companies do is create environments where it just 'is not
+profitable to be a jerk'. Essentially, the rule needs to be publicly known
+through words, but especially through actions. One company has this rule that
+it is not allowed to shout at each other, which seems to be part of the trick.
+
+Make sure that your employees help each other out, and are actually nice to
+each other as well. Also, you would not want your words replace your deeds, if
+you have values but do not live them, people will not feel safe there, as
+apparently words are not worth that much.
+
+These are a few heuristics to actually hire someone who is _not_ an asshole:
+- Trusted references are worth a lot (ask them about the other persons behaviour under stress)
+- Only invite people based on competence, to focus on the social side during the interview
+- Walk around and talk to people, to get a feeling as to how that person integrates
+- Have people below and above the position interview the new person
+This also prevents assholes to get in Manager or HR positions, they would
+multiply rapidly (people tend to hire people similar to themselves, or their
+ideal version).
+
+As it turns out, chemistry within a team is worth a lot. Firing your 'star
+salesman' might increase overall sales by 30%, slightly depending on how he
+behaved.
+
+There is this story of a new CEO making it his personal goal to get rid of 25
+asshole-managers throughout the company, which he did over the course of the
+first two years. After that, they became one of the most profitable ones in
+their business.
+
+Another detection mechanism if someone is an asshole: would you feel relieved
+if they were let go of? If yes, it might be time to actually do so.
+
+Apply the no-asshole-rule to your customers and clients, everyone will thank
+you for that. Power tends to corrupt, and 'rewarding' overarchievers makes them
+correlate the reward with their behaviour ... which might not be true. Also,
+they might have this image of really succussful people being assholes, and them
+slowly becoming really successful also means, ...
+
+The core of the next example was that you should be an approachable boss (no
+one should fear giving you feedback about something), and that while a
+hierarchy needs to exist, the social differences should be reduced where
+possible and downplayed where not possible - thes makes for a much more
+collegial atmosphere.
+
+A different approach would be to regularly do anti-asshole workshops with
+reflection and sensibilisation, they tend to have massively positive results,
+such es drastically reduced overtime and sick days while improving efficiency
+and revenue by 9-30%.
+
+People are going to follow the majorities' behaviour. The proportion of people
+following even increases if there is one visible 'outlier', because we want to
+seperate ourselves ('us') from the outlier ('them'). However - it might not be
+that good of an idea to employ 'exemplary' assholes, for various reasons. You
+would need to keep them at the bottom as well, to make sure that everyone
+understands that this is undesired behaviour.
+
+There are ten rules for applying the anti-asshole-rule:
+- Talk about it, write about it, act after it
+- Assholes multiply fast. They hire themselves and infect others
+- Get rid of them as fast as possible
+- Treat assholes as incompetent. Incompetent in communication, if nothing else
+- Power corrupts. watch out whom to promote
+- Acknowledge differences in status, but mitigate unnecessary status differntials
+- Manage moments - not practices or systems. Be mindful
+- Value and teach constructive confrontation
+- Adopt at most one negative role model total. Keep that one in check accordingly.
+- Small events can have massive influence on the company
+
+This is especially true during hard times where everyone is on edge already,
+because ultimately these are the only situations where it counts.
 
 ---
 
@@ -307,7 +387,7 @@ This also prevents assholes to get in Manager or HR positions, they would multip
 - people tend to hire others that are similar to themselves or their ideal version
 - watch out for the chemistry within teams. Firing a 'star salesman' might increase general sales (by 30% or more)
 - one ceo made it a personal goal to first get rid of 25 asshole-managers, to make it a better workplace overall
-- overall relief when they laeve the building for the last time
+- overall relief when they leave the building for the last time
 - also apply this rule to customers and clients, everyone will thank you for it
 
 - power corrupts, and 'rewarding' star-salespeople makes them correlate the reward with their behaviour
@@ -322,7 +402,6 @@ This also prevents assholes to get in Manager or HR positions, they would multip
     - more than 30% less mobbing
         - way reduced overtime and sick days
         - big improvements in efficiency and revenue (9-30%)
-- intel did/(does?) regular constructive confrontation workshops with similar results
 
 - demonstration of people following the 'majority behaviour'
 - even incresed if someone is seen violating it
