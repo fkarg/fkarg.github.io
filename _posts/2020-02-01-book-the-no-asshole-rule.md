@@ -264,7 +264,39 @@ because ultimately these are the only situations where it counts.
 ---
 
 ## 4 How to Stop Your "Inner Jerk" From Getting Out
+
+Everyone is a temporary asshole sometimes. Now how do you prevent yourself from
+becoming a certified one?
+
+Everyone has a [hard time][vending machine] sometimes and act like one. Most
+people try to synchronize with other people, acting and becoming more similar
+to them. He was in a group once where he and three others fought for the
+leading position, making them pretty big jerks in the process. His consequence
+was pretty simple: quit it. So that you can do as well, make sure not to have
+any big [sunk costs][sunk cost], and select the people you work with very
+carefully.
+
+If you are not in a position capable of quitting (for whatever reason), reduce
+contact and try to be happy with what you have - you do not need to compete
+with them over who the biggest jerk is. You can always focus on cooperation and
+win-win-situations, this will bring you the most in the long term.
+
+The first step is noticing that you are an asshole - most people are not
+aware of it and only want to do good. They usually notice with overwhelming
+evidence of a 360°-Feedback, which you probably do regularly already.
+
+At the end of the chapter is a self-evaluation about how others react to you,
+and a threshold from which onwards you are quite likely to be at least a
+considerable jerk.
+
+---
+
 ## 5 When Assholes Reign: Tips for Surviving Nasty People and Workplaces
+
+
+
+---
+
 ## 6 The Virtues of Assholes
 ## 7 The No Asshole Rule as a Way Life
 
@@ -278,7 +310,7 @@ because ultimately these are the only situations where it counts.
 
 [wiki]: https://en.wikipedia.org/wiki/The_No_Asshole_Rule
 [vending machine]: https://www.lesswrong.com/posts/DB6wbyrMugYMK5o6a/correspondence-bias
-
+[sunk cost]: https://en.wikipedia.org/wiki/Escalation_of_commitment
 
 
 
