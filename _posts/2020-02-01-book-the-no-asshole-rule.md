@@ -21,11 +21,11 @@ things I was not aware of, or good collections I wanted to share. Even though
 you might substitute reading this instead of the book itself, a summary can
 only give you so much information about the contents’ implications. In my
 opinion, the implications are the biggest part of the book, and that part is
-(mainly) missing. 
+(mainly) missing.
 
 Instead, I took the liberty of 'connecting' the content with topics I am
 already familiar with, explaining it. This effectively means, if you wonder why
-something you read here is not in the book - it never was. 
+something you read here is not in the book - it never was.
 
 
 ## Foreword
@@ -37,7 +37,7 @@ than 'just a jerk'.
 
 The first time he came across the 'no asshole rule' was during a discussion
 about candidate selection for stanford professors, where someome said the
-following: 
+following:
 
 > Listen, I do not care if he won the nobel price ... I just do not want an
 > asshole to ruin our group.
@@ -165,12 +165,12 @@ money, even excluding the time needed to get them up to speed within the company
 He then explains the 'snowstorm-indicator', basically a measure for how much
 people actually like working at their current job; Effectively it is the
 proportion of people coming to work even though they would have had a simple
-excuse (e.g. a snowstorm happening right now). 
+excuse (e.g. a snowstorm happening right now).
 
 Assholes, especially as managers tend to require more effort, time and energy
 from everyone surrounding them for the same results. But since everyone else
 deserving credit is being held down by them, they seem much better than they
-are. 
+are.
 
 What follows is a very long list of potential 'money losing' actions and ways
 they do or are subject to, effectively costing the company money. This might
@@ -295,7 +295,7 @@ considerable jerk.
 
 Apparently, millions feel 'contained' in pro-asshole company cultures.
 Statistically, 25% of those getting harrassed, and 20% of those witnessing it,
-will change their manager. This is much higher than the usual 5%. 
+will change their manager. This is much higher than the usual 5%.
 
 Some are in situations where they cannot afford to change their job. The best
 way to fight against a nasty workplace is among the following:
@@ -332,14 +332,128 @@ least a feeling of control is:
 ---
 
 ## 6 The Virtues of Assholes
+
+Originally, he did not want to write this chapter, but it is seen as a
+'necessary evil', and the book would be kind of incomplete without it.
+
+The first proof is Steve Jobs, the now late CEO of Apple. He became successful,
+at least partly 'because', and not 'even though' he was an asshole, which is to
+say it seems to be useful at least in _some_ cases.
+
+After the Bill Clinton affair, two different video clips were shown to people,
+one where he was apologetic and calm, and one where he was angry. He was, among
+others, seen much more competent by those having seen him 'angry'.
+
+The least to take away from it is that strategic anger can have _massive_
+influence, and become a strategic tool for power. However, just as much as
+intimidation has been proven to work (as a form of motivation for work), other
+strategies, such as rewards and recognition have been proven to be
+significantly more effective.
+
+That is to say, 'strategic assholes' tend to be doing something similar to 'god
+cop, bad cop', 'sugar bread and whip', some form of both punishment for bad, as
+well as rewards for good work. Everyone wants to bond with the one giving out
+rewards.
+
+Calling debt collectors use the inverse principle, if someone is already
+stressed out about the late payment, stay calm, but it works wonders to
+slightly shake those up that are calm as if they don't have a care in the
+world.
+
+Personally he was in a situation where he is unsure if any other behaviour
+would have worked at all; He and his family were just barely in time for their
+flight to get their boarding passes, and the staff brushed multiple nice
+attempts off, without having heard the problem. So he warned his family that he
+would get loud for a moment and that he would stop immediately if they started
+doing something and that he was sorry but did not know what else he could do to
+get their attention. So he started shouting right next to them, about the bad
+quality service they experienced and they should be helped _immediately_. So
+they actually got help, and he handed the negotiations to the 'good cop', his
+wife. Later, they learned that they should have gotten their boarding passes at
+an earlier counter, but there the assisting person was probably just lazy and
+passed them on to the next.
+
+There are five ways for effective assholes:
+- Openly shown anger and being mean _can be_ effective tools for power
+- Intimidation and viciousness are good for getting rid of competitors
+- Recognitions for contributions work wonders when also motivating people with
+  fear
+- Build a 'toxic tandem' with someone nicer / find your 'good cop'
+- Solely being an asshole does not suffice, know when to be one, and especially
+  when **not** to be one
+
+
+Reality from an assholes perspective
+- _Even though_ they are an asshole, somehow they perform well, and they start
+  to associate that with their behaviour - creating invalid feedback loops
+- The skills getting vs keeping an influential job tend to be different ones,
+  if not opposite ones
+- People stop telling them things that went wrong for fear of getting blamed -
+  they think it works just fine, even close to the point where everything is
+  about to crash and burn
+- People are good at looking different as long as the unliked person is
+  watching. Without them being around, the others have much less energy and
+  motivation to get anything done, and it is close to impossible for the
+  unliked person to find out about it
+- Their employees will focus on not getting blamed rather than actually solving
+  the problems at hand - with devastating long-term effects
+- People (especially those charging you) will ask for considerably more when
+  working with someone unlikeable, 'to make up for it'
+- They continuously create enemies, who try to harm them without getting
+  noticed (doing slightly worse work, delaying or neglegting to report
+  important information, claiming work takes longer than it does)
+
+
+Some of the advantages are real, but beware of dragons (illusions)!
+
+
+---
+
 ## 7 The No Asshole Rule as a Way Life
 
+Little joe's is your cozy local family diner, with the owner and staff happily
+fooling around. Customers are happy. Add a douchebag, making impolite comments
+and complaints, insulting everyone telling him to stop doing that, generally
+making everyone uncomfortable. A customer with a loud voice complimented him:
+
+> You are pretty amazing! I was looking everywhere for someone like you! I
+> absolutely love how you portray yourself, could I get your name please?
+
+The douche was somewhat happy of being recognized, saying who he is.
+
+> Thank you, I really appreciate that! You know, I'm writing a book about
+> assholes ... and you are the perfect character for chapter 13.
+
+Except for him, everyone started laughing. He got and kept quiet. This was
+Suttons' first encounter with a book about assholes, and it portraits several
+central themes perfectly:
+
+- A small number of creeps is sufficient to let everyones warmth and sincerity
+  be forgotten
+- You should get rid of them fast; neutralizing their damage takes tremendous energy and effort
+- It is nice talking about 'not accepting assholes', but it also needs to be enforced
+- If you cannot enforce it, it is better not to talk about it - lest you also be a hypocrite
+- The rule lives and dies in the moment, it needs to be enforced at every moment
+- Keeping an exemplary asshole is a stark reminder for people not to become one
+- Management is not responsible for enforcing the rule. Everyone, always, is
+  (it was not the owner or a staff member making the book-comment, and it would
+  likely not have been as effective etiher)!
+- The main motivation for such behaviour tends to be the fear of exposure (for
+  something), or simply shame
+- The second guy was an asshole to the first one as well. The assholes is us,
+  and it _needs_ to be us, but it needs to be kept in check, so check yourself
+  in the mirror regularly
+
+
+---
+
 # Overall
+
+## Main Takeaway
 
 ## Criticism
 
 ## Favourite Quotes
-
 
 
 [wiki]: https://en.wikipedia.org/wiki/The_No_Asshole_Rule
@@ -473,7 +587,7 @@ This also prevents assholes to get in Manager or HR positions, they would multip
 - even incresed if someone is seen violating it
     - if most people do not adhere to it, they would much more likely not do that either
         -> might not be a good idea to hire 'exemplary' assholes
-    
+
 - ten rules about applying the anti-asshole-rule:
     - talk about it, write about it, act after it
     - assholes multiply fast. They hire themselves and infect others
