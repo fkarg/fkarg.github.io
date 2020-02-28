@@ -56,7 +56,7 @@ Someone even proposed 'idiot-audits', with something along the following:
 > I propose to consider the following question: 'Why do we comply to such
 > behaviour?' If your answer is 'because the office can bill 2500 highly paid
 > hours from this creep', you at least got your priorities sorted, without
-> having to pay a cent for a consultant.
+> having spent a cent for a consultant.
 
 ---
 
@@ -449,11 +449,70 @@ central themes perfectly:
 
 # Overall
 
-## Main Takeaway
+I would recommend this to everywone with a bit of time, and maybe a slight
+personal annoyance towards such a person.
+
+## Main Takeaways
+
+For me the by far biggest takeway is an increased sensitivity to the topic of
+unpleasent company in general. Especially if people are doing it structurally
+or only temporary. Also, it appears that I have used the 'strategic' part
+before, albeit only a few times. I guess this really will be useful in avoiding
+certified ones, and preventing them from taking hold whereever I will work in
+the future. I will live by the 'no-asshole-rule!'
 
 ## Criticism
 
+I really liked it. It was concise, but not too dense, with good exemplary
+stories and references, explaining in detail what is meant. I liked how the
+author gave examples of him being someone unpleasent without making it seem
+like he wants to be glorified for admitting these atrocities.
+
+Additionally, since I read the german translation, I was quite surprised. I
+expected more to be rather 'clear cut' translations from english, but there
+were quite a few passages and words, subtleties, that one could not have
+'simply translated'.
+
 ## Favourite Quotes
+
+This obivously includes the original ones with my translations here:
+
+> Ich schlage vor, dass Sie sich folgende Frage stellen: 'Warum finden wir uns
+> mit einem solchen Verhalten ab?' Wenn die Antwort lautet: 'Weil die Kanzlei
+> 2500 von dem Widerling geleistete hoch bezahlte Stunden in Rechnung stellen
+> kann', dann haben Sie zumindest Ihre Prioritäten geklärt, ohne auch nur einen
+> Cent für Unternehmensberater ausgegeben zu haben.
+
+which, roughly translated is
+
+> I propose to consider the following question: 'Why do we comply to such
+> behaviour?' If your answer is 'because the office can bill 2500 highly paid
+> hours from this creep', you at least got your priorities sorted, without
+> having spent a cent for a consultant.
+
+
+and
+
+> "ein guter Busfahrer niemals einen Unfall baut, der ein Unfall ist." Vielmehr
+> sollten Sie "Unfälle" als Strafen ansehen, die sie "wild gewordenen
+> Autofahrern" bewusst zufügten. Jeder städtische Busfahrer, erklärte sie,
+> dürfte drei Unfälle pro Jahr bauen, ohne disziplinarische Maßnahmen fürchten
+> zu müssen. Den neuen riet sie, sich "einen Unfall für die Weihnachtszeit
+> aufzuheben, weil da die ganzen Idioten auf der Straße sind und Ihr den Wunsch
+> verspüren werdet, es einem von ihnen heimzuzahlen.
+
+which is 
+
+> "a good bus driver is never involved in an accident, which is an accident."
+> Rather, "accidents" should be seen as "punishment intentionally dealt to
+> cars gone wild." Every municipal bus driver, she explained, is allowed to be
+> involved in up to three accidents, without having to fear disciplinary
+> measures. The new drivers should "keep one for christmas, because all the
+> idiots are on the streets then, and you will get a feeling of wanting to pay
+> it back to at least one of them."
+
+Those were the ones that struck me, at least. Well, maybe include the two from
+the last chapter as well.
 
 
 [wiki]: https://en.wikipedia.org/wiki/The_No_Asshole_Rule
@@ -472,7 +531,7 @@ central themes perfectly:
 
 
 
-// <!- -
+<!--
 
 # run 1: Notes
 
@@ -520,8 +579,6 @@ Two tests are specified for recognition of the asshole:
 - there is a massive amount of assholes everywhere
 - best way to measure character: look at how this persons treats both people above and below
 
----
-
 ## Chapter 2: The Damage Done: Why Every Workplace Needs The Rule
 
 - reiteration of: they are everywhere
@@ -542,8 +599,6 @@ Two tests are specified for recognition of the asshole:
 - higher effort and lost time and energy for everyone around them
 
 - long list about potential 'money losing' actions/things
-
----
 
 ## Chapter 3: How to Implement the Rule, Enforce it, and Keep it Alive
 
@@ -603,8 +658,6 @@ This also prevents assholes to get in Manager or HR positions, they would multip
 - It is especially important during hard times, when everyone is on edge
 
 
----
-
 ## Chapter 4: How to Stop Your "Inner Jerk" From Getting Out
 
 - now: applying it to yourself, and how to prevent yourself from becoming one
@@ -622,7 +675,6 @@ This also prevents assholes to get in Manager or HR positions, they would multip
 - self-evaluation about yourself and how others react to you, if you are an asshole
 
 
----
 
 ## Chapter 5: When Assholes Reign: Tips for Surviving Nasty People and Workplaces
 
@@ -656,7 +708,6 @@ How to fight against that:
 - even if you can endure, you probably should find a way to get away from them
 
 
----
 
 ## Chapter 6: The Virtues of Assholes
 
@@ -696,7 +747,6 @@ Reality from an assholes perspective
 Is that really worth it?
 
 
----
 
 ## Chapter 7: The No Asshole Rule as a Way of Life
 
@@ -722,10 +772,6 @@ This shows seven central themes:
 - The assholes - that is us. regularly take a view in the mirror
 
 
----
 
 <!-- -->
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
