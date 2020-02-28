@@ -3,7 +3,6 @@ layout: post
 published: true
 title: 'Book: Zero to One'
 subtitle: Notes on Startups, or How to Build the Future
-date: '2020-02-02'
 tags:
 - book
 ---
