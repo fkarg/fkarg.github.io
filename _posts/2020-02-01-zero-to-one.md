@@ -3,14 +3,18 @@ layout: post
 published: true
 title: 'Book: Zero to One'
 subtitle: Notes on Startups, or How to Build the Future
+date: '2020-02-02'
 tags:
 - book
 ---
 Review of Peter Thiels' 'rare thing: a concise [and] thought-provoking book on
 entrepreneurship'.
 
-So I got this book some time ago, and I finally got around to reading it. Here
-are my thoughts about it, roughly ordered semantically.
+I bought this book in a bookstore in Berlin roughly a week after the LWCW, with
+two others (will be linked here after reviewed, 'Mark Manson: Everything is
+F\*cked' and '7 Habits of Highly Effective People'). This was some time ago,
+and I finally got around to reading it. Here are my thoughts about it, roughly
+ordered semantically.
 
 
 # Core Key Takeaways
@@ -521,8 +525,6 @@ probably keep it that way.
 
 **Edits:**
 - 2020-02-01: added Criticism
-
-_Isn't it exciting, you can discover quite a few things by only thinking about them!_
 
 
 
