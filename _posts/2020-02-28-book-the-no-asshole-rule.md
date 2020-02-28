@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: The No Asshole Rule'
 subtitle: Building a Civilized Workplace and Surviving One That Isn't
-date: '2020-02-10'
+date: '2020-02-28'
 ---
 Review of the book claiming to have answers to some of our everyday struggles.
 
