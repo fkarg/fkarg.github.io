@@ -8,8 +8,8 @@ date: '2020-02-10'
 Review of the book claiming to have answers to some of our everyday struggles.
 
 
-I did not read the book in english. This is because I came across this book in
-a bookstore in Basel. The english table of contents seems similiar enough, so
+I did not read the book in English. This is because I came across this book in
+a bookstore in Basel. The English table of contents seems similar enough, so
 I'll stay with the chapters. If something appears weird, that might be one
 reason. This also prevents me from directly quoting, but let's see.
 
@@ -36,16 +36,16 @@ Well of course they are a jerk, but that kind of does not cut it. They are more
 than 'just a jerk'.
 
 The first time he came across the 'no asshole rule' was during a discussion
-about candidate selection for stanford professors, where someome said the
+about candidate selection for Stanford professors, where someone said the
 following:
 
-> Listen, I do not care if he won the nobel price ... I just do not want an
+> Listen, I do not care if he won the Nobel price ... I just do not want an
 > asshole to ruin our group.
 
 And that kind of cut it. Over time, this really was implemented and it kept the
 climate really collegial.
 
-Early on, he wrote a short excerpt for the Harward Business Review, and as they
+Early on, he wrote a short excerpt for the Harvard Business Review, and as they
 have a right and proper image, he did not expect them to write the word
 'asshole'. After all, it was eight times in his article. But they did. And then
 a flood of feedback from all around the globe came in. Since, apparently, this
@@ -70,9 +70,9 @@ He calls them 'temporary' vs 'certified' assholes, the meaning of which is
 self-explanatory.
 
 Is just one bad experience enough for them to be thought of as being a
-'certified' one? He tells a story about him being a new assistent professor,
+'certified' one? He tells a story about him being a new assistant professor,
 working really hard in improving his teaching. When he received the 'best
-lecturer'-award after three years, a jelous female colleague whispered to him
+lecturer'-award after three years, a jealous female colleague whispered to him
 in a condescending voice: "Well done. How about, after having satisfied the
 babies, to do some actual work?" Understandably, he was not exactly happy after
 this encounter.
@@ -81,7 +81,7 @@ Which constitutes the first test: After encountering the person, do people feel
 oppressed, humiliated or otherwise worse about themselves?
 
 What else do they do to make you feel like that?
-He catalogued these unpleasant behaviours as The Dirty Dozen:
+He cataloged these unpleasant behaviours as The Dirty Dozen:
 - Insults
 - Violation of personal space
 - Unsolicited touching
@@ -100,7 +100,7 @@ This, however, is apparently not sufficient, since everyone behaves like that
 sometimes. He himself gives the example of sending a scornful email to a
 colleague because he wrongly believed she was trying to take an office away
 from his group - as soon as he realized this was not the case he apologized
-profoundly, but it was still done. As it was a 'one-time' occurence, this does
+profoundly, but it was still done. As it was a 'one-time' occurrence, this does
 not qualify him as anything more than a 'temporary' asshole.
 
 He then goes on and lists several 'publicly well-known' assholes, both male and
@@ -109,15 +109,15 @@ female.
 The second test (apart from apparently that this needs to be repeated
 behaviour) is if the person primarily targets less powerful people.
 
-He does not, however, favour cowards or obsequious people, as they just try to
+He does not, however, Cavour cowards or obsequious people, as they just try to
 avoid confrontation, with similar negative effects. He gives the example of
-intel doing 'constructive confrontation' workshops regularly, and having an
+Intel doing 'constructive confrontation' workshops regularly, and having an
 accordingly confrontational culture.
 
 Also, during his research for another book, 'Weird Ideas that Work' (core:
 hiring 'eccentric' people you do not seem to need might boost overall
 creativity and productivity), he found that for some reason HR-people tend to
-ignore 'weird' mannerisms from people and downplay unfavourable ones for their
+ignore 'weird' mannerisms from people and downplay unfavorable ones for their
 achievements on paper.
 
 The other two points he still makes in this chapter are that there are a
@@ -131,7 +131,7 @@ character is to see how a Person treats both people above and below herself.
 First, he reiterates that they are literally everywhere, this time with a lot
 of numbers, stats. And they mainly damage their surroundings through small
 inconveniences for everyone they interact with, generally demotivating people
-and putting them psyochological pressure, which results in them having a
+and putting them psychological pressure, which results in them having a
 statistically significant higher rate of illness.
 
 He then makes a really convincing point of 'people do not really quit their
@@ -141,7 +141,7 @@ jobs, they quit managers and environments' - the average turnover rate is about
 But, they are not the only ones suffering, especially asshole-managers suffer
 from the following symptoms:
 - Demotivated teams, reducing effectivity
-- Nitpicking and small 'revenge' on them (they obvously do not notice)
+- Nitpicking and small 'revenge' on them (they obviously do not notice)
 - They frequently have new people to teach, reducing overall productivity
 - They are getting fired more frequently as well, meaning a search for another
   job ...
@@ -150,7 +150,7 @@ from the following symptoms:
   ability to stay as a manager
 - Your team only tries to prevent getting blamed, no effort is made to actually
   solve the problems at hand
-- They will not have the best canditates applying either, because a lot of
+- They will not have the best candidates applying either, because a lot of
   people get to know about bad managers from other employees social life
 
 
@@ -181,13 +181,13 @@ company.
 
 ## 3 How to Implement the Rule, Enforce it, and Keep it Alive
 
-Sometimes glorified overarchievers become assholes over time, if they are not
+Sometimes glorified overachievers become assholes over time, if they are not
 kept in check. There seems to be a company out there, roughly calculating the
 (asshole-) cost of one of their managers and deducting it from their pay
 (250k!).
 
 One reason assholes are tolerated is probably the existing 'winners mentality',
-especially in america. This means that 'just about everything' is allowed, as
+especially in America. This means that 'just about everything' is allowed, as
 long as it gets the team winning; That it is expected for successful people to
 be not as nice as others.
 
@@ -223,25 +223,25 @@ Another detection mechanism if someone is an asshole: would you feel relieved
 if they were let go of? If yes, it might be time to actually do so.
 
 Apply the no-asshole-rule to your customers and clients, everyone will thank
-you for that. Power tends to corrupt, and 'rewarding' overarchievers makes them
+you for that. Power tends to corrupt, and 'rewarding' overachievers makes them
 correlate the reward with their behaviour ... which might not be true. Also,
-they might have this image of really succussful people being assholes, and them
+they might have this image of really successful people being assholes, and them
 slowly becoming really successful also means, ...
 
 The core of the next example was that you should be an approachable boss (no
 one should fear giving you feedback about something), and that while a
 hierarchy needs to exist, the social differences should be reduced where
-possible and downplayed where not possible - thes makes for a much more
+possible and downplayed where not possible - this makes for a much more
 collegial atmosphere.
 
 A different approach would be to regularly do anti-asshole workshops with
-reflection and sensibilisation, they tend to have massively positive results,
+reflection and sensibilization, they tend to have massively positive results,
 such es drastically reduced overtime and sick days while improving efficiency
 and revenue by 9-30%.
 
 People are going to follow the majorities' behaviour. The proportion of people
 following even increases if there is one visible 'outlier', because we want to
-seperate ourselves ('us') from the outlier ('them'). However - it might not be
+separate ourselves ('us') from the outlier ('them'). However - it might not be
 that good of an idea to employ 'exemplary' assholes, for various reasons. You
 would need to keep them at the bottom as well, to make sure that everyone
 understands that this is undesired behaviour.
@@ -252,7 +252,7 @@ There are ten rules for applying the anti-asshole-rule:
 - Get rid of them as fast as possible
 - Treat assholes as incompetent. Incompetent in communication, if nothing else
 - Power corrupts. watch out whom to promote
-- Acknowledge differences in status, but mitigate unnecessary status differntials
+- Acknowledge differences in status, but mitigate unnecessary status differentials
 - Manage moments - not practices or systems. Be mindful
 - Value and teach constructive confrontation
 - Adopt at most one negative role model total. Keep that one in check accordingly.
@@ -286,7 +286,7 @@ aware of it and only want to do good. They usually notice with overwhelming
 evidence of a 360°-Feedback, which you probably do regularly already.
 
 At the end of the chapter is a self-evaluation about how others react to you,
-and a threshold from which onwards you are quite likely to be at least a
+and a threshold from which onward you are quite likely to be at least a
 considerable jerk.
 
 ---
@@ -294,7 +294,7 @@ considerable jerk.
 ## 5 When Assholes Reign: Tips for Surviving Nasty People and Workplaces
 
 Apparently, millions feel 'contained' in pro-asshole company cultures.
-Statistically, 25% of those getting harrassed, and 20% of those witnessing it,
+Statistically, 25% of those getting harassed, and 20% of those witnessing it,
 will change their manager. This is much higher than the usual 5%.
 
 Some are in situations where they cannot afford to change their job. The best
@@ -304,7 +304,7 @@ way to fight against a nasty workplace is among the following:
 - Look for others in similar situations and get together, exchange hardships and achievements.
 - Be content with _small victories_, small and gradual outings of them being assholes.
     - Build upon this. You are in control! Get some self-confidence from this to hold on.
-- Reframe the situation: The current situation is only temporary and will
+- Re-frame the situation: The current situation is only temporary and will
   not affect your overall life
 - It is not your fault and there is no benefit in thinking otherwise - Everyone
   would have been treated like this in your situation
@@ -312,19 +312,19 @@ way to fight against a nasty workplace is among the following:
   is not allowed to be in.
 - Keep calm and keep positive
 - Avoid contact as much as possible
-- Always be deescalative and try to reeducate the offenders
+- Always be deescalating and try to reeducate the offenders
     - Even if it fails, the likelihood of outbursts is massively smaller than
       when angering them further
 - Even if you can endure, you probably should find a way to get away from it
 
 Additionally, there are two examples showing just how important control, or at
 least a feeling of control is:
-- Every surviving war prisoner (released from the vietnamese in 1973) had some
+- Every surviving war prisoner (released from the Vietnamese in 1973) had some
   kind of small ritual, something they did every day, which kept them 'in
   control' and sane.
 - In a bus depot in a city in Michigan they had the rule that they are allowed
   to have 'three accidents every year'. And they should keep one of them for
-  all the idiots during christmas rush time. This gives them a lot of control,
+  all the idiots during Christmas rush time. This gives them a lot of control,
   and lets them keep calm even in pretty annoying situations, keeping their
   actual accident rates very low and winning them multiple safety awards.
 
@@ -376,7 +376,7 @@ passed them on to the next.
 There are five ways for effective assholes:
 - Openly shown anger and being mean _can be_ effective tools for power
 - Intimidation and viciousness are good for getting rid of competitors
-- Recognitions for contributions work wonders when also motivating people with
+- Recognition for contributions work wonders when also motivating people with
   fear
 - Build a 'toxic tandem' with someone nicer / find your 'good cop'
 - Solely being an asshole does not suffice, know when to be one, and especially
@@ -398,9 +398,9 @@ Reality from an assholes perspective
 - Their employees will focus on not getting blamed rather than actually solving
   the problems at hand - with devastating long-term effects
 - People (especially those charging you) will ask for considerably more when
-  working with someone unlikeable, 'to make up for it'
+  working with someone unlikable, 'to make up for it'
 - They continuously create enemies, who try to harm them without getting
-  noticed (doing slightly worse work, delaying or neglegting to report
+  noticed (doing slightly worse work, delaying or neglecting to report
   important information, claiming work takes longer than it does)
 
 
@@ -411,8 +411,8 @@ Some of the advantages are real, but beware of dragons (illusions)!
 
 ## 7 The No Asshole Rule as a Way Life
 
-Little joe's is your cozy local family diner, with the owner and staff happily
-fooling around. Customers are happy. Add a douchebag, making impolite comments
+Little Joe's is your cozy local family diner, with the owner and staff happily
+fooling around. Customers are happy. Add a douche-bag, making impolite comments
 and complaints, insulting everyone telling him to stop doing that, generally
 making everyone uncomfortable. A customer with a loud voice complimented him:
 
@@ -425,7 +425,7 @@ The douche was somewhat happy of being recognized, saying who he is.
 > assholes ... and you are the perfect character for chapter 13.
 
 Except for him, everyone started laughing. He got and kept quiet. This was
-Suttons' first encounter with a book about assholes, and it portraits several
+Sutton's' first encounter with a book about assholes, and it portraits several
 central themes perfectly:
 
 - A small number of creeps is sufficient to let everyones warmth and sincerity
@@ -437,7 +437,7 @@ central themes perfectly:
 - Keeping an exemplary asshole is a stark reminder for people not to become one
 - Management is not responsible for enforcing the rule. Everyone, always, is
   (it was not the owner or a staff member making the book-comment, and it would
-  likely not have been as effective etiher)!
+  likely not have been as effective either)!
 - The main motivation for such behaviour tends to be the fear of exposure (for
   something), or simply shame
 - The second guy was an asshole to the first one as well. The assholes is us,
@@ -449,33 +449,33 @@ central themes perfectly:
 
 # Overall
 
-I would recommend this to everywone with a bit of time, and maybe a slight
+I would recommend this to everyone with a bit of time, and maybe a slight
 personal annoyance towards such a person.
 
 ## Main Takeaways
 
-For me the by far biggest takeway is an increased sensitivity to the topic of
-unpleasent company in general. Especially if people are doing it structurally
+For me the by far biggest takeaway is an increased sensitivity to the topic of
+unpleasant company in general. Especially if people are doing it structurally
 or only temporary. Also, it appears that I have used the 'strategic' part
 before, albeit only a few times. I guess this really will be useful in avoiding
-certified ones, and preventing them from taking hold whereever I will work in
+certified ones, and preventing them from taking hold wherever I will work in
 the future. I will live by the 'no-asshole-rule!'
 
 ## Criticism
 
 I really liked it. It was concise, but not too dense, with good exemplary
 stories and references, explaining in detail what is meant. I liked how the
-author gave examples of him being someone unpleasent without making it seem
+author gave examples of him being someone unpleasant without making it seem
 like he wants to be glorified for admitting these atrocities.
 
-Additionally, since I read the german translation, I was quite surprised. I
-expected more to be rather 'clear cut' translations from english, but there
+Additionally, since I read the German translation, I was quite surprised. I
+expected more to be rather 'clear cut' translations from English, but there
 were quite a few passages and words, subtleties, that one could not have
 'simply translated'.
 
 ## Favourite Quotes
 
-This obivously includes the original ones with my translations here:
+This obviously includes the original ones with my translations here:
 
 > Ich schlage vor, dass Sie sich folgende Frage stellen: 'Warum finden wir uns
 > mit einem solchen Verhalten ab?' Wenn die Antwort lautet: 'Weil die Kanzlei
@@ -507,7 +507,7 @@ which is
 > Rather, "accidents" should be seen as "punishment intentionally dealt to
 > cars gone wild." Every municipal bus driver, she explained, is allowed to be
 > involved in up to three accidents, without having to fear disciplinary
-> measures. The new drivers should "keep one for christmas, because all the
+> measures. The new drivers should "keep one for Christmas, because all the
 > idiots are on the streets then, and you will get a feeling of wanting to pay
 > it back to at least one of them."
 
@@ -541,7 +541,7 @@ the last chapter as well.
 - First time heard:
 > Hören Sie, es ist mir egal, ob dieser Kerl den Nobelpreis gewonnen hat ... Ich will nur nicht, dass irgendein Arschloch unsere Gruppe ruiniert.
 
-Helped to keep stanford faculty climate collegial.
+Helped to keep Stanford faculty climate collegial.
 
 Beginning:
 Short article in HBR, expected not to get it printed, especially 'asshole'. Got printed eight times. After that, massive feedback came in.
