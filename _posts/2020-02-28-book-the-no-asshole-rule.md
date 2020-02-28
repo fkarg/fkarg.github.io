@@ -4,6 +4,8 @@ published: true
 title: 'Book: The No Asshole Rule'
 subtitle: Building a Civilized Workplace and Surviving One That Isn't
 date: '2020-02-28'
+tags:
+- book
 ---
 Review of the book claiming to have answers to some of our everyday struggles.
 
@@ -15,7 +17,6 @@ reason. This also prevents me from directly quoting, but let's see.
 
 
 # Core Key Takeaways
-
 This is a collection of core key takeaways found within this book, particularly
 things I was not aware of, or good collections I wanted to share. Even though
 you might substitute reading this instead of the book itself, a summary can
@@ -29,7 +30,6 @@ something you read here is not in the book - it never was.
 
 
 ## Foreword
-
 There is situations, where you come across someone and just recognize that they
 are being an asshole. And, honestly, there just is no better word for it. Jerk?
 Well of course they are a jerk, but that kind of does not cut it. They are more
@@ -61,7 +61,6 @@ Someone even proposed 'idiot-audits', with something along the following:
 ---
 
 ## 1 What Assholes Do and Why You Know So Many
-
 Now the problem (?) is that not everyone is an asshole. Some just had a [very
 bad day][vending machine]. So how to differentiate between those with a bad day
 and those doing it regularly?
@@ -445,6 +444,7 @@ central themes perfectly:
   in the mirror regularly
 
 
+---
 ---
 
 # Overall
