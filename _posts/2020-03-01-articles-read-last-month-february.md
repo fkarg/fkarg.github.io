@@ -3,6 +3,8 @@ layout: post
 published: false
 title: 'Articles Read in February'
 date: '2020-03-01'
+tag:
+- links
 ---
 Commenting and relating several news and articles I read this last month.
 
@@ -109,8 +111,15 @@ Review of a book written by astronaut Chris Hadfield.
 Russian scientists accidentally create universal all-purpose computer vision algorithm - Science & Space - TASS
 https://tass.com/science/1119225
 
+TODO: read again & comment
+
+---
 Why developers like to code at night | Opensource.com
 https://opensource.com/article/20/2/why-developers-code-night
+
+How the 'myth' of coding at night started to emerge, and why it still might have some benefits today
+
+---
 
 What they don’t say about Pair Programming - Level Up Coding
 https://levelup.gitconnected.com/what-they-dont-say-about-pair-programming-5a63d32d562a
