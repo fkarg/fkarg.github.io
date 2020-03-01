@@ -1,3 +1,12 @@
+
+---
+layout: post
+published: false
+title: 'Topic: Consciousness'
+subtitle: subtitle
+tags:
+- book
+---
 Why I would argue that we are not conscious most of the time, and what to do about that.
 
 
