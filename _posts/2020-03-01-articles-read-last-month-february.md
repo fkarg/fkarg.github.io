@@ -111,55 +111,106 @@ Review of a book written by astronaut Chris Hadfield.
 Russian scientists accidentally create universal all-purpose computer vision algorithm - Science & Space - TASS
 https://tass.com/science/1119225
 
-TODO: read again & comment
+They found a better computer vision algorithm. Sadly with no technical details
 
 ---
 Why developers like to code at night | Opensource.com
 https://opensource.com/article/20/2/why-developers-code-night
 
-How the 'myth' of coding at night started to emerge, and why it still might have some benefits today
+How the 'myth' of coding at night started to emerge, and why it still might have some benefits today.
 
 ---
-
 What they don’t say about Pair Programming - Level Up Coding
 https://levelup.gitconnected.com/what-they-dont-say-about-pair-programming-5a63d32d562a
 
+A good summary of something that is commonly seen as being only hearts and roses. It is not.
+
+---
 7 Open Source Cloud Security Tools You Should Know
 https://blog.runpanther.io/open-source-cloud-security-tools/
 
+TLDR; You might want to know about OSQuery, GoAudit, Grapl, OSSEC, Suricata, Zeek/Bro and Panther.
+
+---
 The Horrifically Dystopian World of Software Engineering Interviews - Blog by Jared Nelsen
 https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews
 
+A not uncommon unpleasant experience in todays' software engineering job interview process.
+
+---
 The Warren Buffett Era of Investing is Over. Elon Musk Proved It
 https://www.ccn.com/the-warren-buffett-era-of-investing-is-over-elon-musk-proved-it/
 
+Maybe, Just maybe, there are investing strategies that are working better in
+todays short-lived VC world.
+
+---
 Mathematicians Discover Prime Conspiracy | Quanta Magazine
 https://www.quantamagazine.org/mathematicians-discover-prime-conspiracy-20160313/
 
+Seemed somewhat awesome, so I just implemented a small test in a couple of
+lines: https://github.com/fkarg/prime\_testing - seems to hold so far.
+
+---
 Preface :: Reasonably Polymorphic
 https://reasonablypolymorphic.com/book/preface
 
+This is just an encounter, I have not read much further than the preface yet.
+Basically a book about how everything around us works, on a fundamental level,
+or how one could re-build current civilisation after an armageddon. Seems
+worthwile.
+
+---
 hacker-laws/README.md at master · dwmkerr/hacker-laws · GitHub
 https://github.com/dwmkerr/hacker-laws/blob/master/README.md
 
+Awesome collection of hacker/nerd related 'laws'. almost all of them are
+somehow either known already or seem trivially true based on experience.
+Awesome collection, having written them down on one place.
+
+---
 On Design Thinking | Issue 35 | n+1
 https://nplusonemag.com/issue-35/reviews/on-design-thinking/
 
+A pretty nice story on design.
+
+---
 Chris's Wiki :: blog/sysadmin/RunningServersNotTrivial
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunningServersNotTrivial
 
+More and more people just think hosting something etc. is _easy_. Well, it is
+not if you want to do it _well_. This is a collection of common troubles.
+
+---
 MVC is dead, it's time to MOVE on.
 https://cirw.in/blog/time-to-move-on
 
+An argument against the commonly used **M**odel-**V**iew-**C**ontroller-Model,
+having sligthly more details on the 'Control' side, becoming **M**odels,
+**O**perations, **V**iews, and **E**vents.
+
+---
 ROSALIND | Problems
 http://rosalind.info/problems/list-view/
 
+Awesome page giving you ProjectEuler-Style problems from bioinformatics instead
+of mathematics.
+
+---
 How to Collaborate with People You Don’t Like
 https://hbr.org/2018/12/how-to-collaborate-with-people-you-dont-like
 
+A story about someone succeeding in cooperating with someone even though they
+did not like that person.
+
+---
 Reinventing Hiring Based on How the Best People Find New Jobs | LinkedIn Talent Blog
 https://business.linkedin.com/talent-solutions/blog/recruiting-tips/2018/reinventing-hiring-find-new-jobs
 
+A Guide on how to write good Job descriptions for your open positions, based on
+how 'the best' search for jobs.
+
+---
 SmallData | Blog | Setting up a raspberry pi 4 home server
 https://smalldata.tech/blog/2019/07/12/setting-up-a-raspberry-pi-4-home-server
 
