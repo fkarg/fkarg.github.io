@@ -139,7 +139,44 @@ Since there are one or more quotes on each (!) page (up to three, actually), her
 
 // < !-- -----NOTES-----------------------
 
+### Foreword
 
+- most self-help books are not worth reading more than once since do not
+  provide more then dressed-up common sense, and most is forgotten the next
+  week
+- This book is different, mainly because of these three qualities:
+    - practicality (no complete turn-your-life-around suggestions)
+    - open-ended adaptability (everyone slightly adapts it in his own way, as
+      already found out)
+    - quality (many real-life examples cited, recommendations based on
+      experiences he has made personally)
+
+### Introduction to the Revised Edition
+- is a total rewrite, based on his better understanding
+- did not need to change: fundamental principles and core techniques
+- specifically new
+    - more on general requirenments for software, not specific software tools
+    - applying gtd in a 27/7 world
+    - globalization of the technique. Probably adapting explanations to be easier understood?
+    - has been received as 'too much information at once', tried to slightly mitigate that, split into more seperate steps
+    - recent cognitive science findings validating the approach
+
+- still a new book, every time it is read
+
+
+- gold mine of efficiency that works
+- everyone has some habits for that sort, but (major) changes might be
+  uncomfortable and even wreck havoc (if they cannot keep up)
+- techniques allow you to be more 'in the moment'
+- three parts:
+    - explanation of system
+    - implementation details
+    - in-depth subtle implications
+> This is the vaccination against day-to-day firefighting (the so-called urgent
+> and crisis demands of any given workday) and an antidote for the imbalance
+> many people bring upon themselves.
+
+---
 ## Part 1: The Art of Getting Things Done
 
 ### Chapter one: Busy Lifes
