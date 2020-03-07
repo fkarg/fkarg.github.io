@@ -127,6 +127,11 @@ Since there are one or more quotes on each (!) page (up to three, actually), her
 
 > Think like a man of action, act like a man of thought. - Henri Bergson
 
+> Rule your mind or it will rule you. - Horace
+
+> Boy, that was an amorphous blob of undoability!
+A biotech-manager about her to-do-list after one of his seminars.
+
 > There is no reason to ever have the same thought twice, unless you like having that thought.
 
 > have you envisioned wild success about anything lately?
@@ -179,9 +184,45 @@ Since there are one or more quotes on each (!) page (up to three, actually), her
 ---
 ## Part 1: The Art of Getting Things Done
 
-### Chapter one: Busy Lifes
+### Chapter one: A New Practice for a New Reality
 
-### Chapter one: New Practice for a New Reality (Take II)
+> It's possible to have an overwhelming number of things to do and still
+> function productively with a clear head and a positive sense of relaxed
+> control. [...] What you are doing is exactly what you ought to be doing,
+> given the whole spectrum of commitments and interests. You're fully
+> available. You're "on".
+
+- Problem: New demands, 'old', usual habits do not suffice with new workload
+- Value thinking tends to fail: Top-down organizing fails by the urgency of
+  bottom-level tasks, increasing frustration on 'values' that got us the
+  low-level-tasks in the first place
+- Promise: the 'zone', necessary for effective productivity
+- Principle: Dealing effectively with internal commitments
+    - every open task is continually tracked subconsciously
+    - what is it, what needs to be done, and will I be reminded?
+    - make sure that it is noted down appropriately
+> Now write down the _very next physical action to move the situation forward_.
+
+> We're never really taught what we have to think about our work before we can
+> do it; much of our daily activity is already defined for us by the undone and
+> unmoved things staring at us when we come to work, or by the familty to be
+> fed, the laundry to be done, or the children to be dressed at home.
+
+Things are on your mind because:
+> - you haven't clarified exactly what the inteded outcome is;
+> - you haven't decided what the very next physical action step is; and/or
+> - you haven't put reminders of the outcome and the action required in a
+>   system you trust.
+
+- You don't manage
+    - time (get six out of five minutes)
+    - information overload 
+    - priorities - you _have_ them
+- you manage _actions_.
+
+- usually not lack of time; but lack of clarity and definition of the problem
+- bottom-up approach is more effective because it first allows you to breathe
+- do not just make a list of everything bugging you, but _everything_
 
 ### Chapter two - Getting Control of Your Life: The Five Steps of Mastering Workflow
 
