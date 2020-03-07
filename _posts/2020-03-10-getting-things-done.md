@@ -9,8 +9,9 @@ tags:
 My rewritten review of the updated edition of David Allan's bestseller GTD.
 
 I heard about it for quite some time already. I was searching for a way to
-increase my productivity, and when I asked what 'system' someone employed, the
-by far most frequent answer was 'GTD, but with the variation that ....'.
+increase my productivity, and when I asked what 'system' others employed,
+basically the only answer I received was 'GTD, but with the variation that
+...'.
 
 A couple weeks later I went to a talk with the topic being 'how to be
 productive'. After this talk, the presenter, viewing this as part of his legecy
@@ -23,11 +24,15 @@ system), which were the main contents of his talk.
 
 # Core Key Takeaways
 
+I will correlate parts of the book with experiences I have made since reading
+it or with techniques/information not from within the book itself. When reading
+it, you might interpret it in an entirely different way.
+
+### Foreword
+
 ## Part 1: The Art of Getting Things Done
 
-### 1 Busy Lifes
-
-### 1 New Practice for a New Reality (Take II)
+### 1 A New Practice for a New Reality
 
 ### 2 Getting Control of Your Life: The Five Steps of Mastering Workflow
 
@@ -84,6 +89,21 @@ This part is about step-by-step guidelines to set this process up and bootstrap 
 # Overall
 
 ## Main Takeaways
+First read:
+- noticed I was doing quite well in compared to a lot of examples given
+- still massive room for improvement
+- Changes specifically:
+    - improved handling of lists
+    - eliminated certain lists, created others
+    - unsure on how to handle projects, specifically
+    - created massive 'in' box, but did not process (mainly because reading a
+      lot while not being close to it)
+    - improved usage of own general filing/reference system
+    - spent some amount of time to improve current processes in general, with
+      at least moderate effects, and wrote down a lot of ideas for further
+      improvements
+
+Second read:
 
 ## Criticism
 I am still not sure on how to correctly categorize items that would fit in
@@ -91,6 +111,9 @@ multiple lists. This includes projects specifically. There is a
 'prjoects'-list, and on it are all the projects, and every project is its own
 (sub) list as well, but these sub-items should somehow also occur on the
 primary 'next actions' list, If I understood that correctly. Or not?
+
+Generally:
+- How to deal with items that should go in multiple lists?
 
 Okay, well, apart from this little one, I am massively positive about this. I
 think it is one of the books helping me a tremendous amount more than others;
