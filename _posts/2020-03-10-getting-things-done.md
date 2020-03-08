@@ -226,6 +226,87 @@ Things are on your mind because:
 
 ### Chapter two - Getting Control of Your Life: The Five Steps of Mastering Workflow
 
+> We _capture_ what has our attention; _clarify_ what each item means and what
+> to do about it; _organize_ the results, which presents the options whe
+> _reflect_ on, which we then choose to _engage_ with.
+
+Weaknesses:
+    - capture: mostly in our head
+    - clarify: not decided what action to takel, vague notes and random lists
+    - organize: Not organizing the results in appropriate reminders for context
+    - reflect: Not reflecting consistently enough to to keep them up-to-date
+    - engage: Engaging only reactionary, not structured according to what needs to be done
+
+Common failure mode: trying all at once
+
+Capture: put everything 'incomplete' or unmanaged in a list or 'container', just not your head
+    - Possibly: Physical in-tray; Paper-based Note-taking System;
+      Digital/Audio/Note-taking devices; E-mail or text messages
+    - Factors for success:
+        - Every open loop is in your capture system and out of your head
+        - You must have _as few_ capturing buckets as you can get by with
+        - You must empty them regularly
+
+Clarify: Item-by-item: is it actionable? If **No**: either put it in trash, in
+your general reference filing system or your Someday/Maybe/Tickler system.
+If **Yes**: What is the Project/Outcome? What is the next action?
+
+ ______ ____ 
+|Do it      |   if it takes <2min
+|Delegate it|   Who is the right person to do this?
+|Defer it   |   If you, track it in your 'Next-Action' list or Calendar
+|___ _______|_
+
+
+Organize
+
+> To manage actionable things, you will need a _list of projects, storage or
+> files for project plans and materials, a calendar, a list of reminders of
+> next actions, and a list of reminders of things you are waiting for_.
+
+Projects are everything with more than one action-step and are doable in one year.
+    => 'list of open loops, no matter the size'
+    They do not even need to be sorted, they just need to be on some
+    master-list so they can be reviewed regularly
+
+Support material should be in your general reference filing system
+Everything completed does not need to be tracked, but:
+    -> actions on specific times go in the calendar
+    -> actions to be done asap go in the Next Actions list
+    -> blocked by waiting for others? seperate 'Waiting For' list
+
+Only put time/day specific actions and information in your calendar, nothing
+else. Certainly not any daily todos: they tend to not get done and dilute the
+emphasis on important time-related information.
+
+Next-Action-Lists:
+    - Someday/Maybe: ongoing lists of things to do at some point later in the future
+    - Books to read/Wines to taste/Recipes to try/Movies to watch/seminars to take/.../stuff to implement
+    - Tickler/suspense system: receive (important) information at some point in the future
+
+
+Refect
+
+Important: consistent regularity in updating the different lists. Review Projects, project plans, Next Actions, Agendas, Waiting For, Someday/Maybe at least once a Week. Also go over the last couple of days to as well as the next few.
+Most feel best about their work just before they go on vacation, mainly because they "clean up" all the open threads.
+
+Engage
+
+Three models useful in deciding what to do:
+    - Four Criteria: Tools/Context available, Time available, Energy available and Priority
+    - Threefold Model: Doing predefined work/ Doing Work as it shows up, Defining your Work
+    - Six-Level Horizon:
+        Purpose and Priciples       Existential Questions/Answers
+        Vision                      3-5 Years, organizational strategy, aspirations and considerations regarding career or familiy
+        Goals                       What to experience in 1-2 Years
+        Areas of Focus and Accountability   Health/Family/Finance/Work/Responsibilities
+        Current Projects            mostly 'short-term' outcomes
+        Current Actions             Accumulated list of Everything that needs to be done
+
+
+
+
+
 ### Chapter three - Getting Projects Creatively Under Way: The Five Phases of Project Planning
 
 
