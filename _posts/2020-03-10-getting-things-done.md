@@ -309,6 +309,43 @@ Three models useful in deciding what to do:
 
 ### Chapter three - Getting Projects Creatively Under Way: The Five Phases of Project Planning
 
+Relaxed Control: By having clearly defined outcomes and their next actions; +
+Reminders in trusted and regularly reviewed systems.
+
+Professionals tend not to have enough time dedicated for informal methods or
+brainstorming sessions, as not to lose ideas, to "flesh them out".
+
+The Natural Planning Model
+
+1. Defining Purpose and Principles      Why do you want to achieve it?
+2. Outcome Visioning                    What do you want to achieve?
+3. Brainstorming                        How to get there?
+4. Organizing                           In what order to do things?
+5. Identify Next Actions                What to do first?
+
+Barely anyone does it like that.
+
+Unnatural Planning Model:
+Starting a Meeting with "who has a good idea?" without even defining purpose or vision.
+
+Reactive Planning Model: Start with actions and escalate levels of the Natural
+planning model on conflict.
+
+
+Five Phases in Natural Planning
+1. Ask WHY to find out the purpose of situations/actions
+    => defines Success, is decision-making criteria, motivates, clarifies, and expands options
+    Principles: "I would give others totally free reign to do this, as long as they ... " What?
+    Vision provides the blueprint for the final result. Focus on the task at hand - activate the RAS!
+2. Clarify the outcome and consider "wouldn't it be great, if ..."
+3. Capture parts on how to get there by Brainstorming: No evaluation or analysis, go for quantity
+4. Identify the significant pieces by roughly creating a sequential plan (=> Organizing)
+5. Deduce Next Actions on every Front, delegate and put them in 'Waiting For' list
+
+Plan as much as you need to get the project out of your head. For more clarity, ask 'why', for more happening, ask 'how'.
+    => Simple to understand and easy to implement
+
+
 
 ## Part 2: Practicing Stress-free Productivity
 
