@@ -351,6 +351,64 @@ Plan as much as you need to get the project out of your head. For more clarity, 
 
 ### Chapter four - Getting Started: Setting Up the Time, Space and Tools
 
+- Even if no full-blown implementation: there are a lot of useful 'tricks'
+    - i.e. put something in front of the door in order not to forget taking it with you
+- Might take up to 2 days to fully set up - but even small details will instantly help
+    - Implementing 'capturing process' can take up to six hours or more
+    - Clarifying and deciding on actions can easily take another eight hours
+    - Ideally do that in one 'chunk' of uninterrupted time
+    - Weekend or holidays are ideal: _free time without Meetings or interruptions_!
+    - Interruptions can easily double the the length; after-hours are not recommended (since the power is no more)
+
+Functional Workspace:
+- 'In'-tray
+- Paper
+- Desk
+- Pen
+- filing cabinets
+- Pad (?)
+- Necessary: needs to be similiar at every workplace of yours
+
+Transit:
+- briefcase
+- pack
+- satchel with folders
+- office supplies (pen, paper)
+
+Have your own workstation, do not share with someone else; not even your
+spouse. Your primary workstation needs to work without resistance - even if it
+is mobile. 
+
+Basic processing tools:
+- stack of letter-sized papers
+- at least three paper-holding trays
+- paper clips
+- calendar
+- pen/pencil
+- stapler
+- file folders
+- scotch tape
+- automatic labeler (!)
+- post-its (3x3"s)
+- rubber bands
+- waste basket
+- current tools for capture, organizing and todo-lists
+
+Critical: personal and general reference filing system.
+    This holds just about everything interesting you want to keep, from
+    membership cards, Tickets and flash drives to notes, articles, brochures,
+    printouts, whatever.
+    Might take up to months to fully integrate and get comfortable with, but if
+    it works for you, it is worth it. It should take less than one minute to file something new.
+> the system needs to be fun and easy, current and complete
+- Keep it immediate at hand, not across the room
+- digital write-only-syndrome: Make sure everything you file is also easily findable and accessible
+- Ensure main supplies are within reach
+- Keep file folders at most three quarters full, otherwise they are stuffed and create mental resistance
+- Label everything
+- purge files at least once a year / maybe do that just before christmas
+Clear off everything left you _need_ to do today
+
 ### Chapter five - Capturing: Corralling Your "Stuff"
 
 ### Chapter six - Clarifying: Getting "In" to Empty
