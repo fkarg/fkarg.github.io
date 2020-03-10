@@ -409,7 +409,35 @@ Critical: personal and general reference filing system.
 - purge files at least once a year / maybe do that just before christmas
 Clear off everything left you _need_ to do today
 
+
 ### Chapter five - Capturing: Corralling Your "Stuff"
+
+Gathering everything in one place is useful, especially since it allows you to:
+    1. Have a sense for how much it actually is
+    2. lets you know that it's "only that much"; and
+    3. just knowing there is _not_ something somewhere else enhances focus and control
+
+Everything that feels incomplete or has some action left to do, everything that
+is not where it should be, all that goes into 'in'-except if it is part of your
+supplies, decortion, reference mterial or Equipment and really does not have an
+'open loop' in your mind. These stay. Everything else goes in 'in'.
+
+Something is too big? Create a note referencing it in 'in' instead.
+'In' not big enough? Make it a pile instead, just make clear what is still 'in' and what is not
+Purge trash immediately, but do not start organizing everything else (yet)
+Put old to-do-lists/Action Lists in 'in' as well, if they are not up-to-date
+Create an emergency stack with things that _need_ to be happening first.
+Also put your 'familiar stacks' in there. If anything needs changing, put a note about it in 'in'.
+Everything from your Desk, Drawers, Countertops, cabinets, floors, walls, shelves, furniture, other?
+Just make surethat everything either is the way it should be or at least gets a
+note in 'in'. Write down all your thoughts and ideas on seperate sheets of
+paper (i.e. post-its) - this makes later processing a lot easier. Simply
+writing down ideas might take 20min up to more than an hour. Go for quantity -
+things wil pop up rather randomly. p116-120: Trigger list of potential open
+loops.
+
+Also put 'in' organizer notebooks and paper notes of voicemails / Notes
+
 
 ### Chapter six - Clarifying: Getting "In" to Empty
 
