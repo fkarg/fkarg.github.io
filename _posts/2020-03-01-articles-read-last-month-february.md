@@ -214,32 +214,150 @@ how 'the best' search for jobs.
 SmallData | Blog | Setting up a raspberry pi 4 home server
 https://smalldata.tech/blog/2019/07/12/setting-up-a-raspberry-pi-4-home-server
 
+I came across this through a somehow different way. Interesting information nonetheless.
+
+---
 Why Germans won’t heat their homes even with free electricity? | Kaikenhuipun blogi
 https://kaikenhuippu.com/2020/02/18/why-germans-wont-heat-their-homes-even-with-free-electricity/
 
+As a german, I was confused. Why _should_ you heat with electricity even? There
+is just about nothing more inefficient. 
+
+---
 Explorable Explanations
 https://explorabl.es/
 
+Awesome website, allowing one to playfully learn useful and interesting
+concepts. Wide variaty of fields.
+
+---
 How to Write Usefully
 http://paulgraham.com/useful.html
 
+Basically, thoughts on how to improve writing essays.
+
+---
 Radical hydrogen-boron reactor leapfrogs current nuclear fusion tech
 https://newatlas.com/energy/hb11-hydrogen-boron-fusion-clean-energy/
 
+Different approach to nuclear fusion, sidestepping most of the current
+problems.
+
+---
 How This Company Made Its Hiring Process More Personal — and Is Reaping the Rewards | LinkedIn Talent Blog
 https://business.linkedin.com/talent-solutions/blog/candidate-experience/2019/how-this-company-made-hiring-process-more-personal-and-is-reaping-rewards
 
+Humanizing the hiring process seems like something easy to do with massive benefits. Why is it barely anyone does it?
+
+---
 My Biggest Mistakes as a Junior Software Engineer - Level Up Coding
 https://levelup.gitconnected.com/my-biggest-mistakes-as-a-junior-software-engineer-b1e8fc842be6
 
+TL;DR:
+1. I Didn't Ask Enough Questions
+2. I Made Too Many Statements (without really knowing what I was talking about)
+3. I Stopped Doing Non-Project Coding
+---
 Levels of Seniority
 https://roadmap.sh/guides/levels-of-seniority
+
+Descriptions of different roles of seniority and how to get from one to the next.
+
+---
+Entrepreneurs tell you how to take your side hustle to the next level
+https://www.cnbc.com/2020/02/20/entrepreneurs-tell-you-how-to-take-your-side-hustle-to-the-next-level.html
+
+How to prevent getting stuck at only lower levels of profitability, or effectivity, rather.
+
+---
+
+Why Agile isn't agile without continuous delivery
+https://www.atlassian.com/continuous-delivery/principles/why-agile-development-needs-continuous-delivery
+
+not why I even read that, nothing new here. It does not even really go deep on
+the benefits of continous delivery or the interdependency.
+
+
+---
+
+---
+
 
 Entrepreneurs tell you how to take your side hustle to the next level
 https://www.cnbc.com/2020/02/20/entrepreneurs-tell-you-how-to-take-your-side-hustle-to-the-next-level.html
 
+Why Your Resume Is Being Rejected
+https://www.freecodecamp.org/news/why-your-resume-is-being-rejected/
+
+Test Double | Our Blog
+https://blog.testdouble.com/posts/2020-02-11-the-slippery-slope-of-docker-dev-environments/
+
+Donald Knuth Was Framed • Buttondown
+https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/
+
+Cloudflare silently deleted my DNS records
+https://txti.es/cloudflare-deleted-my-dns
+
+The story behind my talk: Cloud Cost Optimization at Scale: How we use Kubernetes and spot instances to reduce EC2 billing up to 80% - Tuan Anh
+https://tuananh.net/2020/02/20/the-story-behind-my-talk-cloud-cost-optimization-at-scale/
+
+To Get Good, Go After The Metagame
+https://commoncog.com/blog/to-get-good-go-after-the-metagame/
+
+Big Tech Is Testing You | The New Yorker
+https://www.newyorker.com/magazine/2020/03/02/big-tech-is-testing-you
+
+Hard Startups - Sam Altman
+https://blog.samaltman.com/hard-startups
+
+Business Model Design: Lessons Learned from Tesla Motors | SpringerLink
+https://link.springer.com/chapter/10.1007/978-3-319-79060-2_4
+
+YC’s New Guide to Raising a Series A
+https://blog.ycombinator.com/ycs-series-a-guide/
+
+Don’t be that guy: A guide to asking nonstupid questions during scientific talks | Science | AAAS
+https://www.sciencemag.org/careers/2020/02/don-t-be-guy-guide-asking-nonstupid-questions-during-scientific-talks
+
+The eight factors of happiness for developers - Stack Overflow Blog
+https://stackoverflow.blog/2020/02/27/the-eight-factors-of-happiness-for-developers/
+
+Barbara Corcoran Swears By 1 Interview Question To Weed Out Bad Apples | Inc.com
+https://www.inc.com/betsy-mikel/barbara-corcoran-swears-by-1-interview-question-to-weed-out-bad-apples.html
+
+14 tricky random interview questions and tips on how to tackle them  | This is Money
+https://www.thisismoney.co.uk/money/news/article-8025537/14-tricky-random-interview-questions-tips-tackle-them.html
+
+How top CS students problem solve - Towards Data Science
+https://towardsdatascience.com/how-top-cs-students-problem-solve-17ae2c90fb96
+
+The Leadership Secrets Of The Hidden Champions
+https://www.forbes.com/sites/rainerzitelmann/2019/07/15/the-leadership-secrets-of-the-hidden-champions/
+
+Are you a 'cultural fit' for your job? Machines can now tell - BBC Worklife
+https://www.bbc.com/worklife/article/20200227-are-you-a-cultural-fit-for-your-job-machines-can-now-tell
+
+How Elon Musk Redesigned School for His Children - By James Murphy
+https://hackernoon.com/how-elon-musk-redesigned-school-for-his-children-o6di32kt
+
+How a 2 person startup already uses 28 other tools
+https://acrossapp.com/blog/how-a-2-person-startup-already-uses-28-other-tools
+
+My Ordinary Life: Improvements Since the 1990s - Gwern.net
+https://www.gwern.net/Improvements
+
+amos - A half-hour to learn Rust
+https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/
+
+Programming trick questions @ Things Of Interest
+https://qntm.org/trick
+
+List of 2020 Leap Day Bugs
+https://codeofmatt.com/list-of-2020-leap-day-bugs/
 
 
+---
 
-# Recommended picks
+
+# Recommended articles
 
