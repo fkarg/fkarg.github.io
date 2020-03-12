@@ -441,7 +441,163 @@ Also put 'in' organizer notebooks and paper notes of voicemails / Notes
 
 ### Chapter six - Clarifying: Getting "In" to Empty
 
+Now : get to the bottom of everything collected. This does not mean doing
+anything yet, but identifying each item, deciding what it is, what it means and
+what to do with it - at some point in the future. Recommendation: Read through
+this and the next chapter before processing 'in', since it may save you some
+steps.
+
+Basic Rules:
+- Process top item first
+- One item at a time
+- Nothing gets back into 'in'
+Avoid 'Emergency scanning', at least sometimes. Otherwise, some items will stay
+unprocessed, and you continue checking it in fear of everlooking something -
+the fear going away after actual processing.
+LIFO or FIFO does not matter if it happens in one uninterrupted chunk of time.
+Really focus on just the topmost thing, and only on that. Some cannot make a
+decision without thinking about something else first, but then go for two or
+three items and decide within the minute of first touching it. Nothing stays
+undecided, nothing gets back into 'in'.
+
+Key Processing Question: What's the Next Action?
+No action? It is either:
+- Trash                 -> Keep it/Throw away, whatever you are more comfortable with
+- Item to incubate      -> put it in Tickler-File, Calendar or 'Someday/Maybe'-list
+- Reference material    -> file it. Immediately.
+
+If there is an action, what is it?
+=> Next physiical, visible activity to move situation forward.
+'deciding' is not one, as it takes no time, but you are likely missing
+information/input before deciding which is the reason you did not do that yet.
+
+Next step is decided:
+- Do it.        (if it takes less than 2mins) => efficiency cutoff, otherwise it takes longer to manage it
+- Delegate it.  (if someone else needs to do it) => Somehow contact the person (i.e. by mail), and track it in your 'Waiting For'/Pending list, do not forget to put a date on it
+- Defer it.     into your organization system as an option for later work (i.e. put on your 'Next Action' list)
+
+Next: identify the Projects you have for actions that still depend on an
+undone action right now.
+
 ### Chapter seven - Organizing: Setting Up the Right Buckets
+
+> Having a total and seamless system of organization in place gives you
+> tremendous power because it allows your mind to let go of lower-level
+> thinking and graduate to intuitive focusing, undistracted by matters that
+> haven't been dealt with appropriately. But your physical organization system
+> must be better than your mental one in order for that to happen.
+
+> your organization system is not something that you'll necessarily create all
+> at once, in a vacuum. It will evolve as you process your stuff
+
+Basic Categories:
+- A projects list
+- Projects support material
+- Calendar actions and information
+- Next Actions list
+- A Waiting For list
+- Reference material
+- A Waiting For list
+- A Someday/Maybe list
+Important: Keep them seperate for clarity. Put inactive projects back to
+Someday/Maybe.
+
+A list is everything grouping a bunch of items with similar characteristic together
+Resist the impulse of putting 'want to do' items in your calendar on specific days
+
+Most common Categories of Action Reminders (Contexts):
+- Calls
+- At Computer
+- Errands
+- At Office (misc.)
+- At Home
+- Anywhere
+- Agendas/Schedules (for people and meetings)
+- Read/Review
+
+Potentially useful: seperate Computer Online/Offline Actions for flights or travel.
+'At Starbucks' is a totally fine category if it works for you
+Maybe keep seperate Agenda/Schedule Lists for different people (e.g. attourney, accountant, consultants, ...)
+'Waiting For' does not exactly track actions, but rather 'deliverables'
+    Important: add a date, that alone is worth more than its weight in gold sometimes
+You can sometimes use the item itself (article ro read, bill to process) as a reminder in an appropriate stack
+You can create a 'in', '@ACTIONS', '@WAITING FOR' etc in your mail inbox just as well.
+    Just don't forget them. But: this is part of your 'At Computer' list, and needs to be reviewed accordingly.
+
+The Projects-list is very important:
+- Critical for Control and focus    -> it does not need to be in your head anymore
+- Alleviates subtle tensions        -> They rarely show up as clear projects, but circumstances/conditions changed, making another action necessary
+- Core of the weekly review         -> Critical for higher-level planning, be content with what you focus on
+- Facilitates relationship management> overview commitments with others, invaluable in conversation
+
+A LOT more things than you think are probably projects
+    - problems, if unsolved, are always projects
+    - New skills to learn are projects, as soon as they do not belong on 'Someday/Maybe' anymore.
+You might want to split projects in personal and professional ones, delgated
+    Projects, by roles you are fulfilling or some other special characteristic
+Keep subprojects as their own projects or keep them in the respective projects support material, maybe even switch, based on process
+Projects support material should never be project reminders.
+You could store project support material in your general reference system, if you frequently review it
+Make sure you have systems in place to file any notes or ideas you have in the place it should be
+You might want to consider splitting (digital) information in 'Active' and 'Archive', if it gets more than 'a bit'.
+Keep your reference material and nonactionable data strictly seperate from your actions/projects lists
+If it is suficiently much data, consider a seperate filing system (e.g. for contacts, a corporate merger, archives/libraries, ...)
+regularly update your systems according to your needs (course-correcting)
+
+Someday/Maybe list content (example):
+    - Things to get or build for your home
+    - Hobbies to take up
+    - Skills to learn
+    - Creative expressions to explore
+    - Clothes and accessories to buy
+    - Toys (hi-tech and otherwise) to aquire
+    - Trips to take
+    - Organizations to join
+    - Things to see and do
+    - Service projects to contribute to
+    - Projects that will not have your hattention for the next couple months
+
+Maybe sub-categorize in things to do as soon as realistic/possible and 'would be nice', or even based on category:
+    - Food; recipes, menus, restaurants, wines
+    - Books to read
+    - Music to download
+    - Movies to see
+    - Gift ideas
+    - Websites to explore
+    - Weekend trips to make
+    - Ideas (misc)
+
+Additional calendar uses:
+    - Triggers for activating projects (e.g.: Get Kids set up for next school year)
+    - Events you might want to participate in (e.g. football tickets go on sale today)
+    - Decision Catalysts (e.g. Hire/Fire, Change Job/Career, ...) => reminder
+
+Tickler File: 31 Day-Files plus 12 Month-Files creating a perpetual system, 1 month and 1 year into the future. Check upcoming files _before_ you go on vacation.
+
+Checklists are a great way to keep track of repeating items
+Levels-Checklist:
+    - Community
+    - Health and Energy
+    - Financial Resources
+    - Career Goals
+    - Service
+    - Family
+    - Relationships
+    - Creative Expression
+
+Or, for responsibilities:
+    - Team morale
+    - Processes
+    - Timelines
+    - Staff issues
+    - Workload
+    - Communications
+    - Technology
+    - ...
+    => To make sure that these areas are the way they should be
+
+=> Checklist all the levels     , put in things you might want to review regularly
+
 
 ### Chapter eight - Reflecting: Keeping It All Fresh and Functional
 
