@@ -18,14 +18,12 @@ reason. This also prevents me from directly quoting, but let's see.
 - [Core Key Takeaways](#core-key-takeaways)
 - [Foreword](#foreword)
 - [1 What Assholes Do and Why You Know So Many](#1-what-assholes-do-and-why-you-know-so-many)
-- [2 The Damage Done: Why Every Workplace Needs The Rule](#2-the-damage-done:-why-every-workplace-needs-the-rule)
-<!--
-- 3 How to Implement the Rule, Enforce it, and Keep it Alive            - 3 How to Implement the Rule, Enforce it, and Keep it Alive
-- 4 How to Stop Your "Inner Jerk" From Getting Out                      - 4 How to Stop Your "Inner Jerk" From Getting Out
-- 5 When Assholes Reign: Tips for Surviving Nasty People and Workplaces - 5 When Assholes Reign: Tips for Surviving Nasty People and Workplaces
-- 6 The Virtues of Assholes                                             - 6 The Virtues of Assholes
-- 7 The No Asshole Rule as a Way Life                                   - 7 The No Asshole Rule as a Way Life
--->
+- [2 The Damage Done: Why Every Workplace Needs The Rule](#2-the-damage-done-why-every-workplace-needs-the-rule)
+- [3 How to Implement the Rule, Enforce it, and Keep it Alive](#3-how-to-implement-the-rule-enforce-it-and-keep-it-alive)
+- [4 How to Stop Your "Inner Jerk" From Getting Out](#4-how-to-stop-your-inner-jerk-from-getting-out)
+- [5 When Assholes Reign: Tips for Surviving Nasty People and Workplaces](#5-when-assholes-reign-tips-for-surviving-nasty-people-and-workplaces)
+- [6 The Virtues of Assholes](#6-the-virtues-of-assholes)
+- [7 The No Asshole Rule as a Way Life](#7-the-no-asshole-rule-as-a-way-life)
 - [Overall](#overall)
 - [Main Takeaways](#main-takeaways)
 - [Favourite Quotes](#favourite-quotes)
