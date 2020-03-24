@@ -1,27 +1,242 @@
-
 ---
 layout: post
-published: false
-title: 'Book: Title'
-subtitle: subtitle
+published: true
+title: Facing Reality
+subtitle: why you should recalibrate as a habit
 tags:
-- book
+- thoughts
 ---
-Review of <short book description>
-
-Short description of how I heard about this book and how I got it, or some other story associated with how I read it
-
-
-# Core Key Takeaways
-## Chapters / Parts
-### Subchapters
+Some recent thougts on Reality; how it tends to be different from what we
+believe, and how to get closer.
 
 
-# Overall
-## Main Takeaways
-## Criticism
-## Favourite Quotes
+# Facing Reality
 
+## Losing Touch With Reality
+
+TLDR: we make many invalid assumptions, and sometimes we do not have access to
+the ground truth.
+
+It is [common][common] to have misconceptions. About others, about yourself,
+about reality. Did you know that [fortune cookies][fortune cookies] are
+actually Japanese and seen as 'American' in China?
+
+Consider asking someone about the state of an important project: "It is done,
+basically. There are a few things ..." "But basically, it is done, yes?"
+"Well, basically, yes." Since the project is important, you report that is has
+been finished - only to notice afterward that there is still unfinished work
+left.
+
+Your friend is boasting about his recent success. He got two new really big
+clients (a done deal!), and his new biggest concern is the upcoming amount of
+work. A week later you meet for lunch, and he is depressed, because they jumped
+ship. "But was it not a done deal?" "Ah, well, not exactly. They still had
+other offers, but said that our offer looks a lot more promising than the
+others."
+
+<!--
+- - -
+
+A couple years ago I was in my schools chess club. For this story, two people
+are important, let's name them Peter and Jake. Since we played a lot against
+each other, we knew our relative standings. Peter was waaay better than me, I
+rarely managed to avoid losing against him. Jake was the same in the other
+direction - I almost always won against him. So there was this tournament,
+where you were 'out' as soon as you lost just once (in official ones you play
+against everyone at least once and take the sum of your points). So anyways, we
+made this 'random' tree of who would play against whom.
+
+We were eight people, so if you won three games you were in first place. I won
+my first game, but my second game was against Peter. I kind of wanted to
+believe that I could better than him, if I just wanted to be. He made a severe
+blunder and I actually ended up winning, deceiving myself that I could do
+everything, if I just wanted it. So, I was bound to be first or second - first
+place should have been Peter, he usually won against everyone.
+
+The one fighting me for first place was Jake.  We kind of both knew that I
+would win, but he wanted to try anyways. I had this newfound belief of being
+able to do everything, simply by believing in it. I lost, and ended up in
+second place ('I should have been first! I believed I could do it!'). I did not
+realize it back then, but this would be an important lesson later on. I lost
+touch with reality and needed to be grounded, fast - which happened with a
+clear loss not even an hour after defeating Peter.
+-->
+
+Or, well, we might just be generally [miscalibrated][miscalibration].
+
+
+
+So can we develop a habit to actually look at the ground, to actually
+_face reality_? But first, why should we?
+
+
+[common]: https://en.wikipedia.org/wiki/List_of_common_misconceptions
+[fortune cookies]: https://www.nytimes.com/2008/01/16/dining/16fort.html
+[miscalibration]: https://www.lesswrong.com/posts/aPrCzeFfbBmRsvzby/calibrate-your-self-assessments
+
+---
+
+
+## The Value in Being Close to Reality
+
+TLDR: Truth is the only reality there is, and you need a firm foundation if
+you want to build a skyscraper.
+
+
+About 95% percent believe they are self-aware. Actually, it's more like 10-15% ([source][ted]).
+> That means that _on a good day_, eighty percent of us are lying to ourselves,
+> about _wether we are lying to ourselves_. That's pretty scary!
+> - Tasha Eurich
+
+
+There are some obvious benefits of being well-calibrated (having accurate
+estimates as to how good your estimates are). They include being an awful many
+times right when betting with friends, as well as making more accurate
+predictions - and a whole lot in life is about accurate predictions. This
+includes being able to better tell how many beers you can drink before passing
+out or what people find funny and being able to humor them. This also makes you
+an interensting conversationalist, since the truth tends to slightly disagree
+with certain (commonly believed) facts. We all know that knowledge is power,
+but knowledge about things that are not true can ruin you fast.
+
+
+> What I found in my research is that when we are self-aware, we’re happier, we
+> make better decisions at work and at home, we raise more mature children, the
+> list goes on. Leaders who are more self-aware even lead more profitable
+> companies.
+> - Tasha Eurich
+
+
+There also seem to be benefits of not being well-calibrated, of not being
+self-aware. But I won't go into these.
+(Still, for better calibration maybe you should look at some yourself?)
+
+
+> What is true is already so. Owning up to it doesn't make it worse. Not being
+> open about it doesn't make it go away. And because it's true, it is what is
+> there to be interacted with. Anything untrue isn't there to be lived. People
+> can stand what is true, for they are already enduring it.
+> - Eugene T. Gendlin, Focusing
+
+
+
+## The Human Brain and Reality
+
+TLDR: People mostly do not tell us when we are wrong.
+
+It is really hard to notice flaws without looking for them. It is also hard
+seeing them _when_ looking for them. Your colleagues will not tell you the
+flaws about they have noticed. And why should they? They want to be polite.
+They have an interest in working together with you, and this usually includes
+not accidentially making you an enemy. Hell, They might not even notice. Or see
+it as something they can work with just fine. Everything should just stay the
+way it is. Please no change, there is enough stress like this already.
+
+The internet will tell you that you are wrong. Well, the internet will tell you
+that you are wrong about _everything_. So not exactly helpful. It is worse,
+even, because it is so easy to find information to _confirm_ your theories,
+your beliefs. It is fine to
+[be an asshole](../2020-02-28-book-the-no-asshole-rule/#6-the-virtues-of-assholes).
+The moon landings were [fake](https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories).
+And _whatever else_ you always wanted to be _true_.
+
+
+## Approaches to being more Grounded
+
+TLDR: Do activities where you are frequently being brought back to the grounds
+of reality.
+
+There are multiple ways to be more in touch with reality. Having friends that
+criticise you is a good start, but not everyone has friends close enough. Same
+with a mentor giving feedback. "You should listen to others more" - "Yeah
+right, but their ideas are always so stupid and never work". Obviously, an
+attitude of gratitude and openness is a precondition for successfully applying
+the feedback. How to get that if you do not have it?
+
+Fail. Hard. It does not even need to be in your main job. Regularly
+experiencing your assumptions getting shattered might leave you more deluded in
+the short term, but you need to update your beliefs at some point if you want
+to _succeed_. So I would argue a hobby in a competitive situation (you
+competing with people way above your leage) leaves you sufficiently humble. I
+did chess for some time. Repeatedly losing because of really small things you
+did not see is initially frustrating. But it keeps you grounded, and humble.
+
+More generally, I would recommend doing some sort of martial art. Whatever it
+is, Aikido, Jiu-jiutsu, Judo, Teakwando or something else. The essential part
+is that there are others that _ground you fast_, should you do something wrong.
+It is fine to stay in one discipline, as long as there are people repeatedly
+winning against you - which should be the norm, until you are at national
+competion level. If you seem to be 'undefeated' or able to do whatever you
+want - if you have the slightest feeling of this not keeping you grounded
+anymore, switch. Search for something else, where you lose. Have you tried
+archery? Pottery, or some other art?
+
+Of course a [360° personal feedback][360] is also viable. It includes questions
+about you that everyone around you (your boss, subordinates, peers, everyone
+you have contact with) can answer anonmiously, providing you with valuable
+feedback.
+
+The import part is to ask [what](../2019-04-30-starting-point/), instead of why.
+Asking [why][ted] has a tendency of finding justifications, of creating
+alternative facts that feel true. _What_ is not asking for reasons, but tries
+to understand how it happened. No emotional implications attached.
+
+
+
+
+
+[360]: https://www.cdaperform.co.uk/news/360-feedback-questionnaire-questions/
+
+
+<!--
+Problem:
+- In everyday life it is easily possible to slip in an environment where you
+  stop noticing your own flaws (also no one tells you about them, maybe because
+  they are polite or afraid or do not care enough, think it is fine the way it
+  is or are afraid of change)
+
+Potential solution:
+- Regularly have others criticise you
+- 360° Feedback
+- Honest friends, telling you what and when you did something wrong
+- Having an attitude of gratitude and openness, necessary to even consider the
+  criticism/feedback given
+- doing actions where it is easily noticable if you do something 'wrong', e.g. chess or fighting sports with people better than you
+-->
+
+# Relevant Quotes
+
+> What is true is already so. Owning up to it doesn't make it worse. Not being
+> open about it doesn't make it go away. And because it's true, it is what is
+> there to be interacted with. Anything untrue isn't there to be lived. People
+> can stand what is true, for they are already enduring it.
+> - Eugene T. Gendlin, Focusing
+
+> When you face yourself, you face the truth of who you are.
+> - Stephen Richards
+
+> delude yourself: to choose to believe something that is not true
+
+About 95% percent believe they are self-aware. Actually, it's more like 10-15% ([source][ted]).
+> That means that _on a good day_, eighty percent of us are lying to ourselves,
+> about _wether we are lying to ourselves_. That's pretty scary!
+> - Tasha Eurich
+
+
+> There comes a time when you look into the mirror and you realize that what
+> you see is all that you will ever be. And then you accept it. Or you kill
+> yourself. Or you stop looking in mirrors.
+> - Tennessee Williams
+
+
+[ted]: https://www.youtube.com/watch?v=tGdsOXZpyWE
+
+
+
+
+
+<!--
+Take1:
 
 It is one of the harshest things you can do. Why it is still necessary to face reality every now and then.
 
@@ -50,22 +265,6 @@ In my experience, every bigger company has their share of problems the upper man
 
 
 
-
-
-
-
 [consciousness]
 [expect](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)
-
-
-
-
-
-
-
-
-
-
-
-
-
+-->
