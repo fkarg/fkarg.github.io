@@ -6,7 +6,7 @@ subtitle: why you should recalibrate as a habit
 tags:
 - thoughts
 ---
-Some recent thougts on Reality; how it tends to be different from what we
+Some recent thoughts on Reality; how it tends to be different from what we
 believe, and how to get closer.
 
 
@@ -85,7 +85,7 @@ you want to build a skyscraper.
 
 About 95% percent believe they are self-aware. Actually, it's more like 10-15% ([source][ted]).
 > That means that _on a good day_, eighty percent of us are lying to ourselves,
-> about _wether we are lying to ourselves_. That's pretty scary!
+> about _weather we are lying to ourselves_. That's pretty scary!
 > - Tasha Eurich
 
 
@@ -95,7 +95,7 @@ times right when betting with friends, as well as making more accurate
 predictions - and a whole lot in life is about accurate predictions. This
 includes being able to better tell how many beers you can drink before passing
 out or what people find funny and being able to humor them. This also makes you
-an interensting conversationalist, since the truth tends to slightly disagree
+an interesting conversationalist, since the truth tends to slightly disagree
 with certain (commonly believed) facts. We all know that knowledge is power,
 but knowledge about things that are not true can ruin you fast.
 
@@ -128,7 +128,7 @@ It is really hard to notice flaws without looking for them. It is also hard
 seeing them _when_ looking for them. Your colleagues will not tell you the
 flaws about they have noticed. And why should they? They want to be polite.
 They have an interest in working together with you, and this usually includes
-not accidentially making you an enemy. Hell, They might not even notice. Or see
+not accidentally making you an enemy. Hell, They might not even notice. Or see
 it as something they can work with just fine. Everything should just stay the
 way it is. Please no change, there is enough stress like this already.
 
@@ -147,7 +147,7 @@ TLDR: Do activities where you are frequently being brought back to the grounds
 of reality.
 
 There are multiple ways to be more in touch with reality. Having friends that
-criticise you is a good start, but not everyone has friends close enough. Same
+criticize you is a good start, but not everyone has friends close enough. Same
 with a mentor giving feedback. "You should listen to others more" - "Yeah
 right, but their ideas are always so stupid and never work". Obviously, an
 attitude of gratitude and openness is a precondition for successfully applying
@@ -157,7 +157,7 @@ Fail. Hard. It does not even need to be in your main job. Regularly
 experiencing your assumptions getting shattered might leave you more deluded in
 the short term, but you need to update your beliefs at some point if you want
 to _succeed_. So I would argue a hobby in a competitive situation (you
-competing with people way above your leage) leaves you sufficiently humble. I
+competing with people way above your league) leaves you sufficiently humble. I
 did chess for some time. Repeatedly losing because of really small things you
 did not see is initially frustrating. But it keeps you grounded, and humble.
 
@@ -166,14 +166,14 @@ is, Aikido, Jiu-jiutsu, Judo, Teakwando or something else. The essential part
 is that there are others that _ground you fast_, should you do something wrong.
 It is fine to stay in one discipline, as long as there are people repeatedly
 winning against you - which should be the norm, until you are at national
-competion level. If you seem to be 'undefeated' or able to do whatever you
+competition level. If you seem to be 'undefeated' or able to do whatever you
 want - if you have the slightest feeling of this not keeping you grounded
 anymore, switch. Search for something else, where you lose. Have you tried
 archery? Pottery, or some other art?
 
 Of course a [360° personal feedback][360] is also viable. It includes questions
 about you that everyone around you (your boss, subordinates, peers, everyone
-you have contact with) can answer anonmiously, providing you with valuable
+you have contact with) can answer anonymously, providing you with valuable
 feedback.
 
 The import part is to ask [what](../2019-04-30-starting-point/), instead of why.
@@ -196,12 +196,12 @@ Problem:
   is or are afraid of change)
 
 Potential solution:
-- Regularly have others criticise you
+- Regularly have others criticize you
 - 360° Feedback
 - Honest friends, telling you what and when you did something wrong
 - Having an attitude of gratitude and openness, necessary to even consider the
   criticism/feedback given
-- doing actions where it is easily noticable if you do something 'wrong', e.g. chess or fighting sports with people better than you
+- doing actions where it is easily noticeable if you do something 'wrong', e.g. chess or fighting sports with people better than you
 -->
 
 # Relevant Quotes
@@ -219,7 +219,7 @@ Potential solution:
 
 About 95% percent believe they are self-aware. Actually, it's more like 10-15% ([source][ted]).
 > That means that _on a good day_, eighty percent of us are lying to ourselves,
-> about _wether we are lying to ourselves_. That's pretty scary!
+> about _weather we are lying to ourselves_. That's pretty scary!
 > - Tasha Eurich
 
 
