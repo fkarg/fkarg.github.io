@@ -329,7 +329,7 @@ least a feeling of control is:
 
 ---
 
-## [6 The Virtues of Assholes]{#ch6-virtues}
+## [6]{#ch6-virtues} The Virtues of Assholes
 
 
 Originally, he did not want to write this chapter, but it is seen as a
