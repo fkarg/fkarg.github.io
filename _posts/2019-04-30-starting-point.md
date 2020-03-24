@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Starting Point
 tags:
-  - thougths
+  - thoughts
 ---
 You compete with others, on an unfair playing field. Are you aware of this?
 
