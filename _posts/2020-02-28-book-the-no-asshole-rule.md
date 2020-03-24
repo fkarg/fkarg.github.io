@@ -329,7 +329,8 @@ least a feeling of control is:
 
 ---
 
-## [6 The Virtues of Assholes](#ch6-virtues)
+## [6 The Virtues of Assholes]{#ch6-virtues}
+
 
 Originally, he did not want to write this chapter, but it is seen as a
 'necessary evil', and the book would be kind of incomplete without it.
