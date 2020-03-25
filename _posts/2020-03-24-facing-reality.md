@@ -174,12 +174,16 @@ archery? Pottery, or some other art?
 Of course a [360° personal feedback][360] is also viable. It includes questions
 about you that everyone around you (your boss, subordinates, peers, everyone
 you have contact with) can answer anonymously, providing you with valuable
-feedback.
+feedback. The biggest benefit: Just one person saying something about you is
+not exactly trustworthy, but _everyone_ around you saying you are an asshole
+sometimes? Hard to argue with that. Everything where you cannot afford to
+delude yourself works.
 
-The import part is to ask [what](../2019-04-30-starting-point/), instead of why.
-Asking [why][ted] has a tendency of finding justifications, of creating
-alternative facts that feel true. _What_ is not asking for reasons, but tries
-to understand how it happened. No emotional implications attached.
+The import part is to ask '[what](../2019-04-30-starting-point/) is the
+situation', instead of 'why did that happen'. Asking [why][ted] has a tendency
+of finding justifications, of creating alternative facts that feel true. _What_
+is not asking for emotional reasons, but is trying to understand how it
+happened. No emotional implications attached.
 
 
 
@@ -231,6 +235,8 @@ About 95% percent believe they are self-aware. Actually, it's more like 10-15% (
 
 [ted]: https://www.youtube.com/watch?v=tGdsOXZpyWE
 
+
+**Edit**: 2020-03-25: slight rewordings around the 360-feedback.
 
 
 
