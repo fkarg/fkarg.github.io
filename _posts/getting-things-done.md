@@ -734,10 +734,97 @@ Preventing broken Agreements: - Don't make them - Complete them - Renegotiate th
 
 ### Chapter twelve - The Power of the Next-Action Decision
 
+His Personal Mission: make "What's the next action" part of our global thought process.
+Source of it: A management-consultant mentor of his found "next Action" to be extremeely effective
+It is so powerful because in the contexts it is required for the 10-second thinking about the next action already needs to have happened, for someone to remember it. Also, there might be indirection steps.
+
+> So when do you think most people really make a lot of their next-action
+> decisions about their stuff - when it shows up, or when it blows up?
+
+=> Much more efficient to do this (+relaxing) early on, but need to get over early mental barrier
+
+> Complaining is asgn(?) that someone isn't willing to risk moving on a
+> changeable situation, or won't consider the immutable circumstances in his or
+> her plans. This is a temporary and hollow form of self-validation.
+
+> When you start to make things happen, you begin to believe that you can make
+> things happen. And _that_ makes things happen.
+
 ### Chapter thirteen - The Power of Outcome Focusing
+
+> It's interesting to note that the people who need this methodology the least
+> are usually the ones who engage with it the quickest and the most.
+
+=> Benefit of implementation: 'relief of drag', and they are the most interested in that
+
+> Everything you experience as incomplete must have a reference point for 'complete'
+
+-> Especially the imagination of a path there is necessary to get there eventually
+
+> The challenge will continually be to apply the two essential elements of this
+> art: defining what _done_ means and what _doing_ looks like.
+
+> The world has been rather barren, however, of practices that relate equally to both levels [high-level "purpose, values, vision", and small details: phone numbers, appointments, grocery lists] and tie them together.
+
+On the usage of the natural planning model:
+> It all just affirms that the way our minds naturally work is what we should
+> focus on to make anything happen in the physical world.
+
+> In fact, all the principles I've put forward are as applicable to an enterprise as they are to an individual
+// Capturing, getting clarity and next Actions, regular reviews, consistent recalibration
 
 ### Chapter fourteen - GTD and Cognitive Science
 
+- A lot of validating research. Before that: only anecdotal evidence
+Validated by:
+- Positive Psychology
+- Distributed Cognition: the value of an external mind
+- Relieving the cognitive load of incompleteness
+- Flow theory
+- Self-Leadership theory
+- Goal striving via implementation intentions
+- Psychological Capital
+=> Use the mind for things it is good at, and external systems for everything else!
+=> Open loops interfere with other tasks, not anymore as soon as a plan is clear
+=> GTD sets multiple preconditions to 'being in the flow', allowing it to come much easier
+Implementation intentions are similar to mental state / time-based TAPs
+
 ### Chapter fifteen - The Path of GTD Mastery
+
+- There are actually endless details and subtleties that can be explored.
+- How good you are is tested when things are unclear, unstable, or distracting
+Mostly three tiers:
+1. Employing the fundamentals of managing workflow
+2. Implementing a more elevated and integrated total life management system; and
+3. Leveraging skills to create clear space and get things done for an ever-expansive expression and manifestation
+- might take some time to get proficient with the basics
+Practices that easily regress to dysfunctionality:
+- Avoiding next-action decision making
+- Fully utilizing 'Waiting For', inventoring _every_ deliverable still outstanding
+- using Agenda Lists for communicating
+- Keeping an easily usable reference system
+- Doing weekly reviews
+
+It's easy to not do things according to GTD anymore; but it is really easy to get back in again; Sit down with a pen and paper and clear your head. You might need to do this several times in your first two years; until it is fully integrated
+Even if you just take away the asking of 'what's the next question' or the 2-minute rule, they will be worth it. The more you employ (them together), the more they start working together
+Next Level: getting rigorous with bigger issues; allows higher level of control and focus; Hallmarks:
+- Complete, current and clear inventory of projects; primarily project-driven
+    Inherently identifying projects first, and actions based on them
+- Working map of roles, accountabilities and interests
+    having a current checklist and reviewing it regularly, updating required projects
+- integrated total-life management system; cohesive "control room"
+    functional awareness, and using parts accordingly; not at loss with what to do with anything
+- challenges and surprises don't throw you off; GTD is the only thing that reduces the stress
+
+Then, on the next level:
+- Starting to explore more elevated aspects of commitments and values
+    A distraction-free mind makes it severely easier to think about 'wild success' scenarios five years in the future
+- Leveraging external mind to produce novel value
+    How often should you review what (contact lists etc).
+    long-range planning needs a grip on the current reality
+
+### Conclusion
+Everyone develops a 'GTD'-version for themselves. The book is only a Roadmap of some general tips.
+
 
 <!-- testcomment -->
