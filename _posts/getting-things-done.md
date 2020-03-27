@@ -21,12 +21,15 @@ one) as well as 'Die Zettelkastenmethode' (a general knowledge organizing
 system), which were the main contents of his talk.
 
 
-
 # Core Key Takeaways
 
 I will correlate parts of the book with experiences I have made since reading
 it or with techniques/information not from within the book itself. When reading
 it, you might interpret it in an entirely different way.
+
+I dug a bit deeper and made some more detailled notes than on most other books,
+mainly because I think that this methodology is worth it, or at least has the
+potential to be worth it.
 
 ### Foreword
 
@@ -104,6 +107,7 @@ First read:
       improvements
 
 Second read:
+- missed a lot of details on the implementation, maybe because I 'wanted to finish reading it'
 
 ## Criticism
 I am still not sure on how to correctly categorize items that would fit in
@@ -596,19 +600,137 @@ Or, for responsibilities:
     - ...
     => To make sure that these areas are the way they should be
 
-=> Checklist all the levels     , put in things you might want to review regularly
+=> Checklist all the levels  , put in things you might want to review regularly
 
 
 ### Chapter eight - Reflecting: Keeping It All Fresh and Functional
 
+> Reviewing your System on a regular basis, reflecting on the contents, and
+> keeping it current and functional are prerequisites for [...] clarity and
+> stability.
+
+You need to keep your Calls-list current, or the brain starts to try tracking
+everything again (previous situation)
+Major points:
+- What do you look at in all this, and when?
+- What do you need to do, and how often, to ensure that all of it works as a
+  consistent system, freeing you to think and manager at a higher level?
+
+Spend as much time looking at your system as you need to feel compfortable
+about what you are doing. This might be just a couple of seconds every now and
+then.
+First: Calendar 'to see the "hard landscape"' of the day. Then:
+Context-specific Action-Lists, and any other list on-demand
+
+Main source of trustworthiness: regularly refreshing your thinking and system
+from a more elevated perspective. This is impossible if your lists are too far
+behind reality.
+
+> the magic key to the sustainability of the process is the Weekly Review.
+
+'whirlwind of activity' all around, Weekly Review makes time for capturing,
+reevaluating and reprocessing everything to keep you balanced.
+
+Stages:
+    Get clear - Collect loose papers and materials, Get 'In' to Epmty, and Empty your head.
+    Get current - Review "Next Action" lists, look at previous and upcomping calendar weeks, "Waiting For", "Projects" and other relevant lists
+    Get creative - "eliminate barriers to natural flow", Review "Someday/Maybe" and be couragious
+Ideal time for Weekly Review: two hours in early afternoon of last workday (each week):
+    - Events are still fresh enough to actively remember them (Oh yeah, I still need to ...)
+    - You can still reach other people before they vanish towards the weekend
+    - With clear mental decks you can fully relax on the weekend
+Optionally use your train-commute or whatever works for you, but you need to have a ritual.
+Engage in higher-horizon-levels as needed
+Takes about two years until you feel fully confident in this system
+
 ### Chapter nine - Engaging: Making the Best Action Choices
+
+Choosing Actions to do next:
+- Do not shy away from making Contexts (e.g. 'Before Trip', 'Agenda with Joe', 'Creative Writing', ...)
+    Further Examples: 'Brain gone', '<5min', 'Family', 'Financial', or based on immediate felt emotion ('fast feel good'), location, tools needed
+- Beware of Time required. Maybe sort after time. Energy available varies as well.
+- Priority is also to be considered, and changes frequently. Maybe should not be fixed, to still leave yourself a choice
+- Put unexpected interruptions in your 'in' box, prevent yourself from 'urgently' dealing with it.
+> Your ability to deal with surprise is your competitive edge, and a key sanity
+> and sustainability in your lifestyle.
+
+> any formation of your priorities would obviously most efficiently begin at the top.
+Also get the higher horizon-levels without open loops, and be clear about their
+current state and progress.
+> If your boat is sinking you really don't care in which direction it's pointed!
+=> Practially, doing this bottom-up is increadibly helpful
+Clear the ground first. Then, work your way up
+Ground    - Actions
+Horizon 1 - Projects
+Horizon 2 - current (job) repsonsibilities, roles, positions, 'Areas of Focus'
+Horizon 3-5 Mainly higher-level Motivators and goals, what is happening there?
+
 
 ### Chapter ten - Getting Projects Under Control
 
+> After years of working with thousands of professionals down in the trenches,
+> I can safely say that virtually all of us could be doing more planning, more
+> informally and more often, of our projects and our lives. And if we did, it
+> would relieve a lot of pressure on our psyches and produce an enormous amount
+> of creative output with minimal effort.
+
+> If you feel out of control with your current actionable commitments, you'll
+> resist focused planning; an onconscious pushback occurs.
+
+Projects to plan:
+- those still having your attention after having next steps
+- those with supportive details an dideas showing up ad hoc
+
+Typical planning steps:
+- Brainstorming (mind map, either digitally or analog)
+- Organizing (the notes/ideas)
+- Setting up Meetings (with the primarily relevant people)
+- Gathering Information (getting input from someone or researching a topic)
+
+You might get random ideas - write them down and put hem 'In'
+Keep your tools (pen + paper) at hand, and make it the most comfortable to use them (&fun)
+Makybe even use Whiteboards or Easels, additional screens, ...
+tightly integrate your support structures, sometimes people just need 'reference notes' written down to feel at ease
+
+> many people find that writing and drawing by hand unwraps a broader palette
+> of ideas [which is why paper notes are not gone yet, even though everything
+> could be written down digitally]
+
+Software tools can be increadibly useful, use whatever helps you to be
+comfortable and productive. ideal: software for text processing and mindmaps.
 
 ## Part three: The Power of the Key Principles
 
 ### Chapter eleven - The Power of the Capturing Habit
+
+> When people with whom you interact notice that without fail you receive,
+> process, and organize in an airtight manner the exchanges and agreements they
+> have with you, they begin to trust you in a unique way.
+
+Having such airtight system allows you to prevent breaking agreements with yourself reducing negative emotions.
+Preventing broken Agreements: - Don't make them - Complete them - Renegotiate them
+> if you have a boss (or a board), what do you think he or she or they are
+> going to do after noticing the high levels of competency and productivity
+> you're demonstrating? Right again - give you more things to do! It's the
+> irony of professional development - the better you get, the better you'd
+> _better_ get.
+
+> In my experience, anything that is held only in your head will take up either
+> more or less attention than it deserves. [...] Incompletions, uncaptured,
+> take on a dull sameness in the sense of the pressure they create and the
+> attention they tie up.
+
+> Doing the capturing as fully as you can, and then incorporating the behaviour
+> of gathering all the new things as they emerge, will be more empowering and
+> productive than you can imagine.
+
+> When a note sits idle in someone's in-tray unprocessed, or when he or she nods, "Yes I will", in a conversation but doesn't otherwise capture that in some way, my "uh-oh" bell rings. This is unacceptable behaviour in my world.
+
+> When groups of people collectively adopt the 100 percent capture standard,
+> they have a tight ship to sail. It doesn't mean they're sailing in the right
+> direction, or even that they're on the right ship; it just means that the one
+> the're on, in the direction it's going, is sailing with the most efficient
+> energy it can.
 
 ### Chapter twelve - The Power of the Next-Action Decision
 
