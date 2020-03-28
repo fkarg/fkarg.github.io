@@ -2,12 +2,12 @@
 layout: post
 published: true
 title: Facing Reality
-subtitle: why you should recalibrate as a habit
+subtitle: you need a firm foundation if you want to build a skyscraper
 tags:
 - thoughts
 ---
 Some recent thoughts on Reality; how it tends to be different from what we
-believe, and how to get closer.
+believe, and maybe habits to get slightly closer.
 
 
 # Facing Reality
