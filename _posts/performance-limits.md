@@ -22,10 +22,15 @@ Limits:
     - avoiding risks
     - required: existential flexibility
     - fear setting
-- Personal Management system
 - Not using/growing your personal network
     - Find yourself several mentors
     - Friends trying to achieve similar things, do things together
     - build a mastermind group
 
-
+- Time Management
+    - Personal Management system
+    - Planning and using own time
+- Communication
+    - mis-stating requirements to others and misunderstanding others
+      requirements
+    - massive communication overheads, taking more time than necessary
