@@ -9,15 +9,16 @@ tags:
 
 I'm an avid reader. On average I read about ~10-20 news articles (I should
 reduce that) and 3 chapters from various books, as well as linked or referenced
-blog articles or otherwise interesting pieces I stumble across on the internet.
-And then I started writing (on this blog) myself. And I noticed some trends.
+blog articles or otherwise interesting pieces I stumble across on the internet
+each day. And then I started writing (on this blog) myself. And I noticed some
+trends.
 
-## 
+## General Observations
 
 Writing styles are vastly different. And as much as they are different, they
 tend to have some really similar characteristics. While one person is able to
 use fancier words, someone else is able to write with more humor. Or with more
-examples, making it easier to understand.
+examples, making it easier to follow and understand.
 
 The best ones, as I've noticed have one thing in common. Regardless of humor or
 fancy words, the best are simply precise - facilitating easy and accurate
@@ -25,54 +26,63 @@ understanding. Usually, without beating much around the bush.
 
 Sometimes I try to emulate something I found really helpful: exploring the same
 idea in different facets, from different angles. Usually this is done from no
-more than three angles, anything above that would get repetitive. Also they
-tend to show up some kind of core mechanic, one that seems unexpected, and
-really allows understanding the limit of the currently explained concept.
+more than three angles, as to avoid it getting repetitive. These angles tend to
+clarify core mechanics, usually unexpected ones, helping to create a better
+understanding for the limits of the currently explained concept.
 
 
 ## Value in Writing
 
-Being able to do so, to write concise pieces of text, that allows others to
-easily comprehend the message, is a noteworthy skill. It's not just useful for
-blogging. It's also useful if not necessary for writing good documentation,
-specification, and to communicate well. Being able to articulate yourself well,
-even if it takes time, is a skill I deemed worth learning.
+Being able to write concise pieces of text which allow others to easily
+comprehend the message, is a noteworthy skill. It's not just useful for
+blogging. It's essential for writing good documentation, specification, and to
+communicate well. Being able to articulate yourself well, even if it takes
+time, is a skill that pays off in the long run.
 
-It also forces you to linearize your thoughts. As soon as thoughts are written
-down, they are static, much unlike their original counterparts. Thoughts are
-ever-changing, and having to _fix_ one seems like a crippling move at first.
-And sometimes it is. Usually it can be rewritten, and usually needs to be done
-so a couple of times, before the edges have been rounded off enough. It really
-makes apparent how clear the thougths actually are. Sometimes they are just one
-big mess, and getting them linearized is probably one of the most useful parts.
+It forces you to linearize your thoughts. As soon as thoughts are written down,
+they are static, much unlike their original counterparts. Thoughts are
+ever-changing, and having to _hold one down_ seems like a crippling move at
+first - and sometimes it is. Most good pieces of text need multiple rewrites
+before the right words have been found. Writing thoughts down makes apparent
+how clear and thought-through they actually are. Sometimes they are just one
+big mess, and getting them linearized is one of the most useful parts. It
+allows for an easy descent in intricate details, should it be necessary.
 
 
 ## Length is Not Important
 
-Some other characteristics I've noticed: Good articles or chapters are either
-considerably short (most of them) or really long and detailed - and there
-appear to be different characteristics making them good. Short ones give you a
-push in a direction to think about, and then 'leave you alone again'. They
-rarely contain intricate stories.
 
-Long ones are different: they usually have subchapters and need deeper
-explanation and examples, sometimes done by stories, to get their point
-across. They are either an overview on some broad topic or a really in-depth
-exploration of some characteristic or idea. Then again, I probably read by far
-more short ones.
+Most good articles or chapters<sup>[1](#footnote1)</sup> are either
+considerably short (most of them) or really long and detailed. Short ones give
+you a push in a direction to think about, and then 'leave you alone again' -
+intricate stories are rare in them.
+
+Long ones are different: they consist of multiple rather short conceptually
+closed parts. Explanation and examples, sometimes done by stories, are not
+rare. They are either an overview on some broad topic or a really in-depth
+exploration of some characteristic or idea. But the shorter conceptually closed
+parts are referenced again and again from others, and reading just one of them
+would leave you with a sense of missing something from the bigger picture.
 
 
 ## Closing Thougths
 
-Overall I really love reading, it is awesome to internalize large amounts of
-information in little time. The awesome parts about books is that you can even
-learn from people who might have died a long time ago, and certainly without
-bothering the author. Imagine yourself listening to an in-person
-live-explanation of this post by me. It would take your time and mine - and it
-would take mine again and again someone new starts reading.
+I really love reading - it is awesome to internalize large amounts of
+information in little time. The really awesome thing about books is that you
+can learn new things from people you might not naturally be in contact with.
+This includes professors or otherwise really successful people from around the
+world as well as others long dead. You don't need to bother the author -
+imagine listening to me telling you about the thoughts you read here.
+As much as I like talking about them, it would take both your time and mine -
+and it would take mine again and again every single time someone starts
+reading.
 
 
 
+---
+#### Footnotes
+
+<a name="footnote1">1</a>: With this I mean chapters in non-fiction books, which try to explain concepts.
 
 <!--
 Notes
