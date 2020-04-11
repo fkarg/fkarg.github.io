@@ -4,11 +4,11 @@ published: false
 title: 'Book: Title'
 subtitle: subtitle
 tags:
-- book
+- thoughts
 ---
-Review of <short book description>
+Short article description
 
-Short description of how I heard about this book and how I got it, or some other story associated with how I read it
+Short description of how I got interested in this topic, or some other story associated with how I read about it
 
 
 # Core Key Takeaways
