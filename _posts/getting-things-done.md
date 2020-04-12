@@ -33,6 +33,42 @@ potential to be worth it.
 
 ### Foreword
 
+Most self-help books are not worth reading multiple times, since they rarely
+provide more than dressed-up common sense, most of which is forgotten in the
+next week.
+
+This book is different, mainly because of these three qualities:
+- Practicality (no complete turn-your-life-around suggestions)
+- Open-ended adaptability (everyone slightly adapts it in his own way, as
+  already found out)
+- Quality (many real-life examples cited, recommendations based on
+  experiences he has made personally)
+
+
+### Introduction to the Revised Edition
+
+Overall, it's a total rewrite based on his better understanding of the topic.
+The fundamental principles and core techniques did not need to change, however.
+
+Specifically new:
+- It's more about general requirenments for software, not specific software tools
+- How to apply GTD in a 27/7 world
+- The globalization of the technique (whatever that means)
+- Before, it has been received as 'too much information at once', it has been
+  tried to slightly mitigate that, and split into more seperate steps
+- Recent cognitive science findings validating the approach
+
+All in all it is still a new book, every time it is read.
+It's a collective gold mine of efficiency that just works - everyone has some
+habits for that, but (major) changes might be uncomfortable and even wreck
+havoc (if the changes cannot keep up with requirements in the moment).
+
+The techniques allow you to be more 'in the moment'.
+
+> This is the vaccination against day-to-day firefighting (the so-called urgent
+> and crisis demands of any given workday) and an antidote for the imbalance
+> many people bring upon themselves.
+
 ## Part 1: The Art of Getting Things Done
 
 ### 1 A New Practice for a New Reality
@@ -146,7 +182,8 @@ A biotech-manager about her to-do-list after one of his seminars.
 
 
 
-// < !-- -----NOTES-----------------------
+< !- -
+-----NOTES------------------------
 
 ### Foreword
 
@@ -185,7 +222,6 @@ A biotech-manager about her to-do-list after one of his seminars.
 > and crisis demands of any given workday) and an antidote for the imbalance
 > many people bring upon themselves.
 
----
 ## Part 1: The Art of Getting Things Done
 
 ### Chapter one: A New Practice for a New Reality
@@ -826,5 +862,5 @@ Then, on the next level:
 ### Conclusion
 Everyone develops a 'GTD'-version for themselves. The book is only a Roadmap of some general tips.
 
-
-<!-- testcomment -->
+<!-- -->
+-->
