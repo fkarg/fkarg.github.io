@@ -49,3 +49,12 @@ I have a few things in mind I want to write about, including but not limited to:
 - What would be awesome: a friendly (!) discussion (not of opposing ideas, but
   rather ... huh) between Jordan Peterson and Mark Manson, as they seem to have
   similar ideas for a lot of topics.
+- the 1-Book-Unit of ideas. If an idea has enough depth, a book could be
+  written about it. And probably should. Anything less and you haven't
+  understood it in its full depth - and if you did, you will be able to write a
+  book about it. Only then are you an 'authority' on this subject, or an author.
+- Gratitude. How far does it reach? only to those directly effecting you, or
+  also for the egypts to have lived some centuries ago and having built awesome
+  things we now can look at? Is that something to be grateful to them for?
+  Since, they do not exist anymore and they would have done that already / will
+  not change their behaviour anymore even with my gratitude.
