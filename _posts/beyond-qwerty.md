@@ -1,8 +1,8 @@
 ---
 layout: post
 published: false
-title: Some Title
-subtitle: subtitle
+title: Improving Everyday Life
+subtitle: why are you still using qwertz anyways?
 tags:
 - setup
 ---
@@ -37,6 +37,24 @@ using. And why should you?
 
 
 ## Inconsistencies in QWERTZ
+
+If you use qwertz (or variations thereof), you surely have noticed the small
+inconsistencies. No? Then you might want to reevaluate your life choices, since
+it's something so blatantly obvious in front of you and you haven't really
+thought about it. There might be endless opportunities, completely invisible to
+you.
+
+Let me just tell you the funniest one: out of the six most frequently typed
+letters in the english language (or any latin one, though the specific ones are
+slightly different) - E, T, A, O, I, N - just one is on the homerow. In German
+that's E, N, R, I, T, S - again, just one can be reached without finger movement.
+
+Maybe a bit based on that, but most frequent bigram patterns (such as `en` or
+`th`) require a lot of movement which tends to be uncomfortable. Same with
+trigrams. This really is a hurdle when typing - since they are the main
+'elements' giving the typing experience fluidity after all.
+
+It's worse than it sounds, actually.
 
 - common letters are not in main rows
     - e / n / i / r
@@ -93,21 +111,14 @@ as earlier: typists already knew qwerty. Why bother learning something new?
 
 ## Different nonstandard Keyboards
 
-Dvorak stayed not the only one creating an improved layout. I'll link and list
-some you might find interesting in the following:
+Dvorak stayed not the only one creating an improved layout - though it probably
+is the most common nonstandard one. Here are some others, created with similar
+goals in mind:
 
+<!-- - Dvorak -->
 - Colamak
-- Dvorak
-- NEO
 - Maltron
-
-
-- I researched a bunch of layouts
-- [relative letter frequencies][relfrec] in different languages
-    - [english-ngrams][english-ngrams]
-    - at least english and german, to reference neo later.
-- actually held a lightning talk about using neo two years ago
-
+- NEO
 
 
 ## But is it really worth it? I'm already old
