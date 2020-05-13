@@ -69,9 +69,49 @@ The techniques allow you to be more 'in the moment'.
 > and crisis demands of any given workday) and an antidote for the imbalance
 > many people bring upon themselves.
 
+---
 ## Part 1: The Art of Getting Things Done
 
 ### 1 A New Practice for a New Reality
+
+> It's possible to have an overwhelming number of things to do and still
+> function productively with a clear head and a positive sense of relaxed
+> control. [...] What you are doing is exactly what you ought to be doing,
+> given the whole spectrum of commitments and interests. You're fully
+> available. You're "on".
+
+- Problem: New demands, 'old', usual habits do not suffice with new workload
+- Value thinking tends to fail: Top-down organizing fails by the urgency of
+  bottom-level tasks, increasing frustration on 'values' that got us the
+  low-level-tasks in the first place
+- Promise: the 'zone', necessary for effective productivity
+- Principle: Dealing effectively with internal commitments
+    - every open task is continually tracked subconsciously
+    - what is it, what needs to be done, and will I be reminded?
+    - make sure that it is noted down appropriately
+> Now write down the _very next physical action to move the situation forward_.
+
+> We're never really taught what we have to think about our work before we can
+> do it; much of our daily activity is already defined for us by the undone and
+> unmoved things staring at us when we come to work, or by the familty to be
+> fed, the laundry to be done, or the children to be dressed at home.
+
+Things are on your mind because:
+> - you haven't clarified exactly what the inteded outcome is;
+> - you haven't decided what the very next physical action step is; and/or
+> - you haven't put reminders of the outcome and the action required in a
+>   system you trust.
+
+- You don't manage
+    - time (get six out of five minutes)
+    - information overload
+    - priorities - you _have_ them
+- you manage _actions_.
+
+- usually not lack of time; but lack of clarity and definition of the problem
+- bottom-up approach is more effective because it first allows you to breathe
+- do not just make a list of everything bugging you, but _everything_
+
 
 ### 2 Getting Control of Your Life: The Five Steps of Mastering Workflow
 
@@ -256,7 +296,7 @@ Things are on your mind because:
 
 - You don't manage
     - time (get six out of five minutes)
-    - information overload 
+    - information overload
     - priorities - you _have_ them
 - you manage _actions_.
 
@@ -291,7 +331,7 @@ Clarify: Item-by-item: is it actionable? If **No**: either put it in trash, in
 your general reference filing system or your Someday/Maybe/Tickler system.
 If **Yes**: What is the Project/Outcome? What is the next action?
 
- ______ ____ 
+ ______ ____
 |Do it      |   if it takes <2min
 |Delegate it|   Who is the right person to do this?
 |Defer it   |   If you, track it in your 'Next-Action' list or Calendar
@@ -417,7 +457,7 @@ Transit:
 
 Have your own workstation, do not share with someone else; not even your
 spouse. Your primary workstation needs to work without resistance - even if it
-is mobile. 
+is mobile.
 
 Basic processing tools:
 - stack of letter-sized papers
