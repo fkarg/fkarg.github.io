@@ -149,6 +149,8 @@ that it has not superseeded qwertz yet? The answer to that is (most likely):
 inertia. Typists knew qwertz already. Why bother learning something new? So it
 never really gained momentum.
 
+Modern Operating Systems (inluding Windows, but not iOS) allow easy switching
+to Dvorak.
 
 ## Other nonstandard Keyboards
 
@@ -157,23 +159,42 @@ common nonstandard one. Here are some others, created with similar goals in mind
 
 <!-- - Dvorak -->
 ### Colamak
+Additionally to the goals Dvorak has, it is intended to be easier to learn when
+already being familar with the QWERTZ layout. This is achieved by reducing the
+amount and distance of changed keys, when compared to Dvorak. A series of
+intermediate layouts, replacing 3-5 keys at a time, make it significantly
+easier to adapt to.
+
+It is possible to install it on Windows, all other Operating Systems provide
+support out of the box.
+
 
 ### Maltron
+
+
 
 ### NEO
 
 
+
 ## But is it really worth it? I'm already old
 
-- 
-- I spend a lot of time typing, some of it even programming.
-- early adoption has benefits
-- obvious drawback: two weeks of crippling speed
+No. Certainly, changing your Keyboard layout will only improve _your_ overall
+situation after some time. It will take some time getting used to, and makes
+you increadibly unproductive early on. It's the same as choosing a new text
+editor. ~~Emacs~~ Vim will only be more efficient _after some time_, when you
+mastered the basics and start to adapt it to your specific workflows.
+
+However, the potentiall payoffs are larger the more frequently you are typing
+something. As a programmer, using special characters is a pain. Normal layouts
+require you to considerably move around your hand and dislocate yourself in the
+process. That alone is something worth changing layouts for.
+
+Even if you decide that maybe it's not something for you, you might want to
+encourage others to try.
 
 
-
-
-
+<!--
 - In school we learned ten finger typing (some people don't for some reason. not sure why)
 - later, among computer scientists, several used 'Neo' (or other non-qwertz) for reasons
 - short history of qwertz
@@ -184,7 +205,35 @@ common nonstandard one. Here are some others, created with similar goals in mind
 - [relative letter frequencies][relfrec] in different languages
     - at least english and german, to reference neo later.
 - actually held a lightning talk about using neo two years ago
+-->
 
+## I want to switch. Do you have tips?
+
+I switched from QWERTZ to Neo cold turkey. And while I certainly don't regret
+it, you should plan for the following:
+- The first two weeks after the switch your typing speed will be painfully slow.
+- After that, it will be close to your previous QWERTZ speed.
+
+Do:
+- Print out your new layout a few times, and place one above your screen.
+- Optionally: Use stickers to modify the visible layout on your keyboard.
+- Use a typing program such as `klavaro` to start learning the
+  ten-finger-system with your new layout again.
+- Also switch the keyboard on every other system you come in contact with,
+  including your phone. There is a neat portable version for Neo as well.
+- Tell others about what you do and why you do it. They will ask you about it
+  in a couple weeks and you can tell them your success story!
+- Switch during a holiday if you cannot convince your employer otherwise.
+  The drop in speed will be noticed, so better tell/ask beforehand.
+
+Don't:
+- Switching back to QWERTZ _for any reason_, because it will soon be for
+  _every_ small reason.
+- Get frustrated by your initial severely slow typing speed and progress. It
+  will get easier, fast.
+
+
+_Even if_ you don't want to change, don't stop others from trying it and encourage them.
 
 
 ---
@@ -200,6 +249,6 @@ common nonstandard one. Here are some others, created with similar goals in mind
 [english-ngrams]: http://practicalcryptography.com/cryptanalysis/letter-frequencies-various-languages/english-letter-frequencies/
 [english-23grams]: https://link.springer.com/content/pdf/10.3758/BF03201360.pdf
 
-<a name="footnote1">1</a>: QWERTZ and QWERTY should bee seen as interchangeable in this post.
+<a name="footnote1">1</a>: QWERTZ and QWERTY should be seen as interchangeable in this post.
 <a name="footnote2">2</a>: <https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=79868&KC=&FT=E&locale=en_EP>
 <a name="footnote3">3</a>: <https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/>
