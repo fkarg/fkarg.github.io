@@ -10,10 +10,11 @@ tags:
 This is certainly among the best decisions I've made. Even if you won't decide
 the same way, You'll learn about something awesome.
 
-In seventh grade we learned how to type with ten fingers on the qwertz (german)
-keybord. Oddly enough, it was a 'free-to-choose'-lesson, one you could opt in to
-but most never visited. That begs the following question: why was it not
-mandatory, especially nowadays. (Checked: it still is not / it is by now)
+In seventh grade we learned how to type with ten fingers on the
+qwertz<sup>[1](#footnote1)</sup> (german) keybord. Oddly enough, it was a
+'free-to-choose'-lesson, one you could opt in to but most never visited. That
+begs the following question: why was it not mandatory, especially nowadays.
+(Checked: it still is not / it is by now)
 
 Then I changed schools and there it was mandatory. Suddenly I had one of the
 highest speeds in my class - I already learned most of it after all. We
@@ -33,7 +34,7 @@ He said he was quite fluent at this point, not needing to look it up again and
 again and finally seeing the benefits. I was confused. What were they talking
 about? Turns out 'Neo', or specficially 'Neo2' is a keyboard layout. It seemed
 quite strange at first, and not at all like something one would easily start
-using. And why should you?
+using. Are they weird? QWERTZ is plenty fine, right?
 
 
 ## Inconsistencies in QWERTZ
@@ -47,35 +48,76 @@ you.
 Let me just tell you the funniest one: out of the six most frequently typed
 letters in the english language (or any latin one, though the specific ones are
 slightly different) - E, T, A, O, I, N - just one is on the homerow. In German
-that's E, N, R, I, T, S - again, just one can be reached without finger movement.
+as well, from the six most common ones - E, N, R, I, T, S - just one can be
+reached without finger movement.
 
 Maybe a bit based on that, but most frequent bigram patterns (such as `en` or
-`th`) require a lot of movement which tends to be uncomfortable. Same with
-trigrams. This really is a hurdle when typing - since they are the main
-'elements' giving the typing experience fluidity after all.
+`th`) require a lot of movement. Even more so with trigrams, combinations of
+three letters. This really is a hurdle when typing - they are the main
+'elements' giving the typing experience fluidity.
 
-It's worse than it sounds, actually.
+This still sounds bearable, though.
 
-- common letters are not in main rows
-    - e / n / i / r
-- common movements are not exactly comfortable
-    - en / ch / er / ...
-- the left side is strained more
+The left hand is used much more than the right. Not just used, strained. The
+tendons and sheaths on the left hand are strained more by a little amount,
+continuosly. The benefit? You can write a whole lot with just your left hand.
+Where does this asymmetry come from?
+
+## Short History of QWERTZ
+
+### Before Computers
+
+The common knowledge-reason for qwertz is that it initially got developed for
+mechanical typewriters, being specficially optimised for higher frequency
+typing without equally frequent physical jamming. While this is true, there is
+more to it than that.
+
+The initial version in the early 1870s actually looked like this<sup>[2](#footnote2)</sup>:
+
+```
+- 3 5 7 9 N O P Q R S T U V W X Y Z
+2 4 6 8 . A B C D E F G H I J K L M
+```
+
+Things did not work out for two reasons: The type bars (or metal arms holding
+the keys) would jam when two within close vicinity were pressed together - and
+commonly used letters (such as 'th' or 'st') were close enough for that to
+happen<sup>[3](#footnote3)</sup>.
 
 
+The next iteration, in April 1870, was still trying to keep most of the
+alphabet directly:
 
-## Short History of QWERTY
+```
+2 3 4 5 6 7 8 9 -
+A E I . ? Y U O ,
+B C D F G H J K L M
+Z X W V T S R Q P N
+```
 
-I mean this is pretty common knowledge, so I'll just remind you of it. The
-QWERTY layout initially got developed for mechanical typewriters. It is
-specficially optimised for higher frequency typing without equally frequent
-physical jamming - or at least, that's what people are commonly being told.
-We'll get to that in a bit.
+It got changed again in 1873 and by 1878 it is barely distinguishable from a
+'modern' QWERTY layout. It's unclear if changes were influenced more by
+bigramm-analysis or telegraph-operator feedback. Since then it has barely
+changed.
 
-With the first computers showing up, this is obviously one of the first options
-to consider, since a whole lot of people already knew it, and early on it was
-mostly text processing (at least those widely available) anyways. (-> still
-checking) And now it's continued to be used everywhere because people knew it
+
+### Computers
+
+With the first computers showing up, a commonly used layout is obviously one of
+the first things to consider. A whole lot of people already knew it, and early
+on it was a lot of text processing (at least those widely available) anyways.
+So it better be similar to the other text processing layouts, they already know
+them and are familiar with them.
+
+
+Nowadays it's still the same reason. Why should you bother learning _anything_
+else? Everyone knows and is familiar with QWERTZ after all, right?
+
+So apparently QWERTZ is only used due to legacy reasons, and has some apparent
+drawbacks. Why is it that no better layout ever replaced it?
+
+<!--
+And now it's continued to be used everywhere because people knew it
 already. That's _literally the only reason_. Because _some_ people are already
 familar with it.  
 
@@ -86,39 +128,39 @@ deemed it worth learning.
 
 And if you know anything about changes in the modern world, LEGACY reasons are
 among the worst to have. Still, no one will blame you - most people type it
-qwerty after all. With that clearly out of the way, how would a modern
+qwertz after all. With that clearly out of the way, how would a modern
 keyboard look like if it were to be designed anew?
-
+-->
 
 ## The story of Dvorak
 
-Actually, even before computers, the inconsistencies and inefficiencies in
-qwertz were noticed, and a pretty common nonstandard layout got developed as a
-result. The [patent][dvorakpatent] got filed in 1932 and accepted four years
-later. As it improved typing comfort and reduced complex movements, it was
-faster to learn and easier to use.
+Even before computers, a pretty common nonstandard layout got developed as a
+result of the issues with qwertz. A [patent][dvorakpatent] of the
+'DVORAK'-Layout got filed in 1932 and accepted four years later. It improved
+typing comfort and reduced complex movements, making it faster to learn and
+easier to use.
 
 In fact, it was so easy and fast that it was [asked to be banned from typing
 speed competitions][dvorak], due to the layout being an "unfair advantage". New
-students learned it in only a third of the time it took to learn qwertz as
-well. Sounds like a pretty awesome advantage to me. Certainly no compelling
-reason to use qwerty instead.
+students learned it in only a third of the time it took others to learn qwertz.
 
-The obvious question is: If it exists for close to 90 years already, why is it
-that it has not superseeded qwerty yet? The answer to that is (sadly) the same
-as earlier: typists already knew qwerty. Why bother learning something new?
+The obvious question remains: If it exists for so long already, why is it
+that it has not superseeded qwertz yet? The answer to that is (most likely):
+inertia. Typists knew qwertz already. Why bother learning something new? So it
+never really gained momentum.
 
 
-## Different nonstandard Keyboards
+## Other nonstandard Keyboards
 
-Dvorak stayed not the only one creating an improved layout - though it probably
-is the most common nonstandard one. Here are some others, created with similar
-goals in mind:
+Dvorak did not stay the only improved layout - though it probably is the most
+common nonstandard one. Here are some others, created with similar goals in mind:
 
 <!-- - Dvorak -->
-- Colamak
-- Maltron
-- NEO
+### Colamak
+
+### Maltron
+
+### NEO
 
 
 ## But is it really worth it? I'm already old
@@ -133,8 +175,8 @@ goals in mind:
 
 
 - In school we learned ten finger typing (some people don't for some reason. not sure why)
-- later, among computer scientists, several used 'Neo' (or other non-qwerty) for reasons
-- short history of qwerty
+- later, among computer scientists, several used 'Neo' (or other non-qwertz) for reasons
+- short history of qwertz
     - allows typewriters to _not_ jam
     - used for computers, simply because people knew it already
     - thats the _full_ reason.
@@ -145,6 +187,9 @@ goals in mind:
 
 
 
+---
+#### Footnotes
+
 [relfreq]: https://en.wikipedia.org/wiki/Letter_frequency
 [dvorak]: https://www.wired.com/2010/05/0512dvorak-keyboard-patent/
     - faster to learn
@@ -154,3 +199,7 @@ goals in mind:
 [multiple]: https://www.mentalfloss.com/article/52483/6-non-qwerty-keyboard-layouts
 [english-ngrams]: http://practicalcryptography.com/cryptanalysis/letter-frequencies-various-languages/english-letter-frequencies/
 [english-23grams]: https://link.springer.com/content/pdf/10.3758/BF03201360.pdf
+
+<a name="footnote1">1</a>: QWERTZ and QWERTY should bee seen as interchangeable in this post.
+<a name="footnote2">2</a>: <https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=79868&KC=&FT=E&locale=en_EP>
+<a name="footnote3">3</a>: <https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/>
