@@ -280,6 +280,6 @@ _Even if_ you don't want to change, don't stop others from trying it and encoura
 
 <a name="footnote1">1</a>: QWERTZ and QWERTY should be seen as interchangeable in this post.
 
-<a name="footnote2">2</a>: <https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=79868&KC=&FT=E&locale=en_EP>
+<a name="footnote2">2</a>: Source: <https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=79868&KC=&FT=E&locale=en_EP>
 
-<a name="footnote3">3</a>: <https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/>
+<a name="footnote3">3</a>: Source: <https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/>
