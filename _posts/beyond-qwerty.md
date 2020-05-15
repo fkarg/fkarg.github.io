@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Improving Everyday Life
-subtitle: why are you still using qwertz anyways?
+subtitle: why are you still using qwerty anyways?
 image: https://neo-layout.org/grafik/druckvorlage/neo-druckvorlage_full.png
 tags:
 - setup
@@ -12,7 +12,7 @@ This is certainly among the best decisions I've made. Even if you won't decide
 the same way, You'll learn about something awesome.
 
 In seventh grade we learned how to type with ten fingers on the
-qwertz<sup>[1](#footnote1)</sup> (german) keybord. Oddly enough, it was a
+qwertz<sup>[1](#footnote1)</sup> (German) keyboard. Oddly enough, it was a
 'free-to-choose'-lesson, one you could opt in to but most never visited. That
 begs the following question: why was it not mandatory, especially nowadays.
 (Checked: it still is not / it is by now)
@@ -24,7 +24,7 @@ time I became conscious about typing speed.
 
 
 Some years later I got friendly with my 'local' (closest bigger city)
-hackerspace. Usually this is a place filled with friendly people on couches and
+hacker space. Usually this is a place filled with friendly people on couches and
 nerd-insider-jokes. Mostly related to Computer Science or Maths. Anyways, these
 are usually people well-trained to look for long-term improvements. I got quite
 a few things recommended there, from which I either tremendously benefited or
@@ -33,7 +33,7 @@ still use today. One I still use everyday is Neo.
 At some point I overheard someone ask someone else how it went learning 'Neo'.
 He said he was quite fluent at this point, not needing to look it up again and
 again and finally seeing the benefits. I was confused. What were they talking
-about? Turns out 'Neo', or specficially 'Neo2' is a keyboard layout. It seemed
+about? Turns out 'Neo', or specifically 'Neo2' is a keyboard layout. It seemed
 quite strange at first, and not at all like something one would easily start
 using. Are they weird? QWERTZ is plenty fine, right?
 
@@ -47,13 +47,13 @@ thought about it. There might be endless opportunities, completely invisible to
 you.
 
 Let me just tell you the funniest one: out of the six most frequently typed
-letters in the english language (or any latin one, though the specific ones are
-slightly different) - E, T, A, O, I, N - just one is on the homerow. In German
+letters in the English language (or any Latin one, though the specific ones are
+slightly different) - E, T, A, O, I, N - just one is on the home row. In German
 as well, from the six most common ones - E, N, R, I, T, S - just one can be
 reached without finger movement.
 
-Maybe a bit based on that, but most frequent bigram patterns (such as `en` or
-`th`) require a lot of movement. Even more so with trigrams, combinations of
+Maybe a bit based on that, but most frequent bi-gram patterns (such as `en` or
+`th`) require a lot of movement. Even more so with tri-grams, combinations of
 three letters. This really is a hurdle when typing - they are the main
 'elements' giving the typing experience fluidity.
 
@@ -61,7 +61,7 @@ This still sounds bearable, though.
 
 The left hand is used much more than the right. Not just used, strained. The
 tendons and sheaths on the left hand are strained more by a little amount,
-continuosly. The benefit? You can write a whole lot with just your left hand.
+continuously. The benefit? You can write a whole lot with just your left hand.
 Where does this asymmetry come from?
 
 ## Short History of QWERTZ
@@ -69,7 +69,7 @@ Where does this asymmetry come from?
 ### Before Computers
 
 The common knowledge-reason for qwertz is that it initially got developed for
-mechanical typewriters, being specficially optimised for higher frequency
+mechanical typewriters, being specifically optimized for higher frequency
 typing without equally frequent physical jamming. While this is true, there is
 more to it than that.
 
@@ -166,7 +166,7 @@ common nonstandard one. Here are some others, created with similar goals in mind
 ![Picture from Wikimedia](https://upload.wikimedia.org/wikipedia/commons/8/84/KB_US-Colemak.svg)
 
 Additionally to the goals Dvorak has, it is intended to be easier to learn when
-already being familar with the QWERTZ layout. This is achieved by reducing the
+already being familiar with the QWERTZ layout. This is achieved by reducing the
 amount and distance of changed keys, when compared to Dvorak. A series of
 intermediate layouts, replacing 3-5 keys at a time, make it significantly
 easier to adapt to.
@@ -182,11 +182,11 @@ support out of the box.
 More than just a nonstandard keyboard layout, Maltron is a manufacturer of
 ergonomic keyboards. While also shipping with QWERTY or DVORAK Layouts, they
 developed their own, based on a frequency of use analysis of not just letters,
-but also special characters such as space, commas and dots. Bi- and Trigram
+but also special characters such as space, commas and dots. Bi- and trigram
 frequencies have been taken into account as well. Another design goal seems to
 have been to increase the number of different words each single hand can write.
 
-Maltron Keybords work just like any other Keyboard and do not require
+Maltron keyboards work just like any other Keyboard and do not require
 additional software. No Operating-System adjustment is required, either.
 
 
@@ -194,8 +194,8 @@ additional software. No Operating-System adjustment is required, either.
 
 ![Picture from neo-layout.org](https://neo-layout.org/grafik/druckvorlage/neo-druckvorlage_full.png)
 
-The layout was created after analyzing bi- and trigram frequencies of german
-and english, making it especially suited for german programmers. Also, in stark
+The layout was created after analyzing bi- and trigram frequencies of German
+and English, making it especially suited for German programmers. Also, in stark
 contrast to DVORAK and COLAMAK, it also changes the positons of special
 characters, much to a programmers benefit. The navigation and numblock on layer
 four have substantially made my life easier.
@@ -210,11 +210,11 @@ privileges.
 
 No. Certainly, changing your Keyboard layout will only improve _your_ overall
 situation after some time. It will take some time getting used to, and makes
-you increadibly unproductive early on. It's the same as choosing a new text
+you incredibly unproductive early on. It's the same as choosing a new text
 editor. ~~Emacs~~ Vim will only be more efficient _after some time_, when you
 mastered the basics and start to adapt it to your specific workflows.
 
-However, the potentiall payoffs are larger the more frequently you are typing
+However, the potential payoffs are larger the more frequently you are typing
 something. As a programmer, using special characters is a pain. Normal layouts
 require you to considerably move around your hand and dislocate yourself in the
 process. That alone is something worth changing layouts for.
