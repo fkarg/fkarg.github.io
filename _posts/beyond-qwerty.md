@@ -135,6 +135,8 @@ keyboard look like if it were to be designed anew?
 
 ## The story of Dvorak
 
+![Picture from Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/25/KB_United_States_Dvorak.svg)
+
 Even before computers, a pretty common nonstandard layout got developed as a
 result of the issues with qwertz. A [patent][dvorakpatent] of the
 'DVORAK'-Layout got filed in 1932 and accepted four years later. It improved
@@ -149,8 +151,6 @@ The obvious question remains: If it exists for so long already, why is it
 that it has not superseeded qwertz yet? The answer to that is (most likely):
 inertia. Typists knew qwertz already. Why bother learning something new? So it
 never really gained momentum.
-
-![Picture from Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/25/KB_United_States_Dvorak.svg)
 
 Modern Operating Systems (inluding Windows, but not iOS) allow easy switching
 to Dvorak.
@@ -270,8 +270,10 @@ _Even if_ you don't want to change, don't stop others from trying it and encoura
 
 [relfreq]: https://en.wikipedia.org/wiki/Letter_frequency
 [dvorak]: https://www.wired.com/2010/05/0512dvorak-keyboard-patent/
+<!--
     - faster to learn
     - 'unfair advantage' in typing competitions
+-->
 [dvorakpatent]: https://patents.google.com/patent/US2040248A/en
 [dvorakgerman]: http://www.adnw.de/index.php?n=Main.PatentschriftDvoraks
 [multiple]: https://www.mentalfloss.com/article/52483/6-non-qwerty-keyboard-layouts
