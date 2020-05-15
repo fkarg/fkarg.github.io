@@ -15,7 +15,6 @@ In seventh grade we learned how to type with ten fingers on the
 qwertz<sup>[1](#footnote1)</sup> (German) keyboard. Oddly enough, it was a
 'free-to-choose'-lesson, one you could opt in to but most never visited. That
 begs the following question: why was it not mandatory, especially nowadays.
-(Checked: it still is not / it is by now)
 
 Then I changed schools and there it was mandatory. Suddenly I had one of the
 highest speeds in my class - I already learned most of it after all. We
@@ -42,9 +41,8 @@ using. Are they weird? QWERTZ is plenty fine, right?
 
 If you use qwertz (or variations thereof), you surely have noticed the small
 inconsistencies. No? Then you might want to reevaluate your life choices, since
-it's something so blatantly obvious in front of you and you haven't really
-thought about it. There might be endless opportunities, completely invisible to
-you.
+it's something so blatantly obvious in front of you and you apparently haven't
+noticed it. There might be endless opportunities, completely invisible to you.
 
 Let me just tell you the funniest one: out of the six most frequently typed
 letters in the English language (or any Latin one, though the specific ones are
