@@ -3,6 +3,7 @@ layout: post
 published: false
 title: Improving Everyday Life
 subtitle: why are you still using qwertz anyways?
+image: https://neo-layout.org/grafik/druckvorlage/neo-druckvorlage_full.png
 tags:
 - setup
 ---
@@ -149,6 +150,8 @@ that it has not superseeded qwertz yet? The answer to that is (most likely):
 inertia. Typists knew qwertz already. Why bother learning something new? So it
 never really gained momentum.
 
+![Picture from Wikimedia](https://upload.wikimedia.org/wikipedia/commons/2/25/KB_United_States_Dvorak.svg)
+
 Modern Operating Systems (inluding Windows, but not iOS) allow easy switching
 to Dvorak.
 
@@ -159,6 +162,9 @@ common nonstandard one. Here are some others, created with similar goals in mind
 
 <!-- - Dvorak -->
 ### Colamak
+
+![Picture from Wikimedia](https://upload.wikimedia.org/wikipedia/commons/8/84/KB_US-Colemak.svg)
+
 Additionally to the goals Dvorak has, it is intended to be easier to learn when
 already being familar with the QWERTZ layout. This is achieved by reducing the
 amount and distance of changed keys, when compared to Dvorak. A series of
@@ -171,10 +177,33 @@ support out of the box.
 
 ### Maltron
 
+![Picture Created from MovGP0, unchanged](https://upload.wikimedia.org/wikipedia/commons/5/56/KB_Maltron_3D_US.svg)
+
+More than just a nonstandard keyboard layout, Maltron is a manufacturer of
+ergonomic keyboards. While also shipping with QWERTY or DVORAK Layouts, they
+developed their own, based on a frequency of use analysis of not just letters,
+but also special characters such as space, commas and dots. Bi- and Trigram
+frequencies have been taken into account as well. Another design goal seems to
+have been to increase the number of different words each single hand can write.
+
+Maltron Keybords work just like any other Keyboard and do not require
+additional software. No Operating-System adjustment is required, either.
 
 
 ### NEO
 
+![Picture from neo-layout.org](https://neo-layout.org/grafik/druckvorlage/neo-druckvorlage_full.png)
+
+The layout was created after analyzing bi- and trigram frequencies of german
+and english, making it especially suited for german programmers. Also, in stark
+contrast to DVORAK and COLAMAK, it also changes the positons of special
+characters, much to a programmers benefit. The navigation and numblock on layer
+four have substantially made my life easier.
+
+Neo is pre-installed on Linux and MacOS, and several Keyboards (such as GBoard)
+for phones support it. It can easily be installed on Windows, though I prefer
+to use the portable executable, which can also be used without administrator
+privileges.
 
 
 ## But is it really worth it? I'm already old
@@ -250,5 +279,7 @@ _Even if_ you don't want to change, don't stop others from trying it and encoura
 [english-23grams]: https://link.springer.com/content/pdf/10.3758/BF03201360.pdf
 
 <a name="footnote1">1</a>: QWERTZ and QWERTY should be seen as interchangeable in this post.
+
 <a name="footnote2">2</a>: <https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=79868&KC=&FT=E&locale=en_EP>
+
 <a name="footnote3">3</a>: <https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/>
