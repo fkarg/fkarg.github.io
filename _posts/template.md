@@ -15,6 +15,7 @@ Short description of how I got interested in this topic, or some other story ass
 ## Chapters / Parts
 ### Subchapters
 
+Footnote<sup>[1](#footnote1)</sup> among text.
 
 # Overall
 ## Main Takeaways
@@ -22,3 +23,7 @@ Short description of how I got interested in this topic, or some other story ass
 ## Favourite Quotes
 
 
+---
+#### Footnotes
+
+<a name="footnote1">1</a>: Text from footnote1.
