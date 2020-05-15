@@ -3,13 +3,13 @@ layout: post
 published: true
 title: Improving Everyday Life
 subtitle: why are you still using qwerty anyways?
-image: https://neo-layout.org/grafik/druckvorlage/neo-druckvorlage_full.png
+image: 'https://neo-layout.org/grafik/druckvorlage/neo-druckvorlage_full.png'
 tags:
 - setup
 ---
 
 This is certainly among the best decisions I've made. Even if you won't decide
-the same way, You'll learn about something awesome.
+the same way, you are about to learn something awesome.
 
 In seventh grade we learned how to type with ten fingers on the
 qwertz<sup>[1](#footnote1)</sup> (German) keyboard. Oddly enough, it was a
