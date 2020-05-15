@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Improving Everyday Life
 subtitle: why are you still using qwerty anyways?
 image: https://neo-layout.org/grafik/druckvorlage/neo-druckvorlage_full.png
