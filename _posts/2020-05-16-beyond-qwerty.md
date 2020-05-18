@@ -200,8 +200,8 @@ four have substantially made my life easier.
 
 Neo is pre-installed on Linux and MacOS, and several Keyboards (such as GBoard)
 for phones support it. It can easily be installed on Windows, though I prefer
-to use the portable executable, which can also be used without administrator
-privileges.
+to use the [portable executable][portable], which can also be used without
+administrator privileges.
 
 
 ## But is it really worth it? I'm already old
@@ -277,6 +277,8 @@ _Even if_ you don't want to change, don't stop others from trying it and encoura
 [multiple]: https://www.mentalfloss.com/article/52483/6-non-qwerty-keyboard-layouts
 [english-ngrams]: http://practicalcryptography.com/cryptanalysis/letter-frequencies-various-languages/english-letter-frequencies/
 [english-23grams]: https://link.springer.com/content/pdf/10.3758/BF03201360.pdf
+[portable]: https://github.com/fkarg/configs/blob/797e03aaf2e2f96ce3dfacdf9e9ace914f6b2075/neo_portable.zip
+
 
 <a name="footnote1">1</a>: QWERTZ and QWERTY should be seen as interchangeable in this post.
 
