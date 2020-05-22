@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Improving Everyday Life
-subtitle: why are you still using qwerty anyways?
+subtitle: why are you still using qwerty anyway?
 bigimg: /img/neo-druckvorlage_full.png
 tags:
 - setup
@@ -24,7 +24,7 @@ time I became conscious about typing speed.
 
 Some years later I got friendly with my 'local' (closest bigger city)
 hacker space. Usually this is a place filled with friendly people on couches and
-nerd-insider-jokes. Mostly related to Computer Science or Maths. Anyways, these
+nerd-insider-jokes. Mostly related to Computer Science or Maths. Anyway, these
 are usually people well-trained to look for long-term improvements. I got quite
 a few things recommended there, from which I either tremendously benefited or
 still use today. One I still use everyday is Neo.
@@ -94,7 +94,7 @@ B C D F G H J K L M
 Z X W V T S R Q P N
 ```
 
-It got changed again in 1873 and by 1878 it is barely distinguishable from a
+It got changed again in 1873, and by 1878 it is barely distinguishable from a
 'modern' QWERTY layout. It's unclear if changes were influenced more by
 bigramm-analysis or telegraph-operator feedback. Since then it has barely
 changed.
@@ -104,7 +104,7 @@ changed.
 
 With the first computers showing up, a commonly used layout is obviously one of
 the first things to consider. A whole lot of people already knew it, and early
-on it was a lot of text processing (at least those widely available) anyways.
+on it was a lot of text processing (at least those widely available) anyway.
 So it better be similar to the other text processing layouts, they already know
 them and are familiar with them.
 
