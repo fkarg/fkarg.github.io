@@ -11,6 +11,10 @@ Short article description
 Short description of how I got interested in this topic, or some other story associated with how I read about it
 
 
+* TOC
+{:toc}
+
+
 # Core Key Takeaways
 ## Chapters / Parts
 ### Subchapters
