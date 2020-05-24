@@ -14,7 +14,7 @@ a bookstore in Basel. The English table of contents seems similar enough, so
 I'll stay with the chapters. If something appears weird, that might be one
 reason. This also prevents me from directly quoting, but let's see.
 
-# automatic TOC
+* TOC
 {:toc}
 
 # manual TOC
