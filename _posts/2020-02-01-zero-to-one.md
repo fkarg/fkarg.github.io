@@ -16,6 +16,10 @@ ago, and I finally got around to reading it. Here are my thoughts about it,
 ordered by chapters.
 
 
+* TOC
+{:toc}
+
+
 # Core Key Takeaways
 
 This is a collection of core key takeaways found within this book, particularly

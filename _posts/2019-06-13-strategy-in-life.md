@@ -8,8 +8,11 @@ What is Strategy? Why is it easy to get wrong and so hard to get right?
 
 ---
 
-# Strategy
+* TOC
+{:toc}
 
+
+# Strategy
 
 ## Structures in Life
 

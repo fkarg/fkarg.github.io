@@ -11,6 +11,11 @@ tags:
 This is certainly among the best decisions I've made. Even if you won't decide
 the same way, you are about to learn something awesome.
 
+
+* TOC
+{:toc}
+
+
 In seventh grade we learned how to type with ten fingers on the
 qwertz<sup>[1](#footnote1)</sup> (German) keyboard. Oddly enough, it was a
 'free-to-choose'-lesson, one you could opt in to but most never visited. That

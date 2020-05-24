@@ -10,6 +10,10 @@ Some recent thoughts on Reality; how it tends to be different from what we
 believe, and maybe habits to get slightly closer.
 
 
+* TOC
+{:toc}
+
+
 # Facing Reality
 
 ## Losing Touch With Reality

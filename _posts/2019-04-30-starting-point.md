@@ -9,6 +9,11 @@ You compete with others, on an unfair playing field. Are you aware of this?
 
 Are you good at Games?
 
+
+* TOC
+{:toc}
+
+
 ## Starting equally
 
 You know in (tabletop) games - think e.g. Monopoly - in the beginning, everyone

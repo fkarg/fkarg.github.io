@@ -7,6 +7,11 @@ tags:
 ---
 Why I thought it was useless and why it is still a supremely powerful technique to boost your efficacy.
 
+
+* TOC
+{:toc}
+
+
 # [Murphyjitsu][0]
 
 ## A short introduction
