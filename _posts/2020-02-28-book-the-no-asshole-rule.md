@@ -14,7 +14,9 @@ a bookstore in Basel. The English table of contents seems similar enough, so
 I'll stay with the chapters. If something appears weird, that might be one
 reason. This also prevents me from directly quoting, but let's see.
 
+{:toc}
 
+# manual TOC
 - [Core Key Takeaways](#core-key-takeaways)
 - [Foreword](#foreword)
 - [1 What Assholes Do and Why You Know So Many](#1-what-assholes-do-and-why-you-know-so-many)
