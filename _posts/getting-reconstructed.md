@@ -26,7 +26,19 @@ worldview might take a hit.
 
 ## Scenarios
 
-Let's talk about the scenarios, in which something like this is possible, first.
+There is probably a lot of specifics I'm missing here, but as far as I can see
+it boils down to one of three things: You are in a simulation, you have been
+teleported, or you have been replicated. The difference between teleportation
+and replication might be significant.
+
+### Teleport
+Classic teleportation, as is well known and loved in science fiction. Maybe
+through a portal, but not something 'wormhole'-like. The reason being; you
+don't get reconstructed when coming out of it. Heck, you are not being
+deconstructed either. So, teleportation yes, but not the 'keeping you
+physically intact' one. And no, I don't know if we should include the
+'apparation' from Harry Potter or not.
+
 
 ### Simulation
 It could all just be a Simulation. To be honest, so could be what we call
@@ -35,10 +47,6 @@ Reality.
 Consider the following: At some later point in time it is possible to simulate
 complete Humans, or at least their minds, in a virtual environment, unnoticably
 different from reality.
-
-
-### Teleport
-Honestly, this is probably the tamest one.
 
 
 ### Replication
@@ -52,6 +60,14 @@ Honestly, this is probably the tamest one.
 
 
 ## Implications
+
+### Teleportation
+Teleportation is possible. Duh. But really:
+- It is possible to send massive amounts of data from one point to another.
+- If it is also possible to store that data, we could be in a simulation or
+  replication case as well. Just keep that in mind.
+- 
+
 
 ### Full Information About Your Mind
 It is reasonable to assume that some entity has full information about your
@@ -133,3 +149,13 @@ situation is vastly different if you have been 'guided' growing up though:
 
 
 
+
+
+Footnote<sup>[1](#footnote1)</sup> among text.
+
+---
+#### Footnotes
+
+<a name="footnote1">1</a>: Text from footnote1.
+
+The awesome title image was created by JingTan @JingChunTan666.
