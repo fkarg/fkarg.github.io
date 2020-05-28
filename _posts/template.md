@@ -15,13 +15,13 @@ Short description of how I got interested in this topic, or some other story ass
 {:toc}
 
 
-# Core Key Takeaways
+# Notes
 ## Chapters / Parts
 ### Subchapters
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 
-# Overall
+# Review
 ## Main Takeaways
 ## Criticism
 ## Favourite Quotes

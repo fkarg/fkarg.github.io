@@ -20,23 +20,7 @@ likely, long enough so that TESLA already has total dominance.
 
 
 
-Short article description
-
-Short description of how I got interested in this topic, or some other story
-associated with how I read about it
-
-
-# Core Key Takeaways
-## Chapters / Parts
-### Subchapters
-
 Footnote<sup>[1](#footnote1)</sup> among text.
-
-# Overall
-## Main Takeaways
-## Criticism
-## Favourite Quotes
-
 
 ---
 #### Footnotes

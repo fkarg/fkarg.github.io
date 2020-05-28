@@ -14,6 +14,7 @@ Short description of how I got interested in this topic, or some other story ass
 * TOC
 {:toc}
 
+
 Part 3: Topic 13.1:
 three humour deminsions in Jokes: 
     Structure | Content
@@ -31,13 +32,14 @@ three humour deminsions in Jokes:
 => Be curious about something, be amused, share with others
 => chuckle at yourself when making mistakes, do not blame others
 
-# Core Key Takeaways
+
+# Notes
 ## Chapters / Parts
 ### Subchapters
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 
-# Overall
+# Review
 ## Main Takeaways
 ## Criticism
 ## Favourite Quotes

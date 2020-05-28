@@ -6,6 +6,10 @@ subtitle: Oh, do you know XYZ? Basically, it's just like that, only ...
 tags:
 - ideas
 ---
+Short one-line description.
+
+* TOC
+{:toc}
 
 
 Basic Idea:
@@ -18,9 +22,15 @@ Basic Idea:
 - might be possible to create a 'real-life'-skilltree, or at least knowledgetree here
 
 
+
+
+# Notes
+## Chapters / Parts
+### Subchapters
+
 Footnote<sup>[1](#footnote1)</sup> among text.
 
-# Overall
+# Review
 ## Main Takeaways
 ## Criticism
 ## Favourite Quotes

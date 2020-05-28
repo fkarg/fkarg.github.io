@@ -19,17 +19,7 @@ agitated about something. _They_ are not your friend, their emotions are.
 
 
 
-
-# Core Key Takeaways
-## Chapters / Parts
-### Subchapters
-
 Footnote<sup>[1](#footnote1)</sup> among text.
-
-# Overall
-## Main Takeaways
-## Criticism
-## Favourite Quotes
 
 
 ---

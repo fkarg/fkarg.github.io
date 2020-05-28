@@ -16,14 +16,23 @@ hanging fruits' in my life that I have not touched yet. Or, more specifically:
 I do not really understand them yet.
 
 
-# Core Key Takeaways
+* TOC
+{:toc}
+
+
+# Notes
 ## Chapters / Parts
 ### Subchapters
 
+Footnote<sup>[1](#footnote1)</sup> among text.
 
-# Overall
+# Review
 ## Main Takeaways
 ## Criticism
 ## Favourite Quotes
 
 
+---
+#### Footnotes
+
+<a name="footnote1">1</a>: Text from footnote1.

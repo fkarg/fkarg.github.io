@@ -9,6 +9,11 @@ tags:
 Review of Jordan Petersons bestseller, being provocative and deemed as
 'dangerous' by some.
 
+
+* TOC
+{:toc}
+
+
 I first got to know Jordan Peterson from the 'youtube lectures', parts of his
 lectures that got uploaded to youtube, garnering large numbers of views. Then
 this whole fallout with the left happened, and while some parts were true, the
@@ -20,14 +25,19 @@ source again}. So, my curiousity got piqued and I bought the bought in early
 march.
 
 
-# Core Key Takeaways
+# Notes
 ## Chapters / Parts
 ### Subchapters
 
+Footnote<sup>[1](#footnote1)</sup> among text.
 
-# Overall
+# Review
 ## Main Takeaways
 ## Criticism
 ## Favourite Quotes
 
 
+---
+#### Footnotes
+
+<a name="footnote1">1</a>: Text from footnote1.

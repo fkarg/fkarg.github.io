@@ -17,14 +17,23 @@ kind of a really obvious choice of books to read at some point. I finally
 received it last Christmas and now got around to actually reading it.
 
 
-# Core Key Takeaways
+* TOC
+{:toc}
+
+
+# Notes
 ## Chapters / Parts
 ### Subchapters
 
+Footnote<sup>[1](#footnote1)</sup> among text.
 
-# Overall
+# Review
 ## Main Takeaways
 ## Criticism
 ## Favourite Quotes
 
 
+---
+#### Footnotes
+
+<a name="footnote1">1</a>: Text from footnote1.

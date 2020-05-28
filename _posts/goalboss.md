@@ -8,6 +8,9 @@ tags:
 ---
 Will Pembles 'practical guide to successful business leadership.'
 
+* TOC
+{:toc}
+
 I got this book when attending a coaching seminar with Will Pemble, afterwards
 he just gave out signed books to every attendee. That was pretty awesome. So
 this version is actually hand-signed by him and addressed to me personally. How
@@ -45,7 +48,7 @@ Might not even be a scam.
 ## 23 Keys to Leadership
 
 
-# Overall
+# Review
 ## Main Takeaways
 
 ## Criticism

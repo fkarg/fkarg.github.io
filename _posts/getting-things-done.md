@@ -21,7 +21,7 @@ one) as well as 'Die Zettelkastenmethode' (a general knowledge organizing
 system), which were the main contents of his talk.
 
 
-# Core Key Takeaways
+# Notes
 
 I will correlate parts of the book with experiences I have made since reading
 it or with techniques/information not from within the book itself. When reading
@@ -165,7 +165,7 @@ This part is about step-by-step guidelines to set this process up and bootstrap 
 ### 15 The Path of GTD Mastery
 
 
-# Overall
+# Review
 
 ## Main Takeaways
 First read:
