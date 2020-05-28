@@ -501,9 +501,15 @@ success, but it at least makes success possible.
 
 
 ## Criticism
-I have not yet gotten around to think really critically about all of the
-content. I think most things check out, even though some are portraied as more
-contrarian than they actually are.
+I think most things check out, even though some are portraied as more
+contrarian than they actually are in the grand scheme of things. My biggest
+criticism is that I barely remembered any content explicitly after some just a
+few weeks after reading it.
+
+Would I recommend it? Certainly if you are new to the topic, but if you've been
+around for some time there will barely be anything really new in it. On the
+other hand, it will probably stay sort of a 'go-to' reference book, not without
+reason.
 
 
 ## Favourite Quotes
@@ -541,6 +547,7 @@ probably keep it that way.
 **Edits:**
 - 2020-02-01: added Criticism
 - 2020-05-28: added main takeaways and reordered the 'Overall' Section based on the template
+- 2020-05-28: updated criticism
 
 
 
