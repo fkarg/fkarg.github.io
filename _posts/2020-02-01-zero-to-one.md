@@ -20,14 +20,13 @@ ordered by chapters.
 {:toc}
 
 
-# Core Key Takeaways
-
-This is a collection of core key takeaways found within this book, particularly
-things I was not aware of, or good collections I wanted to share. Even though
-you might substitute reading this instead of the book itself, a summary can
-only give you so much information about the contents' implications. In my
-opinion, the implications are the biggest part of the book, and that part is
-(mainly) missing.
+# Notes
+This is a collection of my notes about this book, particularly things I was not
+aware of, or concise phrasing I wanted to share. Even though you might
+substitute reading this instead of the book itself, a summary can only give you
+so much information about the contents' implications. In my opinion, the
+implications are the biggest part of the book, and that part is (mainly)
+missing.
 
 Instead, I took the liberty of 'connecting' the content with topics I am
 already familiar with, explaining it. This effectively means, if you wonder why
@@ -52,7 +51,9 @@ severely harder to create something new, where nothing has been before.
 
 
 One question Peter Thiel asks in every interview is the following:
+
 > What important truth do very few people agree with you on?
+
 There is a couple bad answers, such as 'common' general truths, that are being
 told as if no one knew about them. It is not about them. It is about those, for
 which it is inevitable that _someone_ will be offended. It is about those where
@@ -507,9 +508,21 @@ phrases mentioned in the book:
 
 
 ## Criticism
+
 I have not yet gotten around to think really critically about all of the
 content. I think most things check out, even though some are portraied as more
 contrarian than they actually are.
+
+
+## Key Takeaways
+1. Successful people are not successful because of what they did, but _why_ they did what they did and _how_ they did it
+2. Build up from first principles
+3. Have a healthy relationship about competition, and something to strive for
+4. Chances happen randomly, be prepared to become lucky
+5. VCs will not fund non-massive-return-opportunities
+6. A strong foundation and team spirit is key to success
+7. Marketing is much more important than most people realize
+8. You build for the future only, so if there is no chance to continue existing in the future, don't build it
 
 
 ---
