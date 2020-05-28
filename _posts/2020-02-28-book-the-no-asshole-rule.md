@@ -18,13 +18,13 @@ reason. This also prevents me from directly quoting, but let's see.
 {:toc}
 
 
-# Core Key Takeaways
-This is a collection of core key takeaways found within this book, particularly
-things I was not aware of, or good collections I wanted to share. Even though
-you might substitute reading this instead of the book itself, a summary can
-only give you so much information about the contents’ implications. In my
-opinion, the implications are the biggest part of the book, and that part is
-(mainly) missing.
+# Notes
+This is a collection of my notes about this book, particularly things I was not
+aware of, or concise phrasing I wanted to share. Even though you might
+substitute reading this instead of the book itself, a summary can only give you
+so much information about the contents' implications. In my opinion, the
+implications are the biggest part of the book, and that part is (mainly)
+missing.
 
 Instead, I took the liberty of 'connecting' the content with topics I am
 already familiar with, explaining it. This effectively means, if you wonder why
@@ -455,8 +455,8 @@ central themes perfectly:
 I would recommend this to everyone with a bit of time, and maybe a slight
 personal annoyance towards such a person.
 
-## Main Takeaways
 
+## Main Takeaways
 For me the by far biggest takeaway is an increased sensitivity to the topic of
 unpleasant company in general. Especially if people are doing it structurally
 or only temporary. Also, it appears that I have used the 'strategic' part
@@ -464,8 +464,8 @@ before, albeit only a few times. I guess this really will be useful in avoiding
 certified ones, and preventing them from taking hold wherever I will work in
 the future. I will live by the 'no-asshole-rule!'
 
-## Criticism
 
+## Criticism
 I really liked it. It was concise, but not too dense, with good exemplary
 stories and references, explaining in detail what is meant. I liked how the
 author gave examples of him being someone unpleasant without making it seem
@@ -476,8 +476,8 @@ expected more to be rather 'clear cut' translations from English, but there
 were quite a few passages and words, subtleties, that one could not have
 'simply translated'.
 
-## Favourite Quotes
 
+## Favourite Quotes
 This obviously includes the original ones with my translations here:
 
 > Ich schlage vor, dass Sie sich folgende Frage stellen: 'Warum finden wir uns
