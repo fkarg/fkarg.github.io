@@ -13,13 +13,19 @@ kind of seems over-hyped. So I wanted to know if this was true or not, and
 bought it after strolling through a bookstore in early March.
 
 
-# Core Key Takeaways
+
+
+
+
+# Notes
 ## Chapters / Parts
 ### Subchapters
 
 
-# Overall
+# Review
 ## Main Takeaways
+
+
 ## Criticism
 ## Favourite Quotes
 
