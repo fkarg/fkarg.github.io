@@ -489,10 +489,21 @@ certainly fail. I guess that going by these recommendations does not ensure
 success, but it at least makes success possible.
 
 
-## Feedback
-You read the book as well and I paraphrased something wrong, or misunderstood a
-whole chapter? Do reach out to me, I am very happy to talk about these
-interpretations, and maybe change my mind!
+## Main Takeaways
+1. Successful people are not successful because of what they did, but _why_ they did what they did and _how_ they did it
+2. Build up from first principles
+3. Have a healthy relationship about competition, and something to strive for
+4. Chances happen randomly, be prepared to become lucky
+5. VCs will not fund non-massive-return-opportunities
+6. A strong foundation and team spirit is key to success
+7. Marketing is much more important than most people realize
+8. You build for the future only, so if there is no chance to continue existing in the future, don't build it
+
+
+## Criticism
+I have not yet gotten around to think really critically about all of the
+content. I think most things check out, even though some are portraied as more
+contrarian than they actually are.
 
 
 ## Favourite Quotes
@@ -507,33 +518,21 @@ phrases mentioned in the book:
 > the only sustainable growth is viral growth
 
 
-## Criticism
-
-I have not yet gotten around to think really critically about all of the
-content. I think most things check out, even though some are portraied as more
-contrarian than they actually are.
-
-
-## Key Takeaways
-1. Successful people are not successful because of what they did, but _why_ they did what they did and _how_ they did it
-2. Build up from first principles
-3. Have a healthy relationship about competition, and something to strive for
-4. Chances happen randomly, be prepared to become lucky
-5. VCs will not fund non-massive-return-opportunities
-6. A strong foundation and team spirit is key to success
-7. Marketing is much more important than most people realize
-8. You build for the future only, so if there is no chance to continue existing in the future, don't build it
+## Feedback
+You read the book as well and I paraphrased something wrong, or misunderstood a
+whole chapter? Do reach out to me, I am very happy to talk about these
+interpretations, and maybe change my mind!
 
 
 ---
 
-# Meta:
+**Meta**
 So I'm experimenting in how to better read books currently. The approach for
 GTD was to simply recapitulate each chapter in it's 'full' content, but I don't
 think it was that successful. One of the obstacles was the continuous lagging
 behind. Like, I've read a few chapters more, but this is not yet reflected in
-the post about it. So I tried to, instead, just write down the overall key
-takeaways, without sorting them in chapters, or going in as much detail. I'll
+the post about it. So I tried to, instead, just write down the overall notes,
+while sorting them in chapters and going in as much detail as necessary. I'll
 probably keep it that way.
 
 
@@ -541,6 +540,7 @@ probably keep it that way.
 
 **Edits:**
 - 2020-02-01: added Criticism
+- 2020-05-28: added main takeaways and reordered the 'Overall' Section based on the template
 
 
 
