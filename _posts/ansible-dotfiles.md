@@ -138,7 +138,9 @@ it with `sudo apt install stellarium`. Let's include that in our script.
 
 This is a bad idea on multiple counts, so let's dissect it. when trying to
 execute it, it is unlikely to terminate. Unless you don't need to put in a
-password when accessing root priviliges. So using the shell is not a good idea, especially if you need to input some additional data. Actually, there is a apt module.
+password when accessing root priviliges. So using the shell is not a good idea,
+especially if you need to input some additional data. Actually, there is a apt
+module.
 
 
 ``` # part of main.yml, v2
