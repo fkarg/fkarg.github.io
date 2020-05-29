@@ -120,3 +120,4 @@ chapter.
 
 
 [bluedot]: https://science.sciencemag.org/content/360/6396/1465
+[bluedot2]: https://medium.com/s/story/when-blue-becomes-rare-purple-becomes-blue-92472cacce12
