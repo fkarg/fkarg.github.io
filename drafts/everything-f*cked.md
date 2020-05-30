@@ -108,12 +108,61 @@ chapter.
 
 ## Favourite Quotes
 
+> Hopelessness is the root of anxiety, mental illness, and depression. It is
+> the source of all misery, and the cause of all addiction.
+
+> ultimately, we are moved to action only by emotion
+
+This, even though unexpected, rings true.
+
+> why don't we do things we know we should do? Because we don't _feel_ like it.
+
+This was the moment where I received the intended insight. This _feels_ too
+true to be wrong. And it explains a lot of petty 'but I don't _want_ to do
+this'-behaviour from myself. One of the key takeaways for me, reading this
+book.
 
 
+> what feels good is what _is_ good.
 
+> "growth": repriotizing one's value hierarchy in an optimal way. [...] When we
+> stop valuing something, it ceases to be fun or interesting to us.
 
+> So, we've got it backwards: everything being fucked doesn't mean require
+> hope; hope requires everything to be fucked. [...] Hope is, therefore,
+> destructive. Hope depends on the rejection of _what currently is_.
 
+> Adulthood is the realization that sometimes an abstract principle is right
+> and good for its own sake, that even if it hurts you [or others] today [...],
+> being honest is still the right thing to do.
 
+> _the maturity of our culture is deteriorating_.
+
+> No matter how much progress is made, no matter how peaceful and comfortable
+> and happy our lifes become, the Blue Dot Effect will snap us back to a
+> perception of a certain amount of pain and dissatisfaction.
+
+> Meditation is, at its core, a practice of antifragility: training your mind
+> to observe and sustain [..] pain and not let the "self" get sucked away
+> [...].
+
+> When we deny ourselves the ability to feel pain for a purpose, we deny
+> ourselves the ability to feel any purpose in our life at all.
+
+> The internet is a bona fide innovation. All else being equal, it
+> fundamentally makes our lives better. Much better.
+> The problem is ... well, the problem is _us_.
+
+> The only true form of freedom, the only ethical form of freedom, is through
+> self-_limitation_. It is not the privilige of choosing everything you want in
+> life, but rather, choosing what you will _give up_ in your life.
+
+> The pain of regular physical exercise ultimately enhances your physical
+> freedom.
+
+> Freedom itself demands discomfort. It demands dissatisfaction. Because the
+> feer a society becomes, the more each person will be forced to reckon and
+> compromise with views and lifestyles and ideas that conflict with their own.
 
 
 
