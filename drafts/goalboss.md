@@ -21,7 +21,7 @@ handling though?) on [https://book.goalboss.com/](https://book.goalboss.com/).
 Might not even be a scam.
 
 
-# Core Key Takeaways
+# Notes
 
 ## 01 Death by Winning
 ## 02 Your First Two Questions
@@ -50,6 +50,8 @@ Might not even be a scam.
 
 # Review
 ## Main Takeaways
+
+
 
 ## Criticism
 Damn narcissist, telling a lot of different stories. I heard Will Pemble talk
