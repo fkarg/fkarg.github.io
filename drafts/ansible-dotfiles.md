@@ -68,7 +68,26 @@ Let's say you have your repo with your configs on your new machine already.
 Some files need to be placed at certain places. How could we do this? The
 following ansible playbook should give you an idea:
 
+<!-- might require:
+{% highlight yaml linenos %}
+<code>
+{% endhighlight %}
+
+OR:
+
+```yaml
+<code>
 ```
+
+OR:
+
+~~~
+<code>
+~~~
+
+-->
+
+```yaml
 --- # file: main.yml
 - hosts: locahost
   connection: local
@@ -123,8 +142,10 @@ to your configuration file, instead of copying it. Nothing easier than that:
 ```
 
 Symlinking folders works the same way, just make A a folder instead of a file.
-A hardlink is also possible by setting `state: hard`. More documentation can be
-found [here][filedoc].
+A hardlink is also possible by setting `state: hard`.
+
+{: .box-note }
+More information on the `file` module can be found [here][file].
 
 ### Installing Packages with APT
 Assuming you are a fan of viewing stars, and your favourite piece of software
@@ -136,30 +157,122 @@ it with `sudo apt install stellarium`. Let's include that in our script.
   shell: sudo apt install stellarium
 ```
 
-This is a bad idea on multiple counts, so let's dissect it. when trying to
+This is a bad idea on multiple counts, so let's dissect it. When trying to
 execute it, it is unlikely to terminate. Unless you don't need to put in a
 password when accessing root priviliges. So using the shell is not a good idea,
-especially if you need to input some additional data. Actually, there is a apt
+especially if you need to input some additional data. Actually, there is an apt
 module.
 
 
 ``` # part of main.yml, v2
 - name: Install stellarium
   apt:
+    name: stellarium
     
 ```
 
-### Ignoring failure
+That's it? Not yet, I'm afraid.If you try, it will fail because a normal user
+cannot install packages. There is two ways to deal with it, ignoring it, or
+escalating to root priviliges. How would I ignore it?
 
-introduce `ignore_errors: true`
+{: .box-note }
+All available parameters for the `apt` module can be found [here][apt].
+
+## Parameters for Tasks
+You see, the general syntax for a task looks like this:
+```yaml
+- name: Optional name
+  mod: # actual task to execute
+    par: parameter for task
+  modifier: modify execution of the task in a certain way
+```
+
+Both 'ignoring' as well as 'privilige escalation' are modifiers applicable to
+every task you might encounter. Though you might to avoid using them.
+
+
+### Ignoring failure
+Ignoring an actually failing task is considerably easy, you only need to add
+`ignore_errors: true` to the module. So the fully non-working but also
+error-ignoring installation of `stellarium` using `apt` looks like this:
+
+``` # part of main.yml, v3
+- name: Install stellarium
+  apt:
+    name: stellarium
+  ignore_errors: true
+```
+
+'But that's barely useful' you say. While this is true for this scenario, we
+are going to need it later for cloning / updating the configs-repository, since
+it fails if the repository is already present but with local modification (due
+to which the module was unable to 'simply' update, thus failing).
 
 ### Privilige escalation
+This is a bit more tricky, since we actually need to slightly change the way we
+call the playbook (it needs to request the `sudo` password, after all).
 
-escalate to sudo by passing in the password externally
+Privilige escalation in ansible (to sudo/root) works in most cases with a
+simple `become: true`.
 
-### Conditionals and Variables
 
-conditional on only on ubuntu-based ones
+``` # part of main.yml, v3
+- name: Install stellarium
+  apt:
+    name: stellarium
+  become: true
+```
+
+However, this will fail if privilige escalation requires a password on your
+computer (as it should!). This can be mitigated by calling 
+`ansible-playbook main.yml -K` instead of the previous without `-K`. This will
+prompt you for a password that will be tried whenever a privilige escalation
+is supposed to happen and a password is required.
+
+{: .box-note }
+**Note**: `-K` also asks for a password even if no sudo rights are required
+for executing the playbook, and will notice a wrong password only when 'using'
+it.
+
+{: .box-note }
+More detailed information on privilige escalation can be found [here][become].
+
+This now finally works! But what if I don't just have an ubuntu, but a
+NixOS/CentOS/Arch/... as well, where `apt` is not available?
+
+### Conditionals
+So we might want to ensure that our task is only run when `apt` is actually
+available. Loosely speaking, this restricts us to debian and ubuntu.
+
+``` # part of main.yml, v4
+- name: Install stellarium
+  apt:
+    name: stellarium
+  become: true
+  when: ansible_distribution == 'Debian' or ansible_distribution == 'Ubuntu'
+```
+
+Whoa, what does `when` do? And where does `ansible_distribution` come from? As
+we might guess, `when` is a modifier ensuring that this task is only executed
+on debian or ubuntu, where `apt` is bound to be available.
+`ansible_distribution` is one of the `ansible facts` that are collected even
+prior to task execution.
+
+You can see all available facts with the `setup` module, as described
+[here][setup], by running `ansible -m setup localhost`. You might want to add
+`--connection local`, since ansible will try to connect via ssh otherwise.
+
+In a playbook, we can build a task to do the same:
+
+``` # part of main.yml
+- debug: var=ansible_facts
+```
+
+
+### Variables
+(mainly registering)
+
+### Iterating multiple items
 
 ### Including other files
 
@@ -230,6 +343,14 @@ arguments.
 <a name="footnote1">1</a>: Text from footnote1.
 
 [ansible101]: https://www.youtube.com/watch?v=goclfp6a2IQ
-[filedoc]: https://docs.ansible.com/ansible/latest/modules/file_module.html
-[templatedoc]: https://docs.ansible.com/ansible/latest/modules/template_module.html
-[aptdoc]: https://docs.ansible.com/ansible/latest/modules/apt_module.html
+[copy]: https://docs.ansible.com/ansible/latest/modules/copy_module.html
+[file]: https://docs.ansible.com/ansible/latest/modules/file_module.html
+[template]: https://docs.ansible.com/ansible/latest/modules/template_module.html
+[apt]: https://docs.ansible.com/ansible/latest/modules/apt_module.html
+[pacman]: https://docs.ansible.com/ansible/latest/modules/pacman_module.html
+[become]: https://docs.ansible.com/ansible/latest/user_guide/become.html
+[package]: https://docs.ansible.com/ansible/latest/modules/package_module.html
+[conditionals]: https://docs.ansible.com/ansible/latest/user_guide/playbooks_conditionals.html
+[setup]: https://docs.ansible.com/ansible/latest/reference_appendices/faq.html#how-do-i-see-a-list-of-all-of-the-ansible-variables
+[variablesfacts]: https://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html#variables-discovered-from-systems-facts
+[variables]: https://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html
