@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Improving Everyday Life
 subtitle: why are you still using qwerty anyway?
-bigimg: /img/neo-druckvorlage_full.png
+cover-img: /img/neo-druckvorlage_full.png
 tags:
 - setup
 ---
