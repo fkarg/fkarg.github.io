@@ -3,8 +3,8 @@ layout: post
 published: false
 title: Getting Reconstructed
 subtitle: what to infer from receiving a second body
-cover-img: /img/gantz-teleport.jpeg
-image: /img/gantz-teleport.jpeg
+cover-img: /assets/img/gantz-teleport.jpeg
+image: /assets/img/gantz-teleport.jpeg
 tags:
 - thoughts
 - reconstructed
