@@ -64,10 +64,9 @@ blockquote {
   font-style: italic;
  */
   line-height: 1.42857143;
-  padding: 10px 20px;
-  margin: 0 0 20px;
+  padding: 0.6rem 1.2rem;
   font-size: 17.5px;
-  border-left: 10px solid #eee;
+  border-left: 0.6rem solid #eee;
 }
 
 /*
