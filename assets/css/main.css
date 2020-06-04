@@ -49,17 +49,29 @@ a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
+
 pre,
 blockquote {
   color: #808080;
+  display: block;
   border: 1px solid #999;
   page-break-inside: avoid;
-  color: #606060;
+/*  color: #606060;
+  color: #777;
+  font-size: 80%; */
+  line-height: 1.42857143;
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eee;
 /*  font-style: italic; */
 }
+
+/*
 blockquote p:first-child {
   margin-top: 0;
 }
+*/
 hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
