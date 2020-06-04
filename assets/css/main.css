@@ -49,9 +49,13 @@ a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
+pre,
 blockquote {
   color: #808080;
-  font-style: italic;
+  border: 1px solid #999;
+  page-break-inside: avoid;
+  color: #606060;
+/*  font-style: italic; */
 }
 blockquote p:first-child {
   margin-top: 0;
