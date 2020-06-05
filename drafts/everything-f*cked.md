@@ -6,8 +6,11 @@ subtitle: A Book About Hope
 tags:
 - book
 ---
-Review of Mark Mansons Book that aims 'for a better life and better world and
+Review of Mark Mansons book that aims 'for a better life and better world and
 could not be more needed right now.'
+
+* TOC
+{:toc}
 
 I bought this book along with [From Zero to One](../2020-02-01-zero-to-one/)
 and Seven Habits of Highly Effective People last year roughly a week after the
@@ -18,14 +21,12 @@ me, was the idea that it is not our thinking brain that is in charge, but our
 feeling brain. That somehow struck me, because I had not internalized that yet.
 
 So when I came across this book, having left an impression with me (as did the
-entire event), I kind of _had to_ buy it. I was about to take two more books
-with my, but my card did not get accepted and I did not have more money with
-me. Anyways, here I go.
+entire event), I kind of _had to_ buy it, and so I did.
 
 # Notes
-I did write down some notes (actually, a lot of them). Since it takes a lot of
-time to write them up, copy them, and rephrase them into something useful, I
-will probably refrain from doing so most of the time. So there is overall more
+I did write down some notes (actually, a lot of them). Since it takes a
+considerable amount of time to rephrase them into something useful, I will
+probably refrain from doing so most of the time. So there is overall more
 focus on the Main takeaways, and less on the notes itself.
 
 <!--
@@ -92,24 +93,38 @@ is something continuously enjoyable (you wouldn't do it otherwise, would you?).
 
 This applies to mental training just as well as to physical one, though.
 
-- suffering is the only thing that stays the same, choose your suffering
-
-
-
 
 ### The economy is mostly based on feelings
-- economy is based on feelings, and not much else
+Now while this was true intuitively, it really makes sense. So the core idea is
+that people don't buy _stuff_, they buy _feelings_. I'm not sure if this is
+true for everyday items (toothpaste?), it sure feels true for just about
+everything else, clothing, or the awesome (feeling!) new computer.
+
+Thinking about it gave me one important clue about product design: it has to
+evoke feelings. If it does not, if it is not _awesome_ in one way or another,
+why would anyone buy it? It may be pretty awesome, but if it does not _feel_
+like it, no one will buy it either. Again, the two most important parts -
+creating a really good item and being able to market it.
 
 
 ## Criticism
 I don't know. I learnt a whole lot of new things in this book, but for some
 reason it feels like I did not get the point he was trying to make in the last
-chapter.
+chapter. Specifically: ??? Read through chapter again.
+
+After thinking about this for some time, my overall impression is that he's
+painting a too-little dimensional picture about the human psyche. He really
+does a good job of explaining a whole bunch of things I was only intuitively
+aware of before, and I'm aware that he did by no means try to explain the full
+human psyche, but still: it seems too simple, to be true generally.
 
 ## Favourite Quotes
 
 > Hopelessness is the root of anxiety, mental illness, and depression. It is
 > the source of all misery, and the cause of all addiction.
+
+[Logotherapy][Logotherapy] actually has this fully worked out. Not sure why it
+is not referenced.
 
 > ultimately, we are moved to action only by emotion
 
@@ -125,26 +140,49 @@ book.
 
 > what feels good is what _is_ good.
 
+Somehow I don't _want_ this to be true, but other people seem to mainly act
+like this. I have not observed myself to act like this, but is is probably due
+to my insufficient observation ability regarding myself.
+
 > "growth": repriotizing one's value hierarchy in an optimal way. [...] When we
 > stop valuing something, it ceases to be fun or interesting to us.
 
+This explains a lot. Still, I don't think this is the full story.
+
+<!-- Todo: look up this quote
 > So, we've got it backwards: everything being fucked doesn't mean require
 > hope; hope requires everything to be fucked. [...] Hope is, therefore,
 > destructive. Hope depends on the rejection of _what currently is_.
+
+Huh, this is interesting.
+-->
 
 > Adulthood is the realization that sometimes an abstract principle is right
 > and good for its own sake, that even if it hurts you [or others] today [...],
 > being honest is still the right thing to do.
 
+I'm not really sure about that. For me, growing up mainly included learning
+about responsibility and what it means. That might have been because I was
+striving for truth and other 'values' already, even though I lost myself for
+some time.
+
 > _the maturity of our culture is deteriorating_.
+
+We can see this quite clearly, and I have a couple guesses as to why that is.
 
 > No matter how much progress is made, no matter how peaceful and comfortable
 > and happy our lifes become, the Blue Dot Effect will snap us back to a
 > perception of a certain amount of pain and dissatisfaction.
 
+In my understanding, a large part of feminism seems to be based on this. Not
+just them, but some other ideologically-focused groups that basically got what
+they wanted but for some reason still exist with new, more _extreme_ demands.
+
 > Meditation is, at its core, a practice of antifragility: training your mind
 > to observe and sustain [..] pain and not let the "self" get sucked away
 > [...].
+
+Wow. What a strong argument in favour of meditation. Maybe I should do that more.
 
 > When we deny ourselves the ability to feel pain for a purpose, we deny
 > ourselves the ability to feel any purpose in our life at all.
@@ -153,16 +191,27 @@ book.
 > fundamentally makes our lives better. Much better.
 > The problem is ... well, the problem is _us_.
 
+I just wanted to note that I had to laugh out loud when reading this.
+
 > The only true form of freedom, the only ethical form of freedom, is through
 > self-_limitation_. It is not the privilige of choosing everything you want in
 > life, but rather, choosing what you will _give up_ in your life.
 
+For some reason this statement feels off to me, though I can't put my finger on
+it. It's just that ... something about it does not sit right with me.
+
 > The pain of regular physical exercise ultimately enhances your physical
 > freedom.
+
+Not just physical, also mental. And suddenly things really got interesting.
 
 > Freedom itself demands discomfort. It demands dissatisfaction. Because the
 > feer a society becomes, the more each person will be forced to reckon and
 > compromise with views and lifestyles and ideas that conflict with their own.
+
+It certainly is worrying, then, that bigger and bigger parts of the population
+do not seem to be able to _be_ in discomfort, no matter how small. My guess is
+that it will get worse, and then ... what?
 
 
 
@@ -170,3 +219,4 @@ book.
 
 [bluedot]: https://science.sciencemag.org/content/360/6396/1465
 [bluedot2]: https://medium.com/s/story/when-blue-becomes-rare-purple-becomes-blue-92472cacce12
+[Logotherapy]: https://en.wikipedia.org/wiki/Logotherapy
