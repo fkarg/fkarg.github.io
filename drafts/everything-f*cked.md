@@ -6,7 +6,7 @@ subtitle: A Book About Hope
 tags:
 - book
 ---
-Review of Mark Mansons book that aims 'for a better life and better world and
+Review of Mark Manson's book that aims 'for a better life and better world and
 could not be more needed right now.'
 
 * TOC
@@ -26,8 +26,9 @@ entire event), I kind of _had to_ buy it, and so I did.
 # Notes
 I did write down some notes (actually, a lot of them). Since it takes a
 considerable amount of time to rephrase them into something useful, I will
-probably refrain from doing so most of the time. So there is overall more
-focus on the Main takeaways, and less on the notes itself.
+mostly refrain from publishing them most of the time. There will be more focus
+on the Main takeaways, with a bit of criticism and some quotes from the book
+with comments from my side.
 
 <!--
 ## Part 1: Hope
@@ -58,10 +59,10 @@ I could actually improve my life. You can get yourself to do anything, if you
 just 'feel' like you want to do it, basically.
 
 The picture about the elephant rider is really fitting here. The thinking brain
-is the rider and the feeling brain is the elephant, the TB can reason as to
-_why_ you should go somewhere, and the awesome things that are there or make
-you feel bad about things you did, but in the end the feeling brain or elephant
-just goes wherever it _feels_ like it.
+is the rider and the feeling brain is the elephant, the thinking brain can
+reason as to _why_ you should go somewhere, and the awesome things that are
+there or make you feel bad about things you did, but in the end the feeling
+brain or elephant just goes wherever it _feels_ like it.
 
 And this is (sadly?) not included in the book but Neuroscientifically speaking
 it works the exact same way: The neocortex ist just 'on top' of the brainstem
