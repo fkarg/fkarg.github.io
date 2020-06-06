@@ -50,10 +50,8 @@ a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 
-pre,
 blockquote {
-  color: #474747;
-  background-color: #e2e2e2;
+  color: #515860;
   display: block;
   page-break-inside: avoid;
 /*
@@ -64,13 +62,20 @@ blockquote {
   font-style: italic;
  */
   line-height: 1.42857143;
-  padding: 0.6rem 1.2rem;
-  margin: 0 0 1.2rem;
+  padding: 0 .75em;
   font-size: 17.5px;
   border-left: 0.6rem solid #eee;
 }
 
-/*
+/* alternatives:
+blockquote{
+  padding: 0.6rem 1.2rem;
+  margin: 0 0 1.2rem;
+  color: #6a737d;
+  border-left: .25em solid #dfe2e5
+  background-color: #e2e2e2;
+}
+
 blockquote p:first-child {
   margin-top: 0;
 }
