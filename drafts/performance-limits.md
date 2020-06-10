@@ -7,6 +7,13 @@ tags:
 - thoughts
 ---
 
+
+When aiming for high performance, there is a bunch of things that are
+impossible to achieve. These include not sleeping or not eating. Still, there
+is a couple of things that will allow you to work on higher levels of
+performance than you usually would be without.
+
+
 Limits:
 - Physical (energy / fitness in general)
     - sport improves energy and performance in general
