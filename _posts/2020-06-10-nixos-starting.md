@@ -171,13 +171,13 @@ periods would be `7d` or `30d`.
 # Conclusion
 NixOS promises reproducible builds and does not disappoint. Even though some
 things still feel rough, such as parts of the documentation or the Nix
-language, it really feels like a next-generation package manager, solving most
-of the problems I had prior to my first contact with nix. Obviously there are
-still improvements possible in both Nix and NixOS, but I think it is probably
-among the least-bad tools in regards of reproducibility. I do prefer `ansible`
-in terms of usability, and by a lot, but it's clear that they are just from two
-entirely different worlds, with Nix having much stronger guarantees to
-'same'-ness than ansible would ever be able to provide.
+language, it really feels like a next-generation package manager. After all, it
+really solves most of the problems I had prior to my first contact with nix.
+Obviously there are still improvements possible in both Nix and NixOS, but I
+think it is probably among the least-bad tools in regards of reproducibility. I
+do prefer `ansible` in terms of usability, and by a lot, but it's clear that
+they are just from two entirely different worlds, with Nix having much stronger
+guarantees to 'same'-ness than ansible would ever be able to provide.
 
 So yeah, I'm happy with NixOS as my main OS, and I don't think I'll switch
 anytime soon. It allows literally fearless upgrades, anytime I want or need
@@ -186,10 +186,5 @@ Since I'm still using one Ubuntu-based computer for work, I decided to write an
 `ansible`-playbook for dotfile deployment instead. A post about that is in
 progress. Stay tuned.
 
-
----
-#### Footnotes
-
-<a name="footnote1">1</a>: Text from footnote1.
 [nix-pills]: https://nixos.org/nixos/nix-pills/index.html
 [options]: https://nixos.org/nixos/options.html
