@@ -17,7 +17,7 @@ this happened and a couple things I wish I knew when switching.
 This is not about super-low-level NixOS information, you will that primarily
 [here](https://nixos.org/learn.html). Rather, while talking about my situation
 I want to help you get to know a couple resources that I wish I knew when
-starting out, as my initial workarounds where ... suboptimal. If you just want
+starting out, as my initial workarounds where ... sub-optimal. If you just want
 to know my thoughts about NixOS, you might want to jump to the
 [conclusion](#conclusion).
 
@@ -29,8 +29,8 @@ understood what is going wrong on a higher level while not knowing how to fix
 it on the lower one, where it actually happened.
 
 ## First Encounter
-Regardless, I created a bootstick and installed NixOS on my desktop-computer. I
-booted with a super-minimalistic configuration and was immediately thrown off
+Regardless, I created a boot-stick and installed NixOS on my desktop-computer. I
+booted with a super-minimalist configuration and was immediately thrown off
 because I had no idea how to install packages. More precisely: I knew that it
 would be possible to install them globally by including them in the
 `configuration.nix`, and locally by `nix-env -iA nixos.<packagename>`. But
@@ -47,14 +47,14 @@ I could actually use my computer, I was avoiding it continuously.
 And then my Laptop crashed and burnt. Or, well, not exactly. For some reason,
 it did not boot. At first, it seemed like part of the boot section corrupted.
 So I tried to fix that. Didn't work. Tried some more things. Didn't work. did a
-backup, and tried to install a new OS. First, Ubuntu. Then Linx Mint, Debian,
+backup, and tried to install a new OS. First, Ubuntu. Then Linux Mint, Debian,
 and NixOS. None worked. They all failed to install the bootloader - just one
 critical part. And I had two presentations to prepare, so I had no more time to
 waste trying to fix my computer.
 
 So I went into our student council room (I'm well-known there) and told them:
 'I can't figure out why installing an OS does not work.' There were three
-people ready for the challange. I started to prepare for the presentation I was
+people ready for the challenge. I started to prepare for the presentation I was
 supposed to hold in two hours, somewhat unaware of what was happening to my
 laptop. At some point, someone said: 'You now have NixOS'. It was among the
 bootsticks I gave them, after all. I held my presentation first, not even
@@ -65,7 +65,7 @@ Now both of my computers had NixOS, and I did not know how to work with it. I
 had a somewhat working computer and knew how to use `nix-env -iA
 nixos.<packagename>` after all. But that's only a temporary solution, since I
 always had to reconfigure _something_, and I did not have my prior setup or my
-prior configs back again. And I needed to build another presentation, this time
+prior dotfiles back yet. And I needed to build another presentation, this time
 with LaTeX. On an operating system where I had no idea what the package is
 called. So I googled it.
 
@@ -85,13 +85,13 @@ sure how, but at some point I became aware of
 [https://nixos.org/nixos/packages.html](https://nixos.org/nixos/packages.html),
 the actual searchable package repository. This considerably improved my
 searching speed for packages. I was positively surprised that a couple of
-packages I was using but which were not packaged yet for ubuntu (`ripgrep` or
+packages I was using but which were not packaged yet for Ubuntu (`ripgrep` or
 `broot`) were just immediately available as a package. And not just those, also
 some plugins or other packages which supposedly required a different package
 manager first (`cargo` or `pip`) were directly available through nix. That was
 comfortable.
 
-## Configs
+## Local Configs
 Contrary to my initial image of NixOS, not _everything_ is determined by the
 `configuration.nix`. Even though you _can_ deploy your local configuration
 files / dotfiles through NixOS, it might be a bit overkill, especially when
@@ -116,8 +116,8 @@ of Nix and NixOS.
 
 ## Nix (The Language)
 All the configuration (`*.nix`) files were written in a specific functional
-programming language, Nix. As I taught haskell two years prior to switching to
-NixOS, I was mostly familar with the basic concepts. Still, it was probably my
+programming language, Nix. As I taught Haskell two years prior to switching to
+NixOS, I was mostly familiar with the basic concepts. Still, it was probably my
 weirdest experience in learning a programming language. I believe almost all of
 it's intricacies get covered by the [Nix pills][nix-pills], so I won't go into
 detail here.
@@ -134,18 +134,18 @@ possible in Nix as long as you know how to express it' was that frequently
 _options_ to programs were mentioned. The [NixOS Options][options] are pretty
 powerful, from user and service creation to detailed configuration of packages,
 only the sky is the limit. At least it initially felt like it, as people on
-stackoverflow were answering the questions I was googling with 'just add
+stack overflow were answering the questions I was googling with 'just add
 `boot.kernelPackages = pkgs.linuxPackages_latest;` to your `configuration.nix`'
 or some other _intuitively correct_ option. Always exactly just the ones I was
 looking for. So finding out that I could simply [search for them][options] was
-an incredible relevation, and something I probably used more often than
+an incredible revelation, and something I probably used more often than
 searching for packages.
 
 ## Selecting old Configurations when Booting
-So eventually I wrote a config that was just sufficiently f\*cked up to not let
-me boot my display manager. So I did the 'usual': Go to login-shell `tty1` and
-troubleshoot. I actually knew what was broken, so I was able to fix the
-configuration - but not update the system, since that required an internet
+So eventually I wrote a configuration that was just sufficiently f\*cked up to
+not let me boot my display manager. So I did the 'usual': Go to login-shell
+`tty1` and troubleshoot. I actually knew what was broken, so I was able to fix
+the configuration - but not update the system, since that required an internet
 connection, and the network utilities I was familiar with were somehow not
 available. Apparently I was really unable to fix it this time, even when
 consulting the internet on another laptop.
@@ -174,7 +174,7 @@ things still feel rough, such as parts of the documentation or the Nix
 language, it really feels like a next-generation package manager, solving most
 of the problems I had prior to my first contact with nix. Obviously there are
 still improvements possible in both Nix and NixOS, but I think it is probably
-among the least-bad tools in regards of reproducability. I do prefer `ansible`
+among the least-bad tools in regards of reproducibility. I do prefer `ansible`
 in terms of usability, and by a lot, but it's clear that they are just from two
 entirely different worlds, with Nix having much stronger guarantees to
 'same'-ness than ansible would ever be able to provide.
@@ -182,7 +182,7 @@ entirely different worlds, with Nix having much stronger guarantees to
 So yeah, I'm happy with NixOS as my main OS, and I don't think I'll switch
 anytime soon. It allows literally fearless upgrades, anytime I want or need
 one. Bonus points for it not requiring integration to my dotfiles after all.
-Since I'm still using one ubuntu-based computer for work, I decided to write an
+Since I'm still using one Ubuntu-based computer for work, I decided to write an
 `ansible`-playbook for dotfile deployment instead. A post about that is in
 progress. Stay tuned.
 
