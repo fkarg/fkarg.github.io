@@ -12,7 +12,7 @@ Skills that accelerate your life.
 Not sure if 'skills' is the right term, but things I would want to talk about:
 - Communication (understanding more, faster)
 - Time Management (being able to be productive)
-- Sports (more energy in general, higher effectivity, self-confidence)
+- Sports (more energy in general, higher effectivity, self-confidence, learning to lose (it's devastating at first, but at some point you just try again), ...)
 - Discipline (endurance is required if you want to achieve anything)
 - Always challenging the default (allows deeper understanding of its reasons, and sometimes you find better alternatives)
 - taking notes, and having them well-organized (whow, that took my productivity and sense of being to a whole 'nother level)
@@ -20,7 +20,9 @@ Not sure if 'skills' is the right term, but things I would want to talk about:
 
 From Complice:
 Develop a set of drives
-Think of a drive as an answer to the question “what energizes me?”. Usually it helps to define drives as categories or experiences or activities that we enjoy, such as:   
+Think of a drive as an answer to the question “what energizes me?”. Usually it
+helps to define drives as categories or experiences or activities that we
+enjoy, such as:
 
 Spending time with friends
 Going on adventures
