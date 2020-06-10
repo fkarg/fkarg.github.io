@@ -150,8 +150,8 @@ connection, and the network utilities I was familiar with were somehow not
 available. Apparently I was really unable to fix it this time, even when
 consulting the internet on another laptop.
 
-What I forgot entirely: When booting on NixOS, you can select to boot an
-earlier configuration instead of the current one. And so I did. There, most
+What I remembered much too late: When booting on NixOS, you can select to boot
+an earlier configuration instead of the current one. And so I did. There, most
 other things still worked, including internet. And since I already fixed the
 configuration it was easy to switch to the upgraded one. This feature alone
 helped me significantly.
