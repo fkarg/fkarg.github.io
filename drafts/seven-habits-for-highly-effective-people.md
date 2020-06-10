@@ -2,22 +2,23 @@
 layout: post
 published: false
 title: 'Book: 7 Habits for Highly Effective People'
-subtitle: subtitle
+subtitle: Powerful Lessons in Personal Change
 tags:
 - book
-- productivity
 ---
-Review of <short book description>
-
-I bought this book along with (zero to one)[zero-one] and (Everything is
-F\*cked)[fcked] last september in Berlin. It has been roughly on top of my
-to-read list for some time now, mainly because Habits are one of the 'low
-hanging fruits' in my life that I have not touched yet. Or, more specifically:
-I do not really understand them yet.
+Review of Stephen Coveys 'masterpiece', which is 'simple but incredibly
+effective, [and] a great guide for any aspiring leader!'
 
 
 * TOC
 {:toc}
+
+
+I bought this book along with (Zero to One)[zero-one] and (Everything is
+F\*cked)[fcked] last september in Berlin. It has been roughly on top of my
+to-read list for some time now, mainly because Habits are one of the 'low
+hanging fruits' in my life that I have barely touched yet. Let's see where this
+will lead me.
 
 
 # Notes
@@ -26,13 +27,21 @@ I do not really understand them yet.
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 
+
 # Review
 ## Main Takeaways
 ## Criticism
+I had increadibly high expectations based on the reviews from other people. So
+I made sure to lower them, since they tend to exaggerate quite a bit. Turns
+out: they weren't. Not at all.
+
 ## Favourite Quotes
+
 
 
 ---
 #### Footnotes
 
 <a name="footnote1">1</a>: Text from footnote1.
+[zero-one]: ../2020-02-01-zero-to-one
+[fcked]: ../2020-XX-XX-everything-f*cked
