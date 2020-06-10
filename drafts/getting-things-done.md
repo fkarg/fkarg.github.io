@@ -168,6 +168,23 @@ This part is about step-by-step guidelines to set this process up and bootstrap 
 # Review
 
 ## Main Takeaways
+I read the book twice. The first time I did not take notes, the second time I
+did maybe somewhat extensively. I thought to 'know' what GTD was even before
+reading the book, turns out I was somewhat wrong about that. He gave a couple
+of examples on how **not** to organize your life, and I was surprised that
+compared to most of them, I was ding considerably well.
+
+This is only where it gets interesting though, since, after all, I have only
+then been made aware of a lot of the inner workings, on the subtleties of these
+techniques. I had a couple guesses regarding that, and while most of them held
+true and where validated, some core assumptions where challenged and required
+me to properly re-think them.
+
+I also noticed that I was mixing levels considerably. And I was unsure on how
+to handle items that are supposed to be on multiple lists (e.g. @short and
+@home) without a massive organizational overhead. Until I migrated to my
+current system.
+
 First read:
 - noticed I was doing quite well in compared to a lot of examples given
 - still massive room for improvement
