@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Things I wish I knew when starting with NixOS'
 tags:
 - setup
