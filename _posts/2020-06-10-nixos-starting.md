@@ -187,8 +187,9 @@ frequently, executing `nix-collect-garbage` and `nix-store --optimise` every
 month or so will free up some space without removing any relevant data from
 prior generations. Obviously more can be freed by removing all prior
 generations via `nix-collect-garbage --delete-old`, but then you cannot boot in
-earlier generations either, so use it with care. The `--delete-older-than
-<period>` is a much more safe bet. Example periods would be `7d` or `30d`.
+earlier generations either, so use it with care. The 
+`--delete-older-than <period>` is a much more safe bet. Example periods would
+be `7d` or `30d`.
 
 # Conclusion
 NixOS promises reproducible builds and does not disappoint. Even though some
