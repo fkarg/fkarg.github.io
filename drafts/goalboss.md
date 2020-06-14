@@ -130,3 +130,18 @@ since it focuses exclusively on personal productivity.
 ## 23 Keys to Leadership
 
 <!-- -->
+
+
+Personal Coaching Worksheet:
+Positives
+- Successes
+- Best Part of the Month
+- Key Metrics   Target | Actual
+- Kudos
+- Key Takeaways
+
+- Concerns
+- Worst Part of the Month
+- Goals     Due date | Complete
+- Feedback
+- Schedule next Session
