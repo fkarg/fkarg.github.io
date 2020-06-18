@@ -1,4 +1,5 @@
 ---
+title: Tex-Test
 layout: page
 tex: true
 ---
