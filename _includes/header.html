@@ -49,6 +49,7 @@
   </div>
   <span class='img-desc'></span>
 </div>
+
 {% endif %}
 <div class="intro-header no-img">
   <div class="container-md">
@@ -78,7 +79,31 @@
 </div>
 </header>
 
-
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
+
+
+{% if page.tex %}
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+  }
+  TeX: {
+    equationNumbers: {
+      autoNumber: "all"
+    }
+  }
+});
+</script>
+
+<script type="text/javascript" id="MathJax-script" async
+  src="https://fkarg.github.io/assets/js/tex-mml-chtml.js">
+</script>
+{% else %}
+<!-- No TEX active / loaded -->
+{% endif %}
+
+
