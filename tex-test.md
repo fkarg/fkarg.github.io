@@ -15,10 +15,10 @@ Just testing $tex$, let's see if this $works as \neq \alpha$ expected.
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-\[
+\\[
   \frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
     1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
      {1+\frac{e^{-8\pi}} {1+\ldots} } } }
-\]
+\\]
 
 end of $\LaTeX$-test.
