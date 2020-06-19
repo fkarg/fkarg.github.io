@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Book: Everything is F*cked'
+title: 'Book: Everything is F\*cked'
 subtitle: A Book About Hope
 tags:
   - book
@@ -50,6 +50,11 @@ with comments from my side.
 # Review
 
 ## Main Takeaways
+I had three main takeaways, the first actually even before I bought the book.
+First, the thinking brain is not in control - the feeling brain is. Second:
+I gained a much deeper understanding of the human relation to suffering, and
+how we can use it to our advantage. Lastly, that the economy is really only
+based on feelings, nothing else.
 
 ### Not the Thinking Brain, but the Feeling Brain is in Control
 ![Elephant with Rider](https://freesvg.org/img/Elephant2.png)
