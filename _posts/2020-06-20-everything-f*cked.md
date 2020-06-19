@@ -156,8 +156,8 @@ book.
 > what feels good is what _is_ good.
 
 Somehow I don't _want_ this to be true, but other people seem to mainly act
-like this. I have not observed myself to act like this, but is is probably due
-to my insufficient observation ability regarding myself.
+like this. I have not observed myself to only act like this, but this is
+probably due to insufficient observation abilities regarding myself.
 
 > "growth": repriotizing one's value hierarchy in an optimal way. [...] When we
 > stop valuing something, it ceases to be fun or interesting to us.
