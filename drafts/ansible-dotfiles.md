@@ -268,9 +268,15 @@ In a playbook, we can build a task to do the same:
 - debug: var=ansible_facts
 ```
 
+Yeah, that's it. Based on these, based on the environment of the target for the
+ansible playbook, we can decide to execute some tasks instead of others.
+Conditionals become really useful when conditioning based on Variables that
+receive values based on the success of a prior task
 
 ### Variables
 (mainly registering)
+
+### Handlers
 
 ### Iterating multiple items
 
