@@ -1,10 +1,10 @@
 ---
 layout: post
 published: true
-title: 'Book: Everything is F\*cked'
+title: 'Book: Everything is F*cked'
 subtitle: A Book About Hope
 tags:
-- book
+  - book
 ---
 Review of Mark Manson's book that aims 'for a better life and better world and
 could not be more needed right now.'
