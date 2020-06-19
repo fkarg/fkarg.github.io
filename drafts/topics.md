@@ -21,11 +21,10 @@ I have a few things in mind I want to write about, including but not limited to:
  - Glucose Levels
  - **Responsibility**
  - Discomfort and Growth
- - Löwe und Gazelle
+ - Löwe und Gazelle (be the one hunting, not the one getting hunted)
  - Change happens only in small steps, or change of Environment
  - Everyday Scrum
- - Books I read (current: GEB)
- - Content on [LW](https://lesswrong.com) and other/similiar sites
+ - thoughts/comments to content on [LW](https://lesswrong.com) and other/similiar sites
  - Other things on the Internet I get to know about
  - Discussion and highlighting of the different mindsets of the characters of HPMOR.com
  - Easy and hard things (life is easy if you're used to hard problems)
