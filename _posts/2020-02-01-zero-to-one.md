@@ -11,7 +11,7 @@ entrepreneurship'.
 
 I bought this book in a bookstore in Berlin roughly a week after the LWCW, with
 two others (will be linked here after reviewed, '[Mark Manson: Everything is
-f\*cked](../2020-06-20-everything-f*cked)' and 'Seven Habits of Highly
+f\*cked](../2020-06-20-everything-f-cked)' and 'Seven Habits of Highly
 Effective People'). This was some time ago, and I finally got around to reading
 it. Here are my thoughts about it, ordered by chapters.
 
