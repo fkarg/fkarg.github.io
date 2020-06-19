@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Book: Everything is F\*cked'
+title: 'Book: Everything is F*cked'
 subtitle: A Book About Hope
 tags:
   - book
