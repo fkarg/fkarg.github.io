@@ -1,8 +1,8 @@
 ---
 layout: post
 published: false
-title: Your Biggest Advantage: Existential Flexibility
-subtitle: subtitle
+title: Rapid Integration
+subtitle: the biggest advantage: existential flexibility
 tags:
 - thoughts
 ---
@@ -13,6 +13,9 @@ Short description of how I got interested in this topic, or some other story ass
 * TOC
 {:toc}
 
+We are not fixed in our personality. We underestimate the amount of change we
+live through in our lives, and fail to integrate most different encounters in
+our life. But they can be your biggest advantage
 
 
 ## Intelligence as a measure for Adaptability
