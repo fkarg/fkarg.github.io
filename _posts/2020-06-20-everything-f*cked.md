@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: Everything is F\*cked'
 subtitle: A Book About Hope
 tags:
@@ -111,13 +111,22 @@ creating a really good item and being able to market it.
 ## Criticism
 I don't know. I learnt a whole lot of new things in this book, but for some
 reason it feels like I did not get the point he was trying to make in the last
-chapter. Specifically: ??? Read through chapter again.
+chapter. First, he talks about how we are completely and utterly fucked once
+computers take over (potentially?) and then _dares to hope_ for a better world
+at some point, probably before that. I mean ... what? (I'll talk about some
+parts as to what happens when computers are able to simulate us in a later
+post)
 
-After thinking about this for some time, my overall impression is that he's
+After thinking about hope for some time, my overall impression is that he's
 painting a too-little dimensional picture about the human psyche. He really
 does a good job of explaining a whole bunch of things I was only intuitively
 aware of before, and I'm aware that he did by no means try to explain the full
-human psyche, but still: it seems too simple, to be true generally.
+human psyche, but still: it seems too simple, to be true generally. Even on
+average. Like something feels amiss, like this is a piece, but the puzzle is
+missing, or something.
+
+Still, I would recommend reading it if you have not already, you might have
+quite different takeaways than I did.
 
 ## Favourite Quotes
 
