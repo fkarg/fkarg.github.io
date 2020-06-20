@@ -189,9 +189,9 @@ We can see this quite clearly, and I have a couple guesses as to why that is.
 > and happy our lifes become, the Blue Dot Effect will snap us back to a
 > perception of a certain amount of pain and dissatisfaction.
 
-In my understanding, a large part of feminism seems to be based on this. Not
-just them, but some other ideologically-focused groups that basically got what
-they wanted but for some reason still exist with new, more _extreme_ demands.
+In my understanding, there are many ideologically-focused groups that basically
+got what they wanted but for some reason still exist with new, more _extreme_
+demands. Or take a look at our entire culture.
 
 > Meditation is, at its core, a practice of antifragility: training your mind
 > to observe and sustain [..] pain and not let the "self" get sucked away
