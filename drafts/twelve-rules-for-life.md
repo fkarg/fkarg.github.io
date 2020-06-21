@@ -25,9 +25,21 @@ source again}. So, my curiousity got piqued and I bought the bought in early
 march.
 
 
+<!--
 # Notes
-## Chapters / Parts
-### Subchapters
+## Rule 1: Stand up straight with your shoulders back
+## Rule 2: Treat yourself like you are someone you are responsible for helping
+## Rule 3: Make friends with people who want the best in you
+## Rule 4: Compare yourself who you were yesterday, not who someone else is today
+## Rule 5: Do not let your children do anything that makes you dislike them
+## Rule 6: Set your house in perfect order before you critizise the world
+## Rule 7: Pursue what is meaningful (not what is expedient)
+## Rule 8: Tell the truth - or, at least, don't lie
+## Rule 9: Assume that the person you are listening to might know something you don't
+## Rule 10: Be precise in your speech
+## Rule 11: Do not bother children when they are skateboarding
+## Rule 12: Pet a cat when you encounter one on the street
+-->
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 
