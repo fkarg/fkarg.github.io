@@ -14,7 +14,7 @@ tags:
 
 
 
-## Scenarios
+# Scenarios
 
 There is probably a lot of specifics I'm missing here, but as far as I can see
 it boils down to one of three things: You are in a simulation, you have been
@@ -22,7 +22,7 @@ teleported, or you have been replicated. The difference between teleportation
 and replication might be significant. However, realistically there is no
 applicable difference between simulation and replication.
 
-### Teleport
+## Teleport
 Classic teleportation, as is well known and loved in science fiction. Maybe
 through a portal, but not something 'wormhole'-like. The reason being; you
 don't get reconstructed when coming out of it. Heck, you are not being
@@ -40,8 +40,16 @@ likely not seperate at all.
 In fact, in both the replication and the simulation scenario, forms of
 teleportation in the traditional sense are possible.
 
+### Notes
+- maybe through a portal
+- not wormhole-like
+- Deconstruction & Reconstruction upon passage
+- Important: Only able to send the data to other portals
+- Important: No/Barely time delay between de- & reconstruction
+- but enables replication with two targets
 
-### Replication
+
+## Replication
 Can be noticed by:
 - you seeing a clone of yourself (maybe multiple) of the same age as you.
 - You interacting with one of them and noticing him/her having the same memories/experiences.
@@ -71,9 +79,20 @@ Depending on available resources for them, that means:
 Unclear if different/independently possible from simulation. Either way, the
 world you _then_ live in is your _reality_, whatever else exists
 
+### Notes
+- Reconstruction may be without immediate prior deconstruction
+- 'Copy' can be saved and later reconstructed => Replicas possible
+    - makes ideological number wars ... hard
+- Allows for 'compression' for long-distance space travel (or transportation, or ...)
+- Experts / high-value professions can be cloned/replicated
+- might allow/enable inspection and modification (maybe not fully)
+- should enable ways to escape biological death
+- intermediate scenario: allowing two teleportation goals vs 'saving/copying'
+  possible
 
 
-### Simulation
+
+## Simulation
 It could all just be a Simulation. To be honest, so could be what we call
 Reality.
 
@@ -82,11 +101,14 @@ complete Humans, or at least their minds, in a virtual environment, unnoticably
 different from reality.
 
 
-
-
-
 -> probably already ran a simulation of what you will do in what situation
 
+### Notes
+- Simulation of Behaviour and Reactions possible => Information Extraction
+- Someone is running you for a purpose, and most likely knows how to get you to do it
+- 'pausing' and teleportations are easily possible
+- lying is impossible, especially since you would show your 'true' side in certain situations
+- 'you' might not have existed like that before (but are a combination of other people's thoughts)
 
 
 
