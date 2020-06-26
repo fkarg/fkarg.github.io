@@ -7,7 +7,12 @@ published: true
 
 I'm a CS student, science and space enthusiast. Rationalist and Strategist.
 
-I can program in `Rust`, `Python`, `Haskell`, `C++`, `Java`, and in some other languages.
+Self-Improvement is part of my core being, more than a lot of other things.
+Enthusiasm to help people is probably second. And then there is a lot of
+interconnected ones.
+
+Even though I'm familiar with languages like `Java` and `C++`, I prefer `Rust`,
+`Python`, and `Haskell` - not necessarily in this order.
 
 I'm striving to better the world, for better or worse, for at least I have to try.
 
