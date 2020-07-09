@@ -39,13 +39,27 @@ march.
 ## Rule 10: Be precise in your speech
 ## Rule 11: Do not bother children when they are skateboarding
 ## Rule 12: Pet a cat when you encounter one on the street
--->
 
 Footnote<sup>[1](#footnote1)</sup> among text.
+-->
+
 
 # Review
+
 ## Main Takeaways
+- Strong fundamentals, not to be neglected
+- There is always something to improve on for each chapter
+
 ## Criticism
+Sometimes, it hits just the right level of abstraction, with deep references
+providing new insight. But sometimes, I just feel ... lost in the references,
+in the explanation. Sometimes I just have no clue about what he is referencing,
+about the context he is in, the explanations he is building. Even without them,
+most points are very well understandable, it just seems to lack depth somwhat -
+which would have been provided by the references to other people's works, to
+details about Marxism and more. They were there, I just didn't understand them.
+
+
 ## Favourite Quotes
 
 
