@@ -69,6 +69,12 @@ go into that here.
 
 ## About this Series
 
+
+## Preperation
+- paper and pen
+- alternatively: laptop with text editor
+
+
 # Setting Goals
 
 ## Imagine yourself being Successful
@@ -321,6 +327,80 @@ Ensure that you have new actions to work towards by then.
 # Execution
 
 > Ideas are cheap. It's all about execution.
+> - Chris Sacca (Shark Tank)
+
+While we already defined the first three items for each of your goals, you
+should be able to have done them until the day after tomorrow. What then?
+
+There are two parts to execution, and they answer different timeframes to the
+questions 'what and how do I do next?'.
+
+First is how to execute _in the moment_: While just sitting down and working on
+it is pretty effective, there are some techniques you might at least want to
+try, which could spice things up for a bit. But just working and working and
+working on something is not guaranteed to work out.
+
+Second is the bigger-picture planning and execution. This includes taking a
+look at all the projects you want to work on, the tasks you have left, your
+progress and your current results, to determine if you're going the right way.
+It could be to forget to define new tasks, and suddenly there is nothing to
+work on anymore. It's not exactly true, but since it's not defined yet, it's
+much more unlikely to get done. It could also be that when reading through some
+of the tasks, you notice you already did them, or that they don't apply anymore
+since circumstances have changed. It's a way to 'adapt' to the ever-changing
+small obstacles.
+
+
+## Failing execution
+The hardest part about execution is to actually do something. Usually goals end
+up in either one of these states:
+- Main Focus, working on it in (almost) every free and available minute
+- Utterly Neglected, not having done something recently _at all_
+
+
+- Aversion: We experience some form of discomfort (stress, guilt, dread) when
+  thinking about goals or executing plans
+- Limited motivation: We don’t feel energized by our goal or plans
+- Distraction: Less meaningful, yet urgent or pleasurable things, pull a lot of our attention
+- Limited time: We are busy
+- Limited energy: We are tired
+- Limited attention: It’s hard to keep track of all the things we want to do
+- Limited tools for accountability: We mostly use guilt (consciously or
+  unconsciously) to increase accountability, which doesn’t always work that
+  well and causes inner conflict
+- Limited self trust: We don’t believe we will follow through on our intentions
+  which leads us not to set goals or make plans
+
+## Execution Systems
+There are multiple execution systems out there, each working for some people
+and not for others. A pretty common one is GTD, short for 'Getting Things Done'.
+Most people use a slightly adapted version, and not the vanilla system. The
+same goes for all the other systems as well, they are not static. If making a
+change to it helps you be more effective, then go for it.
+
+Execution systems describe a 'meta'-pattern of activities, and have different
+angles of attack to help you be productive. Generally, I would describe
+everything that helps you _be productive_ as an execution system. However, note
+the system part: I'm mainly talking about habits that are either happening only
+in certain circumstances, or are recurring. For example, a weekly
+review/planning session is a 'execution system' just as much as doing pomodoros
+(intervals of 25min work, 5min break) is. They are not opposed in any way, they
+are aiming for different parts and are especially effective when combined with
+multiple others.
+
+
+## Adapting Execution Systems
+- one thing at a time, step by step. Don't try everything at once, it will fail.
+
+## Adapted Getting Things Done
+GTD is one of the most widely adopted productivity systems.
+
+
+
+## Have someone hold you accountable
+It's one thing to promise something yourself, but
+
+
 
 
 
@@ -329,8 +409,21 @@ It's extremely important to have an _immediate next action_ at all points.
 
 Your goals should be challenging and specific already. => Immediate + Approach-Oriented
 
-<!-- Footnote<sup>[1](#footnote1)</sup> among text. -->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Footnote<sup>[1](#footnote1)</sup> among text. -->
 
 General Process:
 
@@ -362,6 +455,41 @@ General Process:
 >       - Dwight Eisenhower
 
 
+- accountability partners
+- TAPs (maybe just a reference)
+- eat-that-frog-first
+> If I notice that I’m “distracting” myself in a way that doesn’t actually feel great, and there’s something different that all parts of me would rather be doing, I’ll do that instead.
+- for each work session: 
+    - a deliverable / a milestone
+    - pomodoros
+    - sometimes: yoda timers
+    - Cycles (30/10 pomodoros, but you also plan and reflect in the break)
+- deliberate practice:
+    - Break down the skill you are trying to learn into components.
+    - Do a little meditation or reflection before you start to focus on the
+      component you are trying to improve.
+    - Execute the action with your focus on the process of doing it.
+    - Once you have completed the action or activity, stop and reflect. If
+      relevant, track the outcome.
+    - Repeat.
+- improving core skills (faster typing, ...) to improve general productivity
+- say no to most things that are not really relevant/important to you
+- growth mindset
+- failure journaling
+- for things you kind of don't want to do: a bit of meditation noticing the aversial effects
+- develop a set of drives, such as:
+    - Spending time with friends
+    - Going on adventures
+    - Eating delicious food
+    - Helping people
+    - Creating things
+    - Alone time
+    - Playing games
+    - Improving myself
+    - Working hard
+    - Meeting new people
+    - notice/write down situations you were the most energized and engaged in,
+      group things together
 
 
 ---
