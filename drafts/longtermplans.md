@@ -409,6 +409,26 @@ system. Every execution system consists of four parts, weighed as required:
 - Execution: Actually working on the collected Tasks, in a way to make progress
   on them.
 
+One pretty important factor is the timeframe you plan for. It can be anything
+you are comfortable with, but I would recommend a one-week-cycle as a basis,
+maybe with a complementary one-month-cycle and a four-month-cycle for getting a
+better overview on the big-picture problems you are tackling. But the weekly
+cycle is essential to enable continuos execution of your goals.
+
+A very important part is the review section. The goal is to get a
+bigger-picture perspective about the goals you are working on, primarily how
+
+what you are doing 
+
+, where you get an overview of the bigger
+picture, what is going on with your goals, how it is going, and problems you
+are stuck at.
+
+Here you can see if you are actually making progress, or if you
+need to slightly adjust your approach to get closer to your goal.
+
+
+## Improving your Execution System
 
 There are multiple execution systems out there, each working for some people
 and not for others. A pretty common one is GTD, short for 'Getting Things Done'.
