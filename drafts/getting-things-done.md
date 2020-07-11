@@ -6,12 +6,16 @@ subtitle: the art of stress-free productivity
 tags:
   - book
 ---
-My rewritten review of the updated edition of David Allan's bestseller GTD.
+My rewritten review of the updated edition of David Allan's bestseller GTD -
+supposedly it 'can be hazardous to your old habits of procrastination'.
 
-I heard about it for quite some time already. I was searching for a way to
-increase my productivity, and when I asked what 'system' others employed,
-basically the only answer I received was 'GTD, but with the variation that
-...'.
+* TOC
+{:toc}
+
+I heard about it for quite some time before reading the book. I was searching
+for a way to increase my productivity, and when I asked what 'system' others
+employed, basically the only answer I received was 'GTD, but with the variation
+that ...'.
 
 A couple weeks later I went to a talk with the topic being 'how to be
 productive'. After this talk, the presenter, viewing this as part of his legecy
@@ -23,14 +27,18 @@ system), which were the main contents of his talk.
 
 # Notes
 
-I will correlate parts of the book with experiences I have made since reading
-it or with techniques/information not from within the book itself. When reading
-it, you might interpret it in an entirely different way.
+I wrote a massive amount of notes. It's an important topic and I really wanted
+to understand the book. While I wouldn't mind sharing them, they are
+increadibly detailed, with close to 40k characters over more than 6k words. And
+they are not in a format where I can just 'share' them - most of them are more
+or less my stream of consciousness while reading the book. I don't think they
+would really be understandable. So in the past, notably in the [No Asshole
+Rule][no-asshole] and [Zero to One][zero-one] I just wrote them out. I wanted
+to do this here as well, initially. But I can't seem to get myself to do it
+productively, so I won't. If you're really interested in my stream-of-conscious
+notes, write me a comment or a mail if you are too lazy to look at the HTML comments.
 
-I dug a bit deeper and made some more detailled notes than on most other books,
-mainly because I think that this methodology is worth it, or at least has the
-potential to be worth it.
-
+<!--
 ### Foreword
 
 Most self-help books are not worth reading multiple times, since they rarely
@@ -69,7 +77,7 @@ The techniques allow you to be more 'in the moment'.
 > and crisis demands of any given workday) and an antidote for the imbalance
 > many people bring upon themselves.
 
----
+- - -
 ## Part 1: The Art of Getting Things Done
 
 ### 1 A New Practice for a New Reality
@@ -115,19 +123,19 @@ Things are on your mind because:
 
 ### 2 Getting Control of Your Life: The Five Steps of Mastering Workflow
 
-<!--
+<!- -
 ![GTD Clarify Workflow](https://i1.wp.com/www.samuelthomasdavies.com/wp-content/uploads/2017/02/Getting-Things-Done-Workflow-Chart.png?w=1007&ssl=1)
 
 **Clarify** is mainly to ask the question as to if it is actionable or not, though the whole workflow is shown in the above image (the squared boxes, the round ones are the next step).
 
 ![GTD Organize Workflow](http://donebeforebrekky.com/wp-content/uploads/2015/08/Getting-Things-Done-Flow-Diagram.jpg)
--->
+- ->
 
 ### 3 Getting Projects Creatively Under Way: The Five Phases of Project Planning
 
 
----
----
+- - -
+- - -
 
 ## Part 2: Practicing Stress-free Productivity
 
@@ -149,8 +157,8 @@ This part is about step-by-step guidelines to set this process up and bootstrap 
 ### 10 Getting Projects Under Control
 
 
----
----
+- - -
+- - -
 
 ## Part three: The Power of the Key Principles
 
@@ -165,82 +173,9 @@ This part is about step-by-step guidelines to set this process up and bootstrap 
 ### 15 The Path of GTD Mastery
 
 
-# Review
-
-## Main Takeaways
-I read the book twice. The first time I did not take notes, the second time I
-did maybe somewhat extensively. I thought to 'know' what GTD was even before
-reading the book, turns out I was somewhat wrong about that. He gave a couple
-of examples on how **not** to organize your life, and I was surprised that
-compared to most of them, I was ding considerably well.
-
-This is only where it gets interesting though, since, after all, I have only
-then been made aware of a lot of the inner workings, on the subtleties of these
-techniques. I had a couple guesses regarding that, and while most of them held
-true and where validated, some core assumptions where challenged and required
-me to properly re-think them.
-
-I also noticed that I was mixing levels considerably. And I was unsure on how
-to handle items that are supposed to be on multiple lists (e.g. @short and
-@home) without a massive organizational overhead. Until I migrated to my
-current system.
-
-First read:
-- noticed I was doing quite well in compared to a lot of examples given
-- still massive room for improvement
-- Changes specifically:
-    - improved handling of lists
-    - eliminated certain lists, created others
-    - unsure on how to handle projects, specifically
-    - created massive 'in' box, but did not process (mainly because reading a
-      lot while not being close to it)
-    - improved usage of own general filing/reference system
-    - spent some amount of time to improve current processes in general, with
-      at least moderate effects, and wrote down a lot of ideas for further
-      improvements
-
-Second read:
-- missed a lot of details on the implementation, maybe because I 'wanted to finish reading it'
-
-## Criticism
-I am still not sure on how to correctly categorize items that would fit in
-multiple lists. This includes projects specifically. There is a
-'prjoects'-list, and on it are all the projects, and every project is its own
-(sub) list as well, but these sub-items should somehow also occur on the
-primary 'next actions' list, If I understood that correctly. Or not?
-
-Generally:
-- How to deal with items that should go in multiple lists?
-
-Okay, well, apart from this little one, I am massively positive about this. I
-think it is one of the books helping me a tremendous amount more than others;
-Especially now after having implemented it.
-
-## Noteworthy Quotes
-
-Since there are one or more quotes on each (!) page (up to three, actually), here is a collection of quotes I found the most intriguing or noteworthy. Those that are only quoted from other people are noted as such, the others I assume are 'said' from David Allen himself.
-
-> The winds and waves are always on the side of the ablest navigators. - Edward Gibbon
-
-> Think like a man of action, act like a man of thought. - Henri Bergson
-
-> Rule your mind or it will rule you. - Horace
-
-> Boy, that was an amorphous blob of undoability!
-A biotech-manager about her to-do-list after one of his seminars.
-
-> There is no reason to ever have the same thought twice, unless you like having that thought.
-
-> have you envisioned wild success about anything lately?
 
 
 
-
-
-
-
-< !- -
------NOTES------------------------
 
 ### Foreword
 
@@ -348,11 +283,11 @@ Clarify: Item-by-item: is it actionable? If **No**: either put it in trash, in
 your general reference filing system or your Someday/Maybe/Tickler system.
 If **Yes**: What is the Project/Outcome? What is the next action?
 
- ______ ____
+ ___________
 |Do it      |   if it takes <2min
 |Delegate it|   Who is the right person to do this?
 |Defer it   |   If you, track it in your 'Next-Action' list or Calendar
-|___ _______|_
+|___________|
 
 
 Organize
@@ -519,19 +454,19 @@ is not where it should be, all that goes into 'in'-except if it is part of your
 supplies, decortion, reference mterial or Equipment and really does not have an
 'open loop' in your mind. These stay. Everything else goes in 'in'.
 
-Something is too big? Create a note referencing it in 'in' instead.
-'In' not big enough? Make it a pile instead, just make clear what is still 'in' and what is not
-Purge trash immediately, but do not start organizing everything else (yet)
-Put old to-do-lists/Action Lists in 'in' as well, if they are not up-to-date
-Create an emergency stack with things that _need_ to be happening first.
-Also put your 'familiar stacks' in there. If anything needs changing, put a note about it in 'in'.
-Everything from your Desk, Drawers, Countertops, cabinets, floors, walls, shelves, furniture, other?
-Just make surethat everything either is the way it should be or at least gets a
-note in 'in'. Write down all your thoughts and ideas on seperate sheets of
-paper (i.e. post-its) - this makes later processing a lot easier. Simply
-writing down ideas might take 20min up to more than an hour. Go for quantity -
-things wil pop up rather randomly. p116-120: Trigger list of potential open
-loops.
+Something is too big? Create a note referencing it in 'in' instead. 'In' not
+big enough? Make it a pile instead, just make clear what is still 'in' and what
+is not Purge trash immediately, but do not start organizing everything else
+(yet) Put old to-do-lists/Action Lists in 'in' as well, if they are not
+up-to-date Create an emergency stack with things that _need_ to be happening
+first. Also put your 'familiar stacks' in there. If anything needs changing,
+put a note about it in 'in'. Everything from your Desk, Drawers, Countertops,
+cabinets, floors, walls, shelves, furniture, other? Just make surethat
+everything either is the way it should be or at least gets a note in 'in'.
+Write down all your thoughts and ideas on seperate sheets of paper (i.e.
+post-its) - this makes later processing a lot easier. Simply writing down ideas
+might take 20min up to more than an hour. Go for quantity - things wil pop up
+rather randomly. p116-120: Trigger list of potential open loops.
 
 Also put 'in' organizer notebooks and paper notes of voicemails / Notes
 
@@ -919,5 +854,92 @@ Then, on the next level:
 ### Conclusion
 Everyone develops a 'GTD'-version for themselves. The book is only a Roadmap of some general tips.
 
-<!-- -->
--->
+- - -
+< !- - -->
+
+# Review
+
+## Content
+For me, GTD is a 'system' to manage all of what you promised to do (to yourself
+or to others), and eventually doing or dropping it. The core part is the weekly
+review, in which most open tasks get looked at. Additionally, a review and a
+preview of the calendar (looking at the past and next week) is useful to notice
+small things you promised or still need to do before meetings.
+
+The smallest unit in a GTD system is a 'next action', it is a clearly defined
+and described physical action to be done to bring you closer to one of your
+goals. Projects might contain multiple such 'next actions', and have a
+timeframe of up to one year. They are collected in a 'next action'-list. If you
+finished an item, you cross it off. Items might be sorted in more than just one
+way, giving way to multiple more lists. Such a list could be based on contexts
+(`@home` if can only be done at home or `@pc` if a computer is required) or
+projects (`+gtd` if it is related to the implementation of your GTD system).
+
+One really critical part of GTD is the processing of 'in'-boxes, both digital
+and physical. The core question to be asked for every item: Is it actionable?
+If yes, do it if it takes less than 2 minutes to do, delegate it if someone
+else is better suited to executing it, and defer it by putting the detailed
+description in your 'next-action' list or schedule an event for it in your
+calendar where you will resolve it.
+
+## Main Takeaways
+I read the book twice. The first time I did not take notes, the second time I
+did extensively. I was under the impression I 'knew' what GTD was before
+reading the book, turns out I was somewhat wrong about that. He gave a couple
+of examples on how **not** to organize your life, and I was surprised that
+compared to most of them, I was doing considerably well - with a whole lot of
+things I could still improve.
+
+This is where it gets interesting though, since I have only then been made
+aware of a lot of the inner workings, on the subtleties of these techniques. 
+It was kind of really eye-opening to read it, since I don't think I would have
+gotten that degree of understanding for some time otherwise.
+
+I also noticed that I was mixing levels considerably. And I was unsure on how
+to handle items that are supposed to be on multiple lists (e.g. `@short` and
+`@home`) without a massive organizational overhead - keeping both lists in sync
+and such. Until I migrated to my current system. But more about that later.
+
+
+
+First read:
+- Changes specifically:
+    - improved handling of lists
+    - eliminated certain lists, created others
+    - unsure on how to handle projects, specifically
+    - created massive 'in' box, but did not process (mainly because reading a
+      lot while not being close to it)
+    - improved usage of own general filing/reference system
+    - spent some amount of time to improve current processes in general, with
+      at least moderate effects, and wrote down a lot of ideas for further
+      improvements
+
+Second read:
+- noticed that I missed a lot of details on the implementation, maybe because I 'wanted to finish reading it'
+
+## My current GTD system
+
+
+## Criticism
+
+
+## Noteworthy Quotes
+
+Since there are one or more quotes on each (!) page (up to three, actually), here is a collection of quotes I found the most intriguing or noteworthy. Those that are only quoted from other people are noted as such, the others I assume are 'said' from David Allen himself.
+
+> The winds and waves are always on the side of the ablest navigators. - Edward Gibbon
+
+> Think like a man of action, act like a man of thought. - Henri Bergson
+
+> Rule your mind or it will rule you. - Horace
+
+> Boy, that was an amorphous blob of undoability!
+A biotech-manager about her to-do-list after one of his seminars.
+
+> There is no reason to ever have the same thought twice, unless you like having that thought.
+
+> have you envisioned wild success about anything lately?
+
+
+[no-asshole]: ../2020-02-28-book-the-no-asshole-rule
+[zero-one]: ../2020-02-01-zero-to-one
