@@ -333,7 +333,7 @@ While we already defined the first three items for each of your goals, you
 should be able to have done them until the day after tomorrow. What then?
 
 There are two parts to execution, and they answer different timeframes to the
-questions 'what and how do I do next?'.
+questions 'what do I do next?'.
 
 First is how to execute _in the moment_: While just sitting down and working on
 it is pretty effective, there are some techniques you might at least want to
@@ -348,15 +348,14 @@ work on anymore. It's not exactly true, but since it's not defined yet, it's
 much more unlikely to get done. It could also be that when reading through some
 of the tasks, you notice you already did them, or that they don't apply anymore
 since circumstances have changed. It's a way to 'adapt' to the ever-changing
-small obstacles.
+small obstacles. We'll focus on that part.
 
 
 ## Failing execution
-The hardest part about execution is to actually do something. Usually goals end
-up in either one of these states:
-- Main Focus, working on it in (almost) every free and available minute
-- Utterly Neglected, not having done something recently _at all_
-
+Execution is hard, if you actually finished all of your free-time projects you
+ever started you are the lucky exception. Most of our projects get discontinued
+at some point, sometimes even those we were frantically working on for weeks on
+end. There are a bunch of reasons as to why that might be:
 
 - Aversion: We experience some form of discomfort (stress, guilt, dread) when
   thinking about goals or executing plans
@@ -371,7 +370,46 @@ up in either one of these states:
 - Limited self trust: We don’t believe we will follow through on our intentions
   which leads us not to set goals or make plans
 
-## Execution Systems
+There are ways to improve in-the-moment effectiveness, but they don't really
+help me if I just don't work on my goal anymore, for whatever reason. And
+that's fine, as long as you don't beat yourself up over it.
+
+## Accountability Partners
+One way that will help you to get started and to _keep doing it_, is to have
+someone hold you accountable for it. It kind of does not really matter who it
+is, but a friend who needs someone to hold them accountable for something
+themselves is ideal. Just schedule a meeting or call every week, month, or
+other timeframe you are comfortable with, and you're good to go.
+The goal is that you state your goals and the progress you want to make each
+meeting and get asked about the progress you actually achieved prior to
+planning your progress the next meeting. That's it. Repeat.
+
+The steps are pretty easy:
+1. Find a friend to hold you accountable and schedule regular calls or meetings
+2. Report progress on your previously defined goal(s)
+3. State your next steps and what you want to achieve until next time
+4. Before hanging up/separating, schedule your next call/meeting
+5. Repeat from Step 2 at the next call/meeting
+
+Obviously you shouldn't talk the entire time. Intersperse your meeting with
+listening to the progress and next goals of your friend. I'm doing my monthly
+planning in a similar fashion with a friend, and it helped me tremendously to
+stay more focused, and to achieve more.
+
+## A basic Execution System
+A differnt approach would be to create an execution system. Actually, the
+procedure I described for accountability partners is a form of execution
+system. Every execution system consists of four parts, weighed as required:
+
+- Review: Taking a look at the progress that happened, evaluating success
+- Retrospective: Taking a look at the current process, making adjustments for
+  parts that are not working as well as they should
+- Planning: Planning milestones and Tasks for the next timeframe until Review,
+  clarifying when they are done
+- Execution: Actually working on the collected Tasks, in a way to make progress
+  on them.
+
+
 There are multiple execution systems out there, each working for some people
 and not for others. A pretty common one is GTD, short for 'Getting Things Done'.
 Most people use a slightly adapted version, and not the vanilla system. The
