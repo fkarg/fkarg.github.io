@@ -169,7 +169,7 @@ Take a short break. You deserve it.
 ---
 # Planning
 We figured out your goals, but this is only the first step to achieving them.
-There are a couple of things next, 
+There are a couple of things next,
 
 including a definition of done - a clear
 description as to when the goal is actually achieved, and milestones on the
@@ -254,7 +254,6 @@ This will help you notice yourself steering toward such situations.
 
 
 ## Lead and Lag measures
-
 When tracking metrics for your goals
 
 When you try to lose weight, one obvious metric to track (for success) is
@@ -394,14 +393,15 @@ The steps are pretty easy:
 Obviously you shouldn't talk the entire time. Intersperse your meeting with
 listening to the progress and next goals of your friend. I'm doing my monthly
 planning in a similar fashion with a friend, and it helped me tremendously to
-stay more focused, and to achieve more.
+stay focused, and to achieve more.
 
 ## A basic Execution System
 A differnt approach would be to create an execution system. Actually, the
 procedure I described for accountability partners is a form of execution
-system. Every execution system consists of four parts, weighed as required:
+system already. Every execution system consists of four parts, weighed as
+required:
 
-- Review: Taking a look at the progress that happened, evaluating success
+- Review: Taking a look at the progress that happened, evaluating taken approaches
 - Retrospective: Taking a look at the current process, making adjustments for
   parts that are not working as well as they should
 - Planning: Planning milestones and Tasks for the next timeframe until Review,
@@ -409,63 +409,86 @@ system. Every execution system consists of four parts, weighed as required:
 - Execution: Actually working on the collected Tasks, in a way to make progress
   on them.
 
+### Timeframe
 One pretty important factor is the timeframe you plan for. It can be anything
 you are comfortable with, but I would recommend a one-week-cycle as a basis,
 maybe with a complementary one-month-cycle and a four-month-cycle for getting a
 better overview on the big-picture problems you are tackling. But the weekly
 cycle is essential to enable continuos execution of your goals.
 
+### Review
 A very important part is the review section. The goal is to get a
 bigger-picture perspective about the goals you are working on, primarily how
+you approach the problems you encounter and how well it is working. If they're
+not working well, you adjust them during 'Retrospective', to do better next
+cycle. Plotting the achievements in one way or another is always helpful, and
+more so if you have decent metrics.
 
-what you are doing 
+### Retrospective
+This is the place to make changes to your execution system and how you use it,
+if you need to make changes. Just thinking a few minutes about how it can be
+improved tend to yield results, and small changes can sometimes help you
+substantially - especially in the long term.
 
-, where you get an overview of the bigger
-picture, what is going on with your goals, how it is going, and problems you
-are stuck at.
+### Planning
+This is more or less a 'mini'-planning section, with the core focus being to
+ensure you have at least one if not multiple next actions for each goal and
+project.
 
-Here you can see if you are actually making progress, or if you
-need to slightly adjust your approach to get closer to your goal.
+### Execution
+When actually working on Tasks, it can be helpful to try one of the following
+productivity helpers:
+- Pomodoros
+- Work Cycles
+- Co-Working Spaces
+A [Pomodoro][pomodoro] is a 30-min interval with 25min work-time and a break of
+5min. Work Cycles are similar, with 30min worktime interspersed with 10min
+breaks, in which you do a bit of work-related planning and reviewing as well.
+Co-Working spaces such as libraries are great, because it will be harder to let
+yourself slack off, and easier to stay productive, with or without pomodoro.
+A virtual co-working space such as the [LessWrong study hall][lw-study-hall]
+can have the same effects.
 
+### Conclusion
+The idea is that everytime you want to do something, you can simply take a look
+at the next tasks in your execution system and start doing them.
 
 ## Improving your Execution System
+If you have an execution system in place, it is useful to use it for as many
+tasks as you can, even those not primarily related to your big goals. Examples
+include calling your dentist for an appointment or writing a mail to a colleague.
+
+This improves not only retention (continuing to use it for a longer time), but
+also effectiveness in achieving your goals. Since, every time you look in your
+execution system to do something else, you inadvertantly see what the next
+actions for your goals are as well. And maybe you can combine them in an easy
+way!
 
 There are multiple execution systems out there, each working for some people
-and not for others. A pretty common one is GTD, short for 'Getting Things Done'.
-Most people use a slightly adapted version, and not the vanilla system. The
-same goes for all the other systems as well, they are not static. If making a
-change to it helps you be more effective, then go for it.
-
-Execution systems describe a 'meta'-pattern of activities, and have different
-angles of attack to help you be productive. Generally, I would describe
-everything that helps you _be productive_ as an execution system. However, note
-the system part: I'm mainly talking about habits that are either happening only
-in certain circumstances, or are recurring. For example, a weekly
-review/planning session is a 'execution system' just as much as doing pomodoros
-(intervals of 25min work, 5min break) is. They are not opposed in any way, they
-are aiming for different parts and are especially effective when combined with
-multiple others.
+and not for others. A pretty common one is [GTD][gtd-book], short for 'Getting
+Things Done' ([my review][gtd-review]). Most people use a slightly adapted
+version, and not the vanilla system. The same goes for all the other systems as
+well, they are not static. If making a change you learned somewhere to improve
+your effectiveness and productivity, then go for it. It will be hard to fully
+use it from the get-go, adapting it step-by-step will probably be better.
 
 
-## Adapting Execution Systems
-- one thing at a time, step by step. Don't try everything at once, it will fail.
+# Conclusion
+In short, we first collected everything you wanted to do, everything that is
+exciting for you. We then found reasons for doing and priorities for them,
+based on what we actually wanted to do.
 
-## Adapted Getting Things Done
-GTD is one of the most widely adopted productivity systems.
+Planning helped us to get a clearer picture on what we actually want and how to
+get there. We also got a sense for what we might want to avoid, while trying to
+achieve our goals. Measuring is important to see progress, and always having a
+next action is increadibly helpful in actually making progress.
 
+Execution is all about regularly reviewing the current progress, and clearly
+tracking and enabling the next steps.
 
-
-## Have someone hold you accountable
-It's one thing to promise something yourself, but
-
-
-
-
-
-## Immediate Actions
-It's extremely important to have an _immediate next action_ at all points.
-
-Your goals should be challenging and specific already. => Immediate + Approach-Oriented
+That's it for now. It's a whole lot, so take your time digesting it. Write me a
+comment or mail if you have feedback of any sort, or encountered an awesome way
+to improve the goal setting experience.
 
 
 
@@ -473,15 +496,7 @@ Your goals should be challenging and specific already. => Immediate + Approach-O
 
 
 
-
-
-
-
-
-
-
-
-<!-- Footnote<sup>[1](#footnote1)</sup> among text. -->
+<!-- Footnote<sup>[1](#footnote1)</sup> among text.
 
 General Process:
 
@@ -517,7 +532,7 @@ General Process:
 - TAPs (maybe just a reference)
 - eat-that-frog-first
 > If I notice that I’m “distracting” myself in a way that doesn’t actually feel great, and there’s something different that all parts of me would rather be doing, I’ll do that instead.
-- for each work session: 
+- for each work session:
     - a deliverable / a milestone
     - pomodoros
     - sometimes: yoda timers
@@ -550,8 +565,11 @@ General Process:
       group things together
 
 
----
-#### Footnotes
+- - -
+**Footnotes**:
+-->
 
-<a name="footnote1">1</a>: Text from footnote1.
-
+[gtd-book]: https://en.wikipedia.org/wiki/Getting_Things_Done
+[gtd-review]: ../2020-07-XX-getting-things-done
+[pomodoro]: https://en.wikipedia.org/wiki/Pomodoro_Technique
+[lw-study-hall]: https://complice.co/room/lesswrong
