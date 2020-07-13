@@ -130,7 +130,7 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 
 ---
-#### Footnotes
+**Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
 [smartphone-value]: https://www.researchgate.net/publication/259550649_What_a_smartphone_is_to_me_Understanding_user_values_in_using_smartphones

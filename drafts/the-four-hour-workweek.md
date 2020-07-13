@@ -16,14 +16,14 @@ bought it after strolling through a bookstore in early March.
 {:toc}
 
 
-
+<!--
 # Notes
 ## Chapters / Parts
 ### Subchapters
 
-
-
 Footnote<sup>[1](#footnote1)</sup> among text.
+-->
+
 
 # Review
 ## Main Takeaways
@@ -38,6 +38,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 
 ---
-#### Footnotes
+**Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.

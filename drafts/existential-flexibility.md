@@ -132,7 +132,7 @@ Todo:
 Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
-#### Footnotes
+**Footnotes**
 
 <a name="footnote1">1</a>: Text from footnote1.
 

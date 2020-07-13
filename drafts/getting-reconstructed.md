@@ -11,10 +11,7 @@ tags:
 ---
 
 
-
 Current state: disorderly.
-
-
 
 
 Implications on Life and Gods when getting Respawned.
@@ -83,10 +80,21 @@ calm and try to figure out what's going on. Most likely, someone will tell you :
 
 
 
+
+Related:
+- Aufklärung
+- Hightech
+- Extremphysik
+- Erkenntnistheorie
+- Gesellschaftskritik
+- Technikfolgenabschätzung
+- Transhumanismus
+
+
 Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
-#### Footnotes
+**Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
 

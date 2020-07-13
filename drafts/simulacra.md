@@ -23,7 +23,7 @@ both the media and CEOs from other companies fell into place.
 ## Simulacra Levels
 Even though there are [multiple definitions][difference] of Simulacra Levels,
 I'll mainly be using the understanding from [here][simulacra], since I believe
-this model to be more useful. 
+this model to be more useful.
 
 ![picture simulacra levels][link to picture]
 
@@ -73,7 +73,7 @@ mostly true eventually).
 
 There are two political leaders in the camp you live in; one saying that the
 being across the river is a tiger, the other that it is a lion. By saying
-"There's a lion across the river" you signal group membership with one of them. 
+"There's a lion across the river" you signal group membership with one of them.
 There are probably in each group who claim to have seen the respective animal
 (_some_ evidence). Some weird people excluded by everyone (but somewhat
 depended on, since they are somewhat smart) say that they might both exist, or
@@ -88,7 +88,8 @@ I don't think I fully understood it. Anyway, here is the Attempt:
 At this level, the established group identities matter, and again independent
 to objective reality it is just advantagious to say
 
-Required Context: 
+Required Context: It is beneficial for me to say something to modify someones
+perception of L3/their group identity
 
 
 

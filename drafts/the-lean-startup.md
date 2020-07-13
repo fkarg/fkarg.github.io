@@ -7,7 +7,7 @@ tags:
 - book
 - startup
 ---
-Review of <short book description>
+Short book description
 
 
 This book has been on my wishlist for some time now, as it has been recommended

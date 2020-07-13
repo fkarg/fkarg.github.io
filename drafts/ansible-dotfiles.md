@@ -344,7 +344,7 @@ arguments.
 -->
 
 ---
-#### Footnotes
+**Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
 

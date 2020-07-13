@@ -15,19 +15,8 @@ Short description of how I got interested in this topic, or some other story ass
 {:toc}
 
 
-# Notes
-## Chapters / Parts
-### Subchapters
-
-Footnote<sup>[1](#footnote1)</sup> among text.
-
-# Review
-## Main Takeaways
-## Criticism
-## Favourite Quotes
-
 
 ---
-#### Footnotes
+**Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
