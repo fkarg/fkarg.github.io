@@ -36,7 +36,7 @@
       <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
       {% endif %}
       {% endif %}
-      
+
       {% if include.type == "post" %}
           <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
           {% if page.readtime %}
@@ -65,7 +65,7 @@
       <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
       {% endif %}
       {% endif %}
-      
+
       {% if include.type == "post" %}
           <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
           {% if page.readtime %}
@@ -88,8 +88,16 @@
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    processEscapes: true
+    inlineMath: [              // start/end delimiter pairs for inline math
+      ['$','$'],
+      ['\\(','\\)']
+    ],
+    displayMath: [             // start/end delimiter pairs for display math
+      ['$$', '$$'],
+      ['\\[', '\\]']
+    ],
+    processEscapes: true,      // use \$ to produce a literal dollar sign
+    processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
   }
   TeX: {
     equationNumbers: {

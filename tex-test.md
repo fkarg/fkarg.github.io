@@ -21,4 +21,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
      {1+\frac{e^{-8\pi}} {1+\ldots} } } }
 \\]
 
-end of $\LaTeX$-test.
+One more: $s \eq a \times t^2 + v \times t + s$
+
+
+end of \\(\LaTeX\\)-test.
