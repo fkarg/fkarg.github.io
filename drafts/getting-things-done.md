@@ -18,9 +18,9 @@ employed, basically the only answer I received was 'GTD, but with the variation
 that ...'.
 
 A couple weeks later I went to a talk with the topic being 'how to be
-productive'. After this talk, the presenter, viewing this as part of his legecy
+productive'. After this talk, the presenter, viewing this as part of his legacy
 (he passed away two weeks later due to cancer) was intent on gifting us both
-english and german versions of 'getting things done' (I received an english
+English and German versions of 'getting things done' (I received an English
 one) as well as 'Die Zettelkastenmethode' (a general knowledge organizing
 system), which were the main contents of his talk.
 
@@ -28,7 +28,7 @@ system), which were the main contents of his talk.
 # Notes
 I wrote a massive amount of notes. It's an important topic and I really wanted
 to understand the book. While I wouldn't mind sharing them, they are
-increadibly detailed, with close to 40k characters over more than 6k words. And
+incredibly detailed, with close to 40k characters over more than 6k words. And
 they are not in a format where I can just 'share' them - most of them are more
 or less my stream of consciousness while reading the book. I don't think they
 would really be understandable. So in the past, notably in the [No Asshole
