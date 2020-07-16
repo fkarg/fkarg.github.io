@@ -26,7 +26,6 @@ system), which were the main contents of his talk.
 
 
 # Notes
-
 I wrote a massive amount of notes. It's an important topic and I really wanted
 to understand the book. While I wouldn't mind sharing them, they are
 increadibly detailed, with close to 40k characters over more than 6k words. And
@@ -36,7 +35,8 @@ would really be understandable. So in the past, notably in the [No Asshole
 Rule][no-asshole] and [Zero to One][zero-one] I just wrote them out. I wanted
 to do this here as well, initially. But I can't seem to get myself to do it
 productively, so I won't. If you're really interested in my stream-of-conscious
-notes, write me a comment or a mail if you are too lazy to look at the HTML comments.
+notes, write me a comment or a mail if you are too lazy to look at the HTML
+source. (they are there as a long comment)
 
 <!--
 ### Foreword
@@ -854,22 +854,25 @@ Then, on the next level:
 ### Conclusion
 Everyone develops a 'GTD'-version for themselves. The book is only a Roadmap of some general tips.
 
-- - -
-< !- - -->
+< !- -
+-->
 
+
+---
 # Review
 
 ## Content
-For me, GTD is a 'system' to manage all of what you promised to do (to yourself
-or to others), and eventually doing or dropping it. The core part is the weekly
-review, in which most open tasks get looked at. Additionally, a review and a
-preview of the calendar (looking at the past and next week) is useful to notice
-small things you promised or still need to do before meetings.
+GTD is a 'system' to manage all of what you promised to do (to yourself or to
+others), and eventually doing or dropping it - as far as I understand it. The
+core is the weekly review, in which all open tasks, projects and goals get
+inspected. A review and preview of the calendar (looking at the past and next
+week) is useful to notice small things you promised or still need to do before
+meetings.
 
 The smallest unit in a GTD system is a 'next action', it is a clearly defined
 and described physical action to be done to bring you closer to one of your
 goals. Projects might contain multiple such 'next actions', and have a
-timeframe of up to one year. They are collected in a 'next action'-list. If you
+timeframe of up to one year. They each have their own 'next action'-list. If you
 finished an item, you cross it off. Items might be sorted in more than just one
 way, giving way to multiple more lists. Such a list could be based on contexts
 (`@home` if can only be done at home or `@pc` if a computer is required) or
@@ -882,6 +885,12 @@ else is better suited to executing it, and defer it by putting the detailed
 description in your 'next-action' list or schedule an event for it in your
 calendar where you will resolve it.
 
+Items that cannot be acted upon, either get thrown away or stored in a 'general
+reference system'. It kind of does not matter how exactly it is structured, as
+long as you can file something new within one minute (preferably less), and
+retrieve something you vaguely remember in a structured manner, e.g. by not
+searching through everything but only certain folder categories.
+
 ## Main Takeaways
 I read the book twice. The first time I did not take notes, the second time I
 did extensively. I was under the impression I 'knew' what GTD was before
@@ -893,39 +902,72 @@ things I could still improve.
 This is where it gets interesting though, since I have only then been made
 aware of a lot of the inner workings, on the subtleties of these techniques. 
 It was kind of really eye-opening to read it, since I don't think I would have
-gotten that degree of understanding for some time otherwise.
+gotten that degree of understanding for some time otherwise. Knowing _when_ and
+_why_ something works really makes a difference in applying and using it, as
+I've realized.
 
 I also noticed that I was mixing levels considerably. And I was unsure on how
 to handle items that are supposed to be on multiple lists (e.g. `@short` and
 `@home`) without a massive organizational overhead - keeping both lists in sync
 and such. Until I migrated to my current system. But more about that later.
 
+My system is only somewhat battle-tested, but helped me through considerably
+demanding weeks already. I make small changes continuously, and I think GTD is
+a system that evolves with the demands placed upon it.
 
-
-First read:
-- Changes specifically:
-    - improved handling of lists
-    - eliminated certain lists, created others
-    - unsure on how to handle projects, specifically
-    - created massive 'in' box, but did not process (mainly because reading a
-      lot while not being close to it)
-    - improved usage of own general filing/reference system
-    - spent some amount of time to improve current processes in general, with
-      at least moderate effects, and wrote down a lot of ideas for further
-      improvements
-
-Second read:
-- noticed that I missed a lot of details on the implementation, maybe because I 'wanted to finish reading it'
-
-## My current GTD system
-
+I'm not entirely sure how to apply it for teams, but it certainly is
+increadibly effective for personal producivity. If someone were to suggest a
+new system to me - GTD is the benchmark. Although, I'm not aware of any
+'competing' personal productivity systems in the first place.
 
 ## Criticism
+Honestly, I have nothing but praise for the book. The one thing others could
+complain about is that it is too dense, content-wise. All the subtle details
+are really important - you will notice new details when rereading it. It's not
+that all details are really important when starting out. They become more and
+more important when mastering GTD more and more. A re-read every other year or
+so might be a good idea. At least of the notes I took.
 
+But, I prefer it to be dense. I prefer it to be one book, and not three
+different ones. And even though it's dense, the important parts are explained
+thoroughly, some are repeated in three different chapters. Once you understand
+the core principles, you can adapt the system any way you want or need to. And
+that is really awesome.
+
+I can only recommend you to read it, if you haven't done so already.
+
+> It's interesting to note that the people who need this methodology the least
+> are usually the ones who engage with it the quickest and the most.
+
+## My current GTD system
+Before reading the book, I was using a combination of a calendar and multiple
+Google-Keep lists to stay organized. I also started a somewhat useable digital
+general reference system, and barely even required a physical one to notice
+that it's missing.
+
+Both of these evolved significantly over the course of the last year. It's been
+close to half a year since I finished GTD for the second time.
+
+I switched to [todo.txt][todotxt] with the [todo.sh cli][todocli] about three
+months ago, and certainly haven't regretted doing so. I synchronize my
+todo.txt-files with a private git repository across my multiple computers.
+I consider switching to a nextcloud instance, but I haven't thought that
+through yet. Seeing _when_ an item has been added or last modified (with `git
+blame`) is a feature I sometimes use, after all. I only recently started to
+look into some extension, with a clear idea in mind what I wanted. Of course it
+didn't exist, so I'll write it sometime soon.
+
+My analog reference file system is a collection of (differently colored)
+folders, and pretty boring overall. Digitally, it's a bigger collection of text
+files, also synced via git, and searched through with the fuzzy search tool
+[broot][broot].
 
 ## Noteworthy Quotes
 
-Since there are one or more quotes on each (!) page (up to three, actually), here is a collection of quotes I found the most intriguing or noteworthy. Those that are only quoted from other people are noted as such, the others I assume are 'said' from David Allen himself.
+Since there are one or more quotes on each (!) page (up to three, actually),
+here is a collection of quotes I found the most intriguing or noteworthy. Those
+that are only quoted from other people are noted as such, the others I assume
+are 'said' from David Allen himself.
 
 > The winds and waves are always on the side of the ablest navigators. - Edward Gibbon
 
@@ -943,3 +985,7 @@ A biotech-manager about her to-do-list after one of his seminars.
 
 [no-asshole]: ../2020-02-28-book-the-no-asshole-rule
 [zero-one]: ../2020-02-01-zero-to-one
+[todotxt]: http://todotxt.org/
+[todocli]: https://github.com/todotxt/todo.txt-cli
+[configs]: https://github.com/fkarg/configs
+[broot]: https://github.com/Canop/broot
