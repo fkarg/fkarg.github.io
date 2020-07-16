@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: Getting Things Done'
 subtitle: the art of stress-free productivity
 tags:
