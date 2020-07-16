@@ -17,13 +17,11 @@ for a way to increase my productivity, and when I asked what 'system' others
 employed, basically the only answer I received was 'GTD, but with the variation
 that ...'.
 
-A couple weeks later I went to a talk with the topic being 'how to be
-productive'. After this talk, the presenter, viewing this as part of his legacy
-(he passed away two weeks later due to cancer) was intent on gifting us both
-English and German versions of 'getting things done' (I received an English
-one) as well as 'Die Zettelkastenmethode' (a general knowledge organizing
-system), which were the main contents of his talk.
-
+A couple of weeks later I went to a talk with the topic being 'how to be
+productive'. After this talk, the presenter saw it as part of his legacy to
+gift us multiple versions of the books 'getting things done' and 'Die
+Zettelkastenmethode' (a general knowledge organizing system). They were the
+main content of his talk, after all.
 
 # Notes
 I wrote a massive amount of notes. It's an important topic and I really wanted
@@ -31,12 +29,13 @@ to understand the book. While I wouldn't mind sharing them, they are
 incredibly detailed, with close to 40k characters over more than 6k words. And
 they are not in a format where I can just 'share' them - most of them are more
 or less my stream of consciousness while reading the book. I don't think they
-would really be understandable. So in the past, notably in the [No Asshole
-Rule][no-asshole] and [Zero to One][zero-one] I just wrote them out. I wanted
-to do this here as well, initially. But I can't seem to get myself to do it
-productively, so I won't. If you're really interested in my stream-of-conscious
-notes, write me a comment or a mail if you are too lazy to look at the HTML
-source. (they are there as a long comment)
+would really be understandable.
+
+In the past, notably in the [No Asshole Rule][no-asshole] and [Zero to
+One][zero-one] I just wrote them out. I wanted to do this here as well,
+initially. But I can't seem to get myself to do it productively, so I won't. If
+you're really interested in my stream-of-conscious notes, take a look at the
+HTML source (they are there as a long comment).
 
 <!--
 ### Foreword
@@ -871,12 +870,13 @@ meetings.
 
 The smallest unit in a GTD system is a 'next action', it is a clearly defined
 and described physical action to be done to bring you closer to one of your
-goals. Projects might contain multiple such 'next actions', and have a
-timeframe of up to one year. They each have their own 'next action'-list. If you
-finished an item, you cross it off. Items might be sorted in more than just one
-way, giving way to multiple more lists. Such a list could be based on contexts
-(`@home` if can only be done at home or `@pc` if a computer is required) or
-projects (`+gtd` if it is related to the implementation of your GTD system).
+goals. Projects can contain multiple such 'next actions', and have a
+timeframe of up to one year. They each have their own 'next action'-list. If
+you finished an item, you cross it off. Items can be sorted in more than just
+one way, giving way to multiple more lists. Such a list could be based on
+contexts (`@home` if can only be done at home or `@pc` if a computer is
+required) or projects (`+gtd` if it is related to the implementation of your
+GTD system).
 
 One really critical part of GTD is the processing of 'in'-boxes, both digital
 and physical. The core question to be asked for every item: Is it actionable?
@@ -896,7 +896,7 @@ I read the book twice. The first time I did not take notes, the second time I
 did extensively. I was under the impression I 'knew' what GTD was before
 reading the book, turns out I was somewhat wrong about that. He gave a couple
 of examples on how **not** to organize your life, and I was surprised that
-compared to most of them, I was doing considerably well - with a whole lot of
+compared to most of them, I was doing considerably well - with a lot of
 things I could still improve.
 
 This is where it gets interesting though, since I have only then been made
@@ -909,16 +909,16 @@ I've realized.
 I also noticed that I was mixing levels considerably. And I was unsure on how
 to handle items that are supposed to be on multiple lists (e.g. `@short` and
 `@home`) without a massive organizational overhead - keeping both lists in sync
-and such. Until I migrated to my current system. But more about that later.
+and such. Until I migrated to my current system, but more about that later.
 
 My system is only somewhat battle-tested, but helped me through considerably
 demanding weeks already. I make small changes continuously, and I think GTD is
 a system that evolves with the demands placed upon it.
 
 I'm not entirely sure how to apply it for teams, but it certainly is
-increadibly effective for personal producivity. If someone were to suggest a
-new system to me - GTD is the benchmark. Although, I'm not aware of any
-'competing' personal productivity systems in the first place.
+incredibly effective for personal productivity. If someone were to suggest a
+new system to me - GTD is the benchmark. On the other hand, I'm not aware of
+a 'competing' personal productivity systems in the first place.
 
 ## Criticism
 Honestly, I have nothing but praise for the book. The one thing others could
@@ -949,13 +949,14 @@ Both of these evolved significantly over the course of the last year. It's been
 close to half a year since I finished GTD for the second time.
 
 I switched to [todo.txt][todotxt] with the [todo.sh cli][todocli] about three
-months ago, and certainly haven't regretted doing so. I synchronize my
-todo.txt-files with a private git repository across my multiple computers.
-I consider switching to a nextcloud instance, but I haven't thought that
-through yet. Seeing _when_ an item has been added or last modified (with `git
-blame`) is a feature I sometimes use, after all. I only recently started to
-look into some extension, with a clear idea in mind what I wanted. Of course it
-didn't exist, so I'll write it sometime soon.
+months ago, and certainly haven't regretted doing so. Synchronization of
+todo.txt-files happens through a private git repository, cloned on each of my
+computers. I'm considering a switch to a nextcloud instance, but I haven't
+thought that through yet. Seeing _when_ an item has been added or last modified
+(with `git blame`) is a feature I use, after all. Using the vanilla
+version up until a few days ago, I just realized there is a number of useful
+extensions out there. I was looking for a specific one. Of course, it didn't
+exist, so I'll write it sometime soon.
 
 My analog reference file system is a collection of (differently colored)
 folders, and pretty boring overall. Digitally, it's a bigger collection of text
