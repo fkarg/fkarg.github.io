@@ -24,9 +24,9 @@ something inbetween
 \end{align}
 \\]
 
-Just testing \$tex\$, let's see if this \(works as \neq \alpha\) expected.
+Just testing \\$tex\\$, let's see if this \\(works as \neq \alpha\\) expected.
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+\\(x = {-b \pm \sqrt{b^2-4ac} \over 2a})\\.
 
 \\[
   \frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
