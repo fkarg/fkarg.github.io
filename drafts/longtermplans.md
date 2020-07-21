@@ -1,59 +1,58 @@
 ---
 layout: post
-published: false
-title: 'Longtermplans Part X: Introduction/Setting Goals/Planning/Execution'
-subtitle: how to reevaluate goals
+title: 'Longtermplans: Goal Setting Workshop'
+subtitle: or how to set and achieve goals
 tags:
-- processes
-- systems
 - setup
+- workshop
 ---
 Short article description
 
 
-I have multiple systems for differently granulated goals. I do review/planning
-in these three different timeframes:
-- weeks
-- months
-- quaters
-
 What I want to describe here is my process on what I do every three months, to
 find or adjust the bigger things to strive for. This article will be a
-precurser to a workshop I'll probably create - I'll update the post and link
-the workshop if that happens. This is by no means a full guide on how to set
-goals or how to achieve them, but I hope for it to be of some use for you.
+precurser to a workshop I'm creating - I'll update the post and link the
+workshop if that happens. This is by no means a full guide on how to set
+goals or how to achieve them, but it contains the concepts and techniques I
+found the most useful. I hope for it to be of some use for you.
 
-When doing these exercises, make sure you will not be disturbed, turn your
-phone off (yes, off!) and tell others in your apartment that you are not to be
+When doing these exercises, make sure you will not be disturbed, turn off your
+phone (yes, off!) and tell others in your apartment that you are not to be
 disturbed until lunchtime or something. Also ensure that your computer will not
-pop up with random notifications from mails or messages.
+pop up with random notifications from mails or messages. In fact, I would
+recommend to put your browser one-page fullscreen mode and write on paper or a
+[remarkable][remarkable] - if you haven't printed this guide already.
 
 * TOC
 {:toc}
 
 # Introduction
-Just setting goals is only the first step to actually achieving them, so I will
-also give you some pointers on how to continue after setting them. If you
-noticed that something else works better for you, you probably should use your
-way instead. If you learned about some other method that you think might do
-well when integrated, please do so. I'm continuously refining this process as
-well, so if you found something else to be helpful for you, please comment or
-write me!
+Just setting goals is only the first step to actually achieving them. The next
+steps include planning for them and actually executing on your plans. Since
+these parts are maybe even as important as setting the goals in the first
+place, we will cover a bit of planning, and scratch the surface of execution.
+If you noticed that something else works better for you, you probably should
+use your way instead. If you learned about some other method that you think
+might do well when integrated, please do so. I'm continuously refining this
+process as well, so if you found something else to be helpful for you, please
+write me a comment or mail!
 
 ## Goals and Values
 What I will not dwelve into in this post, is how to find your values, your
 reasons, your purpose, your why, your principles. Thinking about these things
-might give you more clarity - but they will somehow naturally form when
+will give you more clarity - but they will somehow naturally form when
 selecting goals. It might even be easier to first set some goals and derive
-purpose and values from them.
+purpose and values from them. In fact, just after having set your goals you
+should just write down the values that your goals seem to be guided from.
 
 ## Setting Goals and Achieving them
-First we need to find some goals. We'll do that by brainstorming what excites
-you - it's really hard to get something done if you don't like doing it. There
-might be some excitement to actually finish the degree, even though it was so
-much more hard work than expected (or because?). It's important you are excited
-for it. This will probably result in a really long list, we'll reduce that to
-very few goals to actually work on.
+We'll find your goals by brainstorming what excites you - it's really hard to
+get something done if you don't like doing it. Do not be afraid to rediscover
+the exciting reasons why you started doing what you are currently doing,
+etiher. It's important you are excited for whatever you want to do. This will
+probably result in a really long list, so we will reduce that to 3-7 goals to
+actually work on. The less the better, since it allows you to focus more on
+every single thing better.
 
 The next step is to plan, how you want to achieve them. Just setting them will
 make them more likely to happen, but you still need to work on them. But first:
@@ -570,6 +569,7 @@ General Process:
 -->
 
 [gtd-book]: https://en.wikipedia.org/wiki/Getting_Things_Done
-[gtd-review]: ../2020-07-XX-getting-things-done
+[gtd-review]: ../2020-07-16-getting-things-done/
 [pomodoro]: https://en.wikipedia.org/wiki/Pomodoro_Technique
 [lw-study-hall]: https://complice.co/room/lesswrong
+[remarkable]: https://remarkable.com
