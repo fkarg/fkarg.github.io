@@ -38,12 +38,12 @@ process as well, so if you found something else to be helpful for you, please
 write me a comment or mail!
 
 ## Goals and Values
-What I will not dwelve into in this post, is how to find your values, your
-reasons, your purpose, your why, your principles. Thinking about these things
-will give you more clarity - but they will somehow naturally form when
-selecting goals. It might even be easier to first set some goals and derive
-purpose and values from them. In fact, just after having set your goals you
-should just write down the values that your goals seem to be guided from.
+What I will not dwelve into in this post, is how to find your values, what your why is,
+or what your principles are. Thinking about these things will give you more
+clarity - but they will naturally surface when thinking about and prioritizing
+goals. It might even be easier to first set some goals and derive purpose and
+values from them. In fact, just after having set your goals you should just
+write down the values that your goals seem to be guided from.
 
 ## Setting Goals and Achieving them
 We'll find your goals by brainstorming what excites you - it's really hard to
@@ -489,6 +489,7 @@ That's it for now. It's a whole lot, so take your time digesting it. Write me a
 comment or mail if you have feedback of any sort, or encountered an awesome way
 to improve the goal setting experience.
 
+<!-- Todo: Write down values and principles -->
 
 
 
