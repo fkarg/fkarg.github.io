@@ -54,3 +54,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 <a name="footnote1">1</a>: Text from footnote1.
 [cardiologists]: https://www.lesswrong.com/posts/DSzpr8Y9299jdDLc9/cardiologists-and-chinese-robbers
 [tesla-fires]: https://www.tesla.com/blog/mission-tesla
+[mikhaila peterson joe rogan controversial media]: https://www.youtube.com/watch?v=SQ0BKt6WrLo
+[false-memories]: https://www.youtube.com/watch?v=owAeCKiM_4A
