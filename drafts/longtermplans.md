@@ -187,7 +187,7 @@ Remove goals whose 'why' is already covered by other, more exciting goals.
 Some things excite us more than others. Some are more important to us than
 others. For all goals, ask the following questions:
 - Is it really essential to do this?
-- What is the priority of achieving this?
+- What is my priority of achieving this?
 - If I achieved all my goals _except_ this one, would I be satisfied?
 
 Keep only those being essential, of high priority or which would leave you
@@ -196,65 +196,98 @@ unsatisfied if not achieved.
 Reduce your list of goals to three to seven (less goals increase overall chances
 of achieving them) to actually work on.
 
-Take a short break. You deserve it.
+{: .box-note}
+If you feel like you can't reduce the number of goals further, take a break.
+You deserve it.
 
 ---
 # Planning
 We figured out your goals, but this is only the first step to achieving them.
-There are a couple of things next,
+There are a couple of things to do now. We need to create a definition of
+done - a clear description as to _when_ the goal is actually achieved.
+As soon as we know _what_ we want to achieve, we can define milestones on the
+path towards it, as well as the very next steps to the first such milestone.
 
-including a definition of done - a clear
-description as to when the goal is actually achieved, and milestones on the
-path to it.
+![Paths in Life are rarely linear, as we'd like them to be](https://alyjuma.com/wp-content/uploads/2016/10/lifepath.jpg)
 
+We'd love for life to be linear. To set a goal, and have a clear path to
+achieve it. Reality does not care what we want, however. The smaller the goal,
+the more likely it is that the actual path will resemble something close to a
+linear path. But the farther away it is, and the more problems still need to be
+solved, the more likely it is to end up in a non-linear path.
 
-We want goals to be linear. Point A to B in a straight line. Reality does not
-care. If you are on a ship and trying to get to point B, a straight line rarely
-does the trick - there might be a shore inbetween. If you are heading towards a
-rock (even if you did not see it initially), it might be a good idea to change
-course.
+<!--
+![Titanic heading for iceberg](../assets/img/titanic_iceberg.jpg)
 
-Looking back, there might have been areas you could have navigated with less
-curves, or taken shortcuts you were not aware of - but you would not have
-gotten there, without following the longer path first. And you always need to
-know what you are aiming for, or you won't know when you actually reached it.
+Let's say you are the captain of a ship heading for an iceberg. You'd like to
+get past it, but continuing they way you currently go will make it unlikely
+that you will pass it without any damage.
 
-## Defining Goals
+Sometimes, when you are on a ship and trying to get from point A to B, a
+straight line is not possible, since an obstacle is in the way. So instead of
+continuing on with your current plan ('forward!'), you need to adapt to the
+environment, and plan your route accordingly ('turn slightly right/starbord and
+a bit later left/port again to avoid the rock'). If you are heading for an
+obstacle, it might be a good idea to change course.
+-->
+
+Even if there is a more direct route in hindsight, they are usually impossible
+to guess precisely beforehand. Rather than being disappointed by the discovery,
+you should be happy about it: you learnt some increadible things about the
+path, maybe helping you in other situations.
+
+The only way to get remotely close is to ask people who travelled the path you
+want to go before you.
+
+Regardless where you want to go, you always need to know what you are aiming
+for, or you won't know when you actually reached your goal.
+
+## Defining Goals (5-10min)
 We first need a clear-cut definition as to when the goal is achieved. You might
 have heard of 'SMART' goals before, **S**pecific, **M**easurable,
-**A**chievable, **R**ealistic and **T**ime-bound. The thing we are going for
-right now is Specific and Measurable, since they determine if a goal has been
-achieved. Be as specific as you realistically can, and, if possible, use
-something measurable.
+**A**chievable, **R**obust and **T**ime-bound. The thing we are going for
+right now is Specific and Measurable, since they are good indicators if a goal
+has been achieved. For each of your goals, be as specific as you realistically
+can, and, if possible, find something measurable.
 
-For the french language example, a good measure might be that in the last 20
-interactions with people speaking french, they guessed that you came from a
-french-speaking country. This is both pretty specific but also measurable
-(though maybe somewhart hard to track in your head). You might want to search
-for additional resources on how to define goals; The point is to define a
-situation or metric, that when achieved, your goal is achieved. It might not be
-full mastery of a language, 'getting my drivers license' is a decent goal
-criterium for 'learn to drive'.
+When trying to learn french, your Specific and Measurable goal might be to be
+capable of longer-duration interactions with native speakers, without a major
+stumble or needing to look up words; with the goal being achieved when you had
+five such longer than 30min interactions as a streak.
+
+You might want to search for additional resources on how to define goals; The
+point is to define a situation or metric, that when achieved, your goal is
+achieved. It does not need to be the full mastery of a language, 'getting my
+drivers license' is a decent goal criterium for 'learn to drive'.
 
 Avoid paralysis by analysis by asking people who achieved what you want to do,
-when they _knew_ they achieved it. While you're at it, ask them for some tips
-along the way.
+how they _knew_ they achieved it. While you're at it, ask them about some tips
+for the way.
 
+{: .box-note}
 Continue, if you know for all of your goals, _when_ you have achieved them.
 
-## Defining Subgoals
+## Defining Sub-goals (5-10min)
 Bigger goals tend to have steps. They are not just _done_ suddenly, there are
 steps inbetween that need to be achieved, sometimes in a specific order, before
-the actual goal can be achieved. When you want to go that awesome trip, you
-need to book things beforehand, you need to check if you need to apply for
-visas and actually do so, and buy new hiking shoes if you need some (check
-your gear). These are all milestones, or subgoals that are necessary to achieve
-the actual goal. Progress on one of them means progress towards your goal.
+the actual goal can be achieved. When you want to do that awesome trip, you
+need to book the hotel beforehand, you need to check if you need to apply for
+visas, and buy new hiking shoes if you need some (check your gear). These are
+all milestones, or sub-goals that are necessary to achieve the actual goal.
+Progress on one of them means progress towards your goal.
 
-Write down the sub-goals for all of your bigger goals - they should be
-achieveable within a few days each, and maybe more granular in the beginning.
-What are the subgoals of your goals?
-(Sometimes there are Subgoals of Subgoals, that's ok too!)
+While you can work independently on some (booking hotel and buying new gear),
+others, like checking for required visas, might create additional milestones -
+getting the required visas.
+
+Sub-goals should be achieveable within a few days at most. It's okay if they
+only need a few minutes - as long as they are conceptually enclosed.
+(Sometimes there are sub-goals of sub-goals, that's ok too!)
+
+{: .box-note}
+Write down all sub-goals for each of your bigger goals.
+
+<!-- Reformulated -->
 
 ## Death by Winning
 Sometimes, it feels like we are working towards a goal and being successful,
@@ -327,6 +360,7 @@ manipulate/cheat on). Let it be for now, if you can't find something.
 It's absolutely okay for them to be time-bound: One of my Lead measures is to
 read 30min in a focused manner each day. Sometimes I read up to two hours, but
 30min is the minimum. No average, no 'but I did double yesterday', 30min a day.
+
 
 ## Identify Next Actions
 At every point along the way, it is extremely important to have specific _next
@@ -606,4 +640,3 @@ General Process:
 [gtd-review]: ../2020-07-16-getting-things-done/
 [pomodoro]: https://en.wikipedia.org/wiki/Pomodoro_Technique
 [lw-study-hall]: https://complice.co/room/lesswrong
-[remarkable]: https://remarkable.com
