@@ -82,43 +82,65 @@ Start when you feel ready and prepared.
 
 ---
 # Setting Goals
+We will start by visualizing the best and worst case scenarios of the near future.
 
 ## Imagine yourself being Successful
-Take a minute to visualize yourself being successful the next year. How much
-you get done. To do all the things you wanted to do since childhood. To finally
-take that course you wanted to, but you never got around to registering. To be
-more consistent with your health and fitness. To travel to that thing you
-always wanted to. To get that promotion you really worked hard for. Being
-admired by your friends and family.
+Take a minute to visualize yourself being successful during the course of the
+next year. How much you get done. To do all the things you wanted to do since
+forever. To finally take that course you wanted to. To do that thing you never
+had time for. To be more consistent with health and fitness. To travel to that
+awesome country. To get that promotion you really worked hard for. Helping
+other people and being admired for it. Being loved by friends and family. All
+the hard work you're doing, knowing what it is for.
 
-Take a minute and enjoy it. That's what we will aim for.
+Visualize the best-case scenario for you for next year, where everything you
+attempt succeeds.
+
+{: .box-note}
+Take a minute and enjoy visualizing it. That's what we will aim for.
+
+Write down a few bullet points if you want.
 
 ## Imagine yourself being Unsuccessful
-Conversely, what will happen if you for some reason stop being productive? Take
+Conversely, what will happen if you for some reason stop being successful? Take
 a minute to visualize what will happen if you let life run it's course without
-you doing anything. Working away without really enjoying anything, watching
-videos and playing games, out for happiness in the moment. Fitness was long
+you doing anything - not achieving anything you aimed for. Fitness was long
 since ignored, and your health has seen much better times. Lying on the couch
-or in bed all day will not improve the situation either. Friends will distance
-themselves from you as they get successful, and at some point you will be
-deeply unsatisfied and depression kicks in. It will only be downhill from there.
+all day does not improve the situation either. Friends have distanced
+themselves from you as they get successful. At some point you will be deeply
+unsatisfied and depression kicks in. It will only be downhill from there.
 
+Visualize the worst-case scenario for you for next year, where everything you
+attempt fails.
+
+{: .box-note}
 Thoroughly visualize it. This is what we want to avoid.
 
-## What to Expect
-If you visualized the two szenarios, you might wonder: So where does reality
-fit in? The answer: It's somewhere inbetween. We can't just be productive all
-the time, but it's also hard to not do anything at all. With a deterrant and a
-paradise, let's see how we can get to the paradise.
+Write down a few bullet points if you want.
 
-## Write down Dreams
+## What to Expect
+Reality tends to fit in somewhere inbetween. Most of the time, it's neither
+utmost paradise, nor ultimate tragedy.
+
+Visualizing these two szenarios should give you a sense for the difference you
+can make - and what will happen if you don't.
+
+It's unlikely that everything we attempt will be successful. It's also unlikely
+that everything will utterly fail. Still, with a deterrant and a paradise,
+let's see how we can get closer to paradise.
+
+## Write down Dreams (20min)
 If you are familiar with Tim Ferriss' four-hour workweek, this in parts taken
 from the dreamlining exercise (pages 57-63).
 
+The goal is to write down all of the dreams you have. Everything you want to
+do, achieve, know, own - everything you _want_. Go for qauantity first, we'll
+reduce it to quality later. The more the better.
+
 Go through the following hints step by step, and write down whatever comes to
-mind. Pause and stop at each hint for some time (at least half a minute), it's
-usualy if nothing comes up at first. Don't care how you get there, and be
-honest with yourself. Go for quantity.
+mind. Pause and stop at each hint for some time (at least half a minute). It's
+normal if nothing comes up at first. Don't care how to achieve it, and be
+honest with yourself. Dream. Go for quantity.
 - What would excite you, if you had the chance of doing?
 - What would make you fulfilled, if you had done it?
 - What do you want to strive for? (e.g. World Peace, Researching DNA, ...)
@@ -130,18 +152,20 @@ honest with yourself. Go for quantity.
 - What do you want to do before you die?
 - What did you always want to learn, but never had the time for?
 
-Take some time to really think about it. You should have a list of items that
-you really want to do before continuing. You might want to make a copy of that
-list, because we will remove items and add reasons in the next steps.
+{: .box-note}
+Take some time to think about what you _want_.
 
+You might want to make a copy of that list, because we will remove items and
+add reasons in the next steps.
 
 ## Selecting Goals to Work on
 Feeling Excited? Awesome! The sad part is: We'll focus on only a small part
 first. I need you to convert any _beings_ (e.g. fluent in french) to _doings_
 that characterize success (e.g. making a french person think that french is my
-mother tongue).
+mother tongue). For everything you want to _be_, have a description of what you
+want to be able to _do_.
 
-### Finding Reasons
+### Finding Reasons (10min)
 More often than not, dreams are only surrogates for us wanting to fill a need.
 The goal of speaking french might come from a need of being understood, if
 there are several french people in your social circle or you tend to make
@@ -149,15 +173,17 @@ holidays in regions speaking french.
 
 For every goal you listed, ask yourself **why** you want to achieve it. If
 necessary, multiple times (3-5x). You might find multiple reasons, and they
-might overlap with the 'why' from other goals.
+might overlap with the 'why' from other goals. Add each reason to your list,
+and reference the original goal.
 
-If you would be able to fulfill all the reasons you listed for 'why' you wanted
-to achieve it without achieving the original goal, would there still be more
-reasons for 'why' you want to achieve it? List them all.
+{: .box-note}
+For each goal, ask yourself if you would still want to achieve it, if you could
+achieve the _why_ through some other means. If yes, list it as an additional why.
 
-Remove goals, whose 'why' would be covered from achieving other goals.
+{: .box-note}
+Remove goals whose 'why' is already covered by other, more exciting goals.
 
-### Prioritizing
+### Prioritizing (10min)
 Some things excite us more than others. Some are more important to us than
 others. For all goals, ask the following questions:
 - Is it really essential to do this?
