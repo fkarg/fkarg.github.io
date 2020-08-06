@@ -3,7 +3,6 @@ layout: post
 title: 'Longtermplans: Goal Setting Workshop'
 subtitle: or how to set and achieve goals
 tags:
-- setup
 - workshop
 ---
 Short article description
@@ -12,68 +11,76 @@ Short article description
 What I want to describe here is my process on what I do every three months, to
 find or adjust the bigger things to strive for. This article will be a
 precurser to a workshop I'm creating - I'll update the post and link the
-workshop if that happens. This is by no means a full guide on how to set
-goals or how to achieve them, but it contains the concepts and techniques I
-found the most useful. I hope for it to be of some use for you.
-
-When doing these exercises, make sure you will not be disturbed, turn off your
-phone (yes, off!) and tell others in your apartment that you are not to be
-disturbed until lunchtime or something. Also ensure that your computer will not
-pop up with random notifications from mails or messages. In fact, I would
-recommend to put your browser one-page fullscreen mode and write on paper or a
-[remarkable][remarkable] - if you haven't printed this guide already.
+workshop when that happens.
 
 * TOC
 {:toc}
 
 # Introduction
-Just setting goals is only the first step to actually achieving them. The next
-steps include planning for them and actually executing on your plans. Since
-these parts are maybe even as important as setting the goals in the first
-place, we will cover a bit of planning, and scratch the surface of execution.
-If you noticed that something else works better for you, you probably should
-use your way instead. If you learned about some other method that you think
-might do well when integrated, please do so. I'm continuously refining this
-process as well, so if you found something else to be helpful for you, please
-write me a comment or mail!
+This is by no means a full guide on how to set goals or how to achieve them,
+but it contains the concepts and techniques I found the most useful. Feel free
+to take what you deem useful, and disregard everything else.
+
+## Content Overview
+There are four parts to this workshop.
+
+We start out with an Introduction, where we set the goal for the workshop and
+how we intend to achieve them, including what we need to prepare before starting.
+
+Then the actual workshop starts, with the eponymous exercises related to
+Goal-Setting. At the end of this part, we'll have list of three to seven goals
+to work on.
+
+After having set the goals, we start to create plans for them. For that, we
+need to clearly define our goals and the steps we need to take to get there.
+
+Then there is Execution, where we describe a robust system to get to the goals,
+step by step.
+
+The workshop is supposed to be held over the course of four hours, including
+breaks. You might want to dwell longer on individual exercises, to get the most
+out of them. I recommend doing the workshop uninterrupted, and with breaks.
+
+## More than Setting Goals
+Setting goals is only the very first step to actually achieving them. While
+setting goals increases the chance of actually achieving them, a whole lot more
+can be done to increase chances for success. This includes planning the next
+steps or having a robust execution system. They don't guarantee success, but
+each technique increases chances of success tremendously.
+
+In fact, even if we're not consciously aware of it, we tend to have used
+similar methods on all goals we have achieved to date.
+
+If you noticed that something else works better for you, you should use your
+way instead. If you learned about some other method that you think might do
+well when integrated, don't hesitate to do so. I'm continuously refining this
+process - if you found something helpful for you, write me a comment or mail!
 
 ## Goals and Values
-What I will not dwelve into in this post, is how to find your values, what your why is,
+What we will not dwelve into, is how to find your values, what your why is,
 or what your principles are. Thinking about these things will give you more
 clarity - but they will naturally surface when thinking about and prioritizing
 goals. It might even be easier to first set some goals and derive purpose and
 values from them. In fact, just after having set your goals you should just
 write down the values that your goals seem to be guided from.
 
-## Setting Goals and Achieving them
-We'll find your goals by brainstorming what excites you - it's really hard to
-get something done if you don't like doing it. Do not be afraid to rediscover
-the exciting reasons why you started doing what you are currently doing,
-etiher. It's important you are excited for whatever you want to do. This will
-probably result in a really long list, so we will reduce that to 3-7 goals to
-actually work on. The less the better, since it allows you to focus more on
-every single thing better.
-
-The next step is to plan, how you want to achieve them. Just setting them will
-make them more likely to happen, but you still need to work on them. But first:
-when will the goal actually be achieved? Does your goals have some significant
-milestones, which will be hit on the way to achieving the goal? How do you
-avoid working towards your goals, and still failing to achieve it, since you
-did something slightly different? How will you actually get to your goals?
-
-In the end we'll take a short look at execution (maybe the most important
-one?), what you need to do regularly in your daily life to actually achieve
-the goal. For this, a weekly and monthly review system is useful, but I won't
-go into that here.
-
-## About this Series
-
-
 ## Preperation
-- paper and pen
-- alternatively: laptop with text editor
+Before actually starting we need to make sure that we can focus without
+interruption.
 
+Some suggestions:
+- Make sure your schedule is clear for the next few hours
+- Print lists of prior goals or tasks as reference
+- Turn off your phone, or put it in 'silent' mode
+- Tell others in your apartment that you are not to be disturbed for the next few hours
+- Hang a sign on your door that you are not to be disturbed
+- Ensure that no notifications on your computer (from mails or texts) can distract you
+- Print out this page and get offline, to avoid distraction from the internet
+- Get yourself some pens and paper to write on
 
+Start when you feel ready and prepared.
+
+---
 # Setting Goals
 
 ## Imagine yourself being Successful
@@ -102,7 +109,7 @@ Thoroughly visualize it. This is what we want to avoid.
 If you visualized the two szenarios, you might wonder: So where does reality
 fit in? The answer: It's somewhere inbetween. We can't just be productive all
 the time, but it's also hard to not do anything at all. With a deterrant and a
-paradise, let's focus on getting more to the paradise.
+paradise, let's see how we can get to the paradise.
 
 ## Write down Dreams
 If you are familiar with Tim Ferriss' four-hour workweek, this in parts taken
@@ -158,9 +165,9 @@ others. For all goals, ask the following questions:
 - If I achieved all my goals _except_ this one, would I be satisfied?
 
 Keep only those being essential, of high priority or which would leave you
-unsatisfied when not achieved.
+unsatisfied if not achieved.
 
-Reduce your list of goals to four to seven (less goals increase overall chances
+Reduce your list of goals to three to seven (less goals increase overall chances
 of achieving them) to actually work on.
 
 Take a short break. You deserve it.
