@@ -287,80 +287,118 @@ only need a few minutes - as long as they are conceptually enclosed.
 {: .box-note}
 Write down all sub-goals for each of your bigger goals.
 
-<!-- Reformulated -->
-
-## Death by Winning
+## Death by Winning (5min)
 Sometimes, it feels like we are working towards a goal and being successful,
 but we are actually not.
 
 There is a story of the early days of the X.com/PayPal rivalry. They were both
-franatically trying to out-feature the other, putting in more hours than the
-other, trying to get one more thing working than the other. And it felt like
+frantically trying to out-feature the other, putting in more hours than the
+other, trying to get one more feature than the other. And it felt like
 they were making progress. Except: It did not matter. No customer cared about it.
 
 If all you care about is to keep the ship's nose pointed east, you won't
 notice the ship sinking. Working for years on your career will only amount to
-so much if you realize that the (now broken) family would have been more
+so much if you realize that your (now broken) family would have been more
 important.
 
 There are situations in which we think everything is going fine, and we see
-progress we are making towards a goal. Only to realize after weeks, months, or
-sometimes years, that while the ship's nose was pointed east, it did not move
-forward - in fact, the wind slightly pushed it back. And there would have been
-a simple way to avoid that. If we just had done _one_ small thing different, if
-we just had made sure that the boat is actually moving.
+progress happening towards a goal. Only to realize after weeks, months, or
+sometimes years, that while the ship's nose was pointed east, the sails have
+never been set. The ship did not move forward - in fact, the waves slightly
+pushed it back.
 
-If you manage to avoid these situations, you can avoid wasting immense amounts
+There would have been a simple way to avoid that - just the additional check
+that the sails are set. Just _one_ small thing. If we just had made sure that
+the boat is actually moving.
+
+By avoiding these kind of situations, you can avoid wasting immense amounts
 of time, effort, and energy. Just staying clear of those will improve your
 effectiveness tremendously.
 
-To spot them, look for ways you might 'cheat' your goal, and write them down.
-This will help you notice yourself steering toward such situations.
+Look for ways you might 'cheat' your goal, and write them down. If it's an
+actual shortcut, use it! If it's a situation you'd like to avoid, write it
+down, to stay conscious about it.
+
+{: .box-note}
+Look for things you might do, in which it might feel that you make progress
+without actually doing so.
 
 
-## Lead and Lag measures
-When tracking metrics for your goals
+## Lead and Lag measures (20min)
+What follows is a short introduction to _Lead_ and _Lag_ measures.
 
-When you try to lose weight, one obvious metric to track (for success) is
-weight. At first, the numbers go down fast. Until suddenly, they go up again
-for a bit. But then they go down again. And up again. And it does not feel like
-you are making progress at all, until you quit.
+### The fallacy of Lag measures
+A classical new-years goal is to lose weight. Let's say the goal is to lose
+10kg until next year. At first, losing weight is rapid and easy. Until
+suddenly, you gain a bit. But then you lose weight again. And the reverse
+again. Your actual weight is fluctuating a lot, and it does not really feel
+like progress at all. This goes on for a bit, until most people quit.
 
 When trying to lose weight, weight is the thing you want to get down long-term.
-But there are a lot of factors influencing weight short-term. These include
-time of day, how much water you just drank, how much carbohydrates have been in
-your food last week, if you just ate, and so many more. It will fluctuate
-tremendously. Noticing actual trends is hard, and impossible with less than two
-weeks of data. Most quit before that.
+But there are a lot of factors influencing weight in the short-term. These
+include factors such as the time of day when measuring, how much water you just
+drank, the percentage of carbohydrates in last weeks' diet, and so much more.
+All of them can influence your weight right now tremendously. Noticing actual
+trends is hard, and impossible with less than two weeks of data. Most quit
+before a trend can manifest - but they couldn't see a trend in the first place,
+since they don't remember last weeks exact measure.
 
-Weight, just like most interesting metrics, is _Lag_ measure. Even if it is
-your ultimate goal, it is very susceptible to a wide range of factors - short
-term. It is only useful in averages and long-term-trends. Looking at it today
-and feeling depressed about it will not do you any good - and it will not get
-you closer to your goal, either. But you still want to measure something, to
-_feel_ that you are making progress.
+Weight, just like most interesting metrics, is a _Lag_ measure. Even if it is
+your ultimate goal, it is very susceptible to a wide range of factors and thus
+quite volatile in the short term. It is only useful in averages and
+long-term-trends. It lags behind if you will. Looking at it today and feeling
+depressed about it will not do you any good - and it will not get you closer to
+your goal, either. So what if you want to measure something and feel good about
+it?
 
-A _Lead_ measure, is one with day-to-day accuracy. It's not your actual goal,
-but hitting it _consistently_ will ensure you hit your actual goal
-_eventually_. A popular one: track calorie intage religiously and have a daily
-deficit of 500kcal. That's something you can measure every day, telling you if
-you achieved your goal or not. And if you do that consistently, every day, you
-lose about 3500kcal each weak, which is about 500g fat. Keep it going for half
-a year and you lose 13.5kg - your Lag measure.
+### Lead measures
+What you could measure instead, is daily calorie intake. Not just the intake,
+but ensuring that you have a certain calorie deficit each day. With a daily
+deficit of 500kcal, you are short 3500kcal every week, which is the energy
+stored in roughly 500g fat. The biggest benefit: it's something that can be
+done every day, and it's not susceptible to short-term variance. Keeping this
+up for Half a year will make you weigh less about 13.5kg - a third more than
+the year's goal.
+
+Daily calorie deficit is a _Lead_ measure. They have much shorter intervals,
+such as days or weeks, and _lead_ to the goal - eventually. For these,
+constincency is key.
+
+### Tips for applying them
+A Lag measures can be singular as well: 'Finish writing the Goal Setting
+Workshop post' is a current Lag measure for a milestone of mine. It doesn't
+necessarily have to be clear _how_ Lag measures are achieved, but should be
+somewhat clear when looking at Lead measures.
+
+Lead measures might change across milestones, the important part is that you
+have a Lead measure for each milestone.
+
+It's absolutely okay for both Lead and Lag measures to be time-bound: One of my
+Lead measures is to read 30min in a focused manner each day. Sometimes I read
+up to two hours, but 30min is the minimum. No average, no 'but I did double
+yesterday', 30min a day.  This takes away the pressure to achieve a bit.
+Especially useful if it is hard to estimate workload - I just cannot estimate
+the time required for reading a chapter or even a single page, since both
+chapters and pages are sometimes more, and sometimes less dense with
+information. Making it time-bound increases predictability as well: you're done
+after 30min, continue tomorrow - though of course, there's nothing stopping you
+from continuing to work on your goal either, and doing so feels increadibly
+good.
+
+### Exercises
+{: .box-note}
+Go through your goals and Milestones and note which already have a Lag measure.
+
+{: .box-note}
+Define Lead and Lag measures for each of your goals and milestones. If it seems
+impossible to find Lead measures, set a timer to 3min and attempt to find one
+during this time.
+
+You get bonus points for robust Lead measures - if it's hard for you to
+manipulate on them, or cheat your measures in any way.
 
 
-If applicable, define metrics for your goals. You might have your Lag-measure
-already (speak french fluently) - create Lead measures for them (Learn 20min
-french every day), that will ensure that you hit your Lag-measures eventually.
-
-Lead measures might change across milestones, but make sure you have them for
-every step along the way. Bonus points for robust Lead measures (hard to
-manipulate/cheat on). Let it be for now, if you can't find something.
-
-It's absolutely okay for them to be time-bound: One of my Lead measures is to
-read 30min in a focused manner each day. Sometimes I read up to two hours, but
-30min is the minimum. No average, no 'but I did double yesterday', 30min a day.
-
+<!-- Reformulated -->
 
 ## Identify Next Actions
 At every point along the way, it is extremely important to have specific _next
