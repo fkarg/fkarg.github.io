@@ -397,34 +397,46 @@ during this time.
 You get bonus points for robust Lead measures - if it's hard for you to
 manipulate on them, or cheat your measures in any way.
 
-
-<!-- Reformulated -->
-
-## Identify Next Actions
-At every point along the way, it is extremely important to have specific _next
-actions_. For some goals (or even just some milestones) it is hard up to
+For some goals (or even just some milestones) it is hard up to
 impossible to find good Lead measures - because circumstances, conditions and
 targets change so fast. So I have something you can do in these situations:
 
-- Make one next action step towards the goal, and make sure at least one is
-  ready for tomorrow.
+- Make one next action step towards the goal today, and make sure at least one
+  is ready for tomorrow.
 
-Sometimes the only things getting you closer to your goal are _actions_.
-Execution will focus on that more, but here is the basic idea: If you are not
-aware of something you could do for your goal in a situation you could do it,
-you won't do it.
+Feel free to use it as your Lead measure for those goals and milestones, where
+other measures just didn't fit.
+
+
+## Identify Next Actions (10min)
+At every point along the way, it is extremely important to have specific _next
+actions_.  Sometimes the only things getting you closer to your goal are
+_actions_. Execution will focus on that more, but here is the basic idea: If
+you are not aware of something you could do for your goal in a situation where
+you could do it, you won't do it.
+
+A _next action_ is a clearly defined and described physical action that can be
+done immediately and will bring you closer to one of your goals or milestones.
+Sometimes _next actions_ are blocked, since you are waiting for a mail first -
+be aware of those blockers.
 
 If you want to build an awesome tree house, and you go to the hardware store
 already (getting color to paint a room), it can help to know if you need nails
-or not. You can just take them with you, since you are there already. This is
-clearly better than noticing that you're missing nails two days later, when you
-want to start building it.
+or not. If you noticed sometime after, you would need a lot more momentum to go
+to the hardware store again. Knowing these kind of things at the right time
+saves a lot of energy and effort.
 
-Right now, find three small things for every goal (or towards the first
-milestone) you could do _right now_, each taking no longer than 5min. Do the
-first now. Do the next tomorrow before 11am (or no later than 4h after waking
-up, whichever comes first), and the third the day after tomorrow before 11am.
-Ensure that you have new actions to work towards by then.
+
+{: .box-note}
+For each of your milestones, find three _next actions_ you could work on _right
+now_, each taking a few minutes at most.
+
+Do the first now. Do the next tomorrow before 11am (or no later than 4h after
+waking up, whichever comes first), and the third the day after tomorrow before
+11am. Ensure that you have new actions to work towards by then.
+
+
+<!-- Reformulated -->
 
 ---
 # Execution
