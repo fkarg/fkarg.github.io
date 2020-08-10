@@ -191,12 +191,12 @@ others. For all goals, ask the following questions:
 - If I achieved all my goals _except_ this one, would I be satisfied?
 
 Keep only those being essential, of high priority or which would leave you
-unsatisfied if not achieved.
-
-Reduce your list of goals to three to seven (less goals increase overall chances
-of achieving them) to actually work on.
+unsatisfied if not achieved. Less goals increase overall chances of achieving
+them.
 
 {: .box-note}
+Reduce your list of goals to three to seven to actually work on.
+
 If you feel like you can't reduce the number of goals further, take a break.
 You deserve it.
 
@@ -436,58 +436,67 @@ waking up, whichever comes first), and the third the day after tomorrow before
 11am. Ensure that you have new actions to work towards by then.
 
 
-<!-- Reformulated -->
-
 ---
 # Execution
 
 > Ideas are cheap. It's all about execution.
 > - Chris Sacca (Shark Tank)
 
-While we already defined the first three items for each of your goals, you
-should be able to have done them until the day after tomorrow. What then?
+While we already defined the first three next action items for each of your
+goals, they should be done the day after tomorrow. What then?
 
 There are two parts to execution, and they answer different timeframes to the
 questions 'what do I do next?'.
 
 First is how to execute _in the moment_: While just sitting down and working on
 it is pretty effective, there are some techniques you might at least want to
-try, which could spice things up for a bit. But just working and working and
-working on something is not guaranteed to work out.
+try, which could spice things up a bit. But just working and working and
+working on something is not guaranteed to work out. Being busy is absolutely
+not the same as being effective. Keeping the ships nose pointed east is fine,
+but you need to make sure that it's moving as well.
 
 Second is the bigger-picture planning and execution. This includes taking a
 look at all the projects you want to work on, the tasks you have left, your
 progress and your current results, to determine if you're going the right way.
-It could be to forget to define new tasks, and suddenly there is nothing to
-work on anymore. It's not exactly true, but since it's not defined yet, it's
-much more unlikely to get done. It could also be that when reading through some
-of the tasks, you notice you already did them, or that they don't apply anymore
-since circumstances have changed. It's a way to 'adapt' to the ever-changing
-small obstacles. We'll focus on that part.
+To determine that the ship is actually moving forward while pointed east.
+We're primarily going to take a look at that one.
 
+We will take a look as to why execution tends to fail in the first place, to
+understand why an execution system is a decent approach to adressing these
+issues properly.
 
-## Failing execution
-Execution is hard, if you actually finished all of your free-time projects you
-ever started you are the lucky exception. Most of our projects get discontinued
-at some point, sometimes even those we were frantically working on for weeks on
-end. There are a bunch of reasons as to why that might be:
+## Failing Execution
+Execution tends to regularly fail, and there is a number of reasons why. Taking
+some time to think about root cases, you might end up with a list similar to this:
 
-- Aversion: We experience some form of discomfort (stress, guilt, dread) when
-  thinking about goals or executing plans
-- Limited motivation: We don’t feel energized by our goal or plans
-- Distraction: Less meaningful, yet urgent or pleasurable things, pull a lot of our attention
-- Limited time: We are busy
-- Limited energy: We are tired
-- Limited attention: It’s hard to keep track of all the things we want to do
-- Limited tools for accountability: We mostly use guilt (consciously or
-  unconsciously) to increase accountability, which doesn’t always work that
-  well and causes inner conflict
-- Limited self trust: We don’t believe we will follow through on our intentions
-  which leads us not to set goals or make plans
+- Aversion: When thinking about our goals or execution plans, we experience
+  some form of discomfort (stress, guilt, dread)
+- Distraction: Instead of doing the hard work, we procrastinate and distract
+  ourselves with urgent or pleasurable things instead
+- Limited motivation: Somehow our goal and our plans don't give us energy anymore
+- Limited time: It's easy to be busy in the moment and focus on other things instead
+- Limited energy: We are too tired to work on something else after a long day at work
+- Limited attention: It's not even clear what we want to do, since it's hard to
+  keep track of everything
+- Limited accountability: We rarely have someone else holding us accountable,
+  resulting in conscious and unconscious guilt to increase accountability.
+- Limited self trust: A low self-efficacy self-fulfilling prophecy; We don't
+  think we will ultimately follow through, so we won't
 
-There are ways to improve in-the-moment effectiveness, but they don't really
-help me if I just don't work on my goal anymore, for whatever reason. And
-that's fine, as long as you don't beat yourself up over it.
+In fact, it might not be just one, it might be multiple reasons at once. And
+sometimes, that's fine - as long as you don't beat yourself up over it.
+
+There are ways to improve in-the-moment effectiveness, but they are band-aid at
+best and don't help if you can't get started in the first place. Execution
+systems go for multiple of these potential failure modes at once, helping us
+tremendously in achieving our goals.
+
+<!--
+{: .box-note}
+Figure out the main reasons why your last project or goal failed.
+-->
+
+<!-- Reformulated -->
 
 ## Accountability Partners
 One way that will help you to get started and to _keep doing it_, is to have
