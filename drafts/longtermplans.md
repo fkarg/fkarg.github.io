@@ -426,6 +426,11 @@ or not. If you noticed sometime after, you would need a lot more momentum to go
 to the hardware store again. Knowing these kind of things at the right time
 saves a lot of energy and effort.
 
+Everything requiring more than two next actions to get it done is a project.
+Goals and milestones are necessarily projects, but you might work on projects
+that are not part of your primary goals as well. Organizing a birthday party
+is unlikely part of your goals, but nonetheless something you might have
+committed to doing.
 
 {: .box-note}
 For each of your milestones, find three _next actions_ you could work on _right
@@ -465,7 +470,7 @@ We will take a look as to why execution tends to fail in the first place, to
 understand why an execution system is a decent approach to adressing these
 issues properly.
 
-## Failing Execution
+## Failing Execution (5min)
 Execution tends to regularly fail, and there is a number of reasons why. Taking
 some time to think about root cases, you might end up with a list similar to this:
 
@@ -491,40 +496,51 @@ best and don't help if you can't get started in the first place. Execution
 systems go for multiple of these potential failure modes at once, helping us
 tremendously in achieving our goals.
 
-<!--
 {: .box-note}
-Figure out the main reasons why your last project or goal failed.
--->
+Figure out the main reasons why your last project or goal was unsuccessful, and
+what you would change next time.
 
-<!-- Reformulated -->
+## Accountability Partners (10min)
+One very simple way that will help you to get started and to _keep doing it_,
+is to have someone hold you accountable for it. In fact, it is a very simple
+execution system and will help a lot with the common failure modes.
 
-## Accountability Partners
-One way that will help you to get started and to _keep doing it_, is to have
-someone hold you accountable for it. It kind of does not really matter who it
-is, but a friend who needs someone to hold them accountable for something
-themselves is ideal. Just schedule a meeting or call every week, month, or
-other timeframe you are comfortable with, and you're good to go.
+It mostly does not matter who will hold you accountable, but a friend who needs
+someone to hold them accountable for something themselves is ideal. Just
+schedule a meeting or call every week, month, or other timeframe you are
+comfortable with, and you're good to go.
+
 The goal is that you state your goals and the progress you want to make each
 meeting and get asked about the progress you actually achieved prior to
 planning your progress the next meeting. That's it. Repeat.
 
-The steps are pretty easy:
+Here are the steps again:
 1. Find a friend to hold you accountable and schedule regular calls or meetings
-2. Report progress on your previously defined goal(s)
-3. State your next steps and what you want to achieve until next time
-4. Before hanging up/separating, schedule your next call/meeting
+2. Report progress and current challenges on your goal(s)
+3. State your next steps and what you want to achieve until next time (_Lead_ measures!)
+4. Schedule the next call/meeting before hanging up/seperating
 5. Repeat from Step 2 at the next call/meeting
 
 Obviously you shouldn't talk the entire time. Intersperse your meeting with
-listening to the progress and next goals of your friend. I'm doing my monthly
+listening to the progress and next steps of your friend. I'm doing my monthly
 planning in a similar fashion with a friend, and it helped me tremendously to
-stay focused, and to achieve more.
+stay focused and to achieve more. In our experience, talking about
+non-goal-related topics in the first few minutes is a good and comfortable way
+to start.
 
-## A basic Execution System
-A differnt approach would be to create an execution system. Actually, the
-procedure I described for accountability partners is a form of execution
-system already. Every execution system consists of four parts, weighed as
-required:
+{: .box-note}
+Find yourself an accountability partner and schedule the first meeting.
+
+{: .box-success}
+You might want to take a look at [Execution Systems](#a-basic-execution-system)
+before actually doing so. It explains a similar system that is synergistic with
+Accountability Partners, if Implemented right.
+
+## Setting up an Execution System (30min)
+Accountability Partners is in itself a basic Execution System, and works best
+when implemented with a second Execution System over a different timeframe.
+
+Fundamentally, every execution system has these four parts, weighed as required:
 
 - Review: Taking a look at the progress that happened, evaluating taken approaches
 - Retrospective: Taking a look at the current process, making adjustments for
@@ -534,47 +550,83 @@ required:
 - Execution: Actually working on the collected Tasks, in a way to make progress
   on them.
 
-### Timeframe
-One pretty important factor is the timeframe you plan for. It can be anything
-you are comfortable with, but I would recommend a one-week-cycle as a basis,
-maybe with a complementary one-month-cycle and a four-month-cycle for getting a
-better overview on the big-picture problems you are tackling. But the weekly
-cycle is essential to enable continuos execution of your goals.
+Another very important parameter is your cycle frequency, or how long it takes
+for a full cycle in your Execution System. We'll take a look at each of these
+parts in detail, before we discuss how to implement it.
 
 ### Review
-A very important part is the review section. The goal is to get a
-bigger-picture perspective about the goals you are working on, primarily how
-you approach the problems you encounter and how well it is working. If they're
-not working well, you adjust them during 'Retrospective', to do better next
-cycle. Plotting the achievements in one way or another is always helpful, and
-more so if you have decent metrics.
+A regular review is the single most important part in an execution system, but
+it can only show its full effect when planning and execution build on the from
+the review obtained results.
+
+The goal is to get a bigger-picture perspective about the goals you are working
+on. The most important part is reviewing what was planned and what was
+achieved, and just generally taking inventory of made progress. If you haven't
+marked some tasks as done yet, now is the time to bring your notes up to date.
+
+A big focus is how you approach the problems you encounter and how well your
+approaches are working. If they're not working well, you adjust them during
+'Retrospective', to do better next cycle.
+
+When collecting decent Lead/Lag metrics, plotting them can be really useful in
+noticing outliers and general trends. It is also motivating to see the progress
+that has been made, making it easier to keep going.
 
 ### Retrospective
-This is the place to make changes to your execution system and how you use it,
-if you need to make changes. Just thinking a few minutes about how it can be
-improved tend to yield results, and small changes can sometimes help you
-substantially - especially in the long term.
+This is the phase to make changes to your execution system and how to use it,
+to adapt it to your needs. Beware of many changes at once, since a single
+change can modify the nature of Execution Systems tremendously. It's not
+necessary to make changes all the time, but if there's something bugging you,
+figure out a way to improve it. Even small changes can help you substantially -
+especially in the long run.
+
+This is also the time to figure out solutions for obstacles preventing you to
+execute during 'Execution' - e.g. getting a 'Do not disturb'-sign to tell your
+flatmates when you prefer not to get interrupted.
+
+If you noticed that a Lead or Lag measure does not fit for the goal or
+milestone, now is the time to make adjustments.
 
 ### Planning
 This is more or less a 'mini'-planning section, with the core focus being to
 ensure you have at least one if not multiple next actions for each goal and
 project.
 
+After reviewing the progress and status for all of your projects and goals,
+you might need to plan or adapt the next steps for each. It might not be
+necessary, but more often than not I notice a missing task, clarify
+descriptions or reorganize priorities.
+
 ### Execution
-When actually working on Tasks, it can be helpful to try one of the following
+When actually working on tasks, it can be helpful to try one of the following
 productivity helpers:
 - Pomodoros
 - Work Cycles
 - Co-Working Spaces
+
 A [Pomodoro][pomodoro] is a 30-min interval with 25min work-time and a break of
 5min. Work Cycles are similar, with 30min worktime interspersed with 10min
-breaks, in which you do a bit of work-related planning and reviewing as well.
-Co-Working spaces such as libraries are great, because it will be harder to let
-yourself slack off, and easier to stay productive, with or without pomodoro.
-A virtual co-working space such as the [LessWrong study hall][lw-study-hall]
-can have the same effects.
+breaks, in which you do a bit of work-related planning and reviewing.
 
-### Conclusion
+Co-Working spaces such as libraries are great, many have found themselves to be
+much more productive there. It's harder to let yourself slack off, and easier
+to stay productive, with or without pomodoro. A virtual co-working space such
+as the [LessWrong study hall][lw-study-hall] can have the same effects.
+
+However, it's all about actually getting your next action items done, and
+making progress on your goals, projects and milestones. So feel free to use
+whatever method best works for you.
+
+### Timeframe
+The timeframe you plan for is an important factor. It can be anything you are
+comfortable with, but I would recommend a one-week-cycle as a basis with a
+complementary one-month-cycle of Accountability Partners. But a weekly cycle is
+essential to enable continuos execution of your goals.
+
+
+<!-- Reformulated -->
+
+### Putting Everything Together
 The idea is that everytime you want to do something, you can simply take a look
 at the next tasks in your execution system and start doing them.
 
