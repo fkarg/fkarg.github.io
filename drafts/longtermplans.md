@@ -386,6 +386,7 @@ from continuing to work on your goal either, and doing so feels increadibly
 good.
 
 ### Exercises
+
 {: .box-note}
 Go through your goals and Milestones and note which already have a Lag measure.
 
@@ -532,7 +533,7 @@ to start.
 Find yourself an accountability partner and schedule the first meeting.
 
 {: .box-success}
-You might want to take a look at [Execution Systems](#a-basic-execution-system)
+You might want to take a look at [Execution Systems](#setting-up-an-execution-system-30min)
 before actually doing so. It explains a similar system that is synergistic with
 Accountability Partners, if Implemented right.
 
