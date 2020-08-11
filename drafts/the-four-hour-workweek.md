@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: 'Book: The Four Hour Workweek'
 subtitle: subtitle
 tags:
