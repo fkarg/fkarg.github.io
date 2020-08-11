@@ -68,6 +68,33 @@ the life of someone else.
 There are a lot of useful advice gold nuggets in this book, but for me the
 biggest takeaways were this:
 - Seeing that the nonstandard toolbox can be applied to the world of business
+- The usefulness of Virtual Personal Assistents
+- The Fear Setting and Dreamlining Techniques
+- Most of the Benefits of the 'New Rich' are simply working remote and moving
+  frequently
+
+Seeing that the [toolbox for nonstandard thinking][nonstandard-toolbox] - or at
+least quite a few ideas from there - apply for businesses as well is quite a
+bit eye-opening. More specifically, it's not _that_ it applies, it's more the
+_how_. It certainly is an interesting implementation of classically nonstandard
+approaches to life.
+
+I was aware of competent yet easily available virtual assistents, but I never
+took a closer look into them. He provides a very detailed and informed second
+look, and it certainly made me much more aware of their usefulness - and that I
+don't need any, _right now_. Being aware and more open to the possibility is
+likely to improve my productivity sometime in the future.
+
+While I thought I had read something about Fear Setting before, I was unable to
+find anything from memory fragments. The basic idea is to define the biggest
+fears you have, and by doing so, noticing that the biggest fear was
+uncertainty. This is an increadibly useful technique, though the number of
+times to apply it is limited. Dreamlining can be used more often, and I used a
+similar technique in a goal setting workshop before. I'll incorporate part of
+it in the workshop, since it is quite good at finding certain types of goals.
+
+Somehow it doesn't feel like being a member of the 'New Rich' is ultimately
+different than working remote and travelling for extended periods of time.
 
 - Virtual Personal Assistents
     - options, criteria, capabilities, prices, rules, misused information
@@ -115,3 +142,4 @@ biggest takeaways were this:
 **Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
+[nonstandard-toolbox]: https://www.fromaitozombies.eu/Rationality_From_AI_to_Zombies.pdf
