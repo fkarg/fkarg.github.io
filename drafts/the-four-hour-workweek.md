@@ -21,7 +21,7 @@ more.
 ## Content
 The book starts out by defining what he wants to achieve, the 'New Rich' are
 businessmen with exciting lives, not needing to work much. While most people
-dream big, they are afraid of making changes. Early on there are incredeably
+dream big, they are afraid of making changes. Early on there are incredibly
 useful exercises for defining fears and setting goals.
 
 If there is one thing he is serious about, it's success. The methods he
@@ -29,7 +29,7 @@ described reminded me about the 'standard toolbox of nonstandard thinking'.
 It's all first principles thinking, figuring out _what_ rules exist for _which_
 reason, and abusing those where perception seems to deviate from reality.
 
-A decent part is about priorisation and time management. Being busy does not
+A decent part is about prioritization and time management. Being busy does not
 mean being effective.
 
 A low information diet (massively reducing social media, news and the like)
@@ -37,7 +37,7 @@ will reduce the amount of unnecessary information you need to process
 considerably. It will improve your focus, your energy, and your available
 time.
 
-He introduces Virtual Personal Assistents, and explains a lot about them. His
+He introduces Virtual Personal Assistants, and explains a lot about them. His
 explanations include a variety of options, criteria for selection, which
 capabilities are available where, and how much it tends to cost.
 
@@ -63,20 +63,20 @@ the life of someone else.
 There are a lot of useful advice gold nuggets in this book, but for me the
 biggest takeaways were this:
 - Seeing that the nonstandard toolbox can be applied to the world of business
-- The usefulness of Virtual Personal Assistents
+- The usefulness of Virtual Personal Assistants
 - The Fear Setting and Dreamlining Techniques
 - Most of the Benefits of the 'New Rich' are simply working remote and moving
   frequently
 
-### Application fo the Toolbox for Nonstandard Thinking
+### Application of the Toolbox for Nonstandard Thinking
 Seeing that the [toolbox for nonstandard thinking][nonstandard-toolbox] - or at
 least quite a few ideas from there - apply for businesses as well is quite a
 bit eye-opening. More specifically, it's not _that_ it applies, it's more the
 _how_. It certainly is an interesting implementation of classically nonstandard
 approaches to life.
 
-### Virtual Personal Assistents
-I was aware of competent yet easily available virtual assistents, but I never
+### Virtual Personal Assistants
+I was aware of competent yet easily available virtual assistants, but I never
 took a closer look into them. He provides a detailed and informed second look,
 and it certainly made me much more aware of their usefulness - and that I do
 not need any, _right now_. Being aware and more open to the possibility is
@@ -86,7 +86,7 @@ likely to improve my productivity sometime in the future.
 While I thought I had read something about Fear Setting before, I was unable to
 find anything from memory fragments. The basic idea is to define the biggest
 fears you have, and by doing so, noticing that the biggest fear was
-uncertainty. This is an increadibly valuable technique, though the number of
+uncertainty. This is an incredibly valuable technique, though the number of
 times to apply it is limited. Dreamlining can be used more often, and I used a
 similar technique in a goal setting workshop before. I have since incorporated
 part of it in the workshop, since it is complements some other techniques quite
@@ -94,10 +94,10 @@ well.
 
 ### The Benefits
 It does not feel like being a member of the 'New Rich' is ultimately different
-than working remote and travelling for extended periods of time.
+than working remote and traveling for extended periods of time.
 
 Similar to what happened just a few months ago: suddenly almost everyone worked
-remote. His main additional proposition seems to be to move to a new countrly
+remote. His main additional proposition seems to be to move to a new country
 every few months. As far as I understand it, it will net you almost all the
 same benefits. Additionally, you'd have a stable routine already. I see that it
 could be dangerous; as in: since you have a routine already, you stop going
@@ -127,13 +127,13 @@ So if you are looking for application of classic nonstandard productivity
 advice or how to get more productive, it's probably worth your time. You might
 even get down to the four hour workweek, though I would not bet on it.
 
-## Favourite Quotes
+## Favorite Quotes
 
 > Different is better when it is more effective or more fun
 
 > Focus on being productive instead of busy
 
-> a persons's success in life can usually be measured by the number of
+> a person's success in life can usually be measured by the number of
 > uncomfortable conversations he or she is willing to have
 
 > _What_ you do is infinitely more important than _how_ you do it.
