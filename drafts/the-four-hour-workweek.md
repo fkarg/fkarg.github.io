@@ -1,7 +1,8 @@
 ---
 layout: post
+published: true
 title: 'Book: The Four Hour Workweek'
-subtitle: subtitle
+subtitle: Escape the 9-5, live anywhere and join the New Rich
 tags:
 - book
 ---
