@@ -10,7 +10,7 @@ Short article description
 
 What I want to describe here is my process on what I do every three months, to
 find or adjust the bigger things to strive for. This article will be a
-precurser to a workshop I'm creating - I'll update the post and link the
+precursor to a workshop I'm creating - I'll update the post and link the
 workshop when that happens.
 
 * TOC
@@ -57,14 +57,14 @@ well when integrated, don't hesitate to do so. I'm continuously refining this
 process - if you found something helpful for you, write me a comment or mail!
 
 ## Goals and Values
-What we will not dwelve into, is how to find your values, what your why is,
+What we will not delve into, is how to find your values, what your why is,
 or what your principles are. Thinking about these things will give you more
 clarity - but they will naturally surface when thinking about and prioritizing
 goals. It might even be easier to first set some goals and derive purpose and
 values from them. In fact, just after having set your goals you should just
 write down the values that your goals seem to be guided from.
 
-## Preperation
+## Preparation
 Before actually starting we need to make sure that we can focus without
 interruption.
 
@@ -122,19 +122,19 @@ Write down a few bullet points if you want.
 Reality tends to fit in somewhere inbetween. Most of the time, it's neither
 utmost paradise, nor ultimate tragedy.
 
-Visualizing these two szenarios should give you a sense for the difference you
+Visualizing these two scenarios should give you a sense for the difference you
 can make - and what will happen if you don't.
 
 It's unlikely that everything we attempt will be successful. It's also unlikely
-that everything will utterly fail. Still, with a deterrant and a paradise,
+that everything will utterly fail. Still, with a deterrent and a paradise,
 let's see how we can get closer to paradise.
 
 ## Write down Dreams (20min)
-If you are familiar with Tim Ferriss' four-hour workweek, this in parts taken
+If you are familiar with Tim Ferris's' four-hour workweek, this in parts taken
 from the dreamlining exercise (pages 57-63).
 
 The goal is to write down all of the dreams you have. Everything you want to
-do, achieve, know, own - everything you _want_. Go for qauantity first, we'll
+do, achieve, know, own - everything you _want_. Go for quantity first, we'll
 reduce it to quality later. The more the better.
 
 Go through the following hints step by step, and write down whatever comes to
@@ -628,7 +628,7 @@ essential to enable continuos execution of your goals.
 <!-- Reformulated -->
 
 ### Putting Everything Together
-The idea is that everytime you want to do something, you can simply take a look
+The idea is that every time you want to do something, you can simply take a look
 at the next tasks in your execution system and start doing them.
 
 ## Improving your Execution System
@@ -638,7 +638,7 @@ include calling your dentist for an appointment or writing a mail to a colleague
 
 This improves not only retention (continuing to use it for a longer time), but
 also effectiveness in achieving your goals. Since, every time you look in your
-execution system to do something else, you inadvertantly see what the next
+execution system to do something else, you inadvertently see what the next
 actions for your goals are as well. And maybe you can combine them in an easy
 way!
 
@@ -659,7 +659,7 @@ based on what we actually wanted to do.
 Planning helped us to get a clearer picture on what we actually want and how to
 get there. We also got a sense for what we might want to avoid, while trying to
 achieve our goals. Measuring is important to see progress, and always having a
-next action is increadibly helpful in actually making progress.
+next action is incredibly helpful in actually making progress.
 
 Execution is all about regularly reviewing the current progress, and clearly
 tracking and enabling the next steps.
