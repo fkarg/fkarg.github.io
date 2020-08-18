@@ -1,20 +1,16 @@
 ---
 layout: post
-published: false
-title: Simulacra Level Case Study
-subtitle: or why the perception of Tesla was so bad
+title: Simulacra Levels
+subtitle: subtitle
 tags:
-- thoughts
+- lesswrong
 ---
 Short article description
 
-So I just read [zvi's post about Simulacra Levels][simulacra]. It was an eye
-opening reading for me. I knew the concepts intuitively, but had no real labels
-for them yet. So this really helps to think about these things tremendously.
-
-When thinking about it, something about the way Tesla is being described by
-both the media and CEOs from other companies fell into place.
-
+So I just read [zvi's post about Simulacra Levels][simulacra]. It really opened
+my eyes while reading it.  I knew the concepts intuitively, but had no real
+labels for them yet. Simply introducing labels for categories and concepts
+helps a lot to think about them and their more nuanced aspects.
 
 * TOC
 {:toc}
@@ -22,16 +18,17 @@ both the media and CEOs from other companies fell into place.
 
 ## Simulacra Levels
 Even though there are [multiple definitions][difference] of Simulacra Levels,
-I'll mainly be using the understanding from [here][simulacra], since I believe
-this model to be more useful.
+I'll mainly be using the understanding from [zvi's post][simulacra]. The way I
+see it, it explicitly introduces useful nuances the others attempt, but don't
+fully succeed at describing.
 
-![picture simulacra levels][link to picture]
+<!-- ![picture simulacra levels][link to picture] -->
 
 What follows is my understanding of these four levels. If you notice and errors
-or inconsistencies, please tell me by writing a comment or mail.
+or inconsistencies, feel free to tell me by writing a comment or mail.
 
 ### Generally
-Generally speaking I think that Simulacra level are a framework to categorize
+Generally speaking, I think that Simulacra level are a framework to categorize
 perceptions and communication in. Communication and perception does not
 necessarily happen at just one level, more than one might be active at any
 point.
@@ -42,9 +39,10 @@ about the object level. Your truth comes from your perception about reality,
 this includes results of one or multiple studies, theories backed by anecdotal
 evidence or plain misinterpretations or misunderstandings.
 
-After having been close to the river you saw something yellow through the
-bushes, probably a lion. So you warn others by saying "There's a lion across
-the river", while actually meaning it. You _saw_ it after all.
+**Example**: After having been close to the river you saw something yellow
+through the bushes, probably a lion. So you warn others by saying "There's a
+lion across the river", while actually meaning it. You _saw_ the lion across
+the river.
 
 **Required Context**: Becoming aware of relevant information.
 
@@ -58,11 +56,11 @@ mislead others, depending on what your goal is. All you care about are the
 actions other people take based on what you say. It does include lying, but
 telling the truth is also part of it - if it helps your narrative.
 
-You might have ventured across the river and found something valuable, but you
-want to keep it to yourself for whatever reason. So you tell the others that
-"There's a lion across the river", in anticipation that this will prevent most
-people to go there. It might have been more than one, everyone should just stay
-away from across the river.
+**Example**: You might have ventured across the river and found something
+valuable, but you want to keep it to yourself for whatever reason. So you tell
+the others that "There's a lion across the river", in anticipation that this
+will prevent most people to go there. It might have been more than one,
+everyone should just stay away from across the river.
 
 **Required Context**: Actions others will take based on your Information.
 
@@ -78,15 +76,15 @@ are bigger 'packages', and believing in just one is usually taken as an
 indicator that you believe in the other parts as well (which tends to become
 mostly true eventually).
 
-There are two political leaders in the camp you live in; one saying that the
-being across the river is a tiger, the other that it is a lion. By saying
-"There's a lion across the river" you signal group membership with one of them.
-There are probably in each group who claim to have seen the respective animal
-(_some_ evidence). Some weird people excluded by everyone (but somewhat
-depended on, since they are somewhat smart) say that they might both exist, or
-that it might have been a [different animal][golden possum] altogether. But you
-are now a member of the 'lion' group, so these questions do not concern you
-anymore. Welcome.
+**Example**: There are two political leaders in the camp you live in; one
+saying that the being across the river is a tiger, the other that it is a lion.
+By saying "There's a lion across the river" you signal group membership with
+one of them.  There are probably in each group who claim to have seen the
+respective animal (_some_ evidence). Some weird people excluded by everyone
+(but somewhat depended on, since they are somewhat smart) say that they might
+both exist, or that it might have been a [different animal][golden possum]
+altogether. But you are now a member of the 'lion' group, so these questions do
+not concern you anymore. Welcome.
 
 **Required Context**: Established group identities with a narrative.
 
@@ -103,14 +101,14 @@ invalid generalizations and stereotypes, preemptive conclusions and untrue
 implications. But; It is not at all about truth. It's primarily about modifying
 others' perception of a subject, particularly for your own gain.
 
-There are two political parties in the camp you live in; one saying that the
-being across the river is a tiger, the other that it is a lion. When running
-for the leader of the lion faction, "There's a lion across the river" is simply
-supposed to make you sound good for the lion-people listening. You might
-earnestly believe some of the things they represent, but you repeat the others,
-just to get their support. You don't know if they are true, nor would you want
-to know - it's your job to _make_ them true, to get their vote. You need them
-to think that you support what they want you to support.
+**Example**: There are two political parties in the camp you live in; one
+saying that the being across the river is a tiger, the other that it is a lion.
+When running for the leader of the lion faction, "There's a lion across the
+river" is simply supposed to make you sound good for the lion-people listening.
+You might earnestly believe some of the things they represent, but you repeat
+the others, just to get their support. You don't know if they are true, nor
+would you want to know - it's your job to _make_ them true, to get their vote.
+You need them to think that you support what they want you to support.
 
 
 **Required Context**: It is beneficial for me to say something to modify someones
@@ -179,8 +177,8 @@ and justice, and that can plan and do useful things.
 
 
 
-
----
+<!--
+- - -
 ## Tesla Situation
 
 
@@ -206,10 +204,12 @@ and justice, and that can plan and do useful things.
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 
----
+- - -
 **Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
+-->
+
 [simulacra]: https://thezvi.wordpress.com/2020/06/15/simulacra-and-covid-19/
 [original]: https://www.lesswrong.com/posts/Z5wF8mdonsM2AuGgt/negative-feedback-and-simulacra
 [difference]: https://www.lesswrong.com/posts/yqEh9ewKwzig4kzyx/what-is-meant-by-simulcra-levels?commentId=62QE96aqwyLq98mM2#62QE96aqwyLq98mM2
