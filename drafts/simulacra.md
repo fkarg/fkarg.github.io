@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simulacra Levels
-subtitle: subtitle
+subtitle: classifying communication
 tags:
 - lesswrong
 ---
@@ -27,70 +27,104 @@ fully succeed at describing.
 What follows is my understanding of these four levels. If you notice and errors
 or inconsistencies, feel free to tell me by writing a comment or mail.
 
-### Generally
-Generally speaking, I think that Simulacra level are a framework to categorize
-perceptions and communication in. Communication and perception does not
-necessarily happen at just one level, more than one might be active at any
-point.
 
-### Level 1
-Here everyone is primarily concerned with truth (or what they think is true)
-about the object level. Your truth comes from your perception about reality,
-this includes results of one or multiple studies, theories backed by anecdotal
-evidence or plain misinterpretations or misunderstandings.
+### Generally
+Simulacra Level classify communication based on the reason why the
+communication takes place in the first place. While there are four levels
+described, it does not mean that they are exclusive. In fact, I would argue
+that it is rare that we communicate with only one intention.
+
+The actual reason can be conscious or unconscious, but it should be possible to
+identify the predominant reasons for communication with enough information
+about the context.
+
+Again, communication and especially perception do not happen at just one level,
+usually more than one is actively involved at any point.
+
+
+### Level 1 - Sharing Information
+> Truth is about perception, and what we believe shapes what we perceive.
+> ― Alan B Jones
+
+At the first level everyone is primarily concerned about the truth (or what we
+believe to be so) about the object level. To communicate at this first level,
+we need to think that we know something the other party does not yet know, but
+should. The only thing we want to do is to convey this new information.
 
 **Example**: After having been close to the river you saw something yellow
 through the bushes, probably a lion. So you warn others by saying "There's a
-lion across the river", while actually meaning it. You _saw_ the lion across
-the river.
+lion across the river". You _saw_ the lion across the river, and you want
+others to be aware of it, lest they get careless and attacked.
 
-**Required Context**: Becoming aware of relevant information.
+**Required Context**: Being aware of information that we deem relevant to know
+for others.
 
-**Goal**: Conveying that information to others.
+**Goal**: Conveying information about reality to others, sharing knowledge.
 
-### Level 2
-When communicating on this level, you care about the reality you think is true,
-but you care more about the actions others will take based on the information
-you tell them. So instead of telling them the truth, you might intentionally
-mislead others, depending on what your goal is. All you care about are the
-actions other people take based on what you say. It does include lying, but
-telling the truth is also part of it - if it helps your narrative.
+
+### Level 2 - Expecting Action
+> It is hard to believe that a man is telling the truth when you know that you
+> would lie if you were in his place. – Henry Louis Mencken
+
+When communicating on the second level, we care about how others will _react_
+based on what we tell them. While we care about what we think to be true, we
+care more about the actions others will take based on the information we tell
+them. So instead of telling them the truth, we might intentionally mislead
+others, depending on what your goal is. All we care about are the _actions_
+other people take based on what we tell them. It does include lying, but
+telling the truth is also part of it, as long as it helps your narrative.
 
 **Example**: You might have ventured across the river and found something
-valuable, but you want to keep it to yourself for whatever reason. So you tell
-the others that "There's a lion across the river", in anticipation that this
-will prevent most people to go there. It might have been more than one,
-everyone should just stay away from across the river.
+valuable, but you want to keep it to yourself. So you tell the others that
+"There's a lion across the river", expecting that this will prevent most people
+to go there. It might have been more than one lion, everyone should just stay
+away from across the river.
 
-**Required Context**: Actions others will take based on your Information.
+**Required Context**: Others might interfere with something we want.
 
-**Goal**: Getting others to act in a way you want them to.
+**Goal**: Getting others to act in a way that will improve chances of executing
+our plan. Can include having them join you do something.
 
-### Level 3
-This level might still be related to reality, but these instances are more 'by
-accident' rather than intentional (you can't be wrong about _everything_).
+
+### Level 3 - Signaling Group Membership
+> Conformity is the only real fashion crime. To not dress like yourself and to
+> sublimate your spirit to some kind of group identity is succumbing to fashion
+> fascism. – Simon Doonan
+
+While there is still truth to be found at the third level, it is more 'by
+accident' rather than intentional (it's impossible to be wrong about
+_everything_). In fact, the goal is to publicly signal membership of a group
+identity, or push a certain political agenda. _Some_ elements of the agenda are
+bound to be _true_ and the best course of action, while others would still have
+room for improvement. Of course, admitting to it would defeat the purpose.
+
 Here, more context than just 'other people' are required. In fact, The goal of
-communication on this level is simply to show group loyalty, to signal group
-membership. It's important to note that they don't come alone. Group identities
-are bigger 'packages', and believing in just one is usually taken as an
-indicator that you believe in the other parts as well (which tends to become
+communication on this level is simply to show group loyalty, and signal group
+membership. It's important to note that beliefs don't come alone. Group
+identities are bigger 'packages', and believing in just one is usually taken as
+an indicator that you believe in the other parts as well (which tends to become
 mostly true eventually).
 
 **Example**: There are two political leaders in the camp you live in; one
 saying that the being across the river is a tiger, the other that it is a lion.
 By saying "There's a lion across the river" you signal group membership with
-one of them.  There are probably in each group who claim to have seen the
+one of them. There are individuals in each group who claim to have seen the
 respective animal (_some_ evidence). Some weird people excluded by everyone
 (but somewhat depended on, since they are somewhat smart) say that they might
 both exist, or that it might have been a [different animal][golden possum]
-altogether. But you are now a member of the 'lion' group, so these questions do
-not concern you anymore. Welcome.
+altogether. But since you are now a member of the 'lion' group, these questions
+do not concern you anymore. Welcome.
 
 **Required Context**: Established group identities with a narrative.
 
-**Goal**: Publicly signaling group membership.
+**Goal**: Publicly signaling group membership, or pushing for an (political)
+agenda.
+
 
 ### Level 4
+> Our exchanges always seem to turn into whatever he wants them to.
+> ― Helen Oyeyemi, Mr. Fox
+
 I don't think I fully understood it. Here is my attempt:
 Same as L3, this is about _Social Reality_. And similiar to L2, it is all
 about _getting people to believe something_. Essentially, it is all about
@@ -169,45 +203,6 @@ that you want to make sure you are one of the lizards. Get rid of the lizards,
 and you won’t get a paradise, but you’ll get systems that move towards truth
 and justice, and that can plan and do useful things.
 
--->
-
-
-
-
-
-
-
-<!--
-- - -
-## Tesla Situation
-
-
-- I will reference terminology, go read it.
-
-
-
-
-
-- introduction to simulcra levels, referencing the original post
-
-
-- the perception of actual thruth, and their relation on these levels
-
-
-- examples of how that relates to the perception and presentation of tesla from various parties
-
-
-
-
-
-
-
-Footnote<sup>[1](#footnote1)</sup> among text.
-
-- - -
-**Footnotes**:
-
-<a name="footnote1">1</a>: Text from footnote1.
 -->
 
 [simulacra]: https://thezvi.wordpress.com/2020/06/15/simulacra-and-covid-19/
