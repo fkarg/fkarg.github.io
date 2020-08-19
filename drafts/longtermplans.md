@@ -5,21 +5,28 @@ subtitle: or how to set and achieve goals
 tags:
 - workshop
 ---
-Short article description
+Part of a supposed transcript of a goal setting workshop. Currently a
+prototype, will be held and modified accordingly soon. I'm currently using this
+Framework to readjust my goals every three months. It might take some time, but
+it could be useful.
 
-
-What I want to describe here is my process on what I do every three months, to
-find or adjust the bigger things to strive for. This article will be a
-precursor to a workshop I'm creating - I'll update the post and link the
-workshop when that happens.
 
 * TOC
 {:toc}
+
 
 # Introduction
 This is by no means a full guide on how to set goals or how to achieve them,
 but it contains the concepts and techniques I found the most useful. Feel free
 to take what you deem useful, and disregard everything else.
+
+## Sources and Motivation
+[A different goal setting workshop][8760-hours]
+
+[Writing down your goals increases chances of success][better-goals-1][and this][better-goals-2]
+
+[having someone hold you accountable increases chances of success][hold-accountable]
+
 
 ## Content Overview
 There are four parts to this workshop.
@@ -130,8 +137,8 @@ that everything will utterly fail. Still, with a deterrent and a paradise,
 let's see how we can get closer to paradise.
 
 ## Write down Dreams (20min)
-If you are familiar with Tim Ferris's' four-hour workweek, this in parts taken
-from the dreamlining exercise (pages 57-63).
+If you are familiar with [Tim Ferris's' four-hour workweek][4h-workweek], this
+is in parts taken from the dreamlining exercise (pages 57-63).
 
 The goal is to write down all of the dreams you have. Everything you want to
 do, achieve, know, own - everything you _want_. Go for quantity first, we'll
@@ -752,3 +759,8 @@ General Process:
 [gtd-review]: ../2020-07-16-getting-things-done/
 [pomodoro]: https://en.wikipedia.org/wiki/Pomodoro_Technique
 [lw-study-hall]: https://complice.co/room/lesswrong
+[4h-workweek]: ../2020-08-12-four-hour-workweek/
+[8760-hours]: https://alexvermeer.com/8760hours/
+[better-goals-1]: https://www.dominican.edu/sites/default/files/2020-02/gailmatthews-harvard-goals-researchsummary.pdf
+[better-goals-2]: http://www.goalband.co.uk/uploads/1/0/6/5/10653372/gail_matthews_research_summary.pdf
+[hold-accountable]: https://medium.com/the-mission/the-accountability-effect-a-simple-way-to-achieve-your-goals-and-boost-your-performance-8a07c76ef53a
