@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: Simulacra Levels
 subtitle: classifying communication
 tags:
