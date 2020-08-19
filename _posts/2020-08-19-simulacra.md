@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Simulacra Levels
+title: Simulacra Level
 subtitle: classifying communication
 tags:
 - lesswrong
