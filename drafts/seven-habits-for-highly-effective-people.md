@@ -21,15 +21,15 @@ hanging fruits' in my life that I have barely touched yet. Let's see where this
 will lead me.
 
 
-# Notes
-## Chapters / Parts
-### Subchapters
-
-Footnote<sup>[1](#footnote1)</sup> among text.
 
 
 # Review
+
+
 ## Main Takeaways
+- Quite a bit.
+
+
 ## Criticism
 I had increadibly high expectations based on the reviews from other people. So
 I made sure to lower them, since they tend to exaggerate quite a bit. Turns
@@ -40,8 +40,5 @@ out: they weren't. Not at all.
 
 
 ---
-#### Footnotes
-
-<a name="footnote1">1</a>: Text from footnote1.
 [zero-one]: ../2020-02-01-zero-to-one
 [fcked]: ../2020-XX-XX-everything-f*cked
