@@ -123,7 +123,7 @@ exist, or that it might have been a [different][third-alternative]
 with a big focus on renewable energy. The latest thing your group managed to do
 is to write a proposal forbidding your university to continue investing in
 non-renewable energies any further. This proposal is now discussed in the
-highest committe. During the discussion, someone mentions that this would
+highest committee. During the discussion, someone mentions that this would
 effectively forbid the university to repair an university hospital gas power
 plant. Not just them, but also buying new fuel for the emergency generators.
 Instead of backing down, you double down: _it's overdue_, and _it's their
@@ -168,7 +168,7 @@ for them to support you.
 
 **Example**: Let's say you are in a discussion with someone else. She liked the
 concept of universal healthcare, but you are opposed to it. So you tell her
-that "it's communinism!" It doesn't matter that it is actually unrelated, the
+that "it's communism!" It doesn't matter that it is actually unrelated, the
 only goal is get her to think worse about it.
 
 **Required Context**: Group identities are established and have groups actively
@@ -188,7 +188,7 @@ interleave with other intentions.
 
 
 ## Conclusion
-People still care about objective reality on levels one and two, wheras someone
+People still care about objective reality on levels one and two, whereas someone
 intends to convey information on level one and intents to get people to act in
 a certain way on level two. Level three is all about making your ideological
 position well known, and at level four someone has a primary intention of
