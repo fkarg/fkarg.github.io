@@ -34,7 +34,7 @@ Just testing \\$tex\\$, let's see if this \\(works as \neq \alpha\\) expected.
      {1+\frac{e^{-8\pi}} {1+\ldots} } } }
 \\]
 
-One more: $s \eq a \times t^2 + v \times t + s$
+One more: \\(s \eq a \times t^2 + v \times t + s\\)
 
 
 end of \\(\LaTeX\\)-test.
