@@ -45,6 +45,11 @@ I have a few things in mind I want to write about, including but not limited to:
         third of all decisions. it appears to be similar for a lot of people.
         Solution: Vote based on results by digital voting things and RFC-style
         discussion for decisions and votes on policies
+    - => university politics is among the least representitive, because most
+      people just go their way and those doing something are those with a
+      nonstandard 'mission' against the university in the first place
+      especially I-want-to-change-the-world-people are represented there,
+      barely anyone else
 - What would be awesome: a friendly (!) discussion (not of opposing ideas, but
   rather ... huh) between Jordan Peterson and Mark Manson, as they seem to have
   similar ideas for a lot of topics.
