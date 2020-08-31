@@ -22,9 +22,16 @@ learned from it.
 {:toc}
 
 # Content
+This will contain mostly bullet points taken from my notes. You should be fine
+with reading just the TLDR for each section, or skipping them altogether if you
+know roughly what the book is about. [The review starts here](#review).
 
 ## Part One: Paradigms and Principles
 ### Introduction
+**TLDR**; There is no shortcut to success - you cannot fake piano skills. Facts
+exist, but sometimes we have different perceptions and disagree in
+interpretation. Self-Improvement is always changing oneself first.
+
 - Most of recent 'self-help' is superficial focusing on behaviour and attitude,
   but not solving the deep problems. This is not.
 - We tend to assume the world is the way we see it. But it is based on our
@@ -33,45 +40,49 @@ learned from it.
 - for some things there is no short path: faking piano skills will not get you
   there. Same with psychological, emotional and character-based maturity
 - Self-improvement is always changing oneself first.
-- for habits to work, we require the knowledge, skill and desire to do them, or
-  we won't.
-- maturity levels: dependence, independence, interdependence
-- important: relation of P/PC. focusing on only one side will inevitably damage
-  the other and both
+- For habits to work, we require the knowledge, skill and desire to do them, or
+  we won't do them.
+- Maturity levels: dependence < independence < interdependence
+- important: relation of Production to Production Capacity. focusing on only
+  one side will inevitably damage the other and ultimately both
 
-TLDR; There is no shortcut to success - you cannot fake piano skills. Facts
-exist, but sometimes we have different perceptions and disagree in
-interpretation. Self-Improvement is always changing oneself first.
 
 ## Part Two: Private Victory
 ### Habit 1: Be Proactive
-- When we act, we can decide not just to _re_-act to something else. We can
-  choose our response.
-- Proactivity is responding with a value-based choice or response to external
-  stimuli.
-- The freedom to choose how to respond cannot be taken away
-- Difference in effectiveness is not 25% or 50%, more like 5000-plus percent,
-  particularly when you are smart, aware, or sensitive to others.
-- it takes initiative to take responsibility and start doing _most useful
-  things_.
-- proactive people increase their circle of influence and reduce their circle
-  of concern, for them to be of similar sizes
-- Proactive people are successful, independent of their exact situation
-- Proactive is not pushy, aggressive or insensitive, Gandhi is a good example
-- focus on what you _are_ instead of what you'd like to _have_ (If I just _had_ ...)
-- past mistakes are part of our circle of concern, but don't let them define future attempts
-- worst mistakes: covering up smaller ones. They will poison us until we own up to them.
-
-TLDR; Nothing good will happen to you if you don't initiate it. When you start
+**TLDR**; Nothing good will happen to you if you don't initiate it. When you start
 initiating things, you become vastly more effective. Redce your circle of
 concern and work on your circle of influence.
 
+- When we act, we can decide not just to _re_-act to something else. We can
+  choose our response. Responsibility is the ability to respond, not just react
+  to to external stimuli with a value-based choice or response 
+- Difference in effectiveness is not 25% or 50%, more like 5000-plus percent,
+  particularly when you are smart, aware, or sensitive to others.
+- It takes initiative to take responsibility and start doing _most useful
+  things_.
+- Proactive people increase their circle of influence and reduce their circle
+  of concern, for their difference to be as small as possible
+- Proactive people are successful, independent of their exact situation
+- Proactive is not pushy, aggressive or insensitive, Gandhi is a good example
+- Focus on what you _are_ instead of what you'd like to _have_ (If I just _had_ ...)
+- Past mistakes are part of our circle of concern, but don't let them define
+  future attempts
+- Worst mistakes: covering up smaller ones. They will poison us until we own up
+  to them.
+- Proactivity includes taking [full ownership][extreme] of the situation
+
+
 ### Habit 2: Begin with the End in Mind
+**TLDR**; It is much more likely that you will achieve something when you aim for
+it. Being guided by values and principles can help you tremendously (reducing
+search space) and provide a much more stable mentality.
+
 - What impression do you want other people to have at your funeral, in 3 years
   from now? Especially your Family, Friends, Workplace, and your Community?
+  Your answer to this is based on your values and principles.
 - Leadership is more important than management
-- It is possible to re-script your behaviour
-- First: Create personal mission statement
+- It is possible to change (re-script) behaviour
+- Creating a personal mission statement is considered useful
 - Center can have many forms, common ones include being dependent on:
     - spouse
     - family
@@ -96,12 +107,12 @@ concern and work on your circle of influence.
 - reward and incentive structures need to be aligned with core values (in
   organisations)
 
-TLDR; It is much more likely that you will achieve something when you aim for
-it. Being guided by values and principles can help you tremendously (reducing
-search space) and provide a much more stable mentality.
-
 
 ### Habit 3: Put First Things First
+**TLDR**; Frequent Prioritizing helps you be much more effective. Identify roles
+and key activities and schedule them. Focus on results, not activities. Having
+something important helps to say 'no' to most other things.
+
 - What one thing, when done regular, would make a positive difference in your
   personal life? And what in your business/professional?
 - day-in day-out actualization exercise to becoming principle centered
@@ -130,11 +141,11 @@ search space) and provide a much more stable mentality.
       reporting times
     - consequences: specification of both good and bad as results of evaluation
 
-TLDR; Frequent Prioritizing helps you be much more effective. Identify roles
-and key activities and schedule them. Focus on results, not activities. Having
-something important helps to say 'no' to most other things.
 
 ## Part Three: Public Victory
+**TLDR**; An emotional bank account describes the trust someone has in you. It
+get's withdrawn constantly by unmet expectations. Many problems stem from
+relationship difficulties.
 
 - Empotional bank account metaphor describing amount of trust in a relationship
 - it gets withdrawn constantly by unment expections
@@ -150,11 +161,12 @@ something important helps to say 'no' to most other things.
   very top
 - Every problem is an opportunity to build emotional bank accounts
 
-TLDR; An emotional bank account describes the trust someone has in you. It
-get's withdrawn constantly by unmet expectations. Many problems stem from
-relationship difficulties.
 
 ### Habit 4: Think Win/Win
+**TLDR**; Aiming for everyone to profit from a deal is the only way to avoid
+malicious compliance and one-sided resentment. Solve their problem too, not
+just yours.
+
 - Don't expect cooperation if your incentive structure is for competition
 - many different paradigms of human interaction, the best depends on the
   situation
@@ -178,11 +190,13 @@ relationship difficulties.
     - determine what results would constitute fully acceptable solutions
     - identify possible actions
 
-TLDR; Aiming for everyone to profit from a deal is the only way to avoid
-malicious compliance and one-sided resentment. Solve their problem too, not
-just yours.
 
 ### Habit 5: Seek First to Understand, Then to Be Understood
+**TLDR**; We communicate most of our wake time, and received little explicit
+training to communicate with other humans. Effective communication helps
+ourselves to become much more efficient, understanding others helps to work
+with them better.
+
 - often, we don't really listen to other people and want to provide a quick fix
 - we communicate most of our waking hours, and yet we received no specific
   training to understand other human beings
@@ -199,12 +213,12 @@ just yours.
 - one-on-one sessions help tremendously
 - seek first to understand and it will open doors for synergy
 
-TLDR; We communicate most of our wake time, and received little explicit
-training to communicate with other humans. Effective communication helps
-ourselves to become much more efficient, understanding others helps to work
-with them better.
 
 ### Habit 6: Synergize
+**TLDR**; Synergistic effects can only occur when you trust each other and
+communicate well. Only then is it possible to solve both of your problems.
+While synergy is close to chaos, it can provide the most effective solutions.
+
 - Synergy: most catalytic, most empowering, most unifying, most exciting
     - also most terrifying, because it's unclear where it will lead
 - Value differences, build on strength ands and compensate for weaknesses
@@ -227,12 +241,13 @@ with them better.
 - something synergistic can happen with your enemies as well, if you both try
   to listen and understand earnestly
 
-TLDR; Synergistic effects can only occur when you trust each other and
-communicate well. Only then is it possible to solve both of your problems.
-While synergy is close to chaos, it can provide the most effective solutions.
 
 ## Part Four: Renewal
 ### Habit 7: Sharpen the Saw
+**TLDR**; Improvement and renewal should happen regular and in more than one
+dimension in a balanced way to be a sustainable upward spiral. Money is
+important as well, but should never be your focus.
+
 - Don't just be busy sawing all the time - you need to sharpen the saw every
   now and then.
 - Four dimensions of renewal:
@@ -250,9 +265,6 @@ While synergy is close to chaos, it can provide the most effective solutions.
 - necessary for balanced renewal
 - continuous improvement is an upward spiral
 
-TLDR; Improvement and renewal should happen regular and in more than one
-dimension in a balanced way to be a sustainable upward spiral. Money is
-important as well, but should never be your focus.
 
 ### Afterword
 - introduced special keywords: "was that a deposit or withdrawel", "is that
@@ -368,3 +380,4 @@ out: they weren't. Not at all.
 [zero-one]: ../2020-02-01-zero-to-one
 [fcked]: ../2020-06-20-everything-f-cked
 [habit]: ../2020-XX-XX-power-of-habit
+[extreme]: ../2020-XX-XX-extreme-ownership
