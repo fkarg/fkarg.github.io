@@ -15,8 +15,8 @@ F\*cked][fcked] last september in Berlin. It has been close to the top of my
 to-read list for some time now, mainly because Habits are one of the 'low
 hanging fruits' in my life that I have barely touched yet. While I would not
 exactly agree that these are habits (certainly not by the definition from 
-[The Power of Habit][power-habit]), the book has really helped me. Here is what
-I learned from it.
+[The Power of Habit][habit]), the book has really helped me. Here is what I
+learned from it.
 
 * TOC
 {:toc}
@@ -40,14 +40,14 @@ I learned from it.
   the other and both
 
 TLDR; There is no shortcut to success - you cannot fake piano skills. Facts
-exist, but sometimes we haave different perceptions and disagree in
+exist, but sometimes we have different perceptions and disagree in
 interpretation. Self-Improvement is always changing oneself first.
 
 ## Part Two: Private Victory
 ### Habit 1: Be Proactive
 - When we act, we can decide not just to _re_-act to something else. We can
   choose our response.
-- Proactivity is responding with a value-based choise or response to external
+- Proactivity is responding with a value-based choice or response to external
   stimuli.
 - The freedom to choose how to respond cannot be taken away
 - Difference in effectiveness is not 25% or 50%, more like 5000-plus percent,
@@ -130,10 +130,12 @@ search space) and provide a much more stable mentality.
       reporting times
     - consequences: specification of both good and bad as results of evaluation
 
+TLDR; Frequent Prioritizing helps you be much more effective. Identify roles
+and key activities and schedule them. Focus on results, not activities. Having
+something important helps to say 'no' to most other things.
 
 ## Part Three: Public Victory
 
-> You can't talk yourself out of problems you behave yourself into.
 - Empotional bank account metaphor describing amount of trust in a relationship
 - it gets withdrawn constantly by unment expections
 - when overdrawn: walking in a minefield, tension everwhere
@@ -147,6 +149,10 @@ search space) and provide a much more stable mentality.
 - many problems in organisations stem from relationship difficulties at the
   very top
 - Every problem is an opportunity to build emotional bank accounts
+
+TLDR; An emotional bank account describes the trust someone has in you. It
+get's withdrawn constantly by unmet expectations. Many problems stem from
+relationship difficulties.
 
 ### Habit 4: Think Win/Win
 - Don't expect cooperation if your incentive structure is for competition
@@ -172,6 +178,9 @@ search space) and provide a much more stable mentality.
     - determine what results would constitute fully acceptable solutions
     - identify possible actions
 
+TLDR; Aiming for everyone to profit from a deal is the only way to avoid
+malicious compliance and one-sided resentment. Solve their problem too, not
+just yours.
 
 ### Habit 5: Seek First to Understand, Then to Be Understood
 - often, we don't really listen to other people and want to provide a quick fix
@@ -189,6 +198,11 @@ search space) and provide a much more stable mentality.
   seek first to understand.
 - one-on-one sessions help tremendously
 - seek first to understand and it will open doors for synergy
+
+TLDR; We communicate most of our wake time, and received little explicit
+training to communicate with other humans. Effective communication helps
+ourselves to become much more efficient, understanding others helps to work
+with them better.
 
 ### Habit 6: Synergize
 - Synergy: most catalytic, most empowering, most unifying, most exciting
@@ -213,6 +227,10 @@ search space) and provide a much more stable mentality.
 - something synergistic can happen with your enemies as well, if you both try
   to listen and understand earnestly
 
+TLDR; Synergistic effects can only occur when you trust each other and
+communicate well. Only then is it possible to solve both of your problems.
+While synergy is close to chaos, it can provide the most effective solutions.
+
 ## Part Four: Renewal
 ### Habit 7: Sharpen the Saw
 - Don't just be busy sawing all the time - you need to sharpen the saw every
@@ -231,6 +249,10 @@ search space) and provide a much more stable mentality.
 - earning money is necessary, but a bigger purpose is required to sustain it
 - necessary for balanced renewal
 - continuous improvement is an upward spiral
+
+TLDR; Improvement and renewal should happen regular and in more than one
+dimension in a balanced way to be a sustainable upward spiral. Money is
+important as well, but should never be your focus.
 
 ### Afterword
 - introduced special keywords: "was that a deposit or withdrawel", "is that
@@ -263,6 +285,7 @@ out: they weren't. Not at all.
 
 ## Favourite Quotes
 
+**Foreword and Introduction**:
 > How do you build Leaders? You first build character.
 
 > Leadership is communicating other's worth and potential so clearly that they
@@ -344,4 +367,4 @@ out: they weren't. Not at all.
 ---
 [zero-one]: ../2020-02-01-zero-to-one
 [fcked]: ../2020-06-20-everything-f-cked
-[power-habit]: ../2020-XX-XX-power-of-habit
+[habit]: ../2020-XX-XX-power-of-habit
