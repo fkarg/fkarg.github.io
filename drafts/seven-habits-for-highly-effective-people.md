@@ -11,10 +11,12 @@ effective, [and] a great guide for any aspiring leader!'
 
 
 I bought this book along with [Zero to One][zero-one] and [Everything is
-F\*cked][fcked] last september in Berlin. It has been roughly on top of my
+F\*cked][fcked] last september in Berlin. It has been close to the top of my
 to-read list for some time now, mainly because Habits are one of the 'low
-hanging fruits' in my life that I have barely touched yet. Let's see where this
-will lead me.
+hanging fruits' in my life that I have barely touched yet. While I would not
+exactly agree that these are habits (certainly not by the definition from 
+[The Power of Habit][power-habit]), the book has really helped me. Here is what
+I learned from it.
 
 * TOC
 {:toc}
@@ -26,20 +28,24 @@ will lead me.
 - Most of recent 'self-help' is superficial focusing on behaviour and attitude,
   but not solving the deep problems. This is not.
 - We tend to assume the world is the way we see it. But it is based on our
-  perception which is based on our paradigms.
-- facts exist, but we sometimes disagree in their interpretation
+  perception which is based on our paradigms - facts exist, but we sometimes
+  disagree in their interpretation
 - for some things there is no short path: faking piano skills will not get you
   there. Same with psychological, emotional and character-based maturity
-- Self-improvement is always chaning oneself first.
+- Self-improvement is always changing oneself first.
 - for habits to work, we require the knowledge, skill and desire to do them, or
   we won't.
 - maturity levels: dependence, independence, interdependence
 - important: relation of P/PC. focusing on only one side will inevitably damage
   the other and both
 
+TLDR; There is no shortcut to success - you cannot fake piano skills. Facts
+exist, but sometimes we haave different perceptions and disagree in
+interpretation. Self-Improvement is always changing oneself first.
+
 ## Part Two: Private Victory
 ### Habit 1: Be Proactive
-- When we act, we can decide not just to _re_act to something else. We can
+- When we act, we can decide not just to _re_-act to something else. We can
   choose our response.
 - Proactivity is responding with a value-based choise or response to external
   stimuli.
@@ -207,7 +213,7 @@ search space) and provide a much more stable mentality.
 - something synergistic can happen with your enemies as well, if you both try
   to listen and understand earnestly
 
-## Part 4: Renewal
+## Part Four: Renewal
 ### Habit 7: Sharpen the Saw
 - Don't just be busy sawing all the time - you need to sharpen the saw every
   now and then.
@@ -262,7 +268,7 @@ out: they weren't. Not at all.
 > Leadership is communicating other's worth and potential so clearly that they
 > are inspired to see it in themselves.
 
-### Habit 1
+**Be Proactive**:
 > When relationships are strained and the air charged with emotion, an attempt
 > to teach is often perceived as a form of judgement and rejection. But take
 > the child alone, quietly, when the relationship is good and to discuss the
@@ -276,7 +282,7 @@ out: they weren't. Not at all.
 > to problems, not problems themselves, who seize the initiative to do whatever
 > is necessary, consistent with correct principles, to get the job done.
 
-### Habit 2
+**Begin with the End in Mind**:
 > In the words of both Peter Drucker and Warren Bennis, "Management is to do
 > things right; leadership is doing the right things."
 
@@ -287,7 +293,7 @@ out: they weren't. Not at all.
 
 > Without involvement, there is no commitment.
 
-### Habit 3
+**Put First Things First**:
 > To paraphrase Peter Drucker, effective people are not problem-minded; they're
 > opportunity-minded. They feed opportunities and starve problems. They think
 > preventively.
@@ -298,17 +304,17 @@ out: they weren't. Not at all.
 > Effective delegation is perhaps the best indicator of effective management
 > simply because it is so basic to both personal and organisational growth.
 
-## Part Three
+**Part Three**:
 > You can't talk yourself out of problems you behave yourself into
 
 > Building and repairing relationships takes time.
 
-### Habit 4
+**Think Win/Win**:
 > I am always amazed at the results that happen, both to individuals and to
 > organisations, when responsible, proactive, self-directing individuals are
 > turned loose on a task.
 
-### Habit 5
+**Seek First to Understand, Then to be Understood**:
 
 > You don'- have much confidence in someone who doesn't diagnose before he or
 > she prescribes. But how often do we diagnose before we prescribe in
@@ -321,7 +327,7 @@ out: they weren't. Not at all.
 > [..] to listen so that you really, deeply understand another human being from
 > that individuals frame of reference?
 
-### Habit 6
+**Synergize**:
 > Once people have experienced real synergy, they are never quite the same
 > again.
 
@@ -330,11 +336,12 @@ out: they weren't. Not at all.
 
 > all people see the world not as it is, but as they are.
 
-### Habit 7
+**Sharpen the Saw**:
 > We don't have time not to [exercise].
 
 > We can't live without eating, but we don't live to eat.
 
 ---
 [zero-one]: ../2020-02-01-zero-to-one
-[fcked]: ../2020-XX-XX-everything-f*cked
+[fcked]: ../2020-06-20-everything-f-cked
+[power-habit]: ../2020-XX-XX-power-of-habit
