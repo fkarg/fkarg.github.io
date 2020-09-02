@@ -15,8 +15,8 @@ F\*cked][fcked] last september in Berlin. It has been close to the top of my
 to-read list for some time now, mainly because Habits are one of the 'low
 hanging fruits' in my life that I have barely touched yet. While I would not
 exactly agree that these are habits (certainly not by the definition from 
-[The Power of Habit][habit]), the book has really helped me. Here is what I
-learned from it.
+[The Power of Habit][habit]), the book has helped me considerably. Here is what
+I learned from it.
 
 * TOC
 {:toc}
@@ -32,13 +32,13 @@ know roughly what the book is about. [The review starts here](#review).
 exist, but sometimes we have different perceptions and disagree in
 interpretation. Self-Improvement is always changing oneself first.
 
-- Most of recent 'self-help' is superficial focusing on behaviour and attitude,
-  but not solving the deep problems. This is not.
+- Most of recent 'self-help' is superficially focusing on behaviour and
+  attitude, but not solving the deep problems. This book is different.
 - We tend to assume the world is the way we see it. But it is based on our
   perception which is based on our paradigms - facts exist, but we sometimes
-  disagree in their interpretation
+  disagree in their interpretation.
 - for some things there is no short path: faking piano skills will not get you
-  there. Same with psychological, emotional and character-based maturity
+  there. Same with psychological, emotional and character-based maturity.
 - Self-improvement is always changing oneself first.
 - For habits to work, we require the knowledge, skill and desire to do them, or
   we won't do them.
@@ -56,10 +56,11 @@ concern and work on your circle of influence.
 - When we act, we can decide not just to _re_-act to something else. We can
   choose our response. Responsibility is the ability to respond, not just react
   to to external stimuli with a value-based choice or response 
-- Difference in effectiveness is not 25% or 50%, more like 5000-plus percent,
-  particularly when you are smart, aware, or sensitive to others.
+- The difference in effectiveness (proactive vs not proactive) is not 25% or
+  50%, but more like 5000-plus percent, particularly when you are smart, aware,
+  or sensitive to others
 - It takes initiative to take responsibility and start doing _most useful
-  things_.
+  things_
 - Proactive people increase their circle of influence and reduce their circle
   of concern, for their difference to be as small as possible
 - Proactive people are successful, independent of their exact situation
@@ -68,7 +69,7 @@ concern and work on your circle of influence.
 - Past mistakes are part of our circle of concern, but don't let them define
   future attempts
 - Worst mistakes: covering up smaller ones. They will poison us until we own up
-  to them.
+  to them
 - Proactivity includes taking [full ownership][extreme] of the situation
 
 
@@ -83,7 +84,7 @@ search space) and provide a much more stable mentality.
 - Leadership is more important than management
 - It is possible to change (re-script) behaviour
 - Creating a personal mission statement is considered useful
-- Center can have many forms, common ones include being dependent on:
+- Center can have a number of forms, common ones include being dependent on:
     - spouse
     - family
     - money
@@ -97,12 +98,12 @@ search space) and provide a much more stable mentality.
 - the main center needs to be principle-based however: this provides high
   amounts of security, wisdom, guidance and power
 - paradigms are like pairs of glasses to 'see' through
-- a decent center is really important as it guides everyday decisions
-- a principle-based center has many benefits
+- a decent center is important as it guides everyday decisions
+- a principle-based center has several benefits
 - our values and principles surface when thinking about dying soon
 - when considering what matters most, we usually consider larger timeframes
   than today or tomorrow (the near future)
-- priming the RAS can be massively powerful
+- priming the [RAS][ras] can be massively powerful
 - identify goals for each of your roles - focus on results, not activities
 - reward and incentive structures need to be aligned with core values (in
   organisations)
@@ -145,7 +146,7 @@ something important helps to say 'no' to most other things.
 ## Part Three: Public Victory
 **TLDR**; An emotional bank account describes the trust someone has in you. It
 get's withdrawn constantly by unmet expectations. Many problems stem from
-relationship difficulties.
+relationship difficulties, and are not actually technical in nature.
 
 - Empotional bank account metaphor describing amount of trust in a relationship
 - it gets withdrawn constantly by unment expections
@@ -168,8 +169,8 @@ malicious compliance and one-sided resentment. Solve their problem too, not
 just yours.
 
 - Don't expect cooperation if your incentive structure is for competition
-- many different paradigms of human interaction, the best depends on the
-  situation
+- There are many different paradigms of human interaction, the best depends on
+  the situation
 - however, in most situations everything that is not win/win is not viable
 - usually best: win/win or no deal. dependence creates one-sided resentment
     malicious compliance will only hurt both parties
@@ -177,8 +178,8 @@ just yours.
   (there is enough for everyone)
 - Win/Win training: clear objectives and criteria, as well as a path to them
 - "managers letter": acting person writes one page summary of thorough
-  discussions with expectations, guidelines and resources + ? next performance
-  plan/review discussion
+  discussions with expectations, guidelines and resources + indicates when next
+  performance review takes place
 - Basic consequences: financial, psychic, opportunity, responsibility
 - align reward system with goals and values in your mission statement
 - Win/Win: makes person accountable to perform and evaluate results and
@@ -192,12 +193,12 @@ just yours.
 
 
 ### Habit 5: Seek First to Understand, Then to Be Understood
-**TLDR**; We communicate most of our wake time, and received little explicit
-training to communicate with other humans. Effective communication helps
+**TLDR**; We communicate most of our awake time, and received little explicit
+training on how to communicate with other humans. Effective communication helps
 ourselves to become much more efficient, understanding others helps to work
 with them better.
 
-- often, we don't really listen to other people and want to provide a quick fix
+- often, we don't listen to other people and want to provide a quick fix
 - we communicate most of our waking hours, and yet we received no specific
   training to understand other human beings
 - effective interaction requires understanding
@@ -208,8 +209,8 @@ with them better.
 - we tend to have different and incompatible perception - none of them are
   wrong, but it makes communication harder
 - _Effective_ presentations take effort and time, but are usually worth it.
-- when interacting, there is many things you can't control - but you can always
-  seek first to understand.
+- when interacting, there is a lot of things you can't control - but you can
+  always seek first to understand.
 - one-on-one sessions help tremendously
 - seek first to understand and it will open doors for synergy
 
@@ -230,7 +231,7 @@ While synergy is close to chaos, it can provide the most effective solutions.
 - chaos is a killed spirit of creativity and enterprise
 - Have a mission statement, make clear what it is about (and not)
 - requires high emotional bank accounts to emerge
-- it might seem everything but 'efficient', but it's the only way to get really
+- it might seem everything but 'efficient', but it's the only way to get
   transformational and much more effective and better solutions for everyone
 - There are always third alternatives
 - You need to try to understand the other partys problem as well, before you
@@ -273,30 +274,67 @@ important as well, but should never be your focus.
   beginning with the means in mind or the end in mind"
 
 # Review
-
 I really liked the book. It gives a new sense of clarity to the muddy waters of
-everyday life. While I was living of the habits already, simply the newfound
-clarity is more than worth having read the book. Imanaged to create the first
-iteration of my personal mission statement, and I'm somewhat continually
-improving on it. It just doesn't _quite_ fit. That, and other things help me
-understand a lot of things better, and especially clearer. Appyling even just
-parts of these Principles has had a tremendous increase in effectiveness for
-me, and my interactions with others. In principle 5 the way of empathetic
-communication is described though I don't fully apply it. I don't have the
-feeling that I really need to - I noticed the same effects by listening to
-people ... differently. I can only recommend reading the book.
+everyday life. While I was living of the habits already (to a degree), the
+newfound clarity alone is more than worth having read the book. I managed to
+create the first iteration of my personal mission statement. It just didn't
+_quite_ fit, but I found one that resonates with me much deeper recently.
 
 ## Main Takeaways
-- Quite a bit.
+It helped me understand a lot of things deeper, gaining clarity. Appyling even
+just parts of these principles has had a tremendous increase in effectiveness
+for me and my interactions with others.
 
+My biggest takeaways include:
+- Just how much more effective proactivity is
+- Your identity should be centered around sound principles
+- We tend to differ in the _interpretation_ of facts
+- We don't need more time, we need more effective prioritizing first
+- Emotional bank accounts, circle of concern/influence
+- Everything that's not a win for both sides will create resentment eventually
+- Communication is a truly important skill to have and train
+
+The difference in effectiveness between proactive people and non-proactive
+people is just incredible. I'll prefer proactivity if I want to get something
+done from now on.
+
+An identity built around principles can help to [keep your ego in check][ego].
+These principles then are indeed important as they guide our everyday
+decisions.
+
+We might have differing interepretations of even the same facts - we see the
+world how we are. Incompatible perceptions make communication harder but not
+impossible
+
+We all have enough time, it's just that we suck at prioritizing sometimes. And
+we can be bad at it without noticing. I got a newfound sensitivity for this.
+
+I did not realize it before, but our single most done activity is
+_communicating_, be it via text or in person. Me writing this and you reading
+it is also communication. And yet we have received no special training to
+communicate with humans - which are notoriously difficult to communicate with.
+<!--
+I read [the classic on communication][carnegie] sometime later.
+-->
 
 ## Criticism
-I had increadibly high expectations based on the reviews from other people. So
-I made sure to lower them, since they tend to exaggerate quite a bit. Turns
-out: they weren't. Not at all.
+I had high expectations based on the reviews from other people. So I made sure
+to lower them, since reviews tend to exaggerate. Turns out: they weren't. Not
+at all. My hopes have been more than fulfilled, even.
+
+The only thing that could be improved on: he recommends the [franklincovey
+Mission Statement Builder][MSB] - and while it has some useful prompts, it left
+me feeling like it was incomplete, as if something was still missing. Maybe
+that was just me though, so tell me if your experience differs.
+
+Overall the book is exceptionally well written. The examples were clear and
+concise. It was easy to understand even profound concepts based on stories -
+take the 'chicken laying golden eggs'-example, I genuinely understood what he
+meant by P/PC balance from that point forward.
+
+I can only recommend you to read this book, if you haven't already.
 
 ## Favourite Quotes
-
 **Foreword and Introduction**:
 > How do you build Leaders? You first build character.
 
@@ -381,3 +419,7 @@ out: they weren't. Not at all.
 [fcked]: ../2020-06-20-everything-f-cked
 [habit]: ../2020-XX-XX-power-of-habit
 [extreme]: ../2020-XX-XX-extreme-ownership
+[ego]: ../2020-XX-XX-ego-enemy
+[carnegie]: ../2020-XX-XX-win-friends-influence-people
+[ras]: https://medium.com/desk-of-van-schneider/if-you-want-it-you-might-get-it-the-reticular-activating-system-explained-761b6ac14e53
+[MSB]: https://msb.franklincovey.com/
