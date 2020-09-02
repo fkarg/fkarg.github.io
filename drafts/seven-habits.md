@@ -119,13 +119,13 @@ something important helps to say 'no' to most other things.
 - day-in day-out actualization exercise to becoming principle centered
 - the challenge is not to manage time, but to manage ourselves
 - we mostly react, instead of sufficiently prioritizing to do the important things.
-- To be effective, you sometimes need to say 'no' to to urgent things.
+- To be effective, you need to say 'no' to urgent things sometimes.
 - have something important to say 'yes' to, to have the strength to say 'no' to
   most other things.
 - each week, schedule important results you want to achieve. Adapt each morning
   to changed conditions.
-- sometimes you need to adapt to changed circumstances - which is no problem as
-  long as you stay true to your principles
+- you need to adapt to changed circumstances - which poses no problem as long
+  as you stay true to your principles
 - Fourth generation management tools:
     - subordinating your schedule to your deepest values
     - identifies roles and key activities
@@ -152,7 +152,8 @@ relationship difficulties, and are not actually technical in nature.
 - it gets withdrawn constantly by unmet expectations
 - when overdrawn: walking in a minefield, tension everywhere
 - Mayor deposits:
-    - understanding the individual (might turn into withdrawal otherwise)
+    - understanding the individual (an action might turn into a withdrawal
+      otherwise)
     - attending the little things
     - keeping commitments
     - clarifying expectations
