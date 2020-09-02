@@ -23,8 +23,8 @@ I learned from it.
 
 # Content
 This will contain mostly bullet points taken from my notes. You should be fine
-with reading just the TLDR for each section, or skipping them altogether if you
-know roughly what the book is about. [The review starts here](#review).
+with reading just the 'TLDR' for each section, or skipping them altogether if
+you know roughly what the book is about. [The review starts here](#review).
 
 ## Part One: Paradigms and Principles
 ### Introduction
@@ -32,7 +32,7 @@ know roughly what the book is about. [The review starts here](#review).
 exist, but sometimes we have different perceptions and disagree in
 interpretation. Self-Improvement is always changing oneself first.
 
-- Most of recent 'self-help' is superficially focusing on behaviour and
+- Most of recent 'self-help' is superficially focusing on behavior and
   attitude, but not solving the deep problems. This book is different.
 - We tend to assume the world is the way we see it. But it is based on our
   perception which is based on our paradigms - facts exist, but we sometimes
@@ -50,7 +50,7 @@ interpretation. Self-Improvement is always changing oneself first.
 ## Part Two: Private Victory
 ### Habit 1: Be Proactive
 **TLDR**; Nothing good will happen to you if you don't initiate it. When you start
-initiating things, you become vastly more effective. Redce your circle of
+initiating things, you become vastly more effective. Reduce your circle of
 concern and work on your circle of influence.
 
 - When we act, we can decide not just to _re_-act to something else. We can
@@ -82,14 +82,14 @@ search space) and provide a much more stable mentality.
   from now? Especially your Family, Friends, Workplace, and your Community?
   Your answer to this is based on your values and principles.
 - Leadership is more important than management
-- It is possible to change (re-script) behaviour
+- It is possible to change (re-script) behavior
 - Creating a personal mission statement is considered useful
 - Center can have a number of forms, common ones include being dependent on:
     - spouse
     - family
     - money
     - work
-    - posession
+    - possession
     - pleasure
     - friend/enemy
     - church
@@ -101,12 +101,12 @@ search space) and provide a much more stable mentality.
 - a decent center is important as it guides everyday decisions
 - a principle-based center has several benefits
 - our values and principles surface when thinking about dying soon
-- when considering what matters most, we usually consider larger timeframes
+- when considering what matters most, we usually consider larger time frames
   than today or tomorrow (the near future)
 - priming the [RAS][ras] can be massively powerful
 - identify goals for each of your roles - focus on results, not activities
 - reward and incentive structures need to be aligned with core values (in
-  organisations)
+  organizations)
 
 
 ### Habit 3: Put First Things First
@@ -136,8 +136,8 @@ something important helps to say 'no' to most other things.
       quality statements
     - guidelines: as few as possible, but should include failure paths and
       formidable restrictions
-    - resources: human, financial, technological or organizational that can be
-      a aquired
+    - resources: human, financial, technological or organizational resources
+      that can be acquired
     - accountability: setup standards of performance and evaluation metrics and
       reporting times
     - consequences: specification of both good and bad as results of evaluation
@@ -145,20 +145,20 @@ something important helps to say 'no' to most other things.
 
 ## Part Three: Public Victory
 **TLDR**; An emotional bank account describes the trust someone has in you. It
-get's withdrawn constantly by unmet expectations. Many problems stem from
+gets withdrawn constantly by unmet expectations. Many problems stem from
 relationship difficulties, and are not actually technical in nature.
 
-- Empotional bank account metaphor describing amount of trust in a relationship
-- it gets withdrawn constantly by unment expections
-- when overdrawn: walking in a minefield, tension everwhere
+- Emotional bank account metaphor describing amount of trust in a relationship
+- it gets withdrawn constantly by unmet expectations
+- when overdrawn: walking in a minefield, tension everywhere
 - Mayor deposits:
-    - understanding the individual (might turn into withdrawel otherwise)
+    - understanding the individual (might turn into withdrawal otherwise)
     - attending the little things
     - keeping commitments
     - clarifying expectations
     - showing personal integrity
-    - apologizing sincerely for withdrawels
-- many problems in organisations stem from relationship difficulties at the
+    - apologizing sincerely for withdrawals
+- many problems in organizations stem from relationship difficulties at the
   very top
 - Every problem is an opportunity to build emotional bank accounts
 
@@ -184,10 +184,10 @@ just yours.
 - align reward system with goals and values in your mission statement
 - Win/Win: makes person accountable to perform and evaluate results and
   provides consequences as natural result of performance.
-- arrive at Win/Win by seperating the person from the problem and focus on
+- arrive at Win/Win by separating the person from the problem and focus on
   interests not positions, insist on external objective agreed criteria
     - see the problem from the other perspective
-    - identiy key issues and concerns
+    - identify key issues and concerns
     - determine what results would constitute fully acceptable solutions
     - identify possible actions
 
@@ -222,9 +222,9 @@ While synergy is close to chaos, it can provide the most effective solutions.
 
 - Synergy: most catalytic, most empowering, most unifying, most exciting
     - also most terrifying, because it's unclear where it will lead
-- Value differences, build on strength ands and compensate for weaknesses
-- required: high tolerance for amgiuity and security to not find creative
-  enterprises unnerving and unpleasent (or high need for structure, certainty
+- Value differences, build on strength   and compensate for weaknesses
+- required: high tolerance for ambiguity and security to not find creative
+  enterprises unnerving and unpleasant (or high need for structure, certainty
   or predictability)
 - best classes are on the verge of chaos, with enough trust and openness to
   enable synergy to unfold
@@ -234,7 +234,7 @@ While synergy is close to chaos, it can provide the most effective solutions.
 - it might seem everything but 'efficient', but it's the only way to get
   transformational and much more effective and better solutions for everyone
 - There are always third alternatives
-- You need to try to understand the other partys problem as well, before you
+- You need to try to understand the other party's problem as well, before you
   can solve both (their and your) problems
 - listen to both the factual and the emotional when communicating
 - instead of increasing driving forces, focus on reducing restraining forces
@@ -268,7 +268,7 @@ important as well, but should never be your focus.
 
 
 ### Afterword
-- introduced special keywords: "was that a deposit or withdrawel", "is that
+- introduced special keywords: "was that a deposit or withdrawal", "is that
   reactive or proactive", "is that synergistic or a compromise", "is it win/win
   or win/lose or lose/win", "is it putting first things first", "is that
   beginning with the means in mind or the end in mind"
@@ -281,7 +281,7 @@ create the first iteration of my personal mission statement. It just didn't
 _quite_ fit, but I found one that resonates with me much deeper recently.
 
 ## Main Takeaways
-It helped me understand a lot of things deeper, gaining clarity. Appyling even
+It helped me understand a lot of things deeper, gaining clarity. Applying even
 just parts of these principles has had a tremendous increase in effectiveness
 for me and my interactions with others.
 
@@ -302,7 +302,7 @@ An identity built around principles can help to [keep your ego in check][ego].
 These principles then are indeed important as they guide our everyday
 decisions.
 
-We might have differing interepretations of even the same facts - we see the
+We might have differing interpretations of even the same facts - we see the
 world how we are. Incompatible perceptions make communication harder but not
 impossible
 
@@ -334,7 +334,7 @@ meant by P/PC balance from that point forward.
 
 I can only recommend you to read this book, if you haven't already.
 
-## Favourite Quotes
+## Favorite Quotes
 **Foreword and Introduction**:
 > How do you build Leaders? You first build character.
 
@@ -343,7 +343,7 @@ I can only recommend you to read this book, if you haven't already.
 
 **Be Proactive**:
 > When relationships are strained and the air charged with emotion, an attempt
-> to teach is often perceived as a form of judgement and rejection. But take
+> to teach is often perceived as a form of judgment and rejection. But take
 > the child alone, quietly, when the relationship is good and to discuss the
 > teaching or the value seems to have a much greater impact.
 
@@ -351,7 +351,7 @@ I can only recommend you to read this book, if you haven't already.
 > but a habit. - Aristotle
 
 > Many People wait for something to happen or someone to take care of them. But
-> people who end up with the good jobs are the peoactive ones who are solutions
+> people who end up with the good jobs are the proactive ones who are solutions
 > to problems, not problems themselves, who seize the initiative to do whatever
 > is necessary, consistent with correct principles, to get the job done.
 
@@ -362,7 +362,7 @@ I can only recommend you to read this book, if you haven't already.
 > No management success can compensate for failure in leadership. But
 > leadership is hard because we're often caught in a management paradigm.
 
-> Mission statements are [...] vital to successul organisations.
+> Mission statements are [...] vital to successful organizations.
 
 > Without involvement, there is no commitment.
 
@@ -375,7 +375,7 @@ I can only recommend you to read this book, if you haven't already.
 > _effectiveness_ with people and _efficiency_ with _things_.
 
 > Effective delegation is perhaps the best indicator of effective management
-> simply because it is so basic to both personal and organisational growth.
+> simply because it is so basic to both personal and organizational growth.
 
 **Part Three**:
 > You can't talk yourself out of problems you behave yourself into
@@ -384,7 +384,7 @@ I can only recommend you to read this book, if you haven't already.
 
 **Think Win/Win**:
 > I am always amazed at the results that happen, both to individuals and to
-> organisations, when responsible, proactive, self-directing individuals are
+> organizations, when responsible, proactive, self-directing individuals are
 > turned loose on a task.
 
 **Seek First to Understand, Then to be Understood**:
