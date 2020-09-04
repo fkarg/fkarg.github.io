@@ -7,7 +7,7 @@ tags:
 ---
 You compete with others, on an unfair playing field. Are you aware of this?
 
-Are you good at Games?
+Are you good at games?
 
 
 * TOC
@@ -59,7 +59,7 @@ Can you? Yes. Will you? _Will you?_
 
 So how come, that even if you start equally, someone wins, while others
 don't? That sometimes you win, and sometimes others? Sure, part of it might be
-due to randomness, e.g. in Games like [Blackjack][1], [Roulette][2], or those
+due to randomness, e.g. in games like [Blackjack][1], [Roulette][2], or those
 involving Dice. Even in Poker, there's a huge reliance on Randomness, but
 there's more. Skill. And that's where the difference comes in. You certainly
 know this if you've frequently played games with other people (e.g. your
@@ -75,19 +75,20 @@ competitive][3]. Also, we live in a society where no one is saying
 this. Even on sports-days, they say that 'it's all about taking part'. Sure. If
 you give out prices. That's what a Competition is. Grades in school? A
 competition. I'm not sure if it was like this for you, but some give grades
-based on relative performance (which is a really bad measure in my opinion, but
+based on relative performance (which is an awful measure in my opinion, but
 that's another topic). Utterly competitive. Getting a Spouse? Competition with
 just about _everyone_ else. A Job? Competition with the others wanting the same
 Job. Is there just about anything _not_ a competition?
 
 Well, a few things, but most are. Back to topic. Our Life is filled to the brim
 with competitions, but do we see them as competition? Rarely. So what happens
-when you start seeing it as competition? That's only the beginning. Because you
-still need to compete. There's so much to compete for, you can't do
-all of it once. If you want to compete (you certainly did unconsciously), you need to improve.
+when you start seeing it as competition? That's only the beginning, because you
+still need to compete. There's so much to compete for, you can't do all of it
+once. If you want to compete (you certainly did unconsciously), you need to
+improve.
 
-Why is there competition? There are too many reasons, some of them being 'because
-it works' and 'because it's fun'. (Might become a future post)
+Why is there competition? There are too many reasons, some of them being
+'because it works' and 'because it's fun'. (Might become a future post)
 
 
 ## Seeing Life as a Game
@@ -114,10 +115,20 @@ yourself do? What would you change, compared to your everyday routine?
 
 
 ## What to keep in mind
+Compared to most games, there is a significant difference: You do not have a
+second chance. Nor will you ever get a second chance to make the first
+impression. Saving and 'loading' again if the situation was unfavorable is not
+possible. You need to get it right the first time.
 
-Compared to most games, there is a significant difference: You do not have a second chance. You will not ever get a second chance to make the first impression either. You can not just 'load' if you happen to be in an unfavourable situation. You need to get it right the first time.
-
-So the biggest difference is that you cannot affort to take it easy. You need to take it seriously from the very beginning, or you can not get that far (as you would expect?). I mean life kind of is that simple: do a lot of things (well), and you have a lot of options. Knowing most shows from Netflix might get you far in a business where you get money for recommending shows to others, but that's about it. Most people are not doing that much, so if you do it is not exactly hard to outcompete them. **If** you have the discipline. Did you know you can train this too? Do you?
+So the biggest difference is that you cannot afford to take it easy. You need
+to take it seriously from the very beginning, or you can not get that far (as
+you would expect?). I mean life kind of is that simple: do a lot of things
+(well), and you have a lot of options. Knowing most shows from Netflix might
+get you far in a business where you get money for recommending shows to others.
+Keep in mind that robots are getting good at this. Most people are not doing
+that much, so if you do it is not exactly hard to out-compete them. **If** you
+have the discipline. Did you know you can train discipline? Do you train your
+discipline?
 
 
 ## When to use this View
@@ -137,9 +148,13 @@ everyone. **This** is your starting point.
 
 This is probably the most effective part since I start to think of myself as
 being pathetic quite easily sometimes. However, thinking about it as your
-starting point makes you focus on the future instead of the past. You can not change the past, but the future is still in your hands. Better act now, to increase your odds. This gets me to re-think my current situation, and it usually turns out not to be as bad as I thougt.
+starting point makes you focus on the future instead of the past. You can not
+change the past, but the future is still in your hands. Better act now, to
+increase your odds. This gets me to re-think my current situation, and it
+usually turns out not to be as bad as I thought.
 
-> Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit. - Napoleon Hill
+> Every adversity, every failure, every heartache carries with it the seed of
+> an equal or greater benefit. - Napoleon Hill
 
 
 
@@ -162,16 +177,14 @@ going? Where do you want to go? What do you need to do for this?
 
 
 
-
-_Isn't it exciting, you can discover quite a few things by only thinking about them!_
-
-**Edit**: In the first post, I didn't say what I wanted to say, but
-strayed on related topics. So this is the second version, I'm much more content
-with this one. If you have feedback, I'd love to hear it!
-
-**Edit 2**: Added the paragraph about 'when to use it'.
-
-**Edit 3**: Added paragraph about what to keep in mind, and added quotes. 
+---
+**Edits**: 
+- 2019-04-30: In the first post, I didn't say what I wanted to say, but strayed
+  on related topics. So this is the second version, I'm much more content with
+  this one. If you have feedback, I'd love to hear it!
+- 2019-05-24: Added the paragraph about 'when to use it'.
+- 2019-09-26: Added paragraph about what to keep in mind, and added quotes. 
+- 2020-09-04: Grammar fixes
 
 
 [1]: https://en.wikipedia.org/wiki/Blackjack
