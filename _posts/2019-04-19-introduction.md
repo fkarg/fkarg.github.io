@@ -36,10 +36,11 @@ You may know this feeling. When reading through an article of sorts on a random
 news website, or even a physical book: You want to think about this more.
 Explore this idea further, that was just presented to you. Sometimes there's
 the option to comment. But sometimes this just doesn't cut it. Partially, the
-blog was created for those cases. Where my thoughts are a bit more than would
-fit in a comment. Or, more accurately: should fit. This includes my [Book
-reviews](https://fkarg.github.io/tags/#book) and an upcoming series on
-replication.
+blog was created for those cases. Cases, where my thoughts are a bit more than
+would fit in a comment. Or, more accurately: should fit. This includes my [Book
+reviews](https://fkarg.github.io/tags/#book), [thoughts about
+lesswrong](https://fkarg.github.io/tags/#lesswrong) and an upcoming series on
+[replication](https://fkarg.github.io/tags/#replication).
 
 About other things, I have a different feeling. A desire to share something
 with the world. A desire for other people to understand a certain concept
@@ -58,11 +59,12 @@ clarification or give feedback. It is very much appreciated!
 
 
 ### What is in for you
-I don't have the answer for that. It might be nothing - or a whole lot!
+I don't have the answer for that. It might be nothing - or a lot! Take what you
+deem useful, and disregard the rest.
 
-Just take a look, and your attention will probably do the rest. My best post
-is probably [Improving Everyday Life](../2020-05-16-beyond-qwerty/), at least
-until either of the aforementioned series is published.
+Feel free to take a look, and your attention will probably do the rest. My best
+post is probably [Improving Everyday Life](../2020-05-16-beyond-qwerty/), at
+least until either of the aforementioned series is published.
 
 I don't know where this will take me, or you. Here we go.
 
@@ -70,3 +72,4 @@ I don't know where this will take me, or you. Here we go.
 **Edit**: 
 - 2020-06-26: Considerable rewrite, improved descriptions and got much more
   accurate about current and upcoming content.
+- 2020-09-04: Fixed some grammar mistakes
