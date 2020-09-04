@@ -8,11 +8,11 @@ tags:
 ---
 Review of Eric Ries' 'mandatory reading for entrepreneurs'.
 
-This book has been on my wishlist for some time now, as it has been recommended
+This book has been on my wish list for some time now, as it has been recommended
 from all over the place. In some companies it apparently is something every new
 manager has to read. My interest is in startups as well, so this is a mandatory
-read at some point. I finally received it last Christmas and now got around to
-actually reading it in early July.
+read at some point. I received it last Christmas and now got around to actually
+reading it in early July.
 
 
 * TOC
@@ -49,7 +49,7 @@ model step by step, testing and validating assumptions. Startups operate under
 conditions of extreme uncertainty.
 
 To achieve and sustain innovation, an appropriate environment with appropriate
-metrices and incentives is required - most companies provide neither.
+metrics and incentives is required - most companies provide neither.
 
 Validated learning is applying the scientific method to figuring out business
 models. Not every 'learning' is learning, it needs to be usable knowledge for
@@ -86,11 +86,11 @@ Genchi Gembutsu: Go and see for yourself - don't rely on reports for critical
 decisions.
 
 The goal of an [MVP][mvp-slc] is to start the learning process - early adopters
-don't need a fully working solution. Protypes work fine - only do what you need
+don't need a fully working solution. Prototypes work fine - only do what you need
 to learn.
 
 A startup needs to know they are actually improving their product, that they
-are making progress. For that, meticiulously track your key metrics. Turning
+are making progress. For that, meticulously track your key metrics. Turning
 the growth engine, validated learning design changes _have_ to improve metrics.
 
 Running daily experiments is perfect. Map and model customer flows. Do a cohort
@@ -105,7 +105,7 @@ you to act on them (enabling replication). Your metrics should be actionable,
 accessible, and auditable.
 
 While 'The Lean Startup' is a rigid scientific methodology, 'pivot or
-perservere'-decisions still require vision, intiution and personal judgement.
+persevere'-decisions still require vision, intuition and personal judgment.
 Innovation accounting leads to faster pivots. Failure is part of learning.
 After a pivot, execution speed should improve, since infrastructure doesn't
 need to be built again - but also, because you learned something critical about
@@ -138,7 +138,7 @@ Product-Market fit is when a widespread customer base resonates with the
 product. If you have to ask if are there yet, then you are not.
 
 Over time, the roles of everyone in your startup will change, though it's hard
-to notice it. Introducing more beaurocracy with increasing company size is not
+to notice it. Introducing more bureaucracy with increasing company size is not
 the answer and will only slow you down. Never split the difference in
 arguments.
 
@@ -161,7 +161,7 @@ Be tolerant of mistakes the first time around, but never allow the same mistake
 to be made a second time. Someone with sufficient authority needs to oversee
 the five whys process, or it will devolve. Decide on simple but iron-clad rules.
 
-Remember that organisations have muscle-memory when making larger changes -
+Remember that organizations have muscle-memory when making larger changes -
 involve impacted teams and customers as much as possible. Explain clearly why
 the change is needed and thoroughly communicate expectations from that change.
 
@@ -199,7 +199,7 @@ effect correlate.
 # Review
 ## Main Takeaways
 There are multiple concepts and ideas I took away from this book, each one
-having a seperate paragraph below:
+having a separate paragraph below:
 
 #### Rapid Prototyping
 I took part in a rapid prototyping workshop earlier this year. So the idea of
@@ -236,7 +236,7 @@ not just for software either. And I believe that gives me a good understanding
 why it works so well.
 
 #### The Five Whys
-When applied correctly, the methedology of asking 'Why' five times can be quite
+When applied correctly, the methodology of asking 'Why' five times can be quite
 transformational, I believe. Nothing ever goes wrong on just the level it
 appears to - there are always much more fundamental problems involved, and
 finding and fixing them is probably among the most energy intensive and
@@ -268,7 +268,7 @@ Recommended Books:
 - [y] Concise reasons why?
 - [?] Misc, specific to book
 
-## Favourite Quotes
+## Favorite Quotes
 > Entrepreneurship is a kind of Management
 
 > [...] it's the boring stuff that matters the most.
@@ -325,9 +325,4 @@ Recommended Books:
 > should not be done at all. - Peter Drucker
 
 
-
----
-**Footnotes**:
-
-<a name="footnote1">1</a>: Text from footnote1.
 [mvp-slc]: https://blog.asmartbear.com/slc.html
