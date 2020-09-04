@@ -51,7 +51,7 @@ how to get to university, to moving to the next town or planning out my life.
 
 This is important to do upfront. It may seem unnecessary at first (since you
 would do something similar in step 5), but If you apply Murphyjitsu to a few
-problems, you tend to notice that a lot of the from step 5 noticed problems,
+problems, you tend to notice that a lot of the in step 5 noticed problems,
 have not been thought about yet in this step.
 
 > 3. Imagine that you’ve passed the deadline and find out that the plan failed.
@@ -61,8 +61,8 @@ time someone else brings up a plan the first thing the human brain somewhat
 naturally thinks about is how that plan might fail. Just apply this to your own
 plans, and you'd be surprised how valid the claims might actually be. It is
 much more effective than asking someone else to point out failure modes, since
-the evaluations as to how likely which scenario is is much more correlated with
-your own estimation as to how critical they would be.
+the evaluations as to how likely which scenario is, is much more correlated
+with your own estimation as to how critical they would be.
 
 > 4. If you’re shocked in this scenario, you are done.
 
@@ -79,12 +79,11 @@ problems, so don't worry.
 
 
 ## The bad side
-
-As you might have noticed, this might take some time until you are done. Until
-the plan you did is sufficiently robust. This overhead is absolutely not worth
-it for most problems. Still, if you _need_ to get something done, if it is
-worth it, this technique is exactly what you want to modify appropriately and
-use. Still, this is massively limited use for a seemingly awesome technique.
+As you might have noticed, this might take some time until you are done - until
+the plan you make is sufficiently robust. The overhead is not worth it for most
+problems. Still, if you _need_ to get something done, if it is worth it, this
+technique is exactly what you want to modify appropriately and use.
+Still, this is a considerably limited use for a seemingly awesome technique.
 
 This is why I did not really use it consciously for a long time. I got almost
 all of my plans done in the first place, and those that I did not manage to get
@@ -102,7 +101,7 @@ should be capable of, and actually start doing things. Anyways, if you, from
 this state, try to make plans, you tend to factor in all kind of things
 already, as you _want this to be done_ in the first place. These plans are
 automatically much more robust than most I do otherwise - mainly because I
-already consider a couple things that could go wrong as well as
+already consider a couple of things that could go wrong as well as
 countermeasures.
 
 So, what happened? Well, after becoming aware of Murphyjitsu, I somehow started
@@ -126,18 +125,18 @@ Murphyjitsu, but the basic principles apply. I didn't do it with 'Oh let us
 apply Murphyjitsu on this schedule right there', or 'Okay what could go wrong
 here'. These are utterly necessary to do the conscious version, but having your
 unconsciousness do Murphyjitsu can be even more effective - mainly because it
-is signifacantly faster and delivers astonishingly good results. Still, for the
+is significantly faster and delivers astonishingly good results. Still, for the
 most time, I was not even aware of that.
 
 ## Conclusion
 
-So much about me and my thougts about Murphyjitsu. Do not hesitate to give me
-feedback or tell me your thougths.
+So much about me and my thoughts about Murphyjitsu. Do not hesitate to give me
+feedback or tell me your thoughts.
 
+---
+**Edits**:
+- 2020-09-04: fixed grammar
 
 [0]: https://www.lesswrong.com/posts/N47M3JiHveHfwdbFg/hammertime-day-10-murphyjitsu
 [1]: http://yudkowsky.net/rational/technical/
 [2]: https://www.hpmor.com/chapter/16
-
-
-_Isn't it exciting, you can discover quite a few things by only thinking about them!_
