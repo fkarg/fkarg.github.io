@@ -1,15 +1,21 @@
 ---
 layout: post
+published: true
 title: 'Longtermplans: Goal Setting Workshop'
-subtitle: or how to set and achieve goals
+subtitle: how to set and achieve goals
 tags:
 - workshop
 ---
-Part of a supposed transcript of a goal setting workshop. Currently a
-prototype, will be held and modified accordingly soon. I'm currently using this
-Framework to readjust my goals every three months. It might take some time, but
-it could be useful.
+This is the transcript of a pretty long workshop. It is among the most
+effective things I do every three months to keep me focused.
 
+
+This is an abridged culmination of the most effective exercises I found over
+the last few years. It does by far not include everything I came across, not
+even everything effective I came across. It's large enough the way it is right
+now already, and I'd prefer it to be smaller than larger.
+
+While it is a prototype currently, I will hold and modified it soon.
 
 * TOC
 {:toc}
@@ -17,22 +23,61 @@ it could be useful.
 
 # Introduction
 This is by no means a full guide on how to set goals or how to achieve them,
-but it contains the concepts and techniques I found the most useful. Feel free
-to take what you deem useful, and disregard everything else.
+but it contains the concepts and techniques I found the most useful while
+taking the least amount of time. Feel free to take and use what you deem
+useful, and disregard everything else.
 
-## Sources and Motivation
-[A different goal setting workshop][8760-hours]
 
-[Writing down your goals increases chances of success][better-goals-1][and this][better-goals-2]
+## Organization Bottom-Up
+Bottom-Up organization means that you have a clear list of your open next
+actions, what you have delegated to other people and when things are due. If
+you have them grouped together as 'projects' (everything that requires more
+than one next action to get completed) and review them weekly, you will get the
+most out of it. In fact, the workshop will be vastly less effective for you if
+you are not organized bottom-up yet.
 
-[having someone hold you accountable increases chances of success][hold-accountable]
+{: .box-error}
+**Warning:** This Workshop assumes you have bottom-up control over your everday
+tasks. If not, it would be more useful for you to work through the material in
+reverse order. The caveat is, the parts are not written in an independent way.
+The order would be: starting with [Execution Systems](#execution), continue
+with [plannnig](#planning) and [figure out your goals](#setting-goals). After
+that, do planning again, and adapt your Execution Systems accordingly.
+
+
+## Motivation
+You are probably here for one of three reasons:
+
+1. You don't really have goals right now.
+2. You have goals, but you're making little progress on them.
+3. You think you could improve the way you set your goals.
+4. (Bonus) You are intrigued, and want to see if any of this can help you.
+
+Whichever it is, I believe that you will find something useful here.
+
+Most exercises mentioned here are backed by scientific experiments or at least
+strong anecdotal evidence (doing this helped multiple people) to increase the
+chances of achieving your goals.
+
+According to <!--[this][better-goals-1]--> [this][better-goals-2] study,
+simply writing down your goals increases your chances of achieving them
+considerably. As described [here][hold-accountable], having someone hold you
+accountable (similar to described in [this](#accountability-partners-10min)
+exercise) increases the probability of success again considerably.
+
+If you are interested in more goal-setting material, you might want to check
+out Alex Vermeers [8760 hours][8760-hours]-goal-setting workshop. His workshop
+starts with an 'Snapshot of Your Life'-Exercise, which is great if you are not
+organized bottom-up yet. I'm still thinking about how to adapt his
+[motivation](https://alexvermeer.com/getmotivated/) matrix as well.
 
 
 ## Content Overview
 There are four parts to this workshop.
 
 We start out with an Introduction, where we set the goal for the workshop and
-how we intend to achieve them, including what we need to prepare before starting.
+how we intend to achieve them, including what we need to prepare before
+starting.
 
 Then the actual workshop starts, with the eponymous exercises related to
 Goal-Setting. At the end of this part, we'll have list of three to seven goals
