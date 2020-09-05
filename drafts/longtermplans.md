@@ -39,11 +39,17 @@ you are not organized bottom-up yet.
 {: .box-error}
 **Warning:** This Workshop assumes you have bottom-up control over your everday
 tasks. If not, it would be more useful for you to work through the material in
-reverse order. The caveat is, the parts are not written in an independent way.
+reverse order - which it is absolutely not written for. Alternatively, you
+could do the 'Snapshot of Your Life' exercise in Alex Vermeers
+[8760-hours][8760-hours] yearly planning material.
+Don't be fooled, it seems like it's only a few questions, but it can easily
+take several hours.
+<!--
+The caveat is, the parts are not written in an independent way.
 The order would be: starting with [Execution Systems](#execution), continue
 with [plannnig](#planning) and [figure out your goals](#setting-goals). After
 that, do planning again, and adapt your Execution Systems accordingly.
-
+-->
 
 ## Motivation
 You are probably here for one of three reasons:
@@ -56,19 +62,20 @@ You are probably here for one of three reasons:
 Whichever it is, I believe that you will find something useful here.
 
 Most exercises mentioned here are backed by scientific experiments or at least
-strong anecdotal evidence (doing this helped multiple people) to increase the
-chances of achieving your goals.
+strong anecdotal evidence (doing this helped multiple people) of increasing the
+chances of achieving goals.
 
-According to <!--[this][better-goals-1]--> [this][better-goals-2] study,
-simply writing down your goals increases your chances of achieving them
-considerably. As described [here][hold-accountable], having someone hold you
-accountable (similar to described in [this](#accountability-partners-10min)
-exercise) increases the probability of success again considerably.
+<!--[this][better-goals-1]-->
+According to [this][better-goals-2] study, simply writing down your goals
+increases your chances of achieving them considerably. As described
+[here][hold-accountable], simply having someone hold you accountable (as is
+done in [this](#accountability-partners-10min) exercise) increases the
+probability of success considerably.
 
 If you are interested in more goal-setting material, you might want to check
-out Alex Vermeers [8760 hours][8760-hours]-goal-setting workshop. His workshop
-starts with an 'Snapshot of Your Life'-Exercise, which is great if you are not
-organized bottom-up yet. I'm still thinking about how to adapt his
+out Alex Vermeers [8760 hours][8760-hours] exercises to plan the next year. His
+material starts with an 'Snapshot of Your Life'-Exercise, which is great if you
+are not organized bottom-up yet. I'm still thinking about how to adapt his
 [motivation](https://alexvermeer.com/getmotivated/) matrix as well.
 
 
@@ -79,12 +86,18 @@ We start out with an Introduction, where we set the goal for the workshop and
 how we intend to achieve them, including what we need to prepare before
 starting.
 
-Then the actual workshop starts, with the eponymous exercises related to
-Goal-Setting. At the end of this part, we'll have list of three to seven goals
-to work on.
+Then the actual workshop starts, with the eponymous exercises of [setting
+goals](#setting-goals).
+This should take you around an hour (invest more if you have the time).
+At the end of this part, we will have list of three to seven goals to focus on.
 
-After having set the goals, we start to create plans for them. For that, we
-need to clearly define our goals and the steps we need to take to get there.
+Before we actually [plan](#planning), we need to clearly define when we have
+reached our goals. After doing that, we figure out the steps we need to take to
+get there. This will take us about an hour, and the result will be a clear path
+with the next big and small steps necessary to reach that goal.
+
+You can skip [execution](#execution) if you have a good Execution System
+already.
 
 Then there is Execution, where we describe a robust system to get to the goals,
 step by step.
@@ -133,8 +146,19 @@ Some suggestions:
 Start when you feel ready and prepared.
 
 ---
+# Starting Point
+Thinking about lofty goals will only get you so far while drowning in your
+everyday tasks.
+
+---
 # Setting Goals
-We will start by visualizing the best and worst case scenarios of the near future.
+A carrot-and-stick approach tends to work wonders for humans. So we'll
+visualize both best- and worst-case scenarios of the future we want to find
+goals for. Reality tends to fall somewhere inbetween.
+
+After that, we'll figure out what your dreams are, and break them down for what
+reason you want to achieve them, and how important they are to you, until three
+to seven remain. Then we will continue with [planning](#planning)
 
 ## Imagine yourself being Successful
 Take a minute to visualize yourself being successful during the course of the
@@ -494,7 +518,7 @@ waking up, whichever comes first), and the third the day after tomorrow before
 11am. Ensure that you have new actions to work towards by then.
 
 
----
+
 # Execution
 
 > Ideas are cheap. It's all about execution.
@@ -585,9 +609,10 @@ to start.
 Find yourself an accountability partner and schedule the first meeting.
 
 {: .box-success}
-You might want to take a look at [Execution Systems](#setting-up-an-execution-system-30min)
+You might want to take a look at [Execution
+Systems](#setting-up-an-execution-system-30min)
 before actually doing so. It explains a similar system that is synergistic with
-Accountability Partners, if Implemented right.
+Accountability Partners, if implemented right.
 
 ## Setting up an Execution System (30min)
 Accountability Partners is in itself a basic Execution System, and works best
