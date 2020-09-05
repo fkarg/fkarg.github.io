@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Book: 7 Habits for Highly Effective People'
+title: 'Book: The 7 Habits of Highly Effective People'
 subtitle: Powerful Lessons in Personal Change
 tags:
 - book
