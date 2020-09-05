@@ -13,9 +13,10 @@ effective things I do every three months to keep me focused.
 This is an abridged culmination of the most effective exercises I found over
 the last few years. It does by far not include everything I came across, not
 even everything effective I came across. It's large enough the way it is right
-now already, and I'd prefer it to be smaller than larger.
+now already, and I'd much prefer it to be smaller rather than larger.
 
-While it is a prototype currently, I will hold and modified it soon.
+While it is a prototype currently, I will hold the workshop soon and modify it
+accordingly afterward.
 
 * TOC
 {:toc}
@@ -28,6 +29,7 @@ taking the least amount of time. Feel free to take and use what you deem
 useful, and disregard everything else.
 
 
+<!--
 ## Organization Bottom-Up
 Bottom-Up organization means that you have a clear list of your open next
 actions, what you have delegated to other people and when things are due. If
@@ -44,7 +46,7 @@ could do the 'Snapshot of Your Life' exercise in Alex Vermeers
 [8760-hours][8760-hours] yearly planning material.
 Don't be fooled, it seems like it's only a few questions, but it can easily
 take several hours.
-<!--
+
 The caveat is, the parts are not written in an independent way.
 The order would be: starting with [Execution Systems](#execution), continue
 with [plannnig](#planning) and [figure out your goals](#setting-goals). After
@@ -52,39 +54,45 @@ that, do planning again, and adapt your Execution Systems accordingly.
 -->
 
 ## Motivation
-You are probably here for one of three reasons:
+You are probably here for one of these reasons:
 
-1. You don't really have goals right now.
-2. You have goals, but you're making little progress on them.
-3. You think you could improve the way you set your goals.
-4. (Bonus) You are intrigued, and want to see if any of this can help you.
+- You don't really have goals right now.
+- You think you could improve the way you set your goals.
+- You have goals, but you're making little progress on them.
+- You are somewhat unorganized, and hope this workshop will bring you some
+  clarity to your goals and everyday life.
+- You are intrigued, and want to see if any of this can help you.
 
 Whichever it is, I believe that you will find something useful here.
 
-Most exercises mentioned here are backed by scientific experiments or at least
-strong anecdotal evidence (doing this helped multiple people) of increasing the
-chances of achieving goals.
+The main goal is to get you to write down your goals, and to find someone to
+hold you accountable for achieving them. A friend or family member is just
+fine.
 
 <!--[this][better-goals-1]-->
-According to [this][better-goals-2] study, simply writing down your goals
-increases your chances of achieving them considerably. As described
-[here][hold-accountable], simply having someone hold you accountable (as is
-done in [this](#accountability-partners-10min) exercise) increases the
-probability of success considerably.
+According to [this][better-goals-2] study, writing down goals increases the
+chance of achieving them considerably. Not just this study, but additional
+information [here][hold-accountable] suggests that having someone holding you
+accountable to your goals increases the probability of success considerably.
 
+<!--
 If you are interested in more goal-setting material, you might want to check
 out Alex Vermeers [8760 hours][8760-hours] exercises to plan the next year. His
 material starts with an 'Snapshot of Your Life'-Exercise, which is great if you
 are not organized bottom-up yet. I'm still thinking about how to adapt his
 [motivation](https://alexvermeer.com/getmotivated/) matrix as well.
-
+-->
 
 ## Content Overview
-There are four parts to this workshop.
+There are five parts to this workshop.
 
 We start out with an Introduction, where we set the goal for the workshop and
 how we intend to achieve them, including what we need to prepare before
 starting.
+
+First, we establish what the [starting point](#starting-point) is - by doing an
+inventory of your life. This will take about an hour. We need a clear picture
+of the current situation before changing course after all.
 
 Then the actual workshop starts, with the eponymous exercises of [setting
 goals](#setting-goals).
@@ -97,37 +105,41 @@ get there. This will take us about an hour, and the result will be a clear path
 with the next big and small steps necessary to reach that goal.
 
 You can skip [execution](#execution) if you have a good Execution System
-already.
+already. If not, you will be able to set one up and find yourself an
+accountability partner. This will take up to an hour as well.
 
-Then there is Execution, where we describe a robust system to get to the goals,
-step by step.
 
-The workshop is supposed to be held over the course of four hours, including
+The workshop is supposed to be held over the course of five hours, including
 breaks. You might want to dwell longer on individual exercises, to get the most
 out of them. I recommend doing the workshop uninterrupted, and with breaks.
 
 ## More than Setting Goals
 Setting goals is only the very first step to actually achieving them. While
-setting goals increases the chance of actually achieving them, a whole lot more
-can be done to increase chances for success. This includes planning the next
-steps or having a robust execution system. They don't guarantee success, but
-each technique increases chances of success tremendously.
+[setting goals increases the chance of actually achieving
+them][better-goals-2], a whole lot more can be done to increase chances for
+success. This includes planning the next steps and having a robust execution
+system. They don't guarantee success, but each exercise increases the chances
+of success.
 
-In fact, even if we're not consciously aware of it, we tend to have used
+<!--
+In fact, even if we are not consciously aware of it, we tend to have used
 similar methods on all goals we have achieved to date.
+-->
 
 If you noticed that something else works better for you, you should use your
 way instead. If you learned about some other method that you think might do
 well when integrated, don't hesitate to do so. I'm continuously refining this
-process - if you found something helpful for you, write me a comment or mail!
+process - if you found something helpful for you, send me a message!
 
 ## Goals and Values
-What we will not delve into, is how to find your values, what your why is,
-or what your principles are. Thinking about these things will give you more
-clarity - but they will naturally surface when thinking about and prioritizing
-goals. It might even be easier to first set some goals and derive purpose and
-values from them. In fact, just after having set your goals you should just
-write down the values that your goals seem to be guided from.
+What we will not dwelve into finding your values and principles.
+Thinking about them will give you more clarity - but they will naturally
+surface when thinking about and prioritizing goals. It might even be easier to
+first set some goals and derive purpose and values from them. In fact, just
+after having set your goals you should just write down the values and
+principles that your goals seem to be guided from. Apart from that, [The 7
+Habits of Highly Effective People][7-habits] has some good tips to finding
+values and principles.
 
 ## Preparation
 Before actually starting we need to make sure that we can focus without
@@ -137,18 +149,76 @@ Some suggestions:
 - Make sure your schedule is clear for the next few hours
 - Print lists of prior goals or tasks as reference
 - Turn off your phone, or put it in 'silent' mode
-- Tell others in your apartment that you are not to be disturbed for the next few hours
+- Tell others in your apartment that you are not to be disturbed for the next
+  few hours
 - Hang a sign on your door that you are not to be disturbed
-- Ensure that no notifications on your computer (from mails or texts) can distract you
-- Print out this page and get offline, to avoid distraction from the internet
+- Ensure that no notifications on your computer (from mails or texts) can
+  distract you
+- Print out this page (or the [presentation handout][presentation]) and go
+  offline, to avoid distraction from the internet
 - Get yourself some pens and paper to write on
+- Have a seperate piece of paper ready, to write down any thoughts that
+  distract you in the moment, to turn back to them later
 
 Start when you feel ready and prepared.
 
 ---
 # Starting Point
 Thinking about lofty goals will only get you so far while drowning in your
-everyday tasks.
+everyday tasks. So before setting any goals, we will attempt to get a clear
+picture of where you are right now. This is roughly guided from the 'Snapshot
+of your Life' exercise from Alex Vermeers [8760 hours][8760-hours] yearly
+planning material.
+
+## Initial Overview (5-10min)
+
+
+## Detailed Overview of Life Areas (40min)
+
+Categories:
+- Habits & Daily Routine
+- Career & work
+- Money & finances
+- Health & fitness
+- Mental development and education
+- Social life & relationships
+- Home & family
+- Emotions
+- Character & integrity
+- Life purpose & contribution
+- Spiritual development
+
+
+
+Categories:
+- Values & Purpose
+- Contribution & Impact
+- Location & Tangibles
+- Money & Finances
+- Career & Work
+- Health & Fitness
+- Education & Skill Development
+- Social Life & Relationships
+- Emotions & Well-being
+- Character & Identity
+- Productivity & Organization
+- Adventure & Creativity
+
+Questions to ask about the past:
+- What went well?
+- What did not go well?
+- Where did you try hard?
+- Where did you not try hard enough?
+
+Questions to ask about _right now_:
+- What is the current situation here?
+- How do things stand _right now_?
+- How would I summarize to a friend the status of this area?
+
+list of triggers in GTD pages 116-120
+
+
+
 
 ---
 # Setting Goals
@@ -834,3 +904,5 @@ General Process:
 [better-goals-1]: https://www.dominican.edu/sites/default/files/2020-02/gailmatthews-harvard-goals-researchsummary.pdf
 [better-goals-2]: http://www.goalband.co.uk/uploads/1/0/6/5/10653372/gail_matthews_research_summary.pdf
 [hold-accountable]: https://medium.com/the-mission/the-accountability-effect-a-simple-way-to-achieve-your-goals-and-boost-your-performance-8a07c76ef53a
+[7-habits]: ../2020-09-02-seven-habits/
+[presentation]: https://github.com/fkarg/things-to-talk-about/tree/master/longtermplans
