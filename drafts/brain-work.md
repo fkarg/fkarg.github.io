@@ -10,6 +10,9 @@ Review of Amy Branns book that 'Not only provides us with greater understanding
 on how the brain works, but also gives us useful tools on how to make the brain
 work for each of us'.
 
+I bought this book together with [other book] in the end of July, and read it
+in the end of August.
+
 * TOC
 {:toc}
 
@@ -22,12 +25,16 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 # Review
 ## Main Takeaways
+Would need to read my notes, nothing comes to mind spontaneously.
+
 ## Criticism
 - too many small mistakes (grammatical nonsense, missing words, duplicates, an
   'I' instead of an 'l') to ignore - every couple pages
 - feels 'Hollow': gender criticism against men
 - a bit too little structure
 - but still pretty useful tips and reminders
+- Many times a paragraph starts with a question but then fails to answer it,
+  only providing indirect clues and additional information
 
 ## Favourite Quotes
 
