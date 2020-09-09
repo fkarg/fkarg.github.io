@@ -129,7 +129,7 @@ since it focuses exclusively on personal productivity.
 ## 22 Coaching in Goal Boss
 ## 23 Keys to Leadership
 
-<!-- -->
+<!--
 
 
 Personal Coaching Worksheet:
@@ -145,3 +145,9 @@ Positives
 - Goals     Due date | Complete
 - Feedback
 - Schedule next Session
+-->
+
+---
+**Footnotes**:
+
+<a name="footnote1">1</a>: Text from footnote1.
