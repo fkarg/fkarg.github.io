@@ -15,7 +15,6 @@ What is Strategy? Why is it easy to get wrong and so hard to get right?
 # Strategy
 
 ## Structures in Life
-
 This is the first post of a 'Structures in Life' Series.
 
 
@@ -27,7 +26,6 @@ What do I mean by that.
 
 
 ## Concept-Space
-
 Okay, in my usage, concept-space here is a multidimensional space with similar
 concepts clustered in 'clouds'. In this particular instance, I am talking about
 concepts that correlate with states of the real world. For example: You, in the
@@ -172,7 +170,6 @@ least not further away.
 
 
 ## Using Strategies
-
 When having set the goal, the direction and some actions towards the goal, make
 sure to continuously update your direction slightly (e.g. from 'studying' to
 'study physics primarily' for an upcoming test), if conditions change. Also: at
@@ -181,23 +178,28 @@ new ones. Some actions may have been one-time applicable, and other
 possibilities may have opened up for you. So you need to update your set of
 actions bringing you towards your goal continuously. Can you do that?
 
+
 ---
-
-
 # Summary
+This was quite the abstract post, but I hope you could follow. Here is a quick
+summary:
 
-This was quite the abstract post, but I hope you could follow. Here is a quick summary: 
-
-- Concept-space are related concepts next to each other, different concepts further away
+- Concept-space are related concepts next to each other, different concepts
+  further away
 - Concepts form 'clusters' of related concepts
 - Goals are 'directions' to clusters in concept-space
 - Actions _always_ propel you in some direction (in concept-space)
-- Successful strategy is filtering from all available actions only those that get you closer to your goal
+- Successful strategy is filtering from all available actions only those that
+  get you closer to your goal
 - In real life, a lot of things are called Strategy, some entirely unrelated
-- A lot of things actually work like this, even though most people are not aware of this
-- Stagnant points in concept-space usually do not apply these concepts correctly (people as well as companies, ...)
-- If you are not successful for some time, maybe learn more about the world. Concepts also include possible directions you can think of.
-- Ask other people for help, different points of view are usually worth a _lot_.
+- A lot of things actually work like this, even though most people are not
+  aware of this
+- Stagnant points in concept-space usually do not apply these concepts
+  correctly (people as well as companies, ...)
+- If you are not successful for some time, maybe learn more about the world.
+  Concepts also include possible directions you can think of.
+- Ask other people for help, different points of view are usually worth a
+  _lot_.
 
 
 <!--
@@ -209,6 +211,3 @@ Advantages in Life
 Dynamics in Life
 Entropy in Life
 -->
-
-
-_Isn't it exciting, you can discover quite a few things by only thinking about them!_
