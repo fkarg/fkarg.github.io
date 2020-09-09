@@ -9,10 +9,10 @@ tags:
 Review of Eric Ries' 'mandatory reading for entrepreneurs'.
 
 This book has been on my wish list for some time now, as it has been recommended
-from all over the place. In some companies it apparently is something every new
-manager has to read. My interest is in startups as well, so this is a mandatory
-read at some point. I received it last Christmas and now got around to actually
-reading it in early July.
+from all over the place. Not just recommended, but without noticing I had
+attended multiple workshops teaching the core concepts without realizing it.
+I received it last Christmas and now got around to actually reading it in early
+July.
 
 
 * TOC
@@ -21,12 +21,12 @@ reading it in early July.
 ---
 # Content
 It's a myth that a great product, a brilliant team, amazing technology and an
-amazing idea at the right time is required to become successful. It's actually
-a process, that can be learned and thought. Entrepreneurship is a kind of
-Management - but while general management is enormously efficient, it does not
-apply to startups, a different form of management is required.
+amazing idea at the right time are required to become successful. It's actually
+a process, which means that it can be learned and thought. Entrepreneurship is
+a kind of Management - but while general management is enormously efficient, it
+does not apply to startups. A different form of management is required.
 
-'Lean Startup' management is build on Five Basic Principles:
+'Lean Startup' management is built on Five Basic Principles:
 1. Entrepreneurs are Everywhere - it will work with large companies and small
    ones
 2. Entrepreneurship is a form of Management - it is required from every Company
