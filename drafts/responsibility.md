@@ -242,6 +242,12 @@ I'm still not sure what to make out of this.
 ## What not to take away
 
 
+## Being at Fault and Taking Blame
+they are different:
+- you can always be at fault when you did something wrong
+- you are only to blame from your own perspective, everyone superior to you
+  needs to blame themselves as well
+
 ---
 **Footnotes**:
 
