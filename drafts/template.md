@@ -4,11 +4,12 @@ published: false
 title: 'Book: Title'
 subtitle: subtitle
 tags:
-- thoughts
+- book
 ---
 Short article description
 
-Short description of how I got interested in this topic, or some other story associated with how I read about it
+Short description of how I got interested in this topic, or some other story
+associated with how I read about it
 
 
 * TOC
@@ -21,9 +22,19 @@ Short description of how I got interested in this topic, or some other story ass
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 
+
+
 # Review
+
 ## Main Takeaways
+
 ## Criticism
+- [ ] Clearly structured?
+- [ ] Good Examples?
+- [ ] Clear Explanations?
+- [ ] Concise reasons why?
+- [ ] Misc, specific to book
+
 ## Favourite Quotes
 
 
