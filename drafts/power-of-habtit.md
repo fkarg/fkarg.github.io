@@ -1,12 +1,13 @@
 ---
 layout: post
 published: false
-title: 'Book: Title'
-subtitle: subtitle
+title: 'Book: The Power of Habit'
+subtitle: Why we do what do and how to change
 tags:
 - book
 ---
-Short article description
+Review of Charles Duhiggs 'right balance of intellectual seriousness [and]
+practical advice on how to break our bad habits'.
 
 Short description of how I got interested in this topic, or some other story
 associated with how I read about it
@@ -27,6 +28,12 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 # Review
 
 ## Main Takeaways
+- understanding habits in depth
+- the power of well-written stories
+- noticing habits in myself and others => next step: changing/modifying
+- relation to schelling-points
+- craving, responsibility in relation to habits, automatic behaviour. future
+  and in-the-moment actions
 
 ## Criticism
 - [ ] Clearly structured?
