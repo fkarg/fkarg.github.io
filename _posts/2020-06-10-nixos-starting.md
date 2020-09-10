@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: What I Wish I Knew When Learning NixOS
+cover-img: 'https://nixos.org/logo/nix-wiki.png'
 tags:
   - setup
 ---
