@@ -3,6 +3,7 @@ layout: post
 published: true
 title: 'Book: Zero to One'
 subtitle: Notes on Startups, or How to Build the Future
+cover-img: 'https://upload.wikimedia.org/wikipedia/en/d/d3/Zero_to_One.jpg'
 tags:
 - book
 ---

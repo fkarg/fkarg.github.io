@@ -3,6 +3,7 @@ layout: post
 published: true
 title: 'Book: The No Asshole Rule'
 subtitle: Building a Civilized Workplace and Surviving One That Isn't
+cover-img: 'https://upload.wikimedia.org/wikipedia/en/9/9e/The_No_Asshole_Rule.jpg'
 tags:
 - book
 ---

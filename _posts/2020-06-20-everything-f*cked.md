@@ -3,6 +3,7 @@ layout: post
 published: true
 title: 'Book: Everything is F*cked'
 subtitle: A Book About Hope
+cover-img: 'https://upload.wikimedia.org/wikipedia/en/b/b6/Book_cover_for_Everything_is_Fucked_a_Book_about_Hope_by_Mark_Manson.jpeg'
 tags:
   - book
 ---
