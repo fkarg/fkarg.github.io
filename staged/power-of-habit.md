@@ -186,7 +186,7 @@ enslaved to detrimental ones.
 
 > That's why signing kids up for piano lessons or sports is so important. It
 > has nothing to do with creating a good musician or a five-year-old soccer
-> start. [...] When you learn to force yourself to practice for an hour or run
+> star. [...] When you learn to force yourself to practice for an hour or run
 > fifteen laps, you start building self-regulatory strength.
 
 > Starbucks has dozens of routines that employees are taught to use during
