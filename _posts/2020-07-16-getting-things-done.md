@@ -3,6 +3,7 @@ layout: post
 published: true
 title: 'Book: Getting Things Done'
 subtitle: the art of stress-free productivity
+cover-img: 'https://upload.wikimedia.org/wikipedia/en/e/e1/Getting_Things_Done.jpg'
 tags:
   - book
 ---
