@@ -3,6 +3,7 @@ layout: post
 published: true
 title: 'Book: The Lean Startup'
 subtitle: How Constant Innovation Creates Radically Successful Businesses
+cover-img: 'https://upload.wikimedia.org/wikipedia/en/1/11/Lean_Startup.png'
 tags:
 - book
 ---
