@@ -44,7 +44,7 @@ Every startup has two feedback loops:
 - steering: Regularly adjusting the path and acceleration
 
 A plan can be executed flawlessly and still fail if assumptions are flawed
-('Death by Winning'). The goal of a startup is to figure out a valid business
+('[death by winning][death-winning]'). The goal of a startup is to figure out a valid business
 model step by step, testing and validating assumptions. Startups operate under
 conditions of extreme uncertainty.
 
@@ -62,8 +62,8 @@ operational and in good condition). Measuring productivity in a startup-context
 is easy: how much validated learning did you get for how much effort?
 
 "Just doing it" is achieving failure, you will succeed at seeing _if_ it works,
-but likely neither _that_ it works, nor why. Prefer experiments over
-interviews, and always build the smallest experiment possible.
+but likely neither _that_ it works, nor why. Prefer experiments to interviews,
+and always build the smallest experiment possible.
 
 You have to 'leaps of faith'-assumptions that need to be tested:
 - Value hypothesis: customers want this enough to pay money for
@@ -143,23 +143,24 @@ the answer and will only slow you down. Never split the difference in
 arguments.
 
 Having a decent training process for new hires is essential for them to start
-being productive. The required standardized processes and concept curriculum
-will help you keep a clear view as well. Assign a mentor to new members. More
-important is, however, to have a methodical approach to evolving processes.
+being productive. The requirement for standardized processes and concept
+curriculum will help you and everyone in your team to keep a clear view as
+well. Assign a mentor to new members. More important is, however, to have a
+methodical approach to evolving processes.
 
 Not just the training process, every process needs to be evaluated and adapted
 regularly - conditions change all the time. Speed alone is not the goal, you
 need to be directed toward your goal as well. Do not neglect quality, or you
 will pay in required time and resources.
 
-The five whys can help you to gradually evolve your processes. Ask 'Why' five
+The five why's can help you to gradually evolve your processes. Ask 'Why' five
 times when something went wrong, to uncover multiple layers of failure.
 Afterwards, invest proportionally to the errors' severity in fixing all
 uncovered problems.
 
 Be tolerant of mistakes the first time around, but never allow the same mistake
 to be made a second time. Someone with sufficient authority needs to oversee
-the five whys process, or it will devolve. Decide on simple but iron-clad rules.
+the five why's process, or it will devolve. Decide on simple but iron-clad rules.
 
 Remember that organizations have muscle-memory when making larger changes -
 involve impacted teams and customers as much as possible. Explain clearly why
@@ -231,7 +232,7 @@ sections to run experiments on, and having a robust way of measuring effects.
 
 #### Continuous Integration Everywhere
 Continuous integration/testing is part of the software world I come from, but
-what is described as part of Lean methodology drives that to it's extremes, and
+what is described as part of Lean methodology drives that to its extremes, and
 not just for software either. And I believe that gives me a good understanding
 why it works so well.
 
@@ -239,22 +240,22 @@ why it works so well.
 When applied correctly, the methodology of asking 'Why' five times can be quite
 transformational, I believe. Nothing ever goes wrong on just the level it
 appears to - there are always much more fundamental problems involved, and
-finding and fixing them is probably among the most energy intensive and
-effective things one can do. I learned a lot reading about it, and I can't wait
-to use it.
+finding and fixing them is among the most energy intensive and effective things
+one can do. I learned a lot from reading about them, and I can't wait to apply
+this process.
 
 #### Systems over People
 Focusing on systems instead of brilliant employees is quite brilliant.
-Establishing processes that amplify employee effectiveness are probably among
-the most useful things anyone can do. I believe the main issue is to figure
-them out and enforcing them.
+Establishing processes that amplify employee effectiveness are among the most
+effective things anyone can do. I believe the main issue is to figure them out
+and enforcing them. Then, [discipline creates freedom][discipline-freedom].
 
 
 #### Book recommendations
 There were books recommended in different sections of the book. While both the
 Innovators Dilemma and the Innovators Solution were recommended in multiple
 chapters, The Principles of Scientific Management were only mentioned and
-recommended near the end. Still, I'd really like to read them now.
+recommended near the end. Still, I'd really like to read them soon.
 
 Recommended Books:
 - The Innovators Dilemma/Solution by Clayton Christensen
@@ -262,11 +263,25 @@ Recommended Books:
 
 ---
 ## Criticism
-- [?] Clearly structured?
-- [y] Good Examples?
-- [y] Clear Explanations?
-- [y] Concise reasons why?
-- [?] Misc, specific to book
+I really liked how the book was structured, and that the explained model got
+linearly more complex and intricate. The explanations were clear and the
+examples good to bring their respective points across.
+
+The only thing I didn't like was that early on a lot of forward-looking
+references were made (mainly to chapter seven, iirc). But the chapter didn't
+reference any of the prior situations, so it kind of left these references
+hanging - or at least that was my perception.
+
+Overall the book is well written, and I learned a lot from reading the book.
+While it was no litarical masterpiece, newly acquired concepts was worth
+reading it. It's a good reference, and one I'll likely use often in the future.
+
+To be honest, I'd recommend it to everyone who creates value for a customer or
+the company - which is, I hope, everyone. Everyone should be able to get
+something out of it, and improve their work based on it. It will be, however,
+especially useful for everyone dealing with newly created companies or highly
+innovative teams.
+
 
 ## Favorite Quotes
 > Entrepreneurship is a kind of Management
@@ -326,3 +341,5 @@ Recommended Books:
 
 
 [mvp-slc]: https://blog.asmartbear.com/slc.html
+[death-winning]: https://fkarg.github.io/2020-XX-XX-goalboss
+[discipline-freedom]: https://fkarg.github.io/2020-XX-XX-extreme-ownership
