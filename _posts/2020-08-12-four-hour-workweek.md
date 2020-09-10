@@ -3,6 +3,7 @@ layout: post
 published: true
 title: 'Book: The Four Hour Workweek'
 subtitle: Escape the 9-5, live anywhere and join the New Rich
+cover-img: 'https://upload.wikimedia.org/wikipedia/en/c/c3/The_4-Hour_Workweek_%28front_cover%29.jpg'
 tags:
 - book
 ---
