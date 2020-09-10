@@ -3,14 +3,19 @@ layout: post
 published: false
 title: 'Book: Extreme Ownership'
 subtitle: How US Navy Seals Lead and Win
+cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427163007l/23848190.jpg'
 tags:
 - book
 ---
 Review of Jocko Willink and Leif Babins 'absolute best and most useful
 leadership book'.
 
-Short description of how I got interested in this topic, or some other story
-associated with how I read about it
+
+I received this book as a birthday present, together with [Rich Dad Poor
+Dad][rich-dad] and [The Personal MBA][personal-mba]. It has been on my wishlist
+for some time, and I've seen the ted talk and other interviews from Jocko
+Willink. That, and me facing leadership challenges drove me to basically read
+the book immediately.
 
 
 * TOC
@@ -32,6 +37,7 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 - 'Leadership is Ego-Management'
 - No bad Teams, only bad leaders
 - ownership of stuff, extreme.
+- discipline creates/equals freedom
 
 ## Criticism
 - [ ] Clearly structured?
@@ -47,3 +53,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 **Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
+
+[rich-dad]: ../2020-XX-XX-rich-dad-poor-dad/
+[personal-mba]: ../2020-XX-XX-personal-mba/
