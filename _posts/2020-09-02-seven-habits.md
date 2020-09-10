@@ -3,6 +3,7 @@ layout: post
 published: true
 title: 'Book: The 7 Habits of Highly Effective People'
 subtitle: Powerful Lessons in Personal Change
+cover-img: 'https://upload.wikimedia.org/wikipedia/en/a/a2/The_7_Habits_of_Highly_Effective_People.jpg'
 tags:
 - book
 ---
