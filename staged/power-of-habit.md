@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: The Power of Habit'
 subtitle: Why we do what do and how to change
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/7/7f/The_Power_of_Habit.jpg'
