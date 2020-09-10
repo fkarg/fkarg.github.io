@@ -64,6 +64,7 @@ centered about my editor, `vim`.
 Being a freelancer has its perks: you get to work at very interesting projects
 sometimes. Due to NDAs this list is necessarily incomplete. Things I've worked
 on in the past:
+- Consulting startups (I love to do these!)
 - Writing and maintaining a number of ansible roles
 - Python Script to consolidate distributed changelog patchfiles in one
   changelog file, to avoid merge conflicts
