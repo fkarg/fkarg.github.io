@@ -34,6 +34,7 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 - [ ] Clear Explanations?
 - [ ] Concise reasons why?
 - [ ] Misc, specific to book
+- [ ] Whom would I recommend reading this book?
 
 ## Favourite Quotes
 
