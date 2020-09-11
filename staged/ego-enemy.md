@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: Ego is the Enemy'
 subtitle: The Fight to Master Our Greatest Opponent
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/5/5c/Ego_Is_the_Enemy.jpg'
