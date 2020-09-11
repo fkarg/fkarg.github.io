@@ -10,9 +10,6 @@ tags:
 My rewritten review of the updated edition of David Allan's bestseller GTD -
 supposedly it 'can be hazardous to your old habits of procrastination'.
 
-* TOC
-{:toc}
-
 I heard about it for quite some time before reading the book. I was searching
 for a way to increase my productivity, and when I asked what 'system' others
 employed, basically the only answer I received was 'GTD, but with the variation
@@ -23,6 +20,9 @@ productive'. After this talk, the presenter saw it as part of his legacy to
 gift us multiple versions of the books 'getting things done' and 'Die
 Zettelkastenmethode' (a general knowledge organizing system). They were the
 main content of his talk, after all.
+
+* TOC
+{:toc}
 
 # Notes
 I wrote a massive amount of notes. It's an important topic and I really wanted
