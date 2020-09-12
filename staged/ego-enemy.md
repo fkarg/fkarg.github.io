@@ -255,6 +255,16 @@ a better understanding of myself
 > any fool can learn from experience. The trick is to learn from _other
 > people's_ experience. - Bismarck
 
+<!--
+# Publication Checklist:
+- [x] Added cover-image
+- [ ] checked with `pylanguagetool` for typos
+- [ ] checked with `homer` for deeper analysis
+- [ ] scheduled publication / linked in [books][books]
+- [ ] test-read actual rendered text
+- [ ] removed this comment
+- [ ] checked how it looks like on mobile
+-->
 
 [brain-work]: ../2020-XX-XX-brain-work
 [believe-own-myth]: ../2020-02-01-zero-to-one/#14-the-founders-paradox
