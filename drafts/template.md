@@ -39,10 +39,10 @@ as well as when I read it. Reference other book reviews if applicable.
 - [ ] Added cover-image
 - [ ] checked with `pylanguagetool` for typos
 - [ ] checked with `homer` for deeper analysis
-- [ ] scheduled publication / linked in [books][books]
 - [ ] test-read actual rendered text
-- [ ] removed this comment
 - [ ] checked how it looks like on mobile
+- [ ] scheduled publication / linked in [books][books]
+- [ ] removed this comment
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 - - -
