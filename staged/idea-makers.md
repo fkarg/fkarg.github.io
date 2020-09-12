@@ -7,8 +7,8 @@ cover-img: 'http://compressed.photo.goodreads.com/books/1468669633l/30618260.jpg
 tags:
 - book
 ---
-Review of Stephen Wolframs 'remarkable book with flashes of insight that will
-engage cumputer scientists, physicists, historians [...] as it weaves personal
+Review of Stephen Wolfram's 'remarkable book with flashes of insight that will
+engage computer scientists, physicists, historians [...] as it weaves personal
 stories into the deep import of how and what they calculated'.
 
 I bought this book after visiting the [Museum of Mathematics](museum) in New
@@ -30,21 +30,21 @@ The people written about (chapters) include:
 - John von Neumann
 - George Boole
 - Ada Lovelace
-- Gottfried Leibnitz
+- Gottfried Leibniz
 - Benoit Mandelbrot
 - Steve Jobs
 - Marvin Minsky
 - Russel Towle
-- Bertrand Russel & Alfread Whitehead
+- Bertrand Russel & Alfred Whitehead
 - Richard Crandall
 - Srinivasa Ramanujan
 - Solomon Golomb
 
 # Review
-While I've heard all of the names before, I knew some better than others.
-Noticably, I learned more about the people I knew better before reading the
+While I've heard all the names before, I knew some better than others.
+Noticeably, I learned more about the people I knew better before reading the
 book, than those whose name was all I knew. I learned something and it was
-really interesting.
+fascinating.
 
 ## Main Takeaways
 Reading about all of these people, or the impressions and research Stephen
@@ -54,8 +54,8 @@ today, it is fun sharing these tidbits of lore with friends in technical
 discussions about these people. Most technical people know a bit about them,
 and most (STEM) people enjoy learning additional weird details.
 
-Of course, he explains some details about his wolfram language every now and
-then and honestly, while I've used it (like probably every student with a STEM
+Of course, he explains some details about his wolfram language sometimes and
+honestly, while I've used it (like probably every student with a STEM
 major), I was not aware of how powerful the language was currently, or even
 what the goals were. It inspired me to read through what the wolfram language
 is capable of today, and I learned quite a few interesting bits there.
@@ -70,7 +70,7 @@ technical ones or the history of scientific progress. But I believe even if not
 specifically interested in history, an interest in science will still be
 rewarded generously here.
 
-The many references to the Wolfram langage were close to be annoying, but I can
+The many references to the Wolfram language were close to be annoying, but I can
 see that this is just part of Stephen Wolfram point of view.
 
 Apart from that, I would recommend everyone with an interest in science,
