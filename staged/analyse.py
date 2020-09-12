@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 from homer.analyzer import Article
 from homer.cmdline_printer import ArticlePrinter
