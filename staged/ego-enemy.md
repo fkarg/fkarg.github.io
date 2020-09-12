@@ -153,8 +153,8 @@ considered myself being humble, and to a degree I was. But certainly not as
 much as I'd wished to be.
 
 I've made significant progress to lessen the influence my ego has on me, but I
-guess it will be an ongoing fight, and one that will get harder as more success
-follows.
+guess it will be an ongoing fight, and one that will get harder, as more
+success follows.
 
 While it doesn't seem like much, it might be worth more than the takeaways of
 some other books.
@@ -175,7 +175,7 @@ That's because it regularly confronted me with ugly parts of my inner self, and
 facing them was not exactly easy all the time.
 
 I would absolutely recommend this book to every human. It certainly gave me
-a better understanding of myself
+a better understanding of myself.
 
 
 - [ ] Clearly structured?
@@ -185,7 +185,8 @@ a better understanding of myself
 - [ ] Misc, specific to book
 - [ ] Whom Would I recommend this book to?
 
-## Favourite Quotes
+
+## Favorite Quotes
 > [But] for people with ambitions, talents, drives, and potential to fulfill,
 > ego comes with the territory. Precisely [...] what drives us to the top of
 > these fields, makes us vulnerable to this darker side of the psyche.
@@ -205,7 +206,7 @@ a better understanding of myself
 > forget that failures shared the same trait.
 
 > It doesn't matter how talented you are, how great your connections are, how
-> much money you have. When you want to do something [...] you will be
+> much money you have. When you want to do something [...], you will be
 > subjected to treatment ranging from indifference to outright sabotage. Count
 > on it.
 
@@ -218,7 +219,7 @@ a better understanding of myself
 > We must prepare for pride and kill it early - or it will kill what we aspire
 > to.
 
-> You can't build a reputation on what you're going to do. - Hery Ford
+> You can't build a reputation on what you're going to do. - Henry Ford
 
 > We want so desperately to believe that those who have great empires _set out_
 > to build one. Why? So we can indulge in the pleasurable planning of ours.
@@ -237,7 +238,7 @@ a better understanding of myself
 > allow it to stick around.
 
 > Lacking the ability to examine ourselves, we reinvest our energy into exactly
-> the patterns of behaviour that caused our problems to begin with.
+> the patterns of behavior that caused our problems to begin with.
 
 > It is far better when doing good work is sufficient. In other words, the less
 > attached we are to _outcomes_, the better.
