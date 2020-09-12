@@ -19,6 +19,26 @@ it, but I still wanted to write a few sentences about it.
 * TOC
 {:toc}
 
+# Content
+In the book 'Idea Makers', Stephen Wolfram tells stories about either his
+personal interactions with very interesting people, or his research about
+others. The chapters include notable ideas of some of these people as well.
+The people written about (chapters) include:
+- Richard Feynman
+- Kurt Gödel
+- Alan Turing
+- John von Neumann
+- George Boole
+- Ada Lovelace
+- Gottfried Leibnitz
+- Benoit Mandelbrot
+- Steve Jobs
+- Marvin Minsky
+- Russel Towle
+- Bertrand Russel & Alfread Whitehead
+- Richard Crandall
+- Srinivasa Ramanujan
+- Solomon Golomb
 
 # Review
 While I've heard all of the names before, I knew some better than others.
