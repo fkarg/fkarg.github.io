@@ -891,6 +891,17 @@ General Process:
       group things together
 
 
+
+<!--
+# Publication Checklist:
+- [ ] Added cover-image
+- [ ] checked with `pylanguagetool` for typos
+- [ ] checked with `homer` for deeper analysis
+- [ ] scheduled publication / linked in [books][books]
+- [ ] test-read actual rendered text
+- [ ] removed this comment
+- [ ] checked how it looks like on mobile
+
 - - -
 **Footnotes**:
 -->
