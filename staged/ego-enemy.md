@@ -172,6 +172,9 @@ The examples given were good as well. It was easy to follow the stories and
 explanations, and easy to understand what they were trying to convey. And yet,
 I wished for more details, more depth.
 
+- slightly contradictory: _do_ instead of _be_ someone, and a few pages later:
+  _be_ someone to do things a certain way
+
 It was by no ways an easy read, even though everything was easy to understand.
 That's because it regularly confronted me with ugly parts of my inner self, and
 facing them was not exactly easy all the time.
