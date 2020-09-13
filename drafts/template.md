@@ -38,7 +38,9 @@ as well as when I read it. Reference other book reviews if applicable.
 # Publication Checklist:
 - [ ] Added cover-image
 - [ ] checked with `pylanguagetool` for typos
-- [ ] checked with `homer` for deeper analysis
+- [ ] checked with `homer` for compulsive hedgers
+- [ ] checked with `homer` for vague words
+- [ ] checked with `homer` for sentence length
 - [ ] test-read actual rendered text
 - [ ] checked how it looks like on mobile
 - [ ] scheduled publication / linked in [books][books]
