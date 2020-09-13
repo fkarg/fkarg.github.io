@@ -11,7 +11,7 @@ Review of Ryan Holidays 'valuable book for those in positions of authority'.
 
 
 I bought this book together with Amy Branns [Make Your Brain Work][brain-work]
-in late july. While I was purely curious about the other, I've heard about
+in late July. While I was purely curious about the other, I've heard about
 Ryan Holiday before, and read reviews about this book. Noticing that I am
 facing something of an ego myself, I wanted to up my inner fighting strength.
 
@@ -38,7 +38,7 @@ parts that are invisible to most. Don't compromise yourself, and _do_ instead
 of _attempt to be_.
 
 It's about _doing_ something, not about the recognition. Being a student places
-ego and ambition in someone elses hand. You need someone better to learn from,
+ego and ambition in someone else's hand. You need someone better to learn from,
 someone lesser to teach, and someone equal to compete with and challenge
 against. Being, and staying a student is the only sustainable way of continuous
 self-improvement.
@@ -47,10 +47,11 @@ Passion is form over function, while purpose is purely function. Be intimidated
 by what lies ahead. Humbled by its magnitude and determined to see it through
 regardless.
 
-Starting out, you can be sure that you're not nearly as good as you think you
-are, that you have an attitude that needs to be readjusted, and that most of
-what you think you know or learned in books and schools is out of date or
-wrong.
+Starting out, you can be sure about multiple things:
+- that you're not as good as you think you are
+- that you have an attitude that needs to be readjusted
+- that most of what you think you know or learned in books and schools is out
+  of date or wrong
 
 Be someone to create paths for others, this will reduce your ego at a critical
 point in your career, allowing you to absorb and learn. Help yourself by
@@ -90,9 +91,9 @@ increase your ego. Being human - having ego, ambition, self-interest, pride,
 dignity - is normal, but you need ways to keep them in check. Find a balance,
 or they will get the better of you. Have something more important to you.
 
-Seeing that you are only a small part of something immensely bigger, that, in
-fact, there is some deeper meaning behind it - allowing immersion in something
-bigger - will give you a better sense of yourself and your purpose.
+Seeing that you are only a small part of something gigantic, and that there is
+some deeper meaning behind it will give you a better sense of yourself and your
+purpose.
 
 You don't know about most successful people. You want it that way. Prosperity
 holds no guarantees.
@@ -110,9 +111,9 @@ in failure, ego accepts nothing less than full appreciation.
 
 Fulfilling our own standards fills us with pride and self-respect. With ego,
 effort is not enough - it needs recognition and compensation for effort. But
-you will be unappreciated, sabotaged, and will experience failures. We can't
-let externals determine the worth of something. It's on us. Doing the work is
-enough.
+you will be unappreciated, sabotaged, and experience failures. We can't let
+externals determine the worth of something - it is on us. Doing the work is
+enough - _has to be_ enough.
 
 Every truly successful person has hit rock bottom at some point prior to
 success. Reality clashed with their unsuspecting grand expectations. Often, ego
@@ -127,10 +128,11 @@ them, it is the same as being driven in a corner.
 
 Regularly ask yourself if this is who you want to be. No scoreboard can be the
 judge of success. Ego can only see the validation, it can't get better. Winning
-is not enough - Your potential, your absolut best is the metric to measure
-yourself against. It's more difficult, but ultimately a formula for resilience.
+is not enough - Your potential, your absolute best is the metric to measure
+yourself against. While it is more difficult, it is ultimately a formula for
+resilience.
 
-It's easy to hate. It's natural to lash out. But hate and bitterness tend to
+It is easy to hate and natural to lash out. But hate and bitterness tend to
 accomplish the opposite of what we want them to.
 
 Ego makes all the steps hard, but failure will make them permanent.
@@ -152,23 +154,23 @@ noticed it _everywhere_. And it sure explains some of my past failures. I
 considered myself being humble, and to a degree I was. But certainly not as
 much as I'd wished to be.
 
-I've made significant progress to lessen the influence my ego has on me, but I
-guess it will be an ongoing fight, and one that will get harder, as more
-success follows.
+I have made significant progress to lessen the influence my ego has on me, but
+it will be an ongoing fight. It will only get harder, as more success follows.
 
-While it doesn't seem like much, it might be worth more than the takeaways of
-some other books.
+While it doesn't seem like much, it is worth more than the takeaways of some
+other books.
 
 
 ## Criticism
 While the book is well-structured, I'm not sure if these short chapters were
 the best way structure the content. While they got their point across, it
-sometimes seemed like there was more to the facets than was being mentioned. On
-the other hand, the book was intense already, so maybe the shorter chapters are
-better for the amount of content.
+seemed like there was more to the facets than was being mentioned. On the other
+hand, the book was intense already, so maybe the shorter chapters are better
+for the amount of content.
 
 The examples given were good as well. It was easy to follow the stories and
-explanations, and easy to understand what they were trying to convey.
+explanations, and easy to understand what they were trying to convey. And yet,
+I wished for more details, more depth.
 
 It was by no ways an easy read, even though everything was easy to understand.
 That's because it regularly confronted me with ugly parts of my inner self, and
@@ -176,14 +178,6 @@ facing them was not exactly easy all the time.
 
 I would absolutely recommend this book to every human. It certainly gave me
 a better understanding of myself.
-
-
-- [ ] Clearly structured?
-- [ ] Good Examples?
-- [ ] Clear Explanations?
-- [ ] Concise reasons why?
-- [ ] Misc, specific to book
-- [ ] Whom Would I recommend this book to?
 
 
 ## Favorite Quotes
@@ -194,7 +188,7 @@ a better understanding of myself.
 > ego is there at the root of almost any conceivable problem and obstacle
 
 > _Having_ authority is not the same as _being_ an authority. _Having_ the
-> right, and _being_ rigth are not the same either.
+> right, and _being_ right are not the same either.
 
 > If your purpose is something larger than you - to accomplish something, to
 > prove something to yourself - then suddenly everything becomes both easier
@@ -259,8 +253,10 @@ a better understanding of myself.
 <!--
 # Publication Checklist:
 - [x] Added cover-image
-- [ ] checked with `pylanguagetool` for typos
-- [ ] checked with `homer` for deeper analysis
+- [x] checked with `pylanguagetool` for typos
+- [x] checked with `homer` for compulsive hedgers
+- [x] checked with `homer` for vague words
+- [x] checked with `homer` for sentence length
 - [ ] test-read actual rendered text
 - [ ] checked how it looks like on mobile
 - [ ] scheduled publication / linked in [books][books]
