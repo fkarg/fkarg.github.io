@@ -8,20 +8,23 @@ tags:
 ---
 Will Pembles 'practical guide to successful business leadership.'
 
-* TOC
-{:toc}
-
-I got this book when attending a coaching seminar with Will Pemble, afterwards
-he just gave out signed books to every attendee. That was pretty awesome. So
-this version is actually hand-signed by him and addressed to me personally. How
-cool is that?
+I got this book when attending a coaching seminar hosted by Will Pemble,
+afterwards he just gave out signed books to every attendee, which was pretty
+awesome. So this version is actually hand-signed by him and addressed to me
+personally. How cool is that?
 
 Apparently, you can get this book for free (you need to pay for shipping and
 handling though?) on [https://book.goalboss.com/](https://book.goalboss.com/).
-Might not even be a scam.
+Seems to be legit, and it might not even be a scam.
+
+Similarities to [Getting Things Done][gtd] (GTD) exist, but while GTD focuses
+on the individual, GOAL BOSS focuses on the team working together.
+
+* TOC
+{:toc}
 
 
-# Notes
+# Content
 
 ## 01 Death by Winning
 ## 02 Your First Two Questions
@@ -50,7 +53,19 @@ Might not even be a scam.
 
 # Review
 ## Main Takeaways
-
+- What's the goal? (or meeting agenda) and Who's the Leader?
+- meeting ground rules
+- Team Problem Solving
+- sandbag goals - aim for 80%
+- leadership keys: communication, planning, organizing, controlling, leading
+- you can always improve your communication
+- one-page company strategy for everyone
+- Leadership and On-Board-Terrorists
+- 7-habit stewardship delegation
+- kudos and internal recognition for good work
+- measuring everything
+- communicating expectations
+- coaching (last chapter, look it up in detail)
 
 
 ## Criticism
@@ -59,18 +74,18 @@ about 'Death by Winning' as a speaker at CloudFest2019. There, he told a
 different, and honestly, more believable, more human story. But I included the
 details about that there already.
 
-Overall, I learned a couple of things and will probably implement some of the
+Overall, I learned a couple of things and will probably implement some
 recommended actions as often as possible. It is clear that the focus is on
 _team_ productivity, and as such, is the first of this topic that I have read.
 
 It compliments quite well with [Getting Things Done](../getting-things-done/),
 since it focuses exclusively on personal productivity.
 
-## Favourite Quotes
+## Favorite Quotes
 
 
 
-< !--
+<!--
 
 # Chapters
 ## 01 Death by Winning
@@ -128,6 +143,7 @@ since it focuses exclusively on personal productivity.
 ## 21 Keys to Controlling
 ## 22 Coaching in Goal Boss
 ## 23 Keys to Leadership
+-->
 
 <!--
 
@@ -145,9 +161,35 @@ Positives
 - Goals     Due date | Complete
 - Feedback
 - Schedule next Session
--->
 
----
+- - -
 **Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
+
+-->
+
+
+<!--
+# Publication Checklist:
+- [ ] Added cover-image
+- [ ] checked with `pylanguagetool` for typos
+- [ ] checked with `homer` for compulsive hedgers
+- [ ] checked with `homer` for vague words
+- [ ] checked with `homer` for sentence length
+- [ ] test-read actual rendered text
+- [ ] checked how it looks like on mobile
+- [ ] scheduled publication / linked in [books][books]
+- [ ] removed this comment
+
+Footnote<sup>[1](#footnote1)</sup> among text.
+- - -
+**Footnotes**:
+
+<a name="footnote1">1</a>: Text from footnote1.
+-->
+
+
+
+
+[gtd]: ../2020-07-16-getting-things-done/
