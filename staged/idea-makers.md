@@ -85,11 +85,14 @@ I did not take any notes when reading it, so I'm afraid there will be no quotes.
 # Publication Checklist:
 - [x] Added cover-image
 - [x] checked with `pylanguagetool` for typos
-- [x] checked with `homer` for deeper analysis
-- [ ] test-read actual rendered text
-- [ ] checked how it looks like on mobile
+- [x] checked with `homer` for compulsive hedgers
+- [x] checked with `homer` for vague words
+- [x] checked with `homer` for sentence length
+- [x] test-read actual rendered text
+- [x] checked how it looks like on mobile
 - [ ] scheduled publication / linked in [books][books]
 - [ ] removed this comment
+
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 - - -
