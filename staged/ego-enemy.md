@@ -263,6 +263,7 @@ a better understanding of myself.
 - [x] test-read actual rendered text
 - [x] checked how it looks like on mobile
 - [ ] scheduled publication / linked in [books][books]
+- [ ] checked if linked in prior/upcoming posts
 - [ ] removed this comment
 -->
 

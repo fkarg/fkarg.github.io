@@ -44,6 +44,7 @@ as well as when I read it. Reference other book reviews if applicable.
 - [ ] test-read actual rendered text
 - [ ] checked how it looks like on mobile
 - [ ] scheduled publication / linked in [books][books]
+- [ ] checked if linked in prior/upcoming posts
 - [ ] removed this comment
 
 Footnote<sup>[1](#footnote1)</sup> among text.

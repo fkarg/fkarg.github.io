@@ -82,7 +82,8 @@ It compliments quite well with [Getting Things Done](../getting-things-done/),
 since it focuses exclusively on personal productivity.
 
 ## Favorite Quotes
-
+I am afraid there will be no quotes since I did not take any notes when reading
+it.
 
 
 <!--
@@ -180,6 +181,7 @@ Positives
 - [ ] test-read actual rendered text
 - [ ] checked how it looks like on mobile
 - [ ] scheduled publication / linked in [books][books]
+- [ ] checked if linked in prior/upcoming posts
 - [ ] removed this comment
 
 Footnote<sup>[1](#footnote1)</sup> among text.
