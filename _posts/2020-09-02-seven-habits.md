@@ -38,13 +38,13 @@ interpretation. Self-Improvement is always changing oneself first.
 - We tend to assume the world is the way we see it. But it is based on our
   perception which is based on our paradigms - facts exist, but we sometimes
   disagree in their interpretation.
-- for some things there is no short path: faking piano skills will not get you
+- For some things there is no short path: faking piano skills will not get you
   there. Same with psychological, emotional and character-based maturity.
 - Self-improvement is always changing oneself first.
 - For habits to work, we require the knowledge, skill and desire to do them, or
   we won't do them.
 - Maturity levels: dependence < independence < interdependence
-- important: relation of Production to Production Capacity. focusing on only
+- Important: relation of Production to Production Capacity. focusing on only
   one side will inevitably damage the other and ultimately both
 
 
@@ -95,18 +95,18 @@ search space) and provide a much more stable mentality.
     - friend/enemy
     - church
     - self
-- ideally a fluctuating combination, others are not stable
-- the main center needs to be principle-based however: this provides high
+- Ideally a fluctuating combination, others are not stable
+- The main center needs to be principle-based however: this provides high
   amounts of security, wisdom, guidance and power
-- paradigms are like pairs of glasses to 'see' through
-- a decent center is important as it guides everyday decisions
-- a principle-based center has several benefits
-- our values and principles surface when thinking about dying soon
-- when considering what matters most, we usually consider larger time frames
+- Paradigms are like pairs of glasses to 'see' through
+- A decent center is important as it guides everyday decisions
+- A principle-based center has several benefits
+- Our values and principles surface when thinking about dying soon
+- When considering what matters most, we usually consider larger time frames
   than today or tomorrow (the near future)
-- priming the [RAS][ras] can be massively powerful
-- identify goals for each of your roles - focus on results, not activities
-- reward and incentive structures need to be aligned with core values (in
+- Priming the [RAS][ras] can be massively powerful
+- Identify goals for each of your roles - focus on results, not activities
+- Reward and incentive structures need to be aligned with core values (in
   organizations)
 
 
@@ -121,27 +121,27 @@ something important helps to say 'no' to most other things.
 - the challenge is not to manage time, but to manage ourselves
 - we mostly react, instead of sufficiently prioritizing to do the important things.
 - To be effective, you need to say 'no' to urgent things sometimes.
-- have something important to say 'yes' to, to have the strength to say 'no' to
+- Have something important to say 'yes' to, to have the strength to say 'no' to
   most other things.
-- each week, schedule important results you want to achieve. Adapt each morning
+- Each week, schedule important results you want to achieve. Adapt each morning
   to changed conditions.
-- you need to adapt to changed circumstances - which poses no problem as long
+- You need to adapt to changed circumstances - which poses no problem as long
   as you stay true to your principles
 - Fourth generation management tools:
     - subordinating your schedule to your deepest values
     - identifies roles and key activities
     - gives greater context through weekly organizing with daily adaptation
-- stewardship delegation clears up-front mutual understanding and commitment
+- Stewardship delegation clears up-front mutual understanding and commitment
   regarding:
-    - desired results: focus on _what_ not _how_, visualize desired results and
+    - Desired results: focus on _what_ not _how_, visualize desired results and
       quality statements
-    - guidelines: as few as possible, but should include failure paths and
+    - Guidelines: as few as possible, but should include failure paths and
       formidable restrictions
-    - resources: human, financial, technological or organizational resources
+    - Resources: human, financial, technological or organizational resources
       that can be acquired
-    - accountability: setup standards of performance and evaluation metrics and
+    - Accountability: setup standards of performance and evaluation metrics and
       reporting times
-    - consequences: specification of both good and bad as results of evaluation
+    - Consequences: specification of both good and bad as results of evaluation
 
 
 ## Part Three: Public Victory
@@ -150,8 +150,8 @@ gets withdrawn constantly by unmet expectations. Many problems stem from
 relationship difficulties, and are not actually technical in nature.
 
 - Emotional bank account metaphor describing amount of trust in a relationship
-- it gets withdrawn constantly by unmet expectations
-- when overdrawn: walking in a minefield, tension everywhere
+- It gets withdrawn constantly by unmet expectations
+- When overdrawn: walking in a minefield, tension everywhere
 - Mayor deposits:
     - understanding the individual (an action might turn into a withdrawal
       otherwise)
@@ -160,7 +160,7 @@ relationship difficulties, and are not actually technical in nature.
     - clarifying expectations
     - showing personal integrity
     - apologizing sincerely for withdrawals
-- many problems in organizations stem from relationship difficulties at the
+- Many problems in organizations stem from relationship difficulties at the
   very top
 - Every problem is an opportunity to build emotional bank accounts
 
@@ -173,20 +173,20 @@ just yours.
 - Don't expect cooperation if your incentive structure is for competition
 - There are many different paradigms of human interaction, the best depends on
   the situation
-- however, in most situations everything that is not win/win is not viable
-- usually best: win/win or no deal. dependence creates one-sided resentment
+- However, in most situations everything that is not win/win is not viable
+- Usually best: win/win or no deal. dependence creates one-sided resentment
     malicious compliance will only hurt both parties
-- always helpful: abundance mentality with deep sense of worth and security
+- Always helpful: abundance mentality with deep sense of worth and security
   (there is enough for everyone)
 - Win/Win training: clear objectives and criteria, as well as a path to them
-- "managers letter": acting person writes one page summary of thorough
-  discussions with expectations, guidelines and resources + indicates when next
-  performance review takes place
+- "Managers Letter": acting person writes one page summary after a thorough
+  discussions with expectations, guidelines and resources, and indicates when
+  the next performance review takes place
 - Basic consequences: financial, psychic, opportunity, responsibility
-- align reward system with goals and values in your mission statement
+- Align reward system with goals and values in your mission statement
 - Win/Win: makes person accountable to perform and evaluate results and
   provides consequences as natural result of performance.
-- arrive at Win/Win by separating the person from the problem and focus on
+- Arrive at Win/Win by separating the person from the problem and focus on
   interests not positions, insist on external objective agreed criteria
     - see the problem from the other perspective
     - identify key issues and concerns
@@ -200,21 +200,21 @@ training on how to communicate with other humans. Effective communication helps
 ourselves to become much more efficient, understanding others helps to work
 with them better.
 
-- often, we don't listen to other people and want to provide a quick fix
-- we communicate most of our waking hours, and yet we received no specific
+- Often, we don't listen to other people and want to provide a quick fix
+- We communicate most of our waking hours, and yet we received no specific
   training to understand other human beings
-- effective interaction requires understanding
-- it is easier to trust actions and integrity than words
-- while we want to be understood, we don't attempt to understand others
+- Effective interaction requires understanding
+- It is easier to trust actions and integrity than words
+- While we want to be understood, we don't attempt to understand others
 - Empathetic listening: rephrase content and reflect feelings
-- gives people psychological air to open up and accept help
-- we tend to have different and incompatible perception - none of them are
+- Gives people psychological air to open up and accept help
+- We tend to have different and incompatible perception - none of them are
   wrong, but it makes communication harder
 - _Effective_ presentations take effort and time, but are usually worth it.
-- when interacting, there is a lot of things you can't control - but you can
+- When interacting, there is a lot of things you can't control - but you can
   always seek first to understand.
-- one-on-one sessions help tremendously
-- seek first to understand and it will open doors for synergy
+- One-on-one sessions help tremendously
+- Seek first to understand and it will open doors for synergy
 
 
 ### Habit 6: Synergize
@@ -223,25 +223,25 @@ communicate well. Only then is it possible to solve both of your problems.
 While synergy is close to chaos, it can provide the most effective solutions.
 
 - Synergy: most catalytic, most empowering, most unifying, most exciting
-    - also most terrifying, because it's unclear where it will lead
+    - they are also the most terrifying, because it's unclear where it will lead
 - Value differences, build on strength   and compensate for weaknesses
 - required: high tolerance for ambiguity and security to not find creative
   enterprises unnerving and unpleasant (or high need for structure, certainty
   or predictability)
-- best classes are on the verge of chaos, with enough trust and openness to
+- The best classes are on the verge of chaos, with enough trust and openness to
   enable synergy to unfold
-- chaos is a killed spirit of creativity and enterprise
+- Chaos is a killed spirit of creativity and enterprise
 - Have a mission statement, make clear what it is about (and not)
-- requires high emotional bank accounts to emerge
-- it might seem everything but 'efficient', but it's the only way to get
+- Requires high emotional bank accounts to emerge
+- It might seem everything but 'efficient', but it's the only way to get
   transformational and much more effective and better solutions for everyone
 - There are always third alternatives
 - You need to try to understand the other party's problem as well, before you
   can solve both (their and your) problems
-- listen to both the factual and the emotional when communicating
-- instead of increasing driving forces, focus on reducing restraining forces
+- Listen to both the factual and the emotional when communicating
+- Instead of increasing driving forces, focus on reducing restraining forces
   first
-- something synergistic can happen with your enemies as well, if you both try
+- Something synergistic can happen with your enemies as well, if you both try
   to listen and understand earnestly
 
 
@@ -251,22 +251,22 @@ While synergy is close to chaos, it can provide the most effective solutions.
 dimension in a balanced way to be a sustainable upward spiral. Money is
 important as well, but should never be your focus.
 
-- Don't just be busy sawing all the time - you need to sharpen the saw every
+- Don't just be busy sawing all the time - you need to sharpen the saw
   now and then.
 - Four dimensions of renewal:
     - physical: exercise, nutrition, stress management
     - spiritual: Value clarification and commitment, study & meditation
     - mental: reading, visualizing, planning, writing
     - social/emotional: service, empathy, synergy, intrinsic security
-- most use these dimensions, though they may be called differently
-- physical: doesn't really matter what, but it is important to do _something_
-- spiritual: living an active commitment to your value center
-- mental: mostly through formal education, but always continue learning
-- social/emotional: serving others, living service creates ample purpose
-- needs to be balanced - and the same is true for organizations
-- earning money is necessary, but a bigger purpose is required to sustain it
-- necessary for balanced renewal
-- continuous improvement is an upward spiral
+- Most use these dimensions, though they may be called differently
+- Physical: doesn't really matter what, but it is important to do _something_
+- Spiritual: living an active commitment to your value center
+- Mental: mostly through formal education, but always continue learning
+- Social/emotional: serving others, living service creates ample purpose
+- Needs to be balanced - and the same is true for organizations
+- Earning money is necessary, but a bigger purpose is required to sustain it
+- Necessary for balanced renewal
+- Continuous improvement is an upward spiral
 
 
 ### Afterword
