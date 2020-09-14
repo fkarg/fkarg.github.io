@@ -256,8 +256,8 @@ they are different:
 [ch90]: https://hpmor.com/chapter/90
 [circle of influence]: 
 [role]: https://en.wikipedia.org/wiki/Role
-[7-habits]: ../2020-XX-XX-7-habits/
-[gtd]: ../2020-XX-XX-getting-things-done/
+[7-habits]: ../2020-09-02-seven-habits/
+[gtd]: ../2020-07-16-getting-things-done/
 [signaling]: https://wiki.lesswrong.com/wiki/Signaling
 [uniform-police]: https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00062/full
 [small-identity]: https://medium.com/mind-cafe/keep-your-identity-small-6cf5a3661a35
