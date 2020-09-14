@@ -3,9 +3,19 @@ layout: post
 published: false
 title: Dotfile-Management with Ansible
 subtitle: even if you don't know ansible yet
+cover-img: 'Todo: search for cover-image'
 tags:
 - setup
 ---
+Short article description
+
+Short description of where I got the book from and how I got interested in it,
+as well as when I read it. Reference other book reviews if applicable.
+
+
+* TOC
+{:toc}
+
 
 ## Explaining the current state / problem we are going to solve
 My main operating system is NixOS. Both my primary laptop as well as my desktop
@@ -343,11 +353,30 @@ arguments.
 
 -->
 
----
+
+
+<!--
+# Publication Checklist:
+- [ ] Added cover-image
+- [ ] checked with `pylanguagetool` for typos
+- [ ] checked with `homer` for compulsive hedgers
+- [ ] checked with `homer` for vague words
+- [ ] checked with `homer` for sentence length
+- [ ] test-read actual rendered text
+- [ ] checked how it looks like on mobile
+- [ ] scheduled publication / linked in [books][books]
+- [ ] checked if linked in prior/upcoming posts
+- [ ] removed this comment
+
+Footnote<sup>[1](#footnote1)</sup> among text.
+- - -
 **Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
+-->
 
+
+---
 [ansible101]: https://www.youtube.com/watch?v=goclfp6a2IQ
 [copy]: https://docs.ansible.com/ansible/latest/modules/copy_module.html
 [file]: https://docs.ansible.com/ansible/latest/modules/file_module.html
