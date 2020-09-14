@@ -3,6 +3,7 @@ layout: post
 published: false
 title: 'Book: The Owners Manual for the Brain'
 subtitle: subtitle
+cover-img: 'Todo: search for cover-image'
 tags:
 - books
 ---
@@ -33,19 +34,42 @@ three humour deminsions in Jokes:
 => chuckle at yourself when making mistakes, do not blame others
 
 
-# Notes
-## Chapters / Parts
-### Subchapters
-
-Footnote<sup>[1](#footnote1)</sup> among text.
+# Content
+## Part One
+## Part Two
+## Part Three
 
 # Review
 ## Main Takeaways
 ## Criticism
+- [ ] Clearly structured?
+- [ ] Good Examples?
+- [ ] Clear Explanations?
+- [ ] Concise reasons why?
+- [ ] Misc, specific to book
+- [ ] Whom would I recommend reading this book?
+
 ## Favourite Quotes
 
+<!--
+# Publication Checklist:
+- [ ] Added cover-image
+- [ ] checked with `pylanguagetool` for typos
+- [ ] checked with `homer` for compulsive hedgers
+- [ ] checked with `homer` for vague words
+- [ ] checked with `homer` for sentence length
+- [ ] test-read actual rendered text
+- [ ] checked how it looks like on mobile
+- [ ] scheduled publication / linked in [books][books]
+- [ ] checked if linked in prior/upcoming posts
+- [ ] removed this comment
 
----
-#### Footnotes
+Footnote<sup>[1](#footnote1)</sup> among text.
+- - -
+**Footnotes**:
 
 <a name="footnote1">1</a>: Text from footnote1.
+-->
+
+---
+[books]: ../2019-09-12-books/
