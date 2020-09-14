@@ -230,9 +230,7 @@ do not seem to be able to _be_ in discomfort, no matter how small. My guess is
 that it will get worse, and then ... what?
 
 
-
-
-
+---
 [bluedot]: https://science.sciencemag.org/content/360/6396/1465
 [bluedot2]: https://medium.com/s/story/when-blue-becomes-rare-purple-becomes-blue-92472cacce12
 [Logotherapy]: https://en.wikipedia.org/wiki/Logotherapy

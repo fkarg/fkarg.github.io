@@ -551,7 +551,7 @@ probably keep it that way.
 - 2020-05-28: updated criticism
 
 
-
+---
 [cave]: https://www.lesswrong.com/posts/MBpj3QKfPg9xKNeXW/the-robbers-cave-experiment
 [power]: https://en.wikipedia.org/wiki/Power_law
 [jobs mensa]: https://www.reddit.com/r/apple/comments/6mvmu6/funny_steve_jobs_story_from_scott_forstall/

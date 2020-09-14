@@ -149,5 +149,4 @@ even get down to the four hour workweek, though I would not bet on it.
 
 
 ---
-
 [nonstandard-toolbox]: https://www.fromaitozombies.eu/Rationality_From_AI_to_Zombies.pdf

@@ -519,6 +519,7 @@ Those were the ones that struck me, at least. Well, maybe include the two from
 the last chapter as well.
 
 
+---
 [wiki]: https://en.wikipedia.org/wiki/The_No_Asshole_Rule
 [vending machine]: https://www.lesswrong.com/posts/DB6wbyrMugYMK5o6a/correspondence-bias
 [sunk cost]: https://en.wikipedia.org/wiki/Escalation_of_commitment

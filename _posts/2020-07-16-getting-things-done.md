@@ -985,6 +985,7 @@ A biotech-manager about her to-do-list after one of his seminars.
 > have you envisioned wild success about anything lately?
 
 
+---
 [no-asshole]: ../2020-02-28-book-the-no-asshole-rule
 [zero-one]: ../2020-02-01-zero-to-one
 [todotxt]: http://todotxt.org/

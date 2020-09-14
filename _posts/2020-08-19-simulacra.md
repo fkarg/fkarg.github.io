@@ -212,6 +212,7 @@ you. If you want to help others, it is necessary to _convince_ them that you
 are their best choice, or at least the best they can get.
 
 
+---
 [simulacra]: https://thezvi.wordpress.com/2020/06/15/simulacra-and-covid-19/
 [original]: https://www.lesswrong.com/posts/Z5wF8mdonsM2AuGgt/negative-feedback-and-simulacra
 [difference]: https://www.lesswrong.com/posts/yqEh9ewKwzig4kzyx/what-is-meant-by-simulcra-levels?commentId=62QE96aqwyLq98mM2#62QE96aqwyLq98mM2

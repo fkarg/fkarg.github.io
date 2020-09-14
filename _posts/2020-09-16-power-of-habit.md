@@ -214,5 +214,6 @@ enslaved to detrimental ones.
 
 > Once you know a habit exists, you have responsibility to change it.
 
+---
 [7-habits]: ../2020-09-02-seven-habits/
 [schelling]: https://www.lesswrong.com/posts/Kbm6QnJv9dgWsPHQP/schelling-fences-on-slippery-slopes
