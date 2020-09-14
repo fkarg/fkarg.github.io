@@ -270,10 +270,15 @@ important as well, but should never be your focus.
 
 
 ### Afterword
-- introduced special keywords: "was that a deposit or withdrawal", "is that
-  reactive or proactive", "is that synergistic or a compromise", "is it win/win
-  or win/lose or lose/win", "is it putting first things first", "is that
-  beginning with the means in mind or the end in mind"
+It's awesome to see people discussing using the newly introduced special
+keywords: 
+- "Was that a deposit or withdrawal?"
+- "Is that reactive or proactive?"
+- "Is that in your circle of influence?"
+- "Is that synergistic or a compromise?"
+- "Is it win/win or win/lose or lose/win?"
+- "Is it putting first things first?"
+- "Is that beginning with the means in mind or the end in mind?"
 
 # Review
 I really liked the book. It gives a new sense of clarity to the muddy waters of
