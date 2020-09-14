@@ -58,3 +58,18 @@ I have a few things in mind I want to write about, including but not limited to:
   things we now can look at? Is that something to be grateful to them for?
   Since, they do not exist anymore and they would have done that already / will
   not change their behaviour anymore even with my gratitude.
+- Every moment you think about not doing something. If you do not do it now,
+  you will not do it ever. "Always or Never" Basically: every moment is a
+  schelling point to do something, and doing it _now_ will be a good indicator
+  about doing it in the future.
+- Do you wish to turn back time sometimes? Of course, there is the implicit
+  assumption that you can keep the memories of your failure. But what if you
+  can't, but could turn back time? The main question to explore here is: Would
+  you act different in any way? -> How much of our behavior is actually
+  deterministic?
+- insulin and all its effects and stuff
+- Basic question: If our Reality is a simulation, would biological life be
+  noticable in some way? Would its existence require more resources than just
+  simulating the surroundings? What about our technologies, computers and
+  stuff?  Does it take more computational power to simulate a part of a world
+  in which those computations from our side exist or not?
