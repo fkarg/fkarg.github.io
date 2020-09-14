@@ -1,4 +1,3 @@
 nltk==3.4.1
-pylanguagetool
 markdown2
 beautifulsoup4
