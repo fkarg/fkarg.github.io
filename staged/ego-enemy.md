@@ -260,8 +260,8 @@ a better understanding of myself.
 - [x] checked with `homer` for compulsive hedgers
 - [x] checked with `homer` for vague words
 - [x] checked with `homer` for sentence length
-- [ ] test-read actual rendered text
-- [ ] checked how it looks like on mobile
+- [x] test-read actual rendered text
+- [x] checked how it looks like on mobile
 - [ ] scheduled publication / linked in [books][books]
 - [ ] removed this comment
 -->
