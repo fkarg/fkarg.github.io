@@ -343,5 +343,5 @@ innovative teams.
 
 ---
 [mvp-slc]: https://blog.asmartbear.com/slc.html
-[death-winning]: https://fkarg.github.io/2020-XX-XX-goalboss
-[discipline-freedom]: https://fkarg.github.io/2020-XX-XX-extreme-ownership
+[death-winning]: ../2020-XX-XX-goalboss
+[discipline-freedom]: ../2020-XX-XX-extreme-ownership
