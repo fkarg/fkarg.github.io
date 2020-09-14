@@ -79,7 +79,8 @@ it.
 
 
 ## Favorite Quotes
-I did not take any notes when reading it, so I'm afraid there will be no quotes.
+I am afraid there will be no quotes since I did not take any notes when reading
+it.
 
 <!--
 # Publication Checklist:
