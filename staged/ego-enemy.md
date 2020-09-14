@@ -268,4 +268,4 @@ a better understanding of myself.
 
 [brain-work]: ../2020-XX-XX-brain-work
 [believe-own-myth]: ../2020-02-01-zero-to-one/#14-the-founders-paradox
-[habits]: ../2020-XX-XX-power-of-habit
+[habits]: ../2020-09-16-power-of-habit

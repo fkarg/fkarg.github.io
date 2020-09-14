@@ -424,7 +424,7 @@ I can only recommend you to read this book, if you haven't already.
 ---
 [zero-one]: ../2020-02-01-zero-to-one
 [fcked]: ../2020-06-20-everything-f-cked
-[habit]: ../2020-XX-XX-power-of-habit
+[habit]: ../2020-09-16-power-of-habit
 [extreme]: ../2020-XX-XX-extreme-ownership
 [ego]: ../2020-XX-XX-ego-enemy
 [carnegie]: ../2020-XX-XX-win-friends-influence-people
