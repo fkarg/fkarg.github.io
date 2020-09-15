@@ -36,16 +36,30 @@ as well as when I read it. Reference other book reviews if applicable.
 
 <!--
 # Publication Checklist:
-- [ ] Added cover-image
-- [ ] checked with `pylanguagetool` for typos
-- [ ] checked with `homer` for compulsive hedgers
-- [ ] checked with `homer` for vague words
-- [ ] checked with `homer` for sentence length
-- [ ] test-read actual rendered text
-- [ ] checked how it looks like on mobile
-- [ ] scheduled publication / linked in [books][books]
-- [ ] checked if linked in prior/upcoming posts
-- [ ] removed this comment
+- [ ] Content
+    - [ ] Added cover-image
+    - [ ] each paragraph describes at most one idea
+    - [ ] the beginning of each paragraph describes
+          the information contained in the paragraph
+    - [ ] there are sufficient examples for new concepts
+    - [ ] the motivation for reading the post is clearly described
+    - [ ] the beginning of the post is clear and a good description
+    - [ ] the end is on a high note/positive outlook or
+          inspirational call to action
+    - [ ] Tell them what you're going to tell them. Then tell them.
+          Finally, tell them what you told them. - Unknown
+- [ ] Grammar and Typos
+    - [ ] checked with `pylanguagetool` for typos
+    - [ ] checked with `homer` for compulsive hedgers
+    - [ ] checked with `homer` for vague words
+    - [ ] checked with `homer` for sentence length
+- [ ] Details
+    - [ ] test-read actual rendered text
+    - [ ] checked how it looks like on mobile
+- [ ] Publication
+    - [ ] scheduled publication / linked in [books][books]
+    - [ ] checked if linked in prior/upcoming posts
+    - [ ] removed this comment
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 - - -
