@@ -63,11 +63,3 @@ propagate, is when you receive the most value. But all the connections that are
 made, in full specificity, mentally or otherwise, would fill more than just one
 book. But you are happy with the book, since it contains the core idea. You are
 now an author, an 'authority' on this principle, on this layer of reality.
-
-
----
-#### Footnotes
-
-<a name="footnote1">1</a>: Text from footnote1.
-
-
