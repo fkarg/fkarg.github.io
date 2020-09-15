@@ -73,3 +73,23 @@ I have a few things in mind I want to write about, including but not limited to:
   simulating the surroundings? What about our technologies, computers and
   stuff?  Does it take more computational power to simulate a part of a world
   in which those computations from our side exist or not?
+- 'dealing with absolutes' as benefits for technicals in rapid prototyping
+- "Why should it be different: having more money/delbt, wanting to live as a
+  wizard in another world if you're not something similar here?"
+- Admitting that you made a mistake will start giving you more respect the
+  minute someone notices something amiss. Regaining trust starts there, it will
+  only decrease otherwise. Not doing so are signs of arrogance, insecurity and
+  idiocity
+- Basic Idea: Wikipedia-style 'explainer', but selecting explanations based on
+  other 'configured' knowledge. requires a 'knowledge-tree' with basic
+  concepts based on that, selects 'appropriate' explanation with additonal
+  selection of further knowledge possible. collect links to further resoures
+  and stuff maybe allow for 'certificates' might be possible to create a
+  'real-life'-skilltree, or at least knowledgetree here
+- The top is not specially reserved for some people, but for anyone who is
+  willing to pay the price required to get there. Everyone _can_ get to the
+  top. But to get there, you need to put in the effort. _extreme_ effort. Make
+  people sick and angry with how dedicated you are. But if you don't have
+  something you are extreme about - and you are not putting in extreme "what
+  the fuck is wrong with that guy" levels of dedication, then you will not have
+  the escape velocity you need to find deliverance from the "decent" zone.
