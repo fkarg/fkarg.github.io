@@ -426,7 +426,7 @@ I can only recommend you to read this book, if you haven't already.
 [fcked]: ../2020-06-20-everything-f-cked
 [habit]: ../2020-09-16-power-of-habit
 [extreme]: ../2020-XX-XX-extreme-ownership
-[ego]: ../2020-XX-XX-ego-enemy
+[ego]: ../2020-09-23-ego-enemy
 [carnegie]: ../2020-XX-XX-win-friends-influence-people
 [ras]: https://medium.com/desk-of-van-schneider/if-you-want-it-you-might-get-it-the-reticular-activating-system-explained-761b6ac14e53
 [MSB]: https://msb.franklincovey.com/
