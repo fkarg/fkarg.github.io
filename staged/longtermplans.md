@@ -15,8 +15,6 @@ the last few years. It does by far not include everything I came across, not
 even everything effective I came across. It's large enough the way it is right
 now already, and I'd much prefer it to be smaller rather than larger.
 
-While it is a prototype currently, I will hold the workshop soon and modify it
-accordingly afterward.
 
 * TOC
 {:toc}
@@ -53,6 +51,7 @@ with [plannnig](#planning) and [figure out your goals](#setting-goals). After
 that, do planning again, and adapt your Execution Systems accordingly.
 -->
 
+
 ## Motivation
 You are probably here for one of these reasons:
 
@@ -75,13 +74,6 @@ chance of achieving them considerably. Not just this study, but additional
 information [here][hold-accountable] suggests that having someone holding you
 accountable to your goals increases the probability of success considerably.
 
-<!--
-If you are interested in more goal-setting material, you might want to check
-out Alex Vermeers [8760 hours][8760-hours] exercises to plan the next year. His
-material starts with an 'Snapshot of Your Life'-Exercise, which is great if you
-are not organized bottom-up yet. I'm still thinking about how to adapt his
-[motivation](https://alexvermeer.com/getmotivated/) matrix as well.
--->
 
 ## Content Overview
 There are five parts to this workshop.
@@ -121,10 +113,9 @@ success. This includes planning the next steps and having a robust execution
 system. They don't guarantee success, but each exercise increases the chances
 of success.
 
-<!--
-In fact, even if we are not consciously aware of it, we tend to have used
-similar methods on all goals we have achieved to date.
--->
+You can skip the [Starting Point](#starting-point) and [Execution](#execution)
+exercises if you have a working [GTD][gtd-book]-like system - but you would
+still benefit from them.
 
 If you noticed that something else works better for you, you should use your
 way instead. If you learned about some other method that you think might do
@@ -162,6 +153,7 @@ Some suggestions:
 
 Start when you feel ready and prepared.
 
+
 ---
 # Starting Point
 Thinking about lofty goals will only get you so far while drowning in your
@@ -171,6 +163,21 @@ of your Life' exercise from Alex Vermeers [8760 hours][8760-hours] yearly
 planning material.
 
 ## Initial Overview (5-10min)
+
+Questions to ask about the past:
+- What went well?
+- What did not go well?
+- Where did you try hard?
+- Where did you not try hard enough?
+
+Questions to ask about _right now_:
+- What is the current situation here?
+- How do things stand _right now_?
+- How would I summarize to a friend the status of this area?
+
+
+- what are your current roles?
+- for each role, what tasks are not yet done?
 
 
 ## Detailed Overview of Life Areas (40min)
@@ -203,17 +210,6 @@ Categories:
 - Character & Identity
 - Productivity & Organization
 - Adventure & Creativity
-
-Questions to ask about the past:
-- What went well?
-- What did not go well?
-- Where did you try hard?
-- Where did you not try hard enough?
-
-Questions to ask about _right now_:
-- What is the current situation here?
-- How do things stand _right now_?
-- How would I summarize to a friend the status of this area?
 
 list of triggers in GTD pages 116-120
 
@@ -822,7 +818,7 @@ to improve the goal setting experience.
 
 
 
-<!-- Footnote<sup>[1](#footnote1)</sup> among text.
+<!--
 
 General Process:
 
@@ -889,26 +885,45 @@ General Process:
     - Meeting new people
     - notice/write down situations you were the most energized and engaged in,
       group things together
-
+-->
 
 
 <!--
 # Publication Checklist:
-- [ ] Added cover-image
-- [ ] checked with `pylanguagetool` for typos
-- [ ] checked with `homer` for compulsive hedgers
-- [ ] checked with `homer` for vague words
-- [ ] checked with `homer` for sentence length
-- [ ] test-read actual rendered text
-- [ ] checked how it looks like on mobile
-- [ ] scheduled publication / linked in [books][books]
-- [ ] removed this comment
+- [ ] Content
+    - [ ] Added cover-image
+    - [ ] each paragraph describes at most one idea
+    - [ ] the beginning of each paragraph describes
+          the information contained in the paragraph
+    - [ ] there are sufficient examples for new concepts
+    - [ ] the motivation for reading the post is clearly described
+    - [ ] the beginning of the post is clear and a good description
+    - [ ] the end is on a high note/positive outlook or
+          inspirational call to action
+    - [ ] Tell them what you're going to tell them. Then tell them.
+          Finally, tell them what you told them. - Unknown
+- [ ] Grammar and Typos
+    - [ ] checked with `pylanguagetool` for typos
+    - [ ] checked with `homer` for compulsive hedgers
+    - [ ] checked with `homer` for vague words
+    - [ ] checked with `homer` for sentence length
+- [ ] Details
+    - [ ] test-read actual rendered text
+    - [ ] checked how it looks like on mobile
+- [ ] Publication
+    - [ ] scheduled publication / linked in [books][books]
+    - [ ] checked if linked in prior/upcoming posts
+    - [ ] posted link to review on goodreads
+    - [ ] removed this comment
 
-
+Footnote<sup>[1](#footnote1)</sup> among text.
 - - -
 **Footnotes**:
+<a name="footnote1">1</a>: Text from footnote1.
 -->
 
+
+---
 [gtd-book]: https://en.wikipedia.org/wiki/Getting_Things_Done
 [gtd-review]: ../2020-07-16-getting-things-done/
 [pomodoro]: https://en.wikipedia.org/wiki/Pomodoro_Technique
