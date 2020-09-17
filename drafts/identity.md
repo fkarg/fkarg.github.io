@@ -19,9 +19,9 @@ Short article description
 # Personal Identity
 
 > Generally, personal identity is the unique numerical identity of a person in
-> the course of time.[1][2] That is, the necessary and sufficient conditions
-> under which a person at one time and a person at another time can be said to
-> be the same person, persisting through time. - [Wikipedia][wikipersonal]
+> the course of time. That is, the necessary and sufficient conditions under
+> which a person at one time and a person at another time can be said to be the
+> same person, persisting through time. - [Wikipedia][wikipersonal]
 
 - what is identity?
 
@@ -32,6 +32,7 @@ Short article description
   happens every three years
 - what about teleporting/duplicating?
 - what about saving and recreating later?
+- what in the case of being in a simulation
 
 ## mentally
 - but we learn and change over time, sometimes tremendously so
