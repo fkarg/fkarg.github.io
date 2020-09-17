@@ -24,6 +24,11 @@ as well as when I read it. Reference other book reviews if applicable.
 
 # Review
 ## Main Takeaways
+- [ ] What are the biggest new mental models I created when reading this book?
+- [ ] What were the most significant concepts encountered and why?
+- [ ] How could I have learned these concepts when not reading them in this book?
+- [ ] Did learning these concepts improve my life?
+
 ## Criticism
 - [ ] Clearly structured?
 - [ ] Good Examples?
@@ -38,12 +43,10 @@ as well as when I read it. Reference other book reviews if applicable.
 # Publication Checklist:
 - [ ] Content
     - [ ] Added cover-image
-    - [ ] each paragraph describes at most one idea
+    - [ ] the beginning of the post is clear and a good description
     - [ ] the beginning of each paragraph describes
           the information contained in the paragraph
-    - [ ] there are sufficient examples for new concepts
-    - [ ] the motivation for reading the post is clearly described
-    - [ ] the beginning of the post is clear and a good description
+    - [ ] each paragraph describes at most one idea
     - [ ] the end is on a high note/positive outlook or
           inspirational call to action
     - [ ] Tell them what you're going to tell them. Then tell them.
@@ -65,7 +68,6 @@ as well as when I read it. Reference other book reviews if applicable.
 Footnote<sup>[1](#footnote1)</sup> among text.
 - - -
 **Footnotes**:
-
 <a name="footnote1">1</a>: Text from footnote1.
 -->
 
