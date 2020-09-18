@@ -16,7 +16,7 @@ Self-Improvement is part of my core being, more than a lot of other things.
 Enthusiasm to help and work with other people is probably second. And then
 there is a lot of interconnected ones.
 
-## Personal Mission Statement
+### Personal Mission Statement
 After reading [The Seven Habits of Highly Effective People][7-habits], I
 created my personal mission statement. Here it is:
 
@@ -51,13 +51,8 @@ While my primary activity is being a computer science student, I do a bit of
 freelancing on the side, getting to know a number of awesome people and
 technologies.
 
-### Programming languages
-Even though I'm familiar with languages like `Java` and `C++`, I prefer `Rust`,
-`Python`, and `Haskell`. I'm also familiar with `ansible` and a number of other
-tools.
-
-My development environment depends on the specific language, but is mostly
-centered about my editor, `vim`.
+You can also request me as part of a team through the [Student Consulting Agency
+delta][delta] I am a member of.
 
 
 ### Projects
@@ -65,6 +60,8 @@ Being a freelancer has its perks: you get to work at very interesting projects
 sometimes. Due to NDAs this list is necessarily incomplete. Things I've worked
 on in the past:
 - Consulting startups (I love to do these!)
+- Consulting a trade school in Karlsruhe about increasing the resilience of
+  their digital infrastructure and systems in a team through [delta][delta]
 - Writing and maintaining a number of ansible roles
 - Python Script to consolidate distributed changelog patchfiles in one
   changelog file, to avoid merge conflicts
@@ -81,12 +78,29 @@ on in the past:
   [here](https://github.com/fkarg/py-gitea).
 - Python script to cache and calculate certain stock market metrics based on
   historical data
+<!--
+- Sometimes I participate in Hackathons and received prices:
+    - Google Hashcode 2018: disqualified after first round
+    - Baselhack 2017: 3rd Place
+    - Jugend Hackt Berlin 2016: No prices were handed out
+    - Jugend Hackt Ulm 2016: Aha-Moment
+    - Jugend Hackt Berlin 2015: Best Code
+    - Jugend Hackt Ulm 2015: Best Code
+-->
 
 You can find more of my projects on [github](https://github.com/fkarg),
 especially those I'm not being paid for. If you have something interesting,
 feel free to send me a mail. If it's something I haven't done before, chances
 are that I'm interested.
 
+
+### Programming languages
+Even though I'm familiar with languages like `Java` and `C++`, I prefer `Rust`,
+`Python`, and `Haskell`. I'm also familiar with `ansible` and a number of other
+tools.
+
+My development environment depends on the specific language, but is mostly
+centered about my editor, `vim`.
 
 <!--
 ## Contact
@@ -107,3 +121,4 @@ mail!
 [instrumental]: https://wiki.lesswrong.com/wiki/Rationality
 [ownership]: https://fkarg.github.io/2020-XX-XX-extreme-ownership/
 [talks]: https://github.com/fkarg/things-to-talk-about
+[delta]: https://delta-karlsruhe.de
