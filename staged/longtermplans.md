@@ -3,6 +3,7 @@ layout: post
 published: true
 title: 'Longtermplans: Goal Setting Workshop'
 subtitle: how to set and achieve goals
+cover-img: 'https://alyjuma.com/wp-content/uploads/2016/10/lifepath.jpg'
 tags:
 - workshop
 ---
@@ -158,10 +159,71 @@ Start when you feel ready and prepared.
 # Starting Point
 Thinking about lofty goals will only get you so far while drowning in your
 everyday tasks. So before setting any goals, we will attempt to get a clear
-picture of where you are right now. This is roughly guided from the 'Snapshot
-of your Life' exercise from Alex Vermeers [8760 hours][8760-hours] yearly
-planning material.
+picture of where you are right now - by collecting all unfinished tasks and
+organizing them.
 
+
+## Write down Open Loops (30min)
+An open loop is every mail, project or commitment where you still need to do
+something before you can forget about it. It also includes information or work
+you have delegated and are waiting for results - in short: everything that is
+unfinished or you should not forget about just yet.
+
+Since they tend to come to mind at random times and in no particular order, it
+is hard to ensure that you collected all of them. To help us with that, we take
+a look at a [mind-sweep trigger list][gtd-triggers] when no further open loops
+come to mind. Expect for most open loops to come to mind when reading the
+trigger about something else, or while thinking about something unrelated. This
+is normal.
+
+If you get reminded about things you want to do at some point, write them down
+on a seperate list. We will expand that list later when [writing down
+dreams](#write-down-dreams-20min).
+
+If something unfinished comes to mind that can be done within 2min, just do it,
+and don't bother writing it down.
+
+{: .box-note}
+Write down all Open Loops (unread mails, unfinished projects, open commitments,
+...) you can think of.
+
+{: .box-note}
+Slowly go through the [Incompletion Trigger List][gtd-triggers] and write down
+all Open Loops that come to mind.
+
+{: .box-shadow}
+Don't forget to print the trigger list if you want to go offline when doing
+these exercises.
+
+
+## Organize Open Loops (20min)
+A Project is everything that will require or required more than one open loop
+until completion. Essentially, Projects give you a higher-order view of 'what'
+you are doing, without the 'how' - the open loops and next actions yet to be
+done.
+
+Take your time to give your unsorted list of open loops some structure. Combine
+them to useful Projects (e.g. 'Travelling to London' for 'book flight to
+London for next Week' and 'ask Ben about good Hotels in London'). Write down
+open loops you missed initially.
+
+The goal is to give you a higher-level overview of all things you need to do
+right now.
+
+{: .box-note}
+Organize your Open Loops to Projects.
+
+Before continuing, take a break.
+
+
+## Snapshop of your Life (Optional)
+If you have the time, you might also want to make a review of what you managed
+to do over the last year. Do note that this alone could take multiple hours.
+
+For doing this, take a look at the 'Snapshot of your Life' exercise from Alex
+Vermeers [8760 hours][8760-hours] yearly planning material.
+
+<!--
 ## Initial Overview (5-10min)
 
 Questions to ask about the past:
@@ -175,12 +237,8 @@ Questions to ask about _right now_:
 - How do things stand _right now_?
 - How would I summarize to a friend the status of this area?
 
-
 - what are your current roles?
 - for each role, what tasks are not yet done?
-
-
-## Detailed Overview of Life Areas (40min)
 
 Categories:
 - Habits & Daily Routine
@@ -195,8 +253,6 @@ Categories:
 - Life purpose & contribution
 - Spiritual development
 
-
-
 Categories:
 - Values & Purpose
 - Contribution & Impact
@@ -210,10 +266,7 @@ Categories:
 - Character & Identity
 - Productivity & Organization
 - Adventure & Creativity
-
-list of triggers in GTD pages 116-120
-
-
+-->
 
 
 ---
@@ -528,15 +581,6 @@ from continuing to work on your goal either, and doing so feels increadibly
 good.
 
 ### Exercises
-
-{: .box-note}
-Go through your goals and Milestones and note which already have a Lag measure.
-
-{: .box-note}
-Define Lead and Lag measures for each of your goals and milestones. If it seems
-impossible to find Lead measures, set a timer to 3min and attempt to find one
-during this time.
-
 You get bonus points for robust Lead measures - if it's hard for you to
 manipulate on them, or cheat your measures in any way.
 
@@ -549,6 +593,14 @@ targets change so fast. So I have something you can do in these situations:
 
 Feel free to use it as your Lead measure for those goals and milestones, where
 other measures just didn't fit.
+
+{: .box-note}
+Go through your goals and Milestones and note which already have a Lag measure.
+
+{: .box-note}
+Define Lead and Lag measures for each of your goals and milestones. If it seems
+impossible to find Lead measures, set a timer to 3min and attempt to find one
+during this time.
 
 
 ## Identify Next Actions (10min)
@@ -793,6 +845,8 @@ well, they are not static. If making a change you learned somewhere to improve
 your effectiveness and productivity, then go for it. It will be hard to fully
 use it from the get-go, adapting it step-by-step will probably be better.
 
+You might find the [GTD Weekly Review][weekly] list useful when adapting or
+modifying GTD.
 
 # Conclusion
 In short, we first collected everything you wanted to do, everything that is
@@ -915,11 +969,6 @@ General Process:
     - [ ] checked if linked in prior/upcoming posts
     - [ ] posted link to review on goodreads
     - [ ] removed this comment
-
-Footnote<sup>[1](#footnote1)</sup> among text.
-- - -
-**Footnotes**:
-<a name="footnote1">1</a>: Text from footnote1.
 -->
 
 
@@ -935,3 +984,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [hold-accountable]: https://medium.com/the-mission/the-accountability-effect-a-simple-way-to-achieve-your-goals-and-boost-your-performance-8a07c76ef53a
 [7-habits]: ../2020-09-02-seven-habits/
 [presentation]: https://github.com/fkarg/things-to-talk-about/tree/master/longtermplans
+[gtd-triggers]: https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf
+[weekly]: https://gettingthingsdone.com/wp-content/uploads/2014/10/Weekly_Review_Checklist.pdf
