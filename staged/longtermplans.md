@@ -20,37 +20,11 @@ now already, and I'd much prefer it to be smaller rather than larger.
 * TOC
 {:toc}
 
-
 # Introduction
 This is by no means a full guide on how to set goals or how to achieve them,
 but it contains the concepts and techniques I found the most useful while
 taking the least amount of time. Feel free to take and use what you deem
 useful, and disregard everything else.
-
-
-<!--
-## Organization Bottom-Up
-Bottom-Up organization means that you have a clear list of your open next
-actions, what you have delegated to other people and when things are due. If
-you have them grouped together as 'projects' (everything that requires more
-than one next action to get completed) and review them weekly, you will get the
-most out of it. In fact, the workshop will be vastly less effective for you if
-you are not organized bottom-up yet.
-
-{: .box-error}
-**Warning:** This Workshop assumes you have bottom-up control over your everday
-tasks. If not, it would be more useful for you to work through the material in
-reverse order - which it is absolutely not written for. Alternatively, you
-could do the 'Snapshot of Your Life' exercise in Alex Vermeers
-[8760-hours][8760-hours] yearly planning material.
-Don't be fooled, it seems like it's only a few questions, but it can easily
-take several hours.
-
-The caveat is, the parts are not written in an independent way.
-The order would be: starting with [Execution Systems](#execution), continue
-with [plannnig](#planning) and [figure out your goals](#setting-goals). After
-that, do planning again, and adapt your Execution Systems accordingly.
--->
 
 
 ## Motivation
@@ -69,7 +43,6 @@ The main goal is to get you to write down your goals, and to find someone to
 hold you accountable for achieving them. A friend or family member is just
 fine.
 
-<!--[this][better-goals-1]-->
 According to [this][better-goals-2] study, writing down goals increases the
 chance of achieving them considerably. Not just this study, but additional
 information [here][hold-accountable] suggests that having someone holding you
@@ -109,10 +82,9 @@ out of them. I recommend doing the workshop uninterrupted, and with breaks.
 ## More than Setting Goals
 Setting goals is only the very first step to actually achieving them. While
 [setting goals increases the chance of actually achieving
-them][better-goals-2], a whole lot more can be done to increase chances for
-success. This includes planning the next steps and having a robust execution
-system. They don't guarantee success, but each exercise increases the chances
-of success.
+them][better-goals-2], we can do a lot to increase chances for success. This
+includes planning the next steps and having a robust execution system. They
+don't guarantee success, but each exercise increases the chances of success.
 
 You can skip the [Starting Point](#starting-point) and [Execution](#execution)
 exercises if you have a working [GTD][gtd-book]-like system - but you would
@@ -124,7 +96,7 @@ well when integrated, don't hesitate to do so. I'm continuously refining this
 process - if you found something helpful for you, send me a message!
 
 ## Goals and Values
-What we will not dwelve into finding your values and principles.
+What we will not delve into finding your values and principles.
 Thinking about them will give you more clarity - but they will naturally
 surface when thinking about and prioritizing goals. It might even be easier to
 first set some goals and derive purpose and values from them. In fact, just
@@ -150,7 +122,7 @@ Some suggestions:
   [presentation handout][presentation]) and go offline, to avoid distraction
   from the internet
 - Get yourself some pens and paper to write on
-- Have a seperate piece of paper ready, to write down any thoughts that
+- Have a separate piece of paper ready, to write down any thoughts that
   distract you in the moment, to turn back to them later
 
 Start when you feel ready and prepared.
@@ -173,12 +145,12 @@ unfinished or you should not forget about just yet.
 Since they tend to come to mind at random times and in no particular order, it
 is hard to ensure that you collected all of them. To help us with that, we take
 a look at a [mind-sweep trigger list][gtd-triggers] when no further open loops
-come to mind. Expect for most open loops to come to mind when reading the
+come to mind. You can expect that most open loops come to mind when reading a
 trigger about something else, or while thinking about something unrelated. This
 is normal.
 
 If you get reminded about things you want to do at some point, write them down
-on a seperate list. We will expand that list later when [writing down
+on a separate list. We will expand that list later when [writing down
 dreams](#write-down-dreams-20min).
 
 If something unfinished comes to mind that can be done within 2min, just do it,
@@ -223,60 +195,15 @@ to achieve over the last year. You might also use this to expand your list of
 open loops. Do note that this exercise alone can take multiple hours.
 
 {: .box-note}
-Do the 'Snapshot of your Life' exercise from Alex Vermeers [8760
+Do the 'Snapshot of your Life' exercise from Alex Vermeer's [8760
 hours][8760-hours] yearly planning material.
-
-<!--
-## Initial Overview (5-10min)
-
-Questions to ask about the past:
-- What went well?
-- What did not go well?
-- Where did you try hard?
-- Where did you not try hard enough?
-
-Questions to ask about _right now_:
-- What is the current situation here?
-- How do things stand _right now_?
-- How would I summarize to a friend the status of this area?
-
-- what are your current roles?
-- for each role, what tasks are not yet done?
-
-Categories:
-- Habits & Daily Routine
-- Career & work
-- Money & finances
-- Health & fitness
-- Mental development and education
-- Social life & relationships
-- Home & family
-- Emotions
-- Character & integrity
-- Life purpose & contribution
-- Spiritual development
-
-Categories:
-- Values & Purpose
-- Contribution & Impact
-- Location & Tangibles
-- Money & Finances
-- Career & Work
-- Health & Fitness
-- Education & Skill Development
-- Social Life & Relationships
-- Emotions & Well-being
-- Character & Identity
-- Productivity & Organization
-- Adventure & Creativity
--->
 
 
 ---
 # Setting Goals
 A carrot-and-stick approach tends to work wonders for humans. So we'll
 visualize both best- and worst-case scenarios of the future we want to find
-goals for. Reality tends to fall somewhere inbetween.
+goals for. Reality tends to fall somewhere in between.
 
 After that, we'll figure out what your dreams are, and break them down for what
 reason you want to achieve them, and how important they are to you, until three
@@ -284,12 +211,12 @@ to seven remain. Then we will continue with [planning](#planning)
 
 ## Imagine yourself being Successful
 Take a minute to visualize yourself being successful during the course of the
-next year. How much you get done. To do all the things you wanted to do since
-forever. To finally take that course you wanted to. To do that thing you never
-had time for. To be more consistent with health and fitness. To travel to that
-awesome country. To get that promotion you really worked hard for. Helping
-other people and being admired for it. Being loved by friends and family. All
-the hard work you're doing, knowing what it is for.
+next year. How much you get done. You did all the things you wanted to do since
+forever, and you finally took that course you wanted to. Finally you got to
+doing that thing you never had time for. Consistency with health and fitness
+feels easy when looking at your recent success. You got that promotion you
+really worked hard for. Getting admired for helping so many people. Being loved
+by friends and family. All the hard work you are doing, knowing what it is for.
 
 Visualize the best-case scenario for you for next year, where everything you
 attempt succeeds.
@@ -300,11 +227,11 @@ Take a minute and enjoy visualizing it. That's what we will aim for.
 Write down a few bullet points if you want.
 
 ## Imagine yourself being Unsuccessful
-Conversely, what will happen if you for some reason stop being successful? Take
-a minute to visualize what will happen if you let life run it's course without
-you doing anything - not achieving anything you aimed for. Fitness was long
-since ignored, and your health has seen much better times. Lying on the couch
-all day does not improve the situation either. Friends have distanced
+Conversely, what will happen if you for some reasons stop being successful?
+Take a minute to visualize what will happen if you let life run its course
+without you doing anything - not achieving anything you aimed for. Fitness was
+long since ignored, and your health has seen much better times. Lying on the
+couch all day does not improve the situation either. Friends have distanced
 themselves from you as they get successful. At some point you will be deeply
 unsatisfied and depression kicks in. It will only be downhill from there.
 
@@ -317,7 +244,7 @@ Thoroughly visualize it. This is what we want to avoid.
 Write down a few bullet points if you want.
 
 ## What to Expect
-Reality tends to fit in somewhere inbetween. Most of the time, it's neither
+Reality tends to fit in somewhere in between. Most of the time, it is neither
 utmost paradise, nor ultimate tragedy.
 
 Visualizing these two scenarios should give you a sense for the difference you
@@ -331,9 +258,9 @@ let's see how we can get closer to paradise.
 If you are familiar with [Tim Ferris's' four-hour workweek][4h-workweek], this
 is in parts taken from the dreamlining exercise (pages 57-63).
 
-The goal is to write down all of the dreams you have. Everything you want to
-do, achieve, know, own - everything you _want_. Go for quantity first, we'll
-reduce it to quality later. The more the better.
+The goal is to write down all the dreams you have. Everything you want to do,
+achieve, know, own - everything you _want_. Go for quantity first, we'll reduce
+it to quality later. The more the better.
 
 Go through the following hints step by step, and write down whatever comes to
 mind. Pause and stop at each hint for some time (at least half a minute). It's
@@ -344,7 +271,7 @@ honest with yourself. Dream. Go for quantity.
 - What do you want to strive for? (e.g. World Peace, Researching DNA, ...)
 - What would you do if there was no way to fail?
 - What do you want to _have_? (This can be material wants, achievements, ...)
-- What do you want to _be_? (A great cook, fluent in french, ...)
+- What do you want to _be_? (A great cook, fluent in French, ...)
 - What would you do with 100 million in the bank?
 - Which places would you want to go to?
 - What do you want to do before you die?
@@ -358,16 +285,16 @@ add reasons in the next steps.
 
 ## Selecting Goals to Work on
 Feeling Excited? Awesome! The sad part is: We'll focus on only a small part
-first. I need you to convert any _beings_ (e.g. fluent in french) to _doings_
-that characterize success (e.g. making a french person think that french is my
+first. I need you to convert any _beings_ (e.g. fluent in French) to _doings_
+that characterize success (e.g. making a French person think that French is my
 mother tongue). For everything you want to _be_, have a description of what you
 want to be able to _do_.
 
 ### Finding Reasons (10min)
 More often than not, dreams are only surrogates for us wanting to fill a need.
-The goal of speaking french might come from a need of being understood, if
-there are several french people in your social circle or you tend to make
-holidays in regions speaking french.
+The goal of speaking French might come from a need of being understood, if
+there are several French people in your social circle or you tend to make
+holidays in regions speaking French.
 
 For every goal you listed, ask yourself **why** you want to achieve it. If
 necessary, multiple times (3-5x). You might find multiple reasons, and they
@@ -389,7 +316,7 @@ others. For all goals, ask the following questions:
 - If I achieved all my goals _except_ this one, would I be satisfied?
 
 Keep only those being essential, of high priority or which would leave you
-unsatisfied if not achieved. Less goals increase overall chances of achieving
+unsatisfied if not achieved. Fewer goals increase overall chances of achieving
 them.
 
 {: .box-note}
@@ -397,6 +324,7 @@ Reduce your list of goals to three to seven to actually work on.
 
 If you feel like you can't reduce the number of goals further, take a break.
 You deserve it.
+
 
 ---
 # Planning
@@ -414,24 +342,9 @@ the more likely it is that the actual path will resemble something close to a
 linear path. But the farther away it is, and the more problems still need to be
 solved, the more likely it is to end up in a non-linear path.
 
-<!--
-![Titanic heading for iceberg](../assets/img/titanic_iceberg.jpg)
-
-Let's say you are the captain of a ship heading for an iceberg. You'd like to
-get past it, but continuing they way you currently go will make it unlikely
-that you will pass it without any damage.
-
-Sometimes, when you are on a ship and trying to get from point A to B, a
-straight line is not possible, since an obstacle is in the way. So instead of
-continuing on with your current plan ('forward!'), you need to adapt to the
-environment, and plan your route accordingly ('turn slightly right/starbord and
-a bit later left/port again to avoid the rock'). If you are heading for an
-obstacle, it might be a good idea to change course.
--->
-
 Even if there is a more direct route in hindsight, they are usually impossible
 to guess precisely beforehand. Rather than being disappointed by the discovery,
-you should be happy about it: you learnt some increadible things about the
+you should be happy about it: you learned some incredible things about the
 path, maybe helping you in other situations.
 
 The only way to get remotely close is to ask people who travelled the path you
@@ -444,11 +357,11 @@ for, or you won't know when you actually reached your goal.
 We first need a clear-cut definition as to when the goal is achieved. You might
 have heard of 'SMART' goals before, **S**pecific, **M**easurable,
 **A**chievable, **R**obust and **T**ime-bound. The thing we are going for
-right now is Specific and Measurable, since they are good indicators if a goal
-has been achieved. For each of your goals, be as specific as you realistically
+right now is Specific and Measurable, since they are good indicators of having
+achieved the goal. For each of your goals, be as specific as you realistically
 can, and, if possible, find something measurable.
 
-When trying to learn french, your Specific and Measurable goal might be to be
+When trying to learn French, your Specific and Measurable goal might be to be
 capable of longer-duration interactions with native speakers, without a major
 stumble or needing to look up words; with the goal being achieved when you had
 five such longer than 30min interactions as a streak.
@@ -456,7 +369,7 @@ five such longer than 30min interactions as a streak.
 You might want to search for additional resources on how to define goals; The
 point is to define a situation or metric, that when achieved, your goal is
 achieved. It does not need to be the full mastery of a language, 'getting my
-drivers license' is a decent goal criterium for 'learn to drive'.
+driver's license' is a decent goal criterion for 'learn to drive'.
 
 Avoid paralysis by analysis by asking people who achieved what you want to do,
 how they _knew_ they achieved it. While you're at it, ask them about some tips
@@ -467,7 +380,7 @@ Continue, if you know for all of your goals, _when_ you have achieved them.
 
 ## Defining Sub-goals (5-10min)
 Bigger goals tend to have steps. They are not just _done_ suddenly, there are
-steps inbetween that need to be achieved, sometimes in a specific order, before
+steps in between that need to be achieved, sometimes in a specific order, before
 the actual goal can be achieved. When you want to do that awesome trip, you
 need to book the hotel beforehand, you need to check if you need to apply for
 visas, and buy new hiking shoes if you need some (check your gear). These are
@@ -478,7 +391,7 @@ While you can work independently on some (booking hotel and buying new gear),
 others, like checking for required visas, might create additional milestones -
 getting the required visas.
 
-Sub-goals should be achieveable within a few days at most. It's okay if they
+Sub-goals should be achievable within a few days at most. It's okay if they
 only need a few minutes - as long as they are conceptually enclosed.
 (Sometimes there are sub-goals of sub-goals, that's ok too!)
 
@@ -507,9 +420,9 @@ pushed it back.
 
 There would have been a simple way to avoid that - just the additional check
 that the sails are set. Just _one_ small thing. If we just had made sure that
-the boat is actually moving.
+the boat is actually moving, we could be much closer to our goal.
 
-By avoiding these kind of situations, you can avoid wasting immense amounts
+By avoiding these kinds of situations, you can avoid wasting immense amounts
 of time, effort, and energy. Just staying clear of those will improve your
 effectiveness tremendously.
 
@@ -523,11 +436,12 @@ without actually doing so.
 
 
 ## Lead and Lag measures (20min)
-What follows is a short introduction to _Lead_ and _Lag_ measures.
+We first take a good look at what _Lead_ and _Lag_ measures are before applying
+them to our goals and milestones.
 
 ### The fallacy of Lag measures
 A classical new-years goal is to lose weight. Let's say the goal is to lose
-10kg until next year. At first, losing weight is rapid and easy. Until
+10 kg until next year. At first, losing weight is rapid and easy. Until
 suddenly, you gain a bit. But then you lose weight again. And the reverse
 again. Your actual weight is fluctuating a lot, and it does not really feel
 like progress at all. This goes on for a bit, until most people quit.
@@ -539,7 +453,7 @@ drank, the percentage of carbohydrates in last weeks' diet, and so much more.
 All of them can influence your weight right now tremendously. Noticing actual
 trends is hard, and impossible with less than two weeks of data. Most quit
 before a trend can manifest - but they couldn't see a trend in the first place,
-since they don't remember last weeks exact measure.
+since they don't remember last week's exact measure.
 
 Weight, just like most interesting metrics, is a _Lag_ measure. Even if it is
 your ultimate goal, it is very susceptible to a wide range of factors and thus
@@ -555,18 +469,18 @@ but ensuring that you have a certain calorie deficit each day. With a daily
 deficit of 500kcal, you are short 3500kcal every week, which is the energy
 stored in roughly 500g fat. The biggest benefit: it's something that can be
 done every day, and it's not susceptible to short-term variance. Keeping this
-up for Half a year will make you weigh less about 13.5kg - a third more than
+up for Half a year will make you weigh less about 13.5 kg - a third more than
 the year's goal.
 
 Daily calorie deficit is a _Lead_ measure. They have much shorter intervals,
 such as days or weeks, and _lead_ to the goal - eventually. For these,
-constincency is key.
+consistency is key.
 
 ### Tips for applying them
 A Lag measures can be singular as well: 'Finish writing the Goal Setting
 Workshop post' is a current Lag measure for a milestone of mine. It doesn't
-necessarily have to be clear _how_ Lag measures are achieved, but should be
-somewhat clear when looking at Lead measures.
+necessarily have to be clear _how_ lag measures are achieved, but should be
+somewhat clear when looking at lead measures.
 
 Lead measures might change across milestones, the important part is that you
 have a Lead measure for each milestone.
@@ -580,7 +494,7 @@ the time required for reading a chapter or even a single page, since both
 chapters and pages are sometimes more, and sometimes less dense with
 information. Making it time-bound increases predictability as well: you're done
 after 30min, continue tomorrow - though of course, there's nothing stopping you
-from continuing to work on your goal either, and doing so feels increadibly
+from continuing to work on your goal either, and doing so feels incredibly
 good.
 
 ### Exercises
@@ -621,7 +535,7 @@ be aware of those blockers.
 If you want to build an awesome tree house, and you go to the hardware store
 already (getting color to paint a room), it can help to know if you need nails
 or not. If you noticed sometime after, you would need a lot more momentum to go
-to the hardware store again. Knowing these kind of things at the right time
+to the hardware store again. Knowing these kinds of things at the right time
 saves a lot of energy and effort.
 
 Everything requiring more than two next actions to get it done is a project.
@@ -639,11 +553,9 @@ waking up, whichever comes first), and the third the day after tomorrow before
 11am. Ensure that you have new actions to work towards by then.
 
 
-
+---
 # Execution
-
-> Ideas are cheap. It's all about execution.
-> - Chris Sacca (Shark Tank)
+> Ideas are cheap. It's all about execution. - Chris Sacca (Shark Tank)
 
 While we already defined the first three next action items for each of your
 goals, they should be done the day after tomorrow. What then?
@@ -665,18 +577,18 @@ To determine that the ship is actually moving forward while pointed east.
 We're primarily going to take a look at that one.
 
 We will take a look as to why execution tends to fail in the first place, to
-understand why an execution system is a decent approach to adressing these
+understand why an execution system is a decent approach to addressing these
 issues properly.
 
 ## Failing Execution (5min)
 Execution tends to regularly fail, and there is a number of reasons why. Taking
-some time to think about root cases, you might end up with a list similar to this:
+some time to think about root causes, you might end up with a list similar to this:
 
 - Aversion: When thinking about our goals or execution plans, we experience
   some form of discomfort (stress, guilt, dread)
 - Distraction: Instead of doing the hard work, we procrastinate and distract
   ourselves with urgent or pleasurable things instead
-- Limited motivation: Somehow our goal and our plans don't give us energy anymore
+- Limited motivation: Somehow our goal and our plans don't give us energy any more
 - Limited time: It's easy to be busy in the moment and focus on other things instead
 - Limited energy: We are too tired to work on something else after a long day at work
 - Limited attention: It's not even clear what we want to do, since it's hard to
@@ -716,14 +628,14 @@ Here are the steps again:
 1. Find a friend to hold you accountable and schedule regular calls or meetings
 2. Report progress and current challenges on your goal(s)
 3. State your next steps and what you want to achieve until next time (_Lead_ measures!)
-4. Schedule the next call/meeting before hanging up/seperating
+4. Schedule the next call/meeting before hanging up/separating
 5. Repeat from Step 2 at the next call/meeting
 
 Obviously you shouldn't talk the entire time. Intersperse your meeting with
 listening to the progress and next steps of your friend. I'm doing my monthly
-planning in a similar fashion with a friend, and it helped me tremendously to
-stay focused and to achieve more. In our experience, talking about
-non-goal-related topics in the first few minutes is a good and comfortable way
+planning similarly with a friend, and it helped me tremendously to stay focused
+and to achieve more. In our experience, talking about non-goal-related topics
+in the first few minutes is a good and comfortable way
 to start.
 
 {: .box-note}
@@ -744,7 +656,7 @@ Fundamentally, every execution system has these four parts, weighed as required:
 - Review: Taking a look at the progress that happened, evaluating taken approaches
 - Retrospective: Taking a look at the current process, making adjustments for
   parts that are not working as well as they should
-- Planning: Planning milestones and Tasks for the next timeframe until Review,
+- Planning: Planning milestones and tasks for the next timeframe until Review,
   clarifying when they are done
 - Execution: Actually working on the collected Tasks, in a way to make progress
   on them.
@@ -754,9 +666,9 @@ for a full cycle in your Execution System. We'll take a look at each of these
 parts in detail, before we discuss how to implement it.
 
 ### Review
-A regular review is the single most important part in an execution system, but
-it can only show its full effect when planning and execution build on the from
-the review obtained results.
+A regular review is the single most important part in an execution system. It
+enables both planning and execution to build on the most recent insights of how
+things stand.
 
 The goal is to get a bigger-picture perspective about the goals you are working
 on. The most important part is reviewing what was planned and what was
@@ -799,12 +711,12 @@ descriptions or reorganize priorities.
 ### Execution
 When actually working on tasks, it can be helpful to try one of the following
 productivity helpers:
-- Pomodoros
+- Pomodoro
 - Work Cycles
 - Co-Working Spaces
 
-A [Pomodoro][pomodoro] is a 30-min interval with 25min work-time and a break of
-5min. Work Cycles are similar, with 30min worktime interspersed with 10min
+A '[Pomodoro][pomodoro]' is a 30-min interval with 25min work-time and a break
+of 5min. Work Cycles are similar, with 30min work time interspersed with 10min
 breaks, in which you do a bit of work-related planning and reviewing.
 
 Co-Working spaces such as libraries are great, many have found themselves to be
@@ -816,18 +728,29 @@ However, it's all about actually getting your next action items done, and
 making progress on your goals, projects and milestones. So feel free to use
 whatever method best works for you.
 
+
 ### Timeframe
 The timeframe you plan for is an important factor. It can be anything you are
 comfortable with, but I would recommend a one-week-cycle as a basis with a
 complementary one-month-cycle of Accountability Partners. But a weekly cycle is
-essential to enable continuos execution of your goals.
+essential to enable continuous execution of your goals.
 
-
-<!-- Reformulated -->
 
 ### Putting Everything Together
-The idea is that every time you want to do something, you can simply take a look
-at the next tasks in your execution system and start doing them.
+Your execution system should enable you to easily figure out what you both want
+and need to do in the moment. New tasks get added during the weekly
+review/planning session as well as when something comes up during the week.
+
+The core parts to enable that is the weekly review - it is normal to forget
+details during the week. I tend to have both completed tasks not yet marked as
+done as well as new open tasks not yet included, but maybe written down
+somewhere else. The weekly review is the time to synchronize the execution
+system to what happened in the real world.
+
+As long as your execution system is (mostly) current when taking a look at it
+during the week, you are able to get the open tasks that require your attention
+_now_.
+
 
 ## Improving your Execution System
 If you have an execution system in place, it is useful to use it for as many
@@ -837,8 +760,7 @@ include calling your dentist for an appointment or writing a mail to a colleague
 This improves not only retention (continuing to use it for a longer time), but
 also effectiveness in achieving your goals. Since, every time you look in your
 execution system to do something else, you inadvertently see what the next
-actions for your goals are as well. And maybe you can combine them in an easy
-way!
+actions for your goals are as well. And maybe you can combine them easily!
 
 There are multiple execution systems out there, each working for some people
 and not for others. A pretty common one is [GTD][gtd-book], short for 'Getting
@@ -851,6 +773,7 @@ use it from the get-go, adapting it step-by-step will probably be better.
 You might find the [GTD Weekly Review][weekly] list useful when adapting or
 modifying GTD.
 
+---
 # Conclusion
 In short, we first collected everything you wanted to do, everything that is
 exciting for you. We then found reasons for doing and priorities for them,
@@ -864,7 +787,7 @@ next action is incredibly helpful in actually making progress.
 Execution is all about regularly reviewing the current progress, and clearly
 tracking and enabling the next steps.
 
-That's it for now. It's a whole lot, so take your time digesting it. Write me a
+That's it for now. It's a lot, so take your time digesting it. Write me a
 comment or mail if you have feedback of any sort, or encountered an awesome way
 to improve the goal setting experience.
 
@@ -948,7 +871,7 @@ General Process:
 <!--
 # Publication Checklist:
 - [ ] Content
-    - [ ] Added cover-image
+    - [x] Added cover-image
     - [ ] each paragraph describes at most one idea
     - [ ] the beginning of each paragraph describes
           the information contained in the paragraph
