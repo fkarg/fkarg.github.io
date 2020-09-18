@@ -146,8 +146,9 @@ Some suggestions:
 - Hang a sign on your door that you are not to be disturbed
 - Ensure that no notifications on your computer (from mails or texts) can
   distract you
-- Print out this page (or the [presentation handout][presentation]) and go
-  offline, to avoid distraction from the internet
+- Print out this page and the [Incompletion Trigger List][gtd-triggers] (or the
+  [presentation handout][presentation]) and go offline, to avoid distraction
+  from the internet
 - Get yourself some pens and paper to write on
 - Have a seperate piece of paper ready, to write down any thoughts that
   distract you in the moment, to turn back to them later
@@ -191,7 +192,7 @@ Write down all Open Loops (unread mails, unfinished projects, open commitments,
 Slowly go through the [Incompletion Trigger List][gtd-triggers] and write down
 all Open Loops that come to mind.
 
-{: .box-shadow}
+{: .box-warning}
 Don't forget to print the trigger list if you want to go offline when doing
 these exercises.
 
@@ -218,10 +219,12 @@ Before continuing, take a break.
 
 ## Snapshop of your Life (Optional)
 If you have the time, you might also want to make a review of what you managed
-to do over the last year. Do note that this alone could take multiple hours.
+to achieve over the last year. You might also use this to expand your list of
+open loops. Do note that this exercise alone can take multiple hours.
 
-For doing this, take a look at the 'Snapshot of your Life' exercise from Alex
-Vermeers [8760 hours][8760-hours] yearly planning material.
+{: .box-note}
+Do the 'Snapshot of your Life' exercise from Alex Vermeers [8760
+hours][8760-hours] yearly planning material.
 
 <!--
 ## Initial Overview (5-10min)
