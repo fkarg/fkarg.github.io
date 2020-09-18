@@ -57,11 +57,10 @@ how we intend to achieve them, including what we need to prepare before
 starting.
 
 First, we establish what the [starting point](#starting-point) is - by doing an
-inventory of your life. This will take about an hour. We need a clear picture
-of the current situation before changing course after all.
+inventory of your life. This will take about an hour, and should give you
+clarity about your current situation.
 
-Then the actual workshop starts, with the eponymous exercises of [setting
-goals](#setting-goals).
+Next, we do the eponymous exercises of [setting goals](#setting-goals).
 This should take you around an hour (invest more if you have the time).
 At the end of this part, we will have list of three to seven goals to focus on.
 
@@ -77,18 +76,20 @@ accountability partner. This will take up to an hour as well.
 
 The workshop is supposed to be held over the course of five hours, including
 breaks. You might want to dwell longer on individual exercises, to get the most
-out of them. I recommend doing the workshop uninterrupted, and with breaks.
+out of them. I recommend doing the workshop uninterrupted, but with breaks.
 
 ## More than Setting Goals
-Setting goals is only the very first step to actually achieving them. While
-[setting goals increases the chance of actually achieving
-them][better-goals-2], we can do a lot to increase chances for success. This
-includes planning the next steps and having a robust execution system. They
-don't guarantee success, but each exercise increases the chances of success.
+As you might have noticed, the primary goal of this workshop is to help you
+achieve your goals. Setting goals is only the very first step to actually
+achieving them. While [setting goals increases the chance of actually achieving
+them][better-goals-2], we can do a lot more to increase chances for success.
+Planning the next steps, having an accountability partner and having a robust
+execution system don't guarantee success - but they increase the chances of
+success. In the end, it all depends on you actually _executing_.
 
 You can skip the [Starting Point](#starting-point) and [Execution](#execution)
-exercises if you have a working [GTD][gtd-book]-like system - but you would
-still benefit from them.
+exercises if you have a working [GTD][gtd-book]-like execution system - but you
+might still benefit from them.
 
 If you noticed that something else works better for you, you should use your
 way instead. If you learned about some other method that you think might do
@@ -142,12 +143,12 @@ something before you can forget about it. It also includes information or work
 you have delegated and are waiting for results - in short: everything that is
 unfinished or you should not forget about just yet.
 
-Since they tend to come to mind at random times and in no particular order, it
-is hard to ensure that you collected all of them. To help us with that, we take
-a look at a [mind-sweep trigger list][gtd-triggers] when no further open loops
-come to mind. You can expect that most open loops come to mind when reading a
-trigger about something else, or while thinking about something unrelated. This
-is normal.
+Since open loops tend to come to mind at random times and in no particular
+order, it is hard to ensure that you collected all of them. To help us with
+that, we take a look at a [mind-sweep trigger list][gtd-triggers] when no
+further open loops come to mind. You can expect that most open loops come to
+mind when reading a trigger about something else, or while thinking about
+something unrelated. This is normal.
 
 If you get reminded about things you want to do at some point, write them down
 on a separate list. We will expand that list later when [writing down
@@ -177,14 +178,14 @@ done.
 
 Take your time to give your unsorted list of open loops some structure. Combine
 them to useful Projects (e.g. 'Travelling to London' for 'book flight to
-London for next Week' and 'ask Ben about good Hotels in London'). Write down
+London for next Week' and 'ask Ben about good Hotels in London'). Add any
 open loops you missed initially.
 
 The goal is to give you a higher-level overview of all things you need to do
 right now.
 
 {: .box-note}
-Organize your Open Loops to Projects.
+Organize your open loops to projects.
 
 Before continuing, take a break.
 
@@ -201,13 +202,15 @@ hours][8760-hours] yearly planning material.
 
 ---
 # Setting Goals
-A carrot-and-stick approach tends to work wonders for humans. So we'll
-visualize both best- and worst-case scenarios of the future we want to find
-goals for. Reality tends to fall somewhere in between.
+Since carrot-and-stick approaches work wonders for humans, we will visualize
+both best- and worst-case scenarios of the future to find goals for. Reality
+tends to fall somewhere in between.
 
-After that, we'll figure out what your dreams are, and break them down for what
-reason you want to achieve them, and how important they are to you, until three
-to seven remain. Then we will continue with [planning](#planning)
+After that, we will figure out what our dreams are, and break them down for
+what reason you want to achieve them, and how important they are to you, until
+three to seven remain. Then we will continue with [planning](#planning).
+
+![Dream Big - Set Goals - Take Action!](https://www.roystonguest.com/wp-content/uploads/2019/01/Seven-reasons-why-goal-setting-is-critical-to-success--768x512.jpg)
 
 ## Imagine yourself being Successful
 Take a minute to visualize yourself being successful during the course of the
@@ -215,31 +218,33 @@ next year. How much you get done. You did all the things you wanted to do since
 forever, and you finally took that course you wanted to. Finally you got to
 doing that thing you never had time for. Consistency with health and fitness
 feels easy when looking at your recent success. You got that promotion you
-really worked hard for. Getting admired for helping so many people. Being loved
-by friends and family. All the hard work you are doing, knowing what it is for.
+really worked hard for. Others admire you for helping so many people, and you
+are loved by friends and family. All the hard work you are doing, knowing what
+it is for.
 
-Visualize the best-case scenario for you for next year, where everything you
-attempt succeeds.
+Visualize the best-case scenario for you for next year, where you work hard and
+everything you attempt succeeds.
 
 {: .box-note}
-Take a minute and enjoy visualizing it. That's what we will aim for.
+Take a minute and enjoy visualizing your best-case future. That's what we will
+aim for.
 
 Write down a few bullet points if you want.
 
 ## Imagine yourself being Unsuccessful
 Conversely, what will happen if you for some reasons stop being successful?
 Take a minute to visualize what will happen if you let life run its course
-without you doing anything - not achieving anything you aimed for. Fitness was
-long since ignored, and your health has seen much better times. Lying on the
-couch all day does not improve the situation either. Friends have distanced
-themselves from you as they get successful. At some point you will be deeply
-unsatisfied and depression kicks in. It will only be downhill from there.
+without you doing anything - not having achieved anything you aimed for.
+Fitness was long since ignored, and your health has seen much better times.
+Lying on the couch all day does not improve the situation either. Friends have
+distanced themselves from you as they got successful. At some point you became
+deeply unsatisfied and depression kicked in. It was only downhill from there.
 
 Visualize the worst-case scenario for you for next year, where everything you
 attempt fails.
 
 {: .box-note}
-Thoroughly visualize it. This is what we want to avoid.
+Thoroughly visualize your worst-case future. This is what we want to avoid.
 
 Write down a few bullet points if you want.
 
@@ -248,27 +253,27 @@ Reality tends to fit in somewhere in between. Most of the time, it is neither
 utmost paradise, nor ultimate tragedy.
 
 Visualizing these two scenarios should give you a sense for the difference you
-can make - and what will happen if you don't.
+can make - and what will happen if you do not.
 
-It's unlikely that everything we attempt will be successful. It's also unlikely
-that everything will utterly fail. Still, with a deterrent and a paradise,
-let's see how we can get closer to paradise.
+It is unlikely that everything we attempt will be successful. It is also
+unlikely that everything will utterly fail. Still, with a deterrent and a
+paradise, let us see how we can get closer to paradise.
 
 ## Write down Dreams (20min)
-If you are familiar with [Tim Ferris's' four-hour workweek][4h-workweek], this
+If you are familiar with [Tim Ferriss' four-hour workweek][4h-workweek], this
 is in parts taken from the dreamlining exercise (pages 57-63).
 
 The goal is to write down all the dreams you have. Everything you want to do,
 achieve, know, own - everything you _want_. Go for quantity first, we'll reduce
 it to quality later. The more the better.
 
-Go through the following hints step by step, and write down whatever comes to
-mind. Pause and stop at each hint for some time (at least half a minute). It's
-normal if nothing comes up at first. Don't care how to achieve it, and be
+Feel free to go through the following hints, and write down whatever comes to
+mind. You might want to pause and stop at each hint for a bit. It is normal if
+nothing comes up at first. Don't care about how you will achieve it, and be
 honest with yourself. Dream. Go for quantity.
 - What would excite you, if you had the chance of doing?
 - What would make you fulfilled, if you had done it?
-- What do you want to strive for? (e.g. World Peace, Researching DNA, ...)
+- What do you want to strive for? (e.g. World Peace, Revolutionizing Education, ...)
 - What would you do if there was no way to fail?
 - What do you want to _have_? (This can be material wants, achievements, ...)
 - What do you want to _be_? (A great cook, fluent in French, ...)
@@ -278,23 +283,25 @@ honest with yourself. Dream. Go for quantity.
 - What did you always want to learn, but never had the time for?
 
 {: .box-note}
-Take some time to think about what you _want_.
+Take some time and write down what you _want_.
 
 You might want to make a copy of that list, because we will remove items and
 add reasons in the next steps.
 
 ## Selecting Goals to Work on
-Feeling Excited? Awesome! The sad part is: We'll focus on only a small part
-first. I need you to convert any _beings_ (e.g. fluent in French) to _doings_
-that characterize success (e.g. making a French person think that French is my
+Feeling Excited? Awesome! However: We'll focus on only a small part first. I
+need you to convert any _beings_ (e.g. fluent in French) to _doings_ that
+characterize success (e.g. making a French person think that French is my
 mother tongue). For everything you want to _be_, have a description of what you
 want to be able to _do_.
 
+{: .box-note}
+Convert any _beings_ to _doings_ that characterize success.
+
 ### Finding Reasons (10min)
-More often than not, dreams are only surrogates for us wanting to fill a need.
-The goal of speaking French might come from a need of being understood, if
-there are several French people in your social circle or you tend to make
-holidays in regions speaking French.
+More often than not, dreams are only surrogates supposed to fill a need.
+The goal of speaking French might come from a need of being a member of the
+group, if there are several French people in your social circle.
 
 For every goal you listed, ask yourself **why** you want to achieve it. If
 necessary, multiple times (3-5x). You might find multiple reasons, and they
@@ -316,7 +323,7 @@ others. For all goals, ask the following questions:
 - If I achieved all my goals _except_ this one, would I be satisfied?
 
 Keep only those being essential, of high priority or which would leave you
-unsatisfied if not achieved. Fewer goals increase overall chances of achieving
+unsatisfied if not achieved. Having fewer goals increases chances of achieving
 them.
 
 {: .box-note}
@@ -329,23 +336,23 @@ You deserve it.
 ---
 # Planning
 We figured out your goals, but this is only the first step to achieving them.
-There are a couple of things to do now. We need to create a definition of
-done - a clear description as to _when_ the goal is actually achieved.
-As soon as we know _what_ we want to achieve, we can define milestones on the
-path towards it, as well as the very next steps to the first such milestone.
+There are a couple of things to do now: We need to create a definition of
+done - a clear description as to _when_ the goal is achieved. As soon as we
+know _what_ we want to achieve, we can define milestones on the path towards
+it, as well as the very next steps to the first such milestone.
 
 ![Paths in Life are rarely linear, as we'd like them to be](https://alyjuma.com/wp-content/uploads/2016/10/lifepath.jpg)
 
-We'd love for life to be linear. To set a goal, and have a clear path to
+We would love for life to be linear. To set a goal, and have a clear path to
 achieve it. Reality does not care what we want, however. The smaller the goal,
 the more likely it is that the actual path will resemble something close to a
 linear path. But the farther away it is, and the more problems still need to be
 solved, the more likely it is to end up in a non-linear path.
 
-Even if there is a more direct route in hindsight, they are usually impossible
-to guess precisely beforehand. Rather than being disappointed by the discovery,
-you should be happy about it: you learned some incredible things about the
-path, maybe helping you in other situations.
+Even if there is a more direct route in hindsight, they are impossible to guess
+beforehand. Rather than being disappointed by the discovery, you should be
+happy about it: you learned an incredible detail about the path, and you are
+bound to be one step closer.
 
 The only way to get remotely close is to ask people who travelled the path you
 want to go before you.
@@ -356,56 +363,55 @@ for, or you won't know when you actually reached your goal.
 ## Defining Goals (5-10min)
 We first need a clear-cut definition as to when the goal is achieved. You might
 have heard of 'SMART' goals before, **S**pecific, **M**easurable,
-**A**chievable, **R**obust and **T**ime-bound. The thing we are going for
-right now is Specific and Measurable, since they are good indicators of having
-achieved the goal. For each of your goals, be as specific as you realistically
-can, and, if possible, find something measurable.
+**A**chievable, **R**obust and **T**ime-bound. I want you to focus on Specific
+and Measurable first, since they are good indicators of having achieved the
+goal. For each of your goals, be as specific as you realistically can about
+what you want. If possible, find something measurable.
 
 When trying to learn French, your Specific and Measurable goal might be to be
 capable of longer-duration interactions with native speakers, without a major
 stumble or needing to look up words; with the goal being achieved when you had
-five such longer than 30min interactions as a streak.
-
-You might want to search for additional resources on how to define goals; The
-point is to define a situation or metric, that when achieved, your goal is
-achieved. It does not need to be the full mastery of a language, 'getting my
-driver's license' is a decent goal criterion for 'learn to drive'.
-
-Avoid paralysis by analysis by asking people who achieved what you want to do,
-how they _knew_ they achieved it. While you're at it, ask them about some tips
-for the way.
+five such 30min interactions. It does not need to be the full mastery of a
+language, 'getting my driver's license' is a decent goal criterion for 'learn
+to drive'.
 
 {: .box-note}
-Continue, if you know for all of your goals, _when_ you have achieved them.
+For all of your goals, clearly define _when_ you have achieved them.
+
+{: .box-success}
+Usually the best way is to ask how people who have achieved what you want to do
+_knew_ that they have achieved it. You might want to do this later and adapt
+your own criteria based on their answers. While you're at it, ask them about
+some tips for the way.
 
 ## Defining Sub-goals (5-10min)
 Bigger goals tend to have steps. They are not just _done_ suddenly, there are
 steps in between that need to be achieved, sometimes in a specific order, before
 the actual goal can be achieved. When you want to do that awesome trip, you
 need to book the hotel beforehand, you need to check if you need to apply for
-visas, and buy new hiking shoes if you need some (check your gear). These are
-all milestones, or sub-goals that are necessary to achieve the actual goal.
-Progress on one of them means progress towards your goal.
+visas, and buy new hiking shoes if you need some. These are all milestones, or
+sub-goals that are necessary to achieve the actual goal.  Progress on one of
+them means progress towards your goal.
 
 While you can work independently on some (booking hotel and buying new gear),
-others, like checking for required visas, might create additional milestones -
-getting the required visas.
+others, like checking if visas are required visas,
+might create additional milestones - getting the required visas.
 
 Sub-goals should be achievable within a few days at most. It's okay if they
 only need a few minutes - as long as they are conceptually enclosed.
 (Sometimes there are sub-goals of sub-goals, that's ok too!)
 
 {: .box-note}
-Write down all sub-goals for each of your bigger goals.
+Find and write down all relevant sub-goals for each of your bigger goals.
 
 ## Death by Winning (5min)
-Sometimes, it feels like we are working towards a goal and being successful,
-but we are actually not.
+Sometimes, it feels like we are working towards a goal and [being successful,
+but we are actually not][death-winning].
 
 There is a story of the early days of the X.com/PayPal rivalry. They were both
-frantically trying to out-feature the other, putting in more hours than the
-other, trying to get one more feature than the other. And it felt like
-they were making progress. Except: It did not matter. No customer cared about it.
+frantically trying to put in more hours than the other and trying to get one
+more feature than the other. And for them it felt like progress. Except: It did
+not matter. Customers mostly ignored these features.
 
 If all you care about is to keep the ship's nose pointed east, you won't
 notice the ship sinking. Working for years on your career will only amount to
@@ -426,18 +432,16 @@ By avoiding these kinds of situations, you can avoid wasting immense amounts
 of time, effort, and energy. Just staying clear of those will improve your
 effectiveness tremendously.
 
-Look for ways you might 'cheat' your goal, and write them down. If it's an
-actual shortcut, use it! If it's a situation you'd like to avoid, write it
-down, to stay conscious about it.
-
 {: .box-note}
-Look for things you might do, in which it might feel that you make progress
-without actually doing so.
+Look for ways you might 'cheat' your goal, and write them down. If it is an
+actual shortcut, use it! If it will instead not get you closer to your actual
+goal, stay away from it.
 
 
 ## Lead and Lag measures (20min)
-We first take a good look at what _Lead_ and _Lag_ measures are before applying
-them to our goals and milestones.
+We first take a good look at what _Lead_ and _Lag_ measures are before using
+them to make our goals and milestones more tangible.
+
 
 ### The fallacy of Lag measures
 A classical new-years goal is to lose weight. Let's say the goal is to lose
@@ -455,13 +459,13 @@ trends is hard, and impossible with less than two weeks of data. Most quit
 before a trend can manifest - but they couldn't see a trend in the first place,
 since they don't remember last week's exact measure.
 
-Weight, just like most interesting metrics, is a _Lag_ measure. Even if it is
+Weight, just like most interesting metrics, is a _Lag_ measure. While it is
 your ultimate goal, it is very susceptible to a wide range of factors and thus
 quite volatile in the short term. It is only useful in averages and
-long-term-trends. It lags behind if you will. Looking at it today and feeling
-depressed about it will not do you any good - and it will not get you closer to
-your goal, either. So what if you want to measure something and feel good about
-it?
+long-term-trends. Results lag behind if you will. Looking at it today and
+feeling depressed about it will not do you any good - and it will not get you
+closer to your goal, either. So what if you want to measure something to feel
+good about it?
 
 ### Lead measures
 What you could measure instead, is daily calorie intake. Not just the intake,
@@ -470,87 +474,91 @@ deficit of 500kcal, you are short 3500kcal every week, which is the energy
 stored in roughly 500g fat. The biggest benefit: it's something that can be
 done every day, and it's not susceptible to short-term variance. Keeping this
 up for Half a year will make you weigh less about 13.5 kg - a third more than
-the year's goal.
+the initial years' goal of 10 kg.
 
-Daily calorie deficit is a _Lead_ measure. They have much shorter intervals,
-such as days or weeks, and _lead_ to the goal - eventually. For these,
-consistency is key.
+Daily calorie deficit is a _Lead_ measure. _Lead_ measures have much shorter
+intervals, such as days or weeks, and _lead_ to the goal - eventually. For
+these, consistency is key. Consistently hitting your _lead_ measures ensures
+that you hit your _lag_ measures as well.
 
 ### Tips for applying them
 A Lag measures can be singular as well: 'Finish writing the Goal Setting
-Workshop post' is a current Lag measure for a milestone of mine. It doesn't
-necessarily have to be clear _how_ lag measures are achieved, but should be
-somewhat clear when looking at lead measures.
+Workshop post' is a current Lag measure for a milestone of mine. It does not
+necessarily have to be clear _how_ lag measures are achieved, but it should be
+clear how to hit the lead measures.
 
-Lead measures might change across milestones, the important part is that you
-have a Lead measure for each milestone.
+Lead measures might change across milestones, the important part is having a
+Lead measure for each milestone.
 
-It's absolutely okay for both Lead and Lag measures to be time-bound: One of my
-Lead measures is to read 30min in a focused manner each day. Sometimes I read
-up to two hours, but 30min is the minimum. No average, no 'but I did double
-yesterday', 30min a day.  This takes away the pressure to achieve a bit.
-Especially useful if it is hard to estimate workload - I just cannot estimate
-the time required for reading a chapter or even a single page, since both
-chapters and pages are sometimes more, and sometimes less dense with
-information. Making it time-bound increases predictability as well: you're done
-after 30min, continue tomorrow - though of course, there's nothing stopping you
-from continuing to work on your goal either, and doing so feels incredibly
-good.
+It is absolutely okay for both Lead and Lag measures to be time-bound: One of
+my Lead measures is to read 30min in a focused manner each day. Sometimes I
+read up to two hours, but 30min is the minimum. No average, no 'but I did
+double yesterday', 30min a day, every day. This takes away the pressure to
+achieve a bit. This is especially useful when it is hard to estimate workload -
+I just cannot estimate the time required for reading a chapter or even a single
+page, since both chapters and pages are sometimes more, and sometimes less
+dense with information. Making it time-bound increases predictability as well:
+you're done after 30min, continue tomorrow - though of course, there's nothing
+stopping you from doing more work either, and doing so feels incredibly good.
 
 ### Exercises
 You get bonus points for robust Lead measures - if it's hard for you to
-manipulate on them, or cheat your measures in any way.
+manipulate them, or cheat the measures in any way.
 
-For some goals (or even just some milestones) it is hard up to
-impossible to find good Lead measures - because circumstances, conditions and
-targets change so fast. So I have something you can do in these situations:
+For some goals (or even just some milestones) it is hard up to impossible to
+find good Lead measures - because circumstances, conditions and targets change
+so fast. You could meta-measure in these situations:
 
 - Make one next action step towards the goal today, and make sure at least one
   is ready for tomorrow.
 
-Feel free to use it as your Lead measure for those goals and milestones, where
-other measures just didn't fit.
+I use similarly defined metrics for two of my goals.
 
 {: .box-note}
 Go through your goals and Milestones and note which already have a Lag measure.
 
 {: .box-note}
 Define Lead and Lag measures for each of your goals and milestones. If it seems
-impossible to find Lead measures, set a timer to 3min and attempt to find one
-during this time.
+impossible to find good Lead measures, set a timer to 3min and attempt to find
+one during this time.
 
 
 ## Identify Next Actions (10min)
 At every point along the way, it is extremely important to have specific _next
 actions_.  Sometimes the only things getting you closer to your goal are
-_actions_. Execution will focus on that more, but here is the basic idea: If
-you are not aware of something you could do for your goal in a situation where
-you could do it, you won't do it.
+_actions_. Execution will focus on that more, but here is the basic idea:
+When in a situation where you could easily make progress towards your goals,
+you will not do so if you are unaware of the possibility.
 
 A _next action_ is a clearly defined and described physical action that can be
-done immediately and will bring you closer to one of your goals or milestones.
-Sometimes _next actions_ are blocked, since you are waiting for a mail first -
-be aware of those blockers.
+done immediately (if not blocked) and will bring you closer to one of your
+goals or milestones. Sometimes _next actions_ are blocked, since you are
+waiting for a mail first, or need someone else to help you - be aware of those
+blockers.
 
 If you want to build an awesome tree house, and you go to the hardware store
-already (getting color to paint a room), it can help to know if you need nails
-or not. If you noticed sometime after, you would need a lot more momentum to go
-to the hardware store again. Knowing these kinds of things at the right time
-saves a lot of energy and effort.
+(getting color to paint a room), it can help to know if you need nails
+or not. If you noticed a week later, you would need more energy and momentum to
+go to the hardware store again. Knowing things like that at the right time will
+save a lot of energy and effort.
 
 Everything requiring more than two next actions to get it done is a project.
-Goals and milestones are necessarily projects, but you might work on projects
-that are not part of your primary goals as well. Organizing a birthday party
-is unlikely part of your goals, but nonetheless something you might have
+Goals and milestones are necessarily projects, but you might be working on
+projects that are not part of your primary goals as well. Organizing a birthday
+party is unlikely part of your goals, but nonetheless something you might have
 committed to doing.
 
 {: .box-note}
 For each of your milestones, find three _next actions_ you could work on _right
 now_, each taking a few minutes at most.
 
-Do the first now. Do the next tomorrow before 11am (or no later than 4h after
-waking up, whichever comes first), and the third the day after tomorrow before
-11am. Ensure that you have new actions to work towards by then.
+Do the first now (or later, but _today_)! Do the next tomorrow before 11am (or
+no later than 4h after waking up, whichever comes first), and the third the day
+after tomorrow before 11am. Ensure that you have new next actions to work
+towards by then.
+
+Take a break before continuing with Execution. Skip to
+[conclusions](#conclusion) if you have an execution system like gtd already.
 
 
 ---
@@ -912,3 +920,4 @@ General Process:
 [presentation]: https://github.com/fkarg/things-to-talk-about/tree/master/longtermplans
 [gtd-triggers]: https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf
 [weekly]: https://gettingthingsdone.com/wp-content/uploads/2014/10/Weekly_Review_Checklist.pdf
+[death-winning]: ../2020-XX-XX-goalboss/#death-by-winning
