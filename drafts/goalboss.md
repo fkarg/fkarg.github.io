@@ -3,6 +3,7 @@ layout: post
 published: false
 title: 'Book: GOAL BOSS'
 subtitle: The Art & Science of Getting Stuff Done
+cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517189630l/38228311._SY475_.jpg'
 tags:
 - book
 ---
@@ -236,7 +237,7 @@ since it focuses exclusively on personal productivity.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Publication Checklist:
 - [ ] Content
-    - [ ] Added cover-image
+    - [x] Added cover-image
     - [ ] each paragraph describes at most one idea
     - [ ] the beginning of the post is clear and a good description
     - [ ] the beginning of each paragraph describes
