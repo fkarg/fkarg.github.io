@@ -34,6 +34,7 @@ the book immediately.
 - No bad Teams, only bad leaders
 - ownership of stuff, extreme.
 - discipline creates/equals freedom
+- extreme ownership is the same as focusing on your circle of influence from 7-habits
 
 ## Criticism
 - [ ] Clearly structured?
@@ -69,3 +70,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [books]: ../2019-09-12-books/
 [rich-dad]: ../2020-XX-XX-rich-dad-poor-dad/
 [personal-mba]: ../2020-XX-XX-personal-mba/
+[7-habits]: ../2020-XX-XX-seven-habits/
