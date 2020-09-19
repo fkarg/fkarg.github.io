@@ -34,6 +34,7 @@ as well as when I read it. Reference other book reviews if applicable.
 - [ ] Good Examples?
 - [ ] Clear Explanations?
 - [ ] Concise reasons why?
+- [ ] Book is easily skimmable?
 - [ ] Misc, specific to book
 - [ ] Whom would I recommend reading this book?
 
