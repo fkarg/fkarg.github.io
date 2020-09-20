@@ -986,7 +986,7 @@ A biotech-manager about her to-do-list after one of his seminars.
 
 
 ---
-[no-asshole]: ../2020-02-28-book-the-no-asshole-rule
+[no-asshole]: ../2020-02-28-no-asshole-rule
 [zero-one]: ../2020-02-01-zero-to-one
 [todotxt]: http://todotxt.org/
 [todocli]: https://github.com/todotxt/todo.txt-cli

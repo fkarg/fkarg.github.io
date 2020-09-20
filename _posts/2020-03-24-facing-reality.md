@@ -140,7 +140,7 @@ The internet will tell you that you are wrong. Well, the internet will tell you
 that you are wrong about _everything_. So not exactly helpful. It is worse,
 even, because it is so easy to find information to _confirm_ your theories,
 your beliefs. It is fine to
-[be an asshole](../2020-02-28-book-the-no-asshole-rule/#6-the-virtues-of-assholes).
+[be an asshole](../2020-02-28-no-asshole-rule/#6-the-virtues-of-assholes).
 The moon landings were [fake](https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories).
 And _whatever else_ you always wanted to be _true_.
 
