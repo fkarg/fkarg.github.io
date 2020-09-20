@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: GOAL BOSS'
 subtitle: The Art & Science of Getting Stuff Done
 cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517189630l/38228311._SY475_.jpg'
@@ -117,7 +117,7 @@ Introduction of the Johari Window and that you need to reduce and limit your
 blind spots, especially as a leader.
 
 ## Setting Goals
-
+[Setting goals increases chances of success tremendously][goal-setting-motivation].
 
 ## Team Problem Solving
 ## Five Keys to Leadership
@@ -273,3 +273,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [extreme]: ../2020-XX-XX-extreme-ownership/
 [7-habits]: ../2020-09-02-seven-habits/
 [lean-startup]: ../2020-09-11-lean-startup/
+[goal-setting-motivation]: ../2020-XX-XX-longtermplans/#more-than-setting-goals
