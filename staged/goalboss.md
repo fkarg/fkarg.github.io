@@ -117,22 +117,71 @@ Introduction of the Johari Window and that you need to reduce and limit your
 blind spots, especially as a leader.
 
 ## Setting Goals
-[Setting goals increases chances of success tremendously][goal-setting-motivation].
+[Setting goals increases chances of success
+tremendously][goal-setting-motivation]. Always set yourself five goals, an easy
+one and the others hard enough to be challenging. Aim to achieve 80% of the
+goals you set yourself, this is the sweet spot not demotivating you while
+staying a challenge.
 
 ## Team Problem Solving
-## Five Keys to Leadership
-## Communicating Skills
-## Keys to Communicating
-## Proper Prior Planning
-## Keys to Planning
-## Organizing Resources
-## Successful Delegation
-## Keys to Organizing
-## Best. Meeting. Ever
-## Keys to Controlling
-## Coaching in Goal Boss
-## Keys to Leadership
+A team-based problem-solving approach orginally used by NASA. One person
+(client) has a Problem to be solved, the others participate as solvers.
+- Client explain background and facts of the problem - One Minute
+- Solvers ask quick and concise questions about the situation - Two Minutes
+- Client is quiet while solvers suggest approaches and action steps - Five Minutes
+- The client condenses the proposed action steps to some he will actually try - Two Minutes
 
+## Five Keys to Leadership
+There are five things really important in Leadership: Communication, Planning,
+Organizing, Controlling and Leading.
+
+## Communicating Skills
+Communication is critical, 'checking' if you understood something correctly can
+boost information transfer accuracy tremendously.
+
+## Keys to Communicating
+Pre-plan both sending and receiving of communication, and make sure to review
+regularly.
+
+## Proper Prior Planning
+Have a one-page plan with goals simple enough for everyone to understand.
+This plan should contain: Vision, Mission, Values, the Goals and Strategies for
+tackling them.
+
+## Keys to Planning
+It is import to align on values and goals to work together effectively.
+
+## Organizing Resources
+Be aware of small inefficiencies that don't scale and waste everyone's time.
+Notice and get rid of [Attitudes and On-Board-Terrorists][no-assholes] as fast
+as possible.
+
+## Successful Delegation
+Essentially Stewardship-delegation, as described in [Seven Habits of Highly
+Effective People][7-habits].
+
+## Keys to Organizing
+Define and Communicate Goals, Identify available Resources, and be aware of
+Roles and Responsibilities.
+
+## Best. Meeting. Ever
+Choose the best people, have established ground rules, give Kudos where
+appopriate, focus on key metrics, have goals and key takeaways (recite them
+prior to the end), and schedule the next meeting just prior the end.
+
+
+## Keys to Controlling
+Clearly defined goals, have a measurement system, communicate expectations,
+give candid feedback timely; measure, adjust repeat.
+
+## Coaching in Goal Boss
+start talking about recent Success, concerns, best and worst parts of last
+month, have goals and key metrics, kudos, feedback, key takeaways, and a next
+meeting scheduled.
+
+## Keys to Leadership
+Coach, be a Teacher, have Passion and Courage, give more and facilitate
+teamwork.
 
 
 # Review
@@ -273,4 +322,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [extreme]: ../2020-XX-XX-extreme-ownership/
 [7-habits]: ../2020-09-02-seven-habits/
 [lean-startup]: ../2020-09-11-lean-startup/
-[goal-setting-motivation]: ../2020-XX-XX-longtermplans/#more-than-setting-goals
+[goal-setting-motivation]: ../2020-XX-XX-longtermplans/#more-than-setting-goals/
+[no-assholes]: ../2020-02-28-no-asshole-rule/
