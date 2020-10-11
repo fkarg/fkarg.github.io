@@ -19,14 +19,17 @@ handling though?) on [https://book.goalboss.com/](https://book.goalboss.com/).
 Seems to be legit, and it might not even be a scam.
 
 Similarities to [Getting Things Done][gtd] (GTD) exist, but while GTD focuses
-on the individual, GOAL BOSS focuses on how to get things done as a team.
+on the individual, GOAL BOSS focuses on getting things done as a team.
 
 * TOC
 {:toc}
 
 # Content
-The book is divided into several short chapters.
+The book is divided into several short chapters. They are all about one central
+topic, referencing earlier and later chapters. Some notes on the chapters are
+included as html-comment.
 
+<!--
 ## Death by Winning
 In the first chapter, he tells a story about how they were crushed by their own
 success - they had more signups than they could handle and more bugs than they
@@ -182,76 +185,154 @@ meeting scheduled.
 ## Keys to Leadership
 Coach, be a Teacher, have Passion and Courage, give more and facilitate
 teamwork.
+-->
+
 
 
 # Review
-While I'm not exactly part of big business yet, and am missing a lot of context
-regarding a corporate workplace, reading it still gave me a more detailed
-picture of what to avoid. And yet most of the principles are applicable to most
-club and student group meetings.
+I'm not part of a big business corporate workplace yet, but It helped me get a
+more clearer picture of some common pitfalls - I'll attempt to avoid going
+forward.
 
+What I've noticed, though: most of the principles are applicable to club and
+student group meetings.
+
+---
 ## Main Takeaways
-- What's the goal? (or meeting agenda) and Who's the Leader?
-While I was aware of meetings requiring an agenda, I was not aware that a lot
-of meetings apparently don't have one. It is only one implication of always
-having a pre-specified goal and Leader.
+There are quite a few things I'd like to touch upon at least. Even though I got
+most of my deeper understanding from other sources (or personal experience),
+Will Pemble is probably where I became aware of those first.
 
-- meeting ground rules
-Ground rules get more important as the stakes increase, but it's already
-helpful to have just one person nudging others into adhering them.
-
-- leadership keys: communication, planning, organizing, controlling, leading
-The five leadership keys seem incomplete, but maybe I just haven't fully
-understood them yet. For me, leadership as described in [Extreme
-Ownership][extreme] feels more tangible.
-
+Each of these topics has one or multiple chapters dedicated to it.
+- Death by Winning
+- Always have a clear Goal and Leader
+- Meeting Ground Rules
+- Leadership
 - Team Problem Solving
+- Sandbag Goals
+- Always Improve Your Communication
+- Have a One-Page Strategy Summary
+- On-Board Terrorists
+- The Value of Internal Recognition
+- Measure Everything
+- Coaching
 
 
-- sandbag goals - aim for 80%
-Sandbagging goals - aiming for 80% changed my life. I used to set goals that
-are easily achievable. So aiming for 80% success rate instead of my usual 
-100% - even though I don't always achieve it - is new. But, this allows me to
-set higher short-term goals, and to feel better about not achieving all of
-them. This also forces me to prioritize continuously, especially as new tasks
-come up during the week.
+### Death by Winning
+The first chapter was all about 'getting crushed by your own success'. They
+were really successful, but since they could not grow their company by speed
+and scale they were getting requests, it seemed similar to a [DDOS][ddos] to
+them - even though they worked their ass off.
 
-- you can always improve your communication
+Ultimately, it is a story about effectiveness and planning. Working hard will
+get you far, but you also need to [work on the right
+thing][goal-setting-effective]. There was a similar story learned in [The 7
+Habits][7-habits-priorities].
+
+
+### Always have a clear Goal and a clear Leader
+While I was aware that meetings require an agenda, I was not aware that a lot
+of meetings apparently do not have one. It is only one implication of always
+having a pre-specified goal and leader.
+
+In student-led groups the same issues surface: things that do not have a
+dedicated leader rarely get done with high quality or at all. Most of the time,
+it is not clear what the goal is or what the next steps will be.
+
+I really internalized that only after reading [Getting Things Done][gtd] -
+always know (and ask if you do not) what the goal is and what your next steps
+ought to be.
+
+
+### Meeting Ground Rules
+Meeting ground rules are simple rules everyone in a meeting has to follow.
+The example ground rules given include that everyone has their phone on
+airplane mode, and to attack the problem instead of the person. The one I'm
+probably most guilty of not following is 'no rabbit holes' - stay on topic,
+basically. I only recently understood why both this and that everyone should
+participate are this important to effective meetings.
+
+
+### Leadership Keys
+The five keys to leadership seem incomplete to me, but maybe I just haven't
+fully understood or internalized them yet. For me, leadership as described in
+[Extreme Ownership][extreme] feels more tangible.
+
+The five keys to leadership are:
+- Communication
+- Planning
+- Organizing
+- Controlling
+- Leading
+
+
+### Team Problem Solving
+This is a problem solving strategy adapted from NASA. I have not heard of it
+before, but I can see that it can be really effective if used properly.
+
+I can actually remember using it (partially) without being aware of it, and
+receiving quite decent results.
+
+
+### Sandbag Goals
+Sandbagging goals - aiming to achieve 80% of your goals changed my life. I used
+to set goals that are easily achievable. Aiming for an 80% success rate instead
+of my usual (close to) 100% was new.
+
+This allowed me to go for higher short-term goals, and to feel better about not
+achieving all of them. This also forced me to prioritize more and better,
+especially as urgent tasks come up during the week.
+
+### You Can Always Improve Your Communication
 One thing I noticed first when reading this book is the recommendation to
 continuously work on improving your communication skills. I have since found
 the same recommendation in other books, e.g. [The 7 Habits of Highly Effective
 People][7-habits]. This advice being recommended multiple times from different
-sources got me to work on my communication skills.
+sources inspired me to [work on my communication skills][influence].
 
-- one-page company strategy for everyone
-Having a one-page summary of the companies strategy was also mentioned in [The
-7 Habits][7-habits], and something similar was said in [Extreme
-Ownership][extreme]. I will make sure to follow this principle.
+### Have a One-Page Strategy Summary for Everyone
+Having a one-page summary of the companies strategy being valuable was also
+mentioned in [The 7 Habits][7-habits], and something similar was said in
+[Extreme Ownership][extreme] about simple communication.
 
-- Leadership and On-Board-Terrorists
+Clearly, there are many benefits to break down the overall strategy to
+something simple enough for everyone to understand. Everyone will have a clear
+reason why, and has a better framework to making decisions in the field.
+I will make sure to follow the idea behind this.
+
+### On-Board-Terrorists
+An On-Board-Terrorist describes people demoralizing and sabotaging the whole team.
+
 While the terminology of 'On-Board-Terrorists' is a bit harsh, I can understand
 where he's coming from. Being aware of this concept has helped me to notice and
 sometimes help them, and avoid them in other cases.
 
-- kudos and internal recognition for good work
-Something else I learned about is how and why it is important to provide
-internal recognition for outstanding work.
+Get rid of [attitudes][ego] and [On-Board-Terrorists][no-assholes] as fast as
+possible, if transformation fails. Especially on the higher ranks.
 
-- measuring everything
+### The Value of Internal Recognition For Good Work
+The importance of internal recognition for good work was something I had on my
+mind, but had not fully internalized its importance yet. I do hope to get more
+information in [Drive][drive] soon.
+
+
+### measuring everything
 The habit of measuring _everything_ is something that is focused more on in
 [The Lean Startup][lean-startup], but Goalboss provides new concise arguments
 for why you should do it in the first place, and what benefits to derive from
 doing so.
 
-- coaching (last chapter, look it up in detail)
+### Coaching
+The original workshop where I received this book was about coaching, and I was
+unsure what to expect. I now understand it much better, but I have to admit
+that the border between mentoring and coaching is still somewhat fuzzy for me.
 
-- [ ] What are the biggest new mental models I created when reading this book?
-- [ ] What were the most significant concepts encountered and why?
-- [ ] How could I have learned these concepts when not reading them in this book?
-- [ ] Did learning these concepts improve my life?
+Regardless, I now understand better how it works and _why_ it should be done.
 
 
+---
 ## Criticism
+<!-- TODO: from here onwards -->
 Damn narcissist, telling a lot of different stories. I heard Will Pemble talk
 about 'Death by Winning' as a speaker at CloudFest2019. There, he told a
 different, and honestly, more believable, more human story. But I included the
@@ -272,6 +353,7 @@ since it focuses exclusively on personal productivity.
 - [ ] Whom would I recommend reading this book?
 
 
+---
 ## Favorite Quotes
 > When no one is in charge, everyone is in charge. What a terrible way to build a business!
 
@@ -321,6 +403,13 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [gtd]: ../2020-07-16-getting-things-done/
 [extreme]: ../2020-XX-XX-extreme-ownership/
 [7-habits]: ../2020-09-02-seven-habits/
+[7-habits-priorities]: ../2020-09-02-seven-habits/#habit-3-put-first-things-first
 [lean-startup]: ../2020-09-11-lean-startup/
 [goal-setting-motivation]: ../2020-XX-XX-longtermplans/#more-than-setting-goals/
+[goal-setting-effective]: ../2020-XX-XX-longtermplans/#death-by-winning
 [no-assholes]: ../2020-02-28-no-asshole-rule/
+[ddos]: https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack
+[gtd]: ../2020-07-16-getting-things-done/
+[influence]: ../2020-XX-XX-win-friends-influence-people/
+[ego-enemy]: ../2020-XX-XX-ego-enemy/
+[drive]: ../2020-XX-XX-drive/
