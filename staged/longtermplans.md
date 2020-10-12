@@ -920,4 +920,4 @@ General Process:
 [presentation]: https://github.com/fkarg/things-to-talk-about/tree/master/longtermplans
 [gtd-triggers]: https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf
 [weekly]: https://gettingthingsdone.com/wp-content/uploads/2014/10/Weekly_Review_Checklist.pdf
-[death-winning]: ../2020-XX-XX-goalboss/#death-by-winning
+[death-winning]: ../2020-10-12-goalboss/#death-by-winning
