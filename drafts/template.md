@@ -19,6 +19,10 @@ as well as when I read it. Reference other book reviews if applicable.
 
 # Content
 ## Part One
+**TLDR**; one or two sentences recollecting the most important takeaways
+
+- bulletpoints of some notes
+
 ## Part Two
 ## Part Three
 
@@ -34,6 +38,7 @@ as well as when I read it. Reference other book reviews if applicable.
 - [ ] Good Examples?
 - [ ] Clear Explanations?
 - [ ] Concise reasons why?
+- [ ] Is the advice actionable?
 - [ ] Book is easily skimmable?
 - [ ] Misc, specific to book
 - [ ] Whom would I recommend reading this book?
@@ -41,6 +46,7 @@ as well as when I read it. Reference other book reviews if applicable.
 ## Favourite Quotes
 
 <!--
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Publication Checklist:
 - [ ] Content
     - [ ] Added cover-image
