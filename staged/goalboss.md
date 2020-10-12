@@ -9,17 +9,17 @@ tags:
 ---
 Will Pembles 'practical guide to successful business leadership.'
 
-I got this book when attending a coaching seminar hosted by Will Pemble during
-CloudFest 2019.  Afterwards he just gave out signed books to every attendee -
-which was pretty awesome. So this version is actually hand-signed by him and
-addressed to me personally. How cool is that?
-
-Apparently, you can get this book for free (you need to pay for shipping and
-handling though?) on [https://book.goalboss.com/](https://book.goalboss.com/).
-Seems to be legit, and it might not even be a scam.
+I received a hand-signed, personally addressed copy from Will Pemble after
+attending a coaching seminar during [CloudFest][cloudfest] 2019. I only read
+the book in late 2019. It helped me understand critical aspects of
+high-performance teams better.
 
 Similarities to [Getting Things Done][gtd] (GTD) exist, but while GTD focuses
 on the individual, GOAL BOSS focuses on getting things done as a team.
+
+Apparently, you can get this book for free (you need to pay for shipping and
+handling though?) on [https://book.goalboss.com/](https://book.goalboss.com/).
+Seems to be legit, it might not even be a scam.
 
 * TOC
 {:toc}
@@ -27,7 +27,7 @@ on the individual, GOAL BOSS focuses on getting things done as a team.
 # Content
 The book is divided into several short chapters. They are all about one central
 topic, referencing earlier and later chapters. Some notes on the chapters are
-included as html-comment.
+included as comment in HTML.
 
 <!--
 ## Death by Winning
@@ -135,7 +135,7 @@ A team-based problem-solving approach orginally used by NASA. One person
 - The client condenses the proposed action steps to some he will actually try - Two Minutes
 
 ## Five Keys to Leadership
-There are five things really important in Leadership: Communication, Planning,
+There are five things important in Leadership: Communication, Planning,
 Organizing, Controlling and Leading.
 
 ## Communicating Skills
@@ -191,17 +191,18 @@ teamwork.
 
 # Review
 I'm not part of a big business corporate workplace yet, but It helped me get a
-more clearer picture of some common pitfalls - I'll attempt to avoid going
+clearer picture of some common pitfalls. I'll attempt to avoid them going
 forward.
 
-What I've noticed, though: most of the principles are applicable to club and
-student group meetings.
+What I've noticed, though: almost all principles are applicable to club and
+student group meetings as well.
 
 ---
 ## Main Takeaways
 There are quite a few things I'd like to touch upon at least. Even though I got
 most of my deeper understanding from other sources (or personal experience),
-Will Pemble is probably where I became aware of those first.
+Will Pemble - his presentation, coaching seminar or the book - is probably
+where I became aware of those first.
 
 Each of these topics has one or multiple chapters dedicated to it.
 - Death by Winning
@@ -220,9 +221,9 @@ Each of these topics has one or multiple chapters dedicated to it.
 
 ### Death by Winning
 The first chapter was all about 'getting crushed by your own success'. They
-were really successful, but since they could not grow their company by speed
-and scale they were getting requests, it seemed similar to a [DDOS][ddos] to
-them - even though they worked their ass off.
+were successful, but since they could not grow their company by speed and scale
+they were getting requests, it seemed similar to a [DDoS][ddos] to them - even
+though they worked their ass off.
 
 Ultimately, it is a story about effectiveness and planning. Working hard will
 get you far, but you also need to [work on the right
@@ -239,22 +240,25 @@ In student-led groups the same issues surface: things that do not have a
 dedicated leader rarely get done with high quality or at all. Most of the time,
 it is not clear what the goal is or what the next steps will be.
 
-I really internalized that only after reading [Getting Things Done][gtd] -
-always know (and ask if you do not) what the goal is and what your next steps
-ought to be.
+I internalized that only after reading [Getting Things Done][gtd]. Always know
+(and ask if you do not) what the goal is and what your next steps ought to be.
 
 
 ### Meeting Ground Rules
 Meeting ground rules are simple rules everyone in a meeting has to follow.
 The example ground rules given include that everyone has their phone on
 airplane mode, and to attack the problem instead of the person. The one I'm
-probably most guilty of not following is 'no rabbit holes' - stay on topic,
-basically. I only recently understood why both this and that everyone should
-participate are this important to effective meetings.
+most guilty of not following is 'no rabbit holes' - stay on topic, basically.
+
+While receiving detailed reports is relevant, not everyone is interested in
+detailed discussions - they should happen prior to the report. More important
+than staying on topic is that everyone should (be required to) participate.
+It is everything but polite to keep someone somewhere where they can't do
+anything or participate in a meaningful way.
 
 
 ### Leadership Keys
-The five keys to leadership seem incomplete to me, but maybe I just haven't
+The five keys to leadership appear incomplete to me, but I certainly have not
 fully understood or internalized them yet. For me, leadership as described in
 [Extreme Ownership][extreme] feels more tangible.
 
@@ -267,10 +271,10 @@ The five keys to leadership are:
 
 
 ### Team Problem Solving
-This is a problem solving strategy adapted from NASA. I have not heard of it
-before, but I can see that it can be really effective if used properly.
+This is a problem-solving strategy adapted from NASA. I have not heard of it
+before, but I can see that it can be effective if used properly.
 
-I can actually remember using it (partially) without being aware of it, and
+I can actually remember using it (in parts) without being aware of it, and
 receiving quite decent results.
 
 
@@ -283,6 +287,7 @@ This allowed me to go for higher short-term goals, and to feel better about not
 achieving all of them. This also forced me to prioritize more and better,
 especially as urgent tasks come up during the week.
 
+
 ### You Can Always Improve Your Communication
 One thing I noticed first when reading this book is the recommendation to
 continuously work on improving your communication skills. I have since found
@@ -290,22 +295,27 @@ the same recommendation in other books, e.g. [The 7 Habits of Highly Effective
 People][7-habits]. This advice being recommended multiple times from different
 sources inspired me to [work on my communication skills][influence].
 
-### Have a One-Page Strategy Summary for Everyone
-Having a one-page summary of the companies strategy being valuable was also
-mentioned in [The 7 Habits][7-habits], and something similar was said in
-[Extreme Ownership][extreme] about simple communication.
 
-Clearly, there are many benefits to break down the overall strategy to
-something simple enough for everyone to understand. Everyone will have a clear
-reason why, and has a better framework to making decisions in the field.
-I will make sure to follow the idea behind this.
+### Have a One-Page Strategy Summary for Everyone
+In [The 7 Habits][7-habits] the benefits of a 'personal mission statement' were
+explored, and I believe having a one-page strategic summary is just an
+extension of this. This is further explored in [Extreme Ownership][extreme] -
+Everyone needs to understand _why_ he does what he does. This enables faster
+reaction times when things change - and they will.
+
+Clearly, there are benefits to break down the overall strategy to something
+simple enough for everyone to understand. Everyone will have a clear reason
+why, and has a better framework for making decisions in the field. I will make
+sure to follow the idea behind this.
+
 
 ### On-Board-Terrorists
-An On-Board-Terrorist describes people demoralizing and sabotaging the whole team.
+An On-Board-Terrorist describes people demoralizing and sabotaging the whole
+team.
 
 While the terminology of 'On-Board-Terrorists' is a bit harsh, I can understand
 where he's coming from. Being aware of this concept has helped me to notice and
-sometimes help them, and avoid them in other cases.
+sometimes help them, avoiding them in other cases.
 
 Get rid of [attitudes][ego] and [On-Board-Terrorists][no-assholes] as fast as
 possible, if transformation fails. Especially on the higher ranks.
@@ -316,42 +326,52 @@ mind, but had not fully internalized its importance yet. I do hope to get more
 information in [Drive][drive] soon.
 
 
-### measuring everything
+### Measuring Everything
 The habit of measuring _everything_ is something that is focused more on in
-[The Lean Startup][lean-startup], but Goalboss provides new concise arguments
+[The Lean Startup][lean-startup]. Goalboss provides new concise arguments
 for why you should do it in the first place, and what benefits to derive from
 doing so.
+
 
 ### Coaching
 The original workshop where I received this book was about coaching, and I was
 unsure what to expect. I now understand it much better, but I have to admit
 that the border between mentoring and coaching is still somewhat fuzzy for me.
 
-Regardless, I now understand better how it works and _why_ it should be done.
+Regardless, I now understand better what it is, how it works, as well as when
+and _why_ it should be done.
 
 
 ---
 ## Criticism
-<!-- TODO: from here onwards -->
-Damn narcissist, telling a lot of different stories. I heard Will Pemble talk
-about 'Death by Winning' as a speaker at CloudFest2019. There, he told a
-different, and honestly, more believable, more human story. But I included the
-details about that there already.
+The book is structured quite well. So well, in fact, that it gets repetitive.
+He does touch a lot of topics, but never _quite_ goes deep on any of them,
+referencing and re-explaining them over and over. It is arguably the most
+predictable book I have read.
 
-Overall, I learned a couple of things and will probably implement some
-recommended actions as often as possible. It is clear that the focus is on
-_team_ productivity, and as such, is the first of this topic that I have read.
+Being predictable in itself is not a bad thing, but you can rarely learn from
+that.
 
-It compliments quite well with [Getting Things Done](../getting-things-done/),
-since it focuses exclusively on personal productivity.
+The examples are good, even though too rare. Explanations are easy to follow.
+Reasons are included, but I would love to have gone in depth for many of them.
 
-- [ ] Clearly structured?
-- [ ] Good Examples?
-- [ ] Clear Explanations?
-- [ ] Concise reasons why?
-- [ ] Misc, specific to book
-- [ ] Whom would I recommend reading this book?
+Will Pemble gave a talk about the content of the first chapter as well, which
+was more human, relatable and realistic. So yeah, reading the 'introductory'
+chapter while it screams 'fake' in your face is not exactly a good way to start
+reading a book.
 
+Overall the book contains multiple concepts I found useful, and even though I
+did not understand them yet, they certainly got more of my attention. This
+is more than some other books make me do.
+
+It compliments quite well with [Getting Things Done][gtd], since GTD focuses
+on personal productivity exclusively. Then again, do not expect GoalBoss to be
+on the level of GTD.
+
+I would recommend reading GoalBoss to you, if you want to work in a
+high-performance workplace. Even though Will Pemble glosses over the important
+aspects, it will help you become aware of _why_ certain teams are not
+high-performance, and give you ideas on what to change.
 
 ---
 ## Favorite Quotes
@@ -365,28 +385,30 @@ since it focuses exclusively on personal productivity.
 
 
 <!--
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Publication Checklist:
-- [ ] Content
+- [x] Content
     - [x] Added cover-image
-    - [ ] each paragraph describes at most one idea
-    - [ ] the beginning of the post is clear and a good description
-    - [ ] the beginning of each paragraph describes
+    - [x] each paragraph describes at most one idea
+    - [x] the beginning of the post is clear and a good description
+    - [x] the beginning of each paragraph describes
           the information contained in the paragraph
-    - [ ] the end is on a high note/positive outlook or
+    - [x] the end is on a high note/positive outlook or
           inspirational call to action
-    - [ ] Tell them what you're going to tell them. Then tell them.
+    - [x] Tell them what you're going to tell them. Then tell them.
           Finally, tell them what you told them. - Unknown
-- [ ] Grammar and Typos
-    - [ ] checked with `pylanguagetool` for typos
-    - [ ] checked with `homer` for compulsive hedgers
-    - [ ] checked with `homer` for vague words
-    - [ ] checked with `homer` for sentence length
+- [x] Grammar and Typos
+    - [x] checked with `pylanguagetool` for typos
+    - [x] checked with `homer` for compulsive hedgers
+    - [x] checked with `homer` for vague words
+    - [x] checked with `homer` for sentence length
 - [ ] Details
     - [ ] test-read actual rendered text
     - [ ] checked how it looks like on mobile
 - [ ] Publication
-    - [ ] scheduled publication / linked in [books][books]
+    - [ ] checked if links became valid
+    - [ ] scheduled publication
+    - [ ] linked in [books][books]
     - [ ] checked if linked in prior/upcoming posts
     - [ ] posted link to review on goodreads
     - [ ] removed this comment
@@ -411,5 +433,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [ddos]: https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack
 [gtd]: ../2020-07-16-getting-things-done/
 [influence]: ../2020-XX-XX-win-friends-influence-people/
-[ego-enemy]: ../2020-XX-XX-ego-enemy/
+[ego-enemy]: ../2020-09-23-ego-enemy/
 [drive]: ../2020-XX-XX-drive/
+[cloudfest]: https://www.cloudfest.com/
