@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: Make Your Brain Work'
 subtitle: How to maximize your Efficiency, Productivity and Effectiveness
 cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344733046l/15807288.jpg'
@@ -11,13 +11,13 @@ Review of Amy Branns book that 'Not only provides us with greater understanding
 on how the brain works, but also gives us useful tools on how to make the brain
 work for each of us'.
 
+While the book delivers its promise, typesetting and grammatical errors make it
+hard to read, and factually wrong information makes me doubt the validity of
+the other information. While I don't regret reading it, I would not recommend
+it to others.
+
 I bought this book together with [Ego is the Enemy][ego-enemy] in the end of
-July, and read it in the end of August. While I don't regret reading it, I
-wouldn't recommend it to others. In part, because included information is flat
-out wrong or not founded scientifically, but primarily because I found a
-noticable amount of typset-errors and sentences did not always make sense
-grammatically. While some readers pointed them out [on goodreads][goodreads]
-already for the first edition, but they are still true for the second edition.
+July, and read it in the end of August.
 
 * TOC
 {:toc}
@@ -33,54 +33,22 @@ In the second chapter, stress and how it works is explained in detail. While
 multiple techniques on how to deal with stress were mentioned, I did not
 exactly find them actionable.
 
-[Priming][priming] and [Anchoring][anchoring] and their effects on our control
+[Priming][priming], [anchoring][anchoring] and their effects on our control
 are explored in chapter three. While they are relevant to be aware of, I would
 guess that their effects wear off fast if used to 'control' your thoughts and
-emotions, as suggested. Again, nothing actionable is presented.
+emotions, as suggested.
 
 Chapter four has useful tips on how to design your environment, how to deal
 with distractions and how to self-manage time. Most of the collected tips were
 not new or unknown. I did learn however, that active dopamine (in your system)
-increases chances of choosing something short-term over something long-term. I
-now regularly notice this in myself.
+increases chances of deciding for short-term payoff actions over long-term
+ones. I do notice this myself sometimes, and decide to recuperate when I do so.
 
 Finally, chapter five has some actionable tips on improving both learning and
-sleeping.
+sleeping quality.
 
 Chapter six is about habits, but most of its content is described as 'common
-misconceptions' by [The Power of Habit][power-habit].
-
-<!--
-Have an [Idea Catcher][idea-catcher] to write down distracting toughts. Do it
-first, if it still keeps distracting you. Prioritize by doing the thing you
-have the least regrets doing it.
-
-High load on your prefrontal cortex can make it susceptible to unproductive
-short-term thinking afterwards. Keep it in mind, and keep your prefrontal
-cortex from getting stressed, tired, or without sufficient energy.
-
-Perceived novelty increases cognitive load significantly. Find similarities
-with prior experiences to reduce load and stress.
-
-No Multitasking.
-
-Your brain will be more active and efficient if you allow it to receive new
-stimulus frequently. This enables higher concentration and faster learning
-(25%+).
-
-Stress is very bad for your brain. Avoid additional feelings of inadequacy.
-
-Techniques to change from angry and stressed states of mind to calmer ones:
-- Refocus: In the moment, shift focus to something slightly up to completely
-  differnt.
-- Reframe: Change the frame/perception of something to change how it looks and
-  feels. Try to see the situation from a different perspective.
-- Reevaluate: consider changing the meaning you attach to the situation.
-
-The hippothalamus yearns for security and similiarity when stressed, but
-stimulating it with something new can help alleviate stress as well. (I'm not
-sure why, it is not explained.)
--->
+misconceptions' in [The Power of Habit][power-habit].
 
 ## Part Two: Your Colleagues and Clients
 Chapter seven is about having a good work-life balance. How this looks like for
@@ -92,21 +60,70 @@ as doing it in certain situations. The idea is to thoroughly visualize your
 goal, to help your brain find ways to achieve it - and to reward yourself for
 achieving it afterwards.
 
-I learned about the Swayer Effect in chapter nine. It is when you lose
+I learned about the swayer effect in chapter nine. It is when you lose
 intrinsic motivation for doing something after you have gotten extrinsic
 rewards for doing it sometime prior. The chapter is about how motivation works,
-and why it is so hard to motivate others.
+and why it is so hard to motivate others. I'll see how it holds up against what
+is said in [Drive][drive] soon.
+
+The tenth chapter is all about resiliency, the dynamic ability to overcome and
+prosper more easily from negative or difficult events in daily life.
+Essentially, it is nurtured by having little mental fatigue, being mindful, and
+approaching new situations with an open and curious mind.
+
+In the eleventh chapter, we learn what to do when we are asked for innovation
+and creativity. At its core, it is about being able to generate ideas without
+being judged for them, and doing things in other ways than usually.
+
+Appearing competent to others is the topic of the twelth chapter. Apart from
+the fact that you should take notes during meetings and preperation does not
+mean knowing all numbers off your head, there are some tips on how to actually
+become competent. Doing even small amounts of exercise will improve your mental
+abilities by up to 30 percent. A balanced lifestyle improves mental abilities
+as well.
 
 
 ## Part Three
+Chapter thirteen has some useful tips for [leading][extreme-ownership] teams.
+According to Amy, your main job is to reduce uncertainty for employees while
+giving them control, and showing integrity as well as congruency with actions.
+
+Psychological safety is required to facilitate the expression of skills and
+take necessary risks. What a [safe environment][no-asshole] is and that the
+creation is the responsibility of leaders is described in chapter fourteen.
+
+The last chapter contains tips about team coherence, which includes trusting
+your teammates, having clear expectations and planning ahead.
+
 
 # Review
 ## Main Takeaways
-- reduce perceived novelty to reduce cognitive load
+- reduce perceived novelty to reduce cognitive overload
 - faster learning by having more diverse stimulus areas (25%+)
-- swayer effect
+- multiple things can rapidly impact learning: exercise, sleep, water, breaks, stress, ...
+- swayer effect: losing intrinsic motivation after receiving extrinsic rewards
 
 ## Criticism
+
+<!-- primary reasons against recommendation: -->
+
+In part, because it includes information that is flat out wrong or not founded
+scientifically (quantum brain theories anyone?). These are only a small part
+though and can be ignored, if warned.
+
+There are two bigger reasons than this though. First, because I found a noticable
+amount of typesetting-errors (an 'I' in places where I would expect an 'l' or
+'1', as well as similar ones).
+
+Second, Sentences regularly did not make sense grammatically. I understood what
+these sentences wanted to say, but they still left me confused for a bit and
+interrupted my reading flow.
+
+Some readers pointed them out [on goodreads][goodreads] for the
+first edition, and they are still present in the second edition.
+
+
+
 - too many small mistakes (grammatical nonsense, missing words, duplicates, an
   'I' instead of an 'l') to ignore - every couple pages
 - feels 'Hollow': gender criticism against men
@@ -128,10 +145,28 @@ and why it is so hard to motivate others.
 
 ## Favourite Quotes
 
+> Being available constantly by phone, email and text can drop your IQ by as
+> much as losing a night's sleep.
+
+> There is no single answer to the question of what makes a good
+> work-life-balance.
+
+> Engaging your brain in what you want to happen is increadibly important.
+
+> Motivation is a strange phenomenon. We tend to recognize it most in ourselves
+> or others when it is lacking.
+
+> [...] people will adapt the amount of effort they put into things depending
+> on the level of reward they expect to gain.
+
+> Congruency gives people certainty
+
+> The best way to move things forward is often to take action.
+
 <!--
 # Publication Checklist:
 - [ ] Content
-    - [ ] Added cover-image
+    - [x] Added cover-image
     - [ ] the beginning of the post is clear and a good description
     - [ ] the beginning of each paragraph describes
           the information contained in the paragraph
@@ -169,3 +204,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [priming]: https://www.lesswrong.com/posts/BaCWFCxBQYjJXSsah/priming-and-contamination
 [anchoring]: https://www.lesswrong.com/posts/bMkCEZoBNhgRBtzoj/anchoring-and-adjustment
 [power-habit]: ../2020-09-16-power-of-habit/
+[drive]: ../2020-XX-XX-drive/
+[extreme-ownership]: ../2020-XX-XX-extreme-ownership/
+[no-asshole]: ../2020-XX-XX-no-asshole-rule/
