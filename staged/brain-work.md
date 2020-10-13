@@ -22,7 +22,7 @@ July, and read it in the end of August.
 * TOC
 {:toc}
 
-
+---
 # Content
 ## Part One: You
 The first chapter is about how willpower and stimulation influence personal
@@ -96,43 +96,147 @@ The last chapter contains tips about team coherence, which includes trusting
 your teammates, having clear expectations and planning ahead.
 
 
+---
 # Review
+I do not regret reading the book, but I would not read it again. There are many
+better books out there, especially on the same or referenced topics.
+
 ## Main Takeaways
+I had multiple takeaways, in short:
 - reduce perceived novelty to reduce cognitive overload
 - faster learning by having more diverse stimulus areas (25%+)
 - multiple things can rapidly impact learning: exercise, sleep, water, breaks, stress, ...
 - swayer effect: losing intrinsic motivation after receiving extrinsic rewards
 
+### Mental Capacity as Network Effect
+When I think about it, it makes sense. To have high mental capacity for long
+periods of time, just about _everything else_ needs to go right. Your body
+needs to have enough energy available from food (or through keto), or it will
+affect the brain soon. Not enough sleep or rest is fatal for concentration. Not
+drinking enough water can reduce mental capacity by up to 33 percent. Doing
+light exercise has similar effects. Someone figure out what their compounded
+effects are.
+
+Higher mental capacity enables you to learn faster and focus better. Having
+more diverse stimulus also increases overall learning speed and mental acuity.
+I assume it is through both transfer learning (unconscious) and having more
+hormones in your body (higher energy state) through the more diverse stimulus.
+
+### Swayer Effect
+While I was aware of the effect before, it has only recently been brought to my
+attention again. when reading about it, it was brought to my attention again,
+and in part inspired me to read [Drive][drive].
+
+Some time ago, I scheduled everything, down to fifteen-minute intervals. While
+I was increadibly productive, I did not include sufficient break time. Not just
+that, my next 48h were always planned meticulously, and the next week roughly.
+When I had motivation to do something, I would schedule it for two days from
+now. Two days later, that motivation was not available anymore and it felt just
+like work. I believe this is also related to the swayer effect somehow.
+
+
 ## Criticism
+My criticism is mainly on five points:
+- Factual errors
+- Typesetting and grammatical mistakes
+- Subtle passive-aggressive misandry
+- Guiding structure
+- Explanations are lacking
 
-<!-- primary reasons against recommendation: -->
+- But: comparison is with legendary books
 
-In part, because it includes information that is flat out wrong or not founded
-scientifically (quantum brain theories anyone?). These are only a small part
-though and can be ignored, if warned.
+Good parts:
+- Useful tips
+- Key taweaways
+- Reminder about performance limits
 
-There are two bigger reasons than this though. First, because I found a noticable
-amount of typesetting-errors (an 'I' in places where I would expect an 'l' or
-'1', as well as similar ones).
+### Factual errors
+Some chapters (e.g. chapter six) contains information that are being described
+as 'common misconceptions' by [The Power of Habit][power-habit] and
+scientifically backed up there. There were no sources for more than half the
+claims made. This is the only case where I explicitly noticed it, but I believe
+it is not the only case where it did happen.
 
-Second, Sentences regularly did not make sense grammatically. I understood what
-these sentences wanted to say, but they still left me confused for a bit and
-interrupted my reading flow.
+### Typesetting and grammatical mistakes
+I found a noticable amount of typesetting-errors (an 'I' in places where I
+would expect an 'l' or '1', as well as similar ones). Also, Sentences regularly
+did not make sense grammatically. I understood what these sentences wanted to
+say, but they still left me confused for a bit and interrupted my reading flow.
+Once or twice is probably not enough to even notice it, but it gets annoying
+when it happens every couple pages.
 
 Some readers pointed them out [on goodreads][goodreads] for the
-first edition, and they are still present in the second edition.
+first edition. Either they never got fixed, or new ones got introduced to the
+second edition. I am not sure which answer I would prefer.
 
 
+### Subtle passive-aggressive misandry
+Lowkey misandry is everywhere. I have no issue with two of the three
+protagonists (we follow one for a chapter, cycling through them) being woman.
+Their problems and mistakes are framed in innocent ways, with them rarely being
+at fault, or the cause being excusable. However, The male protagonist is
+described as having straight up anger issues, and his mistakes make him seem
+like a bad person at times. I did not feel comfortable reading how he
+'supposedly' thinks or acts.
 
-- too many small mistakes (grammatical nonsense, missing words, duplicates, an
-  'I' instead of an 'l') to ignore - every couple pages
-- feels 'Hollow': gender criticism against men
-- a bit too little structure
-- but still pretty useful tips and reminders
-- Many times a paragraph starts with a question but then fails to answer it,
-  only providing indirect clues and additional information
-- not as specific/actionable as hoped for
-- using many fancy brain region terms as explanation stoppers (I did not understand them)
+Her hate for men shines through in several instances, even though she is quite
+subtle about it. I would be happy to read stories in a neutral framing. The way
+it stands, every third chapter can be seen as a personal attack. I care about
+the brain and productivity, and have no interest in your political agenda.
+Please keep it to yourself.
+
+
+### Guiding structure
+It is not rare that a section or chapter starts out with a question, but ends
+without having provided a clear answer. Yes, all the information to get to an
+answer has been provided, but the final conclusion was not drawn. Reading this
+is irritating to say the least.
+
+[The 7 Habits][7-habits], where every asked question was answered directly,
+was much more comfortable to read.
+
+
+### Explanations are lacking
+There are multiple instances where She tried to explain how things worked on a
+neurological level. However, she just threw around scientific terms - they
+might have contained an explanation would I have understood the terms, but I am
+no neuroscientist, so I did not. Explaining 'reward experience' by saying that
+'the ventral stratium and nucleus accumbens are involved in subtle ways' is not
+helping me [understand][explain] it.
+
+
+### Fair criticism?
+To be honest, I am not sure how fair my criticism is. After all, I have mostly
+read 'all-time classics', which have sold millions of books over multiple
+decades. Comparing it to a book like this makes me wonder just how many leagues
+there are between them.
+
+Regardless, there is also some good things to say about this book.
+
+
+### Useful Tips
+At the end of each chapter were tips on how to apply the content of last
+chapter. While some of them were redundant, I wrote most of them down in my
+notes, and started applying them. Some of those actually work for me!
+
+
+### Performance Limits Reminder
+Since I am not yet actively watching out to drink enough, and have some smaller
+issues with other things every now and then, simply being reminded about it can
+help a lot. I believe that simply having brought the topics to my attention has
+helped me. However, I would have preferred more actionable tips.
+<!-- needs work -->
+
+
+### Takeaways
+All the criticism aside, I had a lot of takeaways. Of course the key takeaways
+listed above, but also useful tips or reminders about performance limits. I
+would not say that I wasted my time reading this book, but I would read
+something else next time.
+
+### More Appreciation for other Books
+the drastic drop in quality helped me appreciate other books more
+
 
 - [ ] Clearly structured?
 - [ ] Good Examples?
@@ -207,3 +311,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [drive]: ../2020-XX-XX-drive/
 [extreme-ownership]: ../2020-XX-XX-extreme-ownership/
 [no-asshole]: ../2020-XX-XX-no-asshole-rule/
+[explain]: https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password
+[7-habits]: ../2020-XX-XX-seven-habits/
