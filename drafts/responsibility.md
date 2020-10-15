@@ -248,6 +248,12 @@ they are different:
 - you are only to blame from your own perspective, everyone superior to you
   needs to blame themselves as well
 
+
+## Excuses
+> It is better to offer no excuse than a bad one. - Unknown
+
+
+
 ---
 **Footnotes**:
 
