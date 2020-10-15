@@ -9,7 +9,7 @@ tags:
 ---
 Review of Amy Branns book that 'Not only provides us with greater understanding
 on how the brain works, but also gives us useful tools on how to make the brain
-work for each of us'.
+work for each of us', according to Stephen M R Covey.
 
 While the book delivers its promise, typesetting and grammatical errors make it
 hard to read, and factually wrong information makes me doubt the validity of
@@ -24,6 +24,8 @@ July, and read it in the end of August.
 
 ---
 # Content
+First, we will go over the books content real quick.
+
 ## Part One: You
 The first chapter is about how willpower and stimulation influence personal
 productivity and efficacy. Something I learned is that learning ability
@@ -103,19 +105,19 @@ better books out there, especially on the same or referenced topics.
 
 ## Main Takeaways
 I had multiple takeaways, in short:
-- reduce perceived novelty to reduce cognitive overload
-- faster learning by having more diverse stimulus areas (25%+)
-- multiple things can rapidly impact learning: exercise, sleep, water, breaks, stress, ...
-- swayer effect: losing intrinsic motivation after receiving extrinsic rewards
+- Reduce perceived novelty to avoid cognitive overload
+- Learning speed increases with diverse brain stimulation (25%+)
+- Multiple things can rapidly impact learning: exercise, sleep, water, breaks, stress, ...
+- Swayer effect: losing intrinsic motivation after receiving extrinsic rewards
 
 ### Mental Capacity as Network Effect
 When I think about it, it makes sense. To have high mental capacity for long
 periods of time, just about _everything else_ needs to go right. Your body
 needs to have enough energy available from food (or through keto), or it will
 affect the brain soon. Not enough sleep or rest is fatal for concentration. Not
-drinking enough water can reduce mental capacity by up to 33 percent. Doing
-light exercise has similar effects. Someone figure out what their compounded
-effects are.
+drinking enough water can be fast in reducing mental capacity by up to 33
+percent. Exercise has similar effects. Someone should figure out what their
+compounded effects are.
 
 Higher mental capacity enables you to learn faster and focus better. Having
 more diverse stimulus also increases overall learning speed and mental acuity.
@@ -124,8 +126,8 @@ hormones in your body (higher energy state) through the more diverse stimulus.
 
 ### Swayer Effect
 While I was aware of the effect before, it has only recently been brought to my
-attention again. when reading about it, it was brought to my attention again,
-and in part inspired me to read [Drive][drive].
+attention again. When reading about it, it was brought to my attention again,
+and in part inspired me to read [Drive][drive] (currently reading).
 
 Some time ago, I scheduled everything, down to fifteen-minute intervals. While
 I was increadibly productive, I did not include sufficient break time. Not just
