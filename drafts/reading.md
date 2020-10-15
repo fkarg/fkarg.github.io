@@ -17,6 +17,12 @@ leisurely I'm quite a bit faster.
 
 # Reading
 
+- if you do it, do it right. take notes and review them.
+- read as much as you can, and as diverse as possible
+- when diving into a topic, get multiple books on it
+- when searching for answers to questions: read the index first, skim content
+  before reading it
+
 
 ## Reasons for Reading
 There are many reasons for reading something. They include entertainment,
