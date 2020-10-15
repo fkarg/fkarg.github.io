@@ -268,6 +268,23 @@ absolutely been the case for me here.
 
 > The best way to move things forward is often to take action.
 
+
+
+**Edit**: Well, this is awkward. You might have noticed that I started reading
+[Drive][drive] while writing this review, and there the Swayer effect is
+explored in more depth as well.
+
+Turns out, it is not called the Swayer effect, but the Sawyer effect, an effect
+Tom Sawyer, one of Mark Twains fictional characters notices in himself and
+others in one of his stories. It was mentioned on page 162 in 'Make Your Brain
+Work' according to my notes. In the second paragraph from the top, it really
+says 'Swayer Effect'.
+
+I had written most of the review already. I considered fixing it throughout
+this text, but thought it would be more fun as a little anecdote at the end.
+The weirdest part is how neatly it fits in the narrative I told about the book
+so far.
+
 <!--
 # Publication Checklist:
 - [ ] Content
