@@ -16,7 +16,7 @@ as well as when I read it. Reference other book reviews if applicable.
 * TOC
 {:toc}
 
-
+---
 # Content
 ## Part One
 **TLDR**; one or two sentences recollecting the most important takeaways
@@ -26,7 +26,11 @@ as well as when I read it. Reference other book reviews if applicable.
 ## Part Two
 ## Part Three
 
+---
 # Review
+- [ ] Glad I read it?
+- [ ] Short verdict
+
 ## Main Takeaways
 - [ ] What are the biggest new mental models I created when reading this book?
 - [ ] What were the most significant concepts encountered and why?
