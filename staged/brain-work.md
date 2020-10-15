@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Book: Make Your Brain Work'
 subtitle: How to maximize your Efficiency, Productivity and Effectiveness
-cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344733046l/15807288.jpg'
+cover-img: 'https://startpage.com/av/proxy-image?piurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F51bSOCbzmxL._SX318_BO1%2C204%2C203%2C200_.jpg&sp=1602671040Tc01f5a816c1598827827faf6c8337072fa81c1b926098815fa57ae9f45a0bfa0'
 tags:
 - book
 ---
@@ -136,10 +136,13 @@ like work. I believe this is also related to the swayer effect somehow.
 
 
 ## Criticism
+I would not say that I wasted my time reading this book, but I would read
+something else next time.
+
 My criticism is mainly on five points:
 - Factual errors
 - Typesetting and grammatical mistakes
-- Subtle passive-aggressive misandry
+- Noticable misandry
 - Guiding structure
 - Explanations are lacking
 
@@ -170,14 +173,14 @@ first edition. Either they never got fixed, or new ones got introduced to the
 second edition. I am not sure which answer I would prefer.
 
 
-### Subtle passive-aggressive misandry
-Lowkey misandry is everywhere. I have no issue with two of the three
+### Noticable misandry
+Lowkey misandry is noticable everywhere. I have no issue with two of the three
 protagonists (we follow one for a chapter, cycling through them) being woman.
 Their problems and mistakes are framed in innocent ways, with them rarely being
 at fault, or the cause being excusable. However, The male protagonist is
 described as having straight up anger issues, and his mistakes make him seem
-like a bad person at times. I did not feel comfortable reading how he
-'supposedly' thinks or acts.
+like a bad person more often than not. I did not feel comfortable reading how
+he 'supposedly' thinks or acts.
 
 Her hate for men shines through in several instances, even though she is quite
 subtle about it. I would be happy to read stories in a neutral framing. The way
@@ -225,17 +228,12 @@ Since I am not yet actively watching out to drink enough, and have some smaller
 issues with other things every now and then, simply being reminded about it can
 help a lot. I believe that simply having brought the topics to my attention has
 helped me. However, I would have preferred more actionable tips.
-<!-- needs work -->
 
-
-### Takeaways
-All the criticism aside, I had a lot of takeaways. Of course the key takeaways
-listed above, but also useful tips or reminders about performance limits. I
-would not say that I wasted my time reading this book, but I would read
-something else next time.
 
 ### More Appreciation for other Books
-the drastic drop in quality helped me appreciate other books more
+Regardless of the other points, there is always something that can be said
+about bad experiences: It makes you appreciate the good ones more. This has
+absolutely been the case for me here.
 
 
 - [ ] Clearly structured?
@@ -246,6 +244,7 @@ the drastic drop in quality helped me appreciate other books more
 - [ ] Book is easily skimmable?
 - [ ] Misc, specific to book
 - [ ] Whom would I recommend reading this book?
+
 
 ## Favourite Quotes
 
