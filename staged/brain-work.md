@@ -56,13 +56,13 @@ misconceptions' in [The Power of Habit][power-habit].
 Chapter seven is about having a good work-life balance. How this looks like for
 you depends on a number of factors, however.
 
-In chapter eight, I learned that visualising and simulating (but not doing)
+In chapter eight, I learned that visualizing and simulating (but not doing)
 physical exercises can prime the body to increase strength to the same degree
 as doing it in certain situations. The idea is to thoroughly visualize your
 goal, to help your brain find ways to achieve it - and to reward yourself for
 achieving it afterwards.
 
-I learned about the swayer effect in chapter nine. It is when you lose
+I learned about the Swayer effect in chapter nine. It is when you lose
 intrinsic motivation for doing something after you have gotten extrinsic
 rewards for doing it sometime prior. The chapter is about how motivation works,
 and why it is so hard to motivate others. I'll see how it holds up against what
@@ -77,8 +77,8 @@ In the eleventh chapter, we learn what to do when we are asked for innovation
 and creativity. At its core, it is about being able to generate ideas without
 being judged for them, and doing things in other ways than usually.
 
-Appearing competent to others is the topic of the twelth chapter. Apart from
-the fact that you should take notes during meetings and preperation does not
+Appearing competent to others is the topic of the twelfth chapter. Apart from
+the fact that you should take notes during meetings and preparation does not
 mean knowing all numbers off your head, there are some tips on how to actually
 become competent. Doing even small amounts of exercise will improve your mental
 abilities by up to 30 percent. A balanced lifestyle improves mental abilities
@@ -88,7 +88,7 @@ as well.
 ## Part Three
 Chapter thirteen has some useful tips for [leading][extreme-ownership] teams.
 According to Amy, your main job is to reduce uncertainty for employees while
-giving them control, and showing integrity as well as congruency with actions.
+giving them control, and showing integrity as well as congruence with actions.
 
 Psychological safety is required to facilitate the expression of skills and
 take necessary risks. What a [safe environment][no-asshole] is and that the
@@ -104,151 +104,133 @@ I do not regret reading the book, but I would not read it again. There are many
 better books out there, especially on the same or referenced topics.
 
 ## Main Takeaways
-I had multiple takeaways, in short:
-- Reduce perceived novelty to avoid cognitive overload
-- Learning speed increases with diverse brain stimulation (25%+)
-- Multiple things can rapidly impact learning: exercise, sleep, water, breaks, stress, ...
+Even though I would not read it again, I had some takeaways:
+- Mental Capacity is a network effect of exercise, sleep, water, breaks, stress, ...
 - Swayer effect: losing intrinsic motivation after receiving extrinsic rewards
+- Reduce perceived novelty to avoid cognitive overload
 
 ### Mental Capacity as Network Effect
-When I think about it, it makes sense. To have high mental capacity for long
-periods of time, just about _everything else_ needs to go right. Your body
-needs to have enough energy available from food (or through keto), or it will
-affect the brain soon. Not enough sleep or rest is fatal for concentration. Not
-drinking enough water can be fast in reducing mental capacity by up to 33
-percent. Exercise has similar effects. Someone should figure out what their
-compounded effects are.
+Everything needs to be right for high mental performance. There needs to be
+enough energy available through food (or keto) to perform at the highest level
+you are capable of. Not enough sleep or rest reduce the performance you are
+capable of tremendously. There are multiple studies showing that even small
+amounts of physical exercise can increase mental capacity considerably.
 
-Higher mental capacity enables you to learn faster and focus better. Having
+Higher mental capacity allows you to learn faster and focus better. Having
 more diverse stimulus also increases overall learning speed and mental acuity.
 I assume it is through both transfer learning (unconscious) and having more
-hormones in your body (higher energy state) through the more diverse stimulus.
+hormones in your body (higher energy state) due to the more diverse stimulation.
 
 ### Swayer Effect
 While I was aware of the effect before, it has only recently been brought to my
 attention again. When reading about it, it was brought to my attention again,
-and in part inspired me to read [Drive][drive] (currently reading).
+and in part inspired me to read [Drive][drive] (currently reading). Also read
+the **Edit** after [quotes](#favourite-quotes).
 
-Some time ago, I scheduled everything, down to fifteen-minute intervals. While
-I was increadibly productive, I did not include sufficient break time. Not just
-that, my next 48h were always planned meticulously, and the next week roughly.
-When I had motivation to do something, I would schedule it for two days from
-now. Two days later, that motivation was not available anymore and it felt just
-like work. I believe this is also related to the swayer effect somehow.
+### Reducing Perceived Novelty
+Approaching something new as "it is just like `<other thing>`" reduces not only
+perceived novelty but also the required mental capacity to familiarize yourself
+with the new thing. Probably useful when being stressed or having otherwise
+limited capacity, or to make learning new things easier in general.
 
 
 ## Criticism
-I would not say that I wasted my time reading this book, but I would read
-something else next time.
-
-My criticism is mainly on five points:
-- Factual errors
-- Typesetting and grammatical mistakes
-- Noticable misandry
-- Guiding structure
-- Explanations are lacking
-
-- But: comparison is with legendary books
+This is by far one of the lowest-quality books I have read in some time.
+My criticism is mainly on these points:
+- Factual Errors
+- Typesetting and Grammar
+- Misandry
+- Guiding Structure
+- Lacking Explanations
 
 Good parts:
-- Useful tips
-- Key taweaways
-- Reminder about performance limits
+- Main Takeaways
+- Useful Tips
+- Appreciation for other Books
 
-### Factual errors
-Some chapters (e.g. chapter six) contains information that are being described
-as 'common misconceptions' by [The Power of Habit][power-habit] and
-scientifically backed up there. There were no sources for more than half the
-claims made. This is the only case where I explicitly noticed it, but I believe
-it is not the only case where it did happen.
+### Factual Errors
+Some chapters (e.g. chapter six) contains information that is contrary to
+information provided by [The Power of Habit][power-habit] - where the given
+information is scientifically backed up.
 
-### Typesetting and grammatical mistakes
-I found a noticable amount of typesetting-errors (an 'I' in places where I
-would expect an 'l' or '1', as well as similar ones). Also, Sentences regularly
-did not make sense grammatically. I understood what these sentences wanted to
-say, but they still left me confused for a bit and interrupted my reading flow.
-Once or twice is probably not enough to even notice it, but it gets annoying
-when it happens every couple pages.
+For a lot of claims, there were no sources. Chapter six is the only case where
+I noticed it at this scale, but I believe it is not the only case of
+scientifically outdated information.
 
-Some readers pointed them out [on goodreads][goodreads] for the
-first edition. Either they never got fixed, or new ones got introduced to the
-second edition. I am not sure which answer I would prefer.
+### Typesetting and Grammar
+The fact that typesetting-errors (an 'I' in places where I would expect an 'l'
+or '1', as well as other, similar ones) exist in the first place leaves me
+scratching my head. How did no one notice them? The first one is on page 32,
+but they are clearly recognizable throughout the book.
 
+Sentences regularly do not make sense grammatically. I usually understood what
+these sentences wanted to say, but they still left me confused for a bit and
+interrupted my reading flow.  Once or twice is probably not enough to even
+notice it, but it gets annoying when it happens every couple pages.
 
-### Noticable misandry
-Lowkey misandry is noticable everywhere. I have no issue with two of the three
-protagonists (we follow one for a chapter, cycling through them) being woman.
-Their problems and mistakes are framed in innocent ways, with them rarely being
-at fault, or the cause being excusable. However, The male protagonist is
-described as having straight up anger issues, and his mistakes make him seem
-like a bad person more often than not. I did not feel comfortable reading how
-he 'supposedly' thinks or acts.
-
-Her hate for men shines through in several instances, even though she is quite
-subtle about it. I would be happy to read stories in a neutral framing. The way
-it stands, every third chapter can be seen as a personal attack. I care about
-the brain and productivity, and have no interest in your political agenda.
-Please keep it to yourself.
+Some readers pointed them out [on goodreads][goodreads] for the first edition.
+Either they never got fixed, or new ones got introduced to the second edition.
+I do not know which answer I would prefer.
 
 
-### Guiding structure
+### Misandry
+Throughout the book, there is a low-key but noticeable hatred against men. It
+is mostly distracting, honestly.
+
+Problems and mistakes from women are framed as innocent or excusable, while
+there is close to no chance left unused to take subtle stabs at men. The male
+protagonist is described as having straight up anger issues, and his mistakes
+make him seem like a bad person more often than not. Reading how he
+'supposedly' thinks or acts is alienating - no one would do that.
+
+I would love to read the same content in a neutral tone. The forced framing
+of people, interactions and situations makes it seem unnatural and harder to
+understand.
+
+
+### Guiding Structure
 It is not rare that a section or chapter starts out with a question, but ends
 without having provided a clear answer. Yes, all the information to get to an
 answer has been provided, but the final conclusion was not drawn. Reading this
 is irritating to say the least.
 
 [The 7 Habits][7-habits], where every asked question was answered directly,
-was much more comfortable to read.
+is a much more comfortable read in comparison.
 
 
-### Explanations are lacking
-There are multiple instances where She tried to explain how things worked on a
-neurological level. However, she just threw around scientific terms - they
-might have contained an explanation would I have understood the terms, but I am
-no neuroscientist, so I did not. Explaining 'reward experience' by saying that
-'the ventral stratium and nucleus accumbens are involved in subtle ways' is not
-helping me [understand][explain] it.
+### Explanations are Lacking
+There are multiple instances where Amy tried to explain how things worked on a
+neurological level. Except that it was not an explanation. Explaining 'reward
+experience' by saying that 'the ventral stratium and nucleus accumbens are
+involved in subtle ways' is not helping me [understand][explain] it.
 
 
-### Fair criticism?
-To be honest, I am not sure how fair my criticism is. After all, I have mostly
-read 'all-time classics', which have sold millions of books over multiple
-decades. Comparing it to a book like this makes me wonder just how many leagues
-there are between them.
-
-Regardless, there is also some good things to say about this book.
+### Baseline Comparison
+Of course, I did not expect the book to be on par with other books that have
+sold millions of copies I have read recently, so I'm not sure how fair the
+criticism is. In short: they are leagues apart, but fixing the aforementioned
+issues would improve this book considerably.
 
 
 ### Useful Tips
-At the end of each chapter were tips on how to apply the content of last
+At the end of each chapter were tips on how to apply the content of the
 chapter. While some of them were redundant, I wrote most of them down in my
 notes, and started applying them. Some of those actually work for me!
 
 
-### Performance Limits Reminder
-Since I am not yet actively watching out to drink enough, and have some smaller
-issues with other things every now and then, simply being reminded about it can
-help a lot. I believe that simply having brought the topics to my attention has
-helped me. However, I would have preferred more actionable tips.
-
-
-### More Appreciation for other Books
+### Appreciation for other Books
 Regardless of the other points, there is always something that can be said
 about bad experiences: It makes you appreciate the good ones more. This has
-absolutely been the case for me here.
+absolutely been the case for me about this book. I now appreciate other
+high-quality books I have read more.
 
 
-- [ ] Clearly structured?
-- [ ] Good Examples?
-- [ ] Clear Explanations?
-- [ ] Concise reasons why?
-- [ ] Is the advice actionable?
-- [ ] Book is easily skimmable?
-- [ ] Misc, specific to book
-- [ ] Whom would I recommend reading this book?
+### Recommendation
+I would recommend you to read just about every other book from [books][books]
+over this one.
 
 
-## Favourite Quotes
+## Favorite Quotes
 
 > Being available constantly by phone, email and text can drop your IQ by as
 > much as losing a night's sleep.
@@ -256,7 +238,7 @@ absolutely been the case for me here.
 > There is no single answer to the question of what makes a good
 > work-life-balance.
 
-> Engaging your brain in what you want to happen is increadibly important.
+> Engaging your brain in what you want to happen is incredibly important.
 
 > Motivation is a strange phenomenon. We tend to recognize it most in ourselves
 > or others when it is lacking.
@@ -275,7 +257,7 @@ absolutely been the case for me here.
 explored in more depth as well.
 
 Turns out, it is not called the Swayer effect, but the Sawyer effect, an effect
-Tom Sawyer, one of Mark Twains fictional characters notices in himself and
+Tom Sawyer, one of Mark Twain's fictional characters notices in himself and
 others in one of his stories. It was mentioned on page 162 in 'Make Your Brain
 Work' according to my notes. In the second paragraph from the top, it really
 says 'Swayer Effect'.
@@ -287,18 +269,18 @@ so far.
 
 <!--
 # Publication Checklist:
-- [ ] Content
+- [x] Content
     - [x] Added cover-image
-    - [ ] the beginning of the post is clear and a good description
-    - [ ] the beginning of each paragraph describes
+    - [x] the beginning of the post is clear and a good description
+    - [x] the beginning of each paragraph describes
           the information contained in the paragraph
-    - [ ] each paragraph describes at most one idea
-    - [ ] the end is on a high note/positive outlook or
+    - [x] each paragraph describes at most one idea
+    - [x] the end is on a high note/positive outlook or
           inspirational call to action
-    - [ ] Tell them what you're going to tell them. Then tell them.
+    - [x] Tell them what you're going to tell them. Then tell them.
           Finally, tell them what you told them. - Unknown
 - [ ] Grammar and Typos
-    - [ ] checked with `pylanguagetool` for typos
+    - [x] checked with `pylanguagetool` for typos
     - [ ] checked with `homer` for compulsive hedgers
     - [ ] checked with `homer` for vague words
     - [ ] checked with `homer` for sentence length
@@ -328,6 +310,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [power-habit]: ../2020-09-16-power-of-habit/
 [drive]: ../2020-XX-XX-drive/
 [extreme-ownership]: ../2020-XX-XX-extreme-ownership/
-[no-asshole]: ../2020-XX-XX-no-asshole-rule/
+[no-asshole]: ../2020-02-28-no-asshole-rule/
 [explain]: https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password
-[7-habits]: ../2020-XX-XX-seven-habits/
+[7-habits]: ../2020-09-02-seven-habits/
