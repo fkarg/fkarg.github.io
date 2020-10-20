@@ -271,39 +271,6 @@ this text, but thought it would be more fun as a little anecdote at the end.
 The weirdest part is how neatly it fits in with the narrative I told about the
 book so far.
 
-<!--
-# Publication Checklist:
-- [x] Content
-    - [x] Added cover-image
-    - [x] the beginning of the post is clear and a good description
-    - [x] the beginning of each paragraph describes
-          the information contained in the paragraph
-    - [x] each paragraph describes at most one idea
-    - [x] the end is on a high note/positive outlook or
-          inspirational call to action
-    - [x] Tell them what you're going to tell them. Then tell them.
-          Finally, tell them what you told them. - Unknown
-- [ ] Grammar and Typos
-    - [x] checked with `pylanguagetool` for typos
-    - [x] checked with `homer` for compulsive hedgers
-    - [x] checked with `homer` for vague words
-    - [x] checked with `homer` for sentence length
-- [ ] Details
-    - [x] test-read actual rendered text
-    - [ ] checked how it looks like on mobile
-- [ ] Publication
-    - [ ] scheduled publication / linked in [books][books]
-    - [ ] checked if linked in prior/upcoming posts
-    - [ ] posted link to review on goodreads
-    - [ ] removed this comment
-
-Footnote<sup>[1](#footnote1)</sup> among text.
-- - -
-**Footnotes**:
-
-<a name="footnote1">1</a>: Text from footnote1.
--->
-
 ---
 [books]: ../2019-09-12-books/
 [ego-enemy]: ../2020-09-23-ego-enemy/
