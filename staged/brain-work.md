@@ -11,10 +11,10 @@ Review of Amy Branns book that 'Not only provides us with greater understanding
 on how the brain works, but also gives us useful tools on how to make the brain
 work for each of us', according to Stephen M R Covey.
 
-While the book delivers its promise, typesetting and grammatical errors make it
-hard to read, and factually wrong information makes me doubt the validity of
-the other information. While I don't regret reading it, I would not recommend
-it to others.
+While the book delivers on its promise, typesetting and grammatical errors make
+it hard to read, and factually wrong information makes me doubt the validity of
+other provided information. While I don't regret reading it, I would not
+recommend it to others.
 
 I bought this book together with [Ego is the Enemy][ego-enemy] in the end of
 July, and read it in the end of August.
@@ -50,7 +50,8 @@ Finally, chapter five has some actionable tips on improving both learning and
 sleeping quality.
 
 Chapter six is about habits, but most of its content is described as 'common
-misconceptions' in [The Power of Habit][power-habit].
+misconceptions' in [The Power of Habit][power-habit]. More about this in
+[criticism](#factual-errors).
 
 ## Part Two: Your Colleagues and Clients
 Chapter seven is about having a good work-life balance. How this looks like for
@@ -58,9 +59,8 @@ you depends on a number of factors, however.
 
 In chapter eight, I learned that visualizing and simulating (but not doing)
 physical exercises can prime the body to increase strength to the same degree
-as doing it in certain situations. The idea is to thoroughly visualize your
-goal, to help your brain find ways to achieve it - and to reward yourself for
-achieving it afterwards.
+as doing the exercise. The idea is to thoroughly visualize every step, to help
+your brain find ways to achieve it.
 
 I learned about the Swayer effect in chapter nine. It is when you lose
 intrinsic motivation for doing something after you have gotten extrinsic
@@ -75,18 +75,18 @@ approaching new situations with an open and curious mind.
 
 In the eleventh chapter, we learn what to do when we are asked for innovation
 and creativity. At its core, it is about being able to generate ideas without
-being judged for them, and doing things in other ways than usually.
+being judged for them, and doing things in other ways than normal.
 
 Appearing competent to others is the topic of the twelfth chapter. Apart from
 the fact that you should take notes during meetings and preparation does not
-mean knowing all numbers off your head, there are some tips on how to actually
+mean knowing all numbers off your head, there are tips on how to actually
 become competent. Doing even small amounts of exercise will improve your mental
 abilities by up to 30 percent. A balanced lifestyle improves mental abilities
 as well.
 
 
 ## Part Three
-Chapter thirteen has some useful tips for [leading][extreme-ownership] teams.
+Chapter thirteen has useful tips for [leading][extreme-ownership] teams.
 According to Amy, your main job is to reduce uncertainty for employees while
 giving them control, and showing integrity as well as congruence with actions.
 
@@ -104,17 +104,18 @@ I do not regret reading the book, but I would not read it again. There are many
 better books out there, especially on the same or referenced topics.
 
 ## Main Takeaways
-Even though I would not read it again, I had some takeaways:
+Even though I would not read it again, I had useful takeaways:
 - Mental Capacity is a network effect of exercise, sleep, water, breaks, stress, ...
 - Swayer effect: losing intrinsic motivation after receiving extrinsic rewards
 - Reduce perceived novelty to avoid cognitive overload
 
 ### Mental Capacity as Network Effect
 Everything needs to be right for high mental performance. There needs to be
-enough energy available through food (or keto) to perform at the highest level
-you are capable of. Not enough sleep or rest reduce the performance you are
-capable of tremendously. There are multiple studies showing that even small
-amounts of physical exercise can increase mental capacity considerably.
+enough energy available through food (or [keto][keto]) to perform at the
+highest level you are capable of. Not enough sleep or rest reduce the
+performance you are capable of tremendously. There are multiple studies showing
+that even small amounts of physical exercise can increase mental capacity
+considerably.
 
 Higher mental capacity allows you to learn faster and focus better. Having
 more diverse stimulus also increases overall learning speed and mental acuity.
@@ -130,8 +131,8 @@ the **Edit** after [quotes](#favourite-quotes).
 ### Reducing Perceived Novelty
 Approaching something new as "it is just like `<other thing>`" reduces not only
 perceived novelty but also the required mental capacity to familiarize yourself
-with the new thing. Probably useful when being stressed or having otherwise
-limited capacity, or to make learning new things easier in general.
+with the new thing. Useful when being stressed or having otherwise limited
+capacity, or to make learning new things easier in general.
 
 
 ## Criticism
@@ -163,10 +164,11 @@ or '1', as well as other, similar ones) exist in the first place leaves me
 scratching my head. How did no one notice them? The first one is on page 32,
 but they are clearly recognizable throughout the book.
 
-Sentences regularly do not make sense grammatically. I usually understood what
-these sentences wanted to say, but they still left me confused for a bit and
-interrupted my reading flow.  Once or twice is probably not enough to even
-notice it, but it gets annoying when it happens every couple pages.
+Sentences regularly do not make sense grammatically. I understood what these
+sentences wanted to say, but they still left me confused for a bit and
+interrupted my reading flow. Once or twice is not enough for me to mention it
+(I notice one or two in most books), but it gets annoying when it happens every
+couple pages.
 
 Some readers pointed them out [on goodreads][goodreads] for the first edition.
 Either they never got fixed, or new ones got introduced to the second edition.
@@ -175,16 +177,16 @@ I do not know which answer I would prefer.
 
 ### Misandry
 Throughout the book, there is a low-key but noticeable hatred against men. It
-is mostly distracting, honestly.
+is more distracting than anything else.
 
 Problems and mistakes from women are framed as innocent or excusable, while
 there is close to no chance left unused to take subtle stabs at men. The male
-protagonist is described as having straight up anger issues, and his mistakes
-make him seem like a bad person more often than not. Reading how he
-'supposedly' thinks or acts is alienating - no one would do that.
+protagonist is described as having anger issues, and his mistakes make him
+appear to be a bad person. Reading how he 'supposedly' thinks or acts is
+alienating - no one would do that.
 
 I would love to read the same content in a neutral tone. The forced framing
-of people, interactions and situations makes it seem unnatural and harder to
+of people, interactions and situations makes it unnatural and harder to
 understand.
 
 
@@ -215,7 +217,7 @@ issues would improve this book considerably.
 ### Useful Tips
 At the end of each chapter were tips on how to apply the content of the
 chapter. While some of them were redundant, I wrote most of them down in my
-notes, and started applying them. Some of those actually work for me!
+notes, and started applying them. A couple of them actually work for me!
 
 
 ### Appreciation for other Books
@@ -231,7 +233,6 @@ over this one.
 
 
 ## Favorite Quotes
-
 > Being available constantly by phone, email and text can drop your IQ by as
 > much as losing a night's sleep.
 
@@ -252,20 +253,23 @@ over this one.
 
 
 
-**Edit**: Well, this is awkward. You might have noticed that I started reading
-[Drive][drive] while writing this review, and there the Swayer effect is
-explored in more depth as well.
+**Edit**: Well, this is awkward. I started reading [Drive][drive] while writing
+this review, and there the Swayer effect is explored in more depth as well.
 
 Turns out, it is not called the Swayer effect, but the Sawyer effect, an effect
-Tom Sawyer, one of Mark Twain's fictional characters notices in himself and
-others in one of his stories. It was mentioned on page 162 in 'Make Your Brain
-Work' according to my notes. In the second paragraph from the top, it really
-says 'Swayer Effect'.
+named after Tom Sawyer, one of Mark Twain's fictional characters. He realizes
+that 'what one is obliged to do' is work, and everything else is 'play' in one
+of his stories.
+
+The 'Swayer Effect' is mentioned on page 162 in 'Make Your Brain Work',
+according to my notes. So I looked it up, and in the second paragraph from the
+top there is the 'Swayer Effect'.
 
 I had written most of the review already. I considered fixing it throughout
 this text, but thought it would be more fun as a little anecdote at the end.
-The weirdest part is how neatly it fits in the narrative I told about the book
-so far.
+
+The weirdest part is how neatly it fits in with the narrative I told about the
+book so far.
 
 <!--
 # Publication Checklist:
@@ -281,11 +285,11 @@ so far.
           Finally, tell them what you told them. - Unknown
 - [ ] Grammar and Typos
     - [x] checked with `pylanguagetool` for typos
-    - [ ] checked with `homer` for compulsive hedgers
-    - [ ] checked with `homer` for vague words
-    - [ ] checked with `homer` for sentence length
+    - [x] checked with `homer` for compulsive hedgers
+    - [x] checked with `homer` for vague words
+    - [x] checked with `homer` for sentence length
 - [ ] Details
-    - [ ] test-read actual rendered text
+    - [x] test-read actual rendered text
     - [ ] checked how it looks like on mobile
 - [ ] Publication
     - [ ] scheduled publication / linked in [books][books]
@@ -313,3 +317,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [no-asshole]: ../2020-02-28-no-asshole-rule/
 [explain]: https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password
 [7-habits]: ../2020-09-02-seven-habits/
+[keto]: https://en.wikipedia.org/wiki/Ketogenic_diet
