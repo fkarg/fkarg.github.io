@@ -9,7 +9,9 @@ tags:
 ---
 Review of Stephen Wolfram's 'remarkable book with flashes of insight that will
 engage computer scientists, physicists, historians [...] as it weaves personal
-stories into the deep import of how and what they calculated'.
+stories into the deep import of how and what they calculated', according to
+Peter Galison.
+
 
 I bought this book after visiting the [Museum of Mathematics](museum) in New
 York a few years ago. It has been some time since I started or finished reading
@@ -22,8 +24,10 @@ it, but I still wanted to write a few sentences about it.
 # Content
 In the book 'Idea Makers', Stephen Wolfram tells stories about either his
 personal interactions with fascinating people, or his research about
-others. The chapters include notable ideas of some of these people as well.
-The people written about (chapters) include:
+them. One chapter is dedicated to each person.
+
+The chapters include notable ideas of these people as well.
+The people written about include:
 - Richard Feynman
 - Kurt Gödel
 - Alan Turing
@@ -41,10 +45,12 @@ The people written about (chapters) include:
 - Solomon Golomb
 
 # Review
-While I've heard all the names before, I knew some better than others.
-Noticeably, I learned more about the people I knew better before reading the
-book, than those whose name was all I knew. I learned something and it was
+While I have heard most names before, I knew a few better than others.
+I was more delighted to read about those I knew already, but I wonder why I had
+not heard as much about the others yet. I learned a lot, reading it was
 fascinating.
+
+My recommendation would be for everyone interested in STEM or modern history.
 
 ## Main Takeaways
 Reading about all of these people, or the impressions and research Stephen
@@ -55,20 +61,20 @@ discussions about these people. Most technical people know a bit about them,
 and most (STEM) people enjoy learning additional weird details.
 
 Of course, he explains various details about his wolfram language when
-possible. While I've used it before (like probably every student with a STEM
+possible. While I have used it before (like probably every student with a STEM
 major), I was not aware of how powerful the language was currently is, or even
 what the goals were. It inspired me to read through what the wolfram language
 is capable of today, and I learned quite a few interesting bits there.
 
-These are both indirect takeaways. The reason might be because it has been some
-time since I have read the book, and these are the biggest ones I still notice.
+These are both indirect takeaways. This is probably because it has been some
+time since I have read the book, and these are the biggest I still notice.
 
 ## Criticism
 I enjoyed reading it. And I enjoyed sharing the content. This could have been
 in part because I'm generally interested in the history of things, especially
-technical ones or the history of scientific progress. But I believe even if not
-specifically interested in history, an interest in science will still be
-rewarded generously here.
+technical ones and the history of scientific progress. Even if not specifically
+interested in history, an interest in science is still rewarded generously
+here.
 
 The many references to the Wolfram language were close to be annoying. But I
 can see that this is just part of the point of view from Stephen Wolfram.
@@ -79,37 +85,35 @@ it.
 
 
 ## Favorite Quotes
-I am afraid there will be no quotes since I did not take any notes when reading
-it.
+No quotes, since I did not take notes while reading it.
 
 <!--
 # Publication Checklist:
-- [ ] Content
+- [x] Content
     - [x] Added cover-image
-    - [ ] each paragraph describes at most one idea
-    - [ ] the beginning of each paragraph describes
+    - [x] each paragraph describes at most one idea
+    - [x] the beginning of each paragraph describes
           the information contained in the paragraph
-    - [ ] there are sufficient examples for new concepts
-    - [ ] the motivation for reading the post is clearly described
-    - [ ] the beginning of the post is clear and a good description
-    - [ ] the end is on a high note/positive outlook or
+    - [x] there are sufficient examples for new concepts
+    - [x] the motivation for reading the post is clearly described
+    - [x] the beginning of the post is clear and a good description
+    - [x] the end is on a high note/positive outlook or
           inspirational call to action
-    - [ ] Tell them what you're going to tell them. Then tell them.
+    - [x] Tell them what you're going to tell them. Then tell them.
           Finally, tell them what you told them. - Unknown
-- [ ] Grammar and Typos
+- [x] Grammar and Typos
     - [x] checked with `pylanguagetool` for typos
     - [x] checked with `homer` for compulsive hedgers
     - [x] checked with `homer` for vague words
     - [x] checked with `homer` for sentence length
-- [ ] Details
+- [x] Details
     - [x] test-read actual rendered text
     - [x] checked how it looks like on mobile
 - [ ] Publication
     - [ ] scheduled publication / linked in [books][books]
-    - [ ] checked if linked in prior/upcoming posts
+    - [x] checked if linked in prior/upcoming posts
+    - [ ] posted link to review on goodreads
     - [ ] removed this comment
-
-
 
 Footnote<sup>[1](#footnote1)</sup> among text.
 - - -
