@@ -7,11 +7,12 @@ cover-img: 'Todo: search for cover-image'
 tags:
 - book
 ---
-Short article description
+Short quote what the book is supposed to be
+
+TLDR of the review, and if I would recommend it to others.
 
 Short description of where I got the book from and how I got interested in it,
 as well as when I read it. Reference other book reviews if applicable.
-
 
 * TOC
 {:toc}
