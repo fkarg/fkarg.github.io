@@ -15,6 +15,7 @@ leadership book'.
 I received this book as a birthday present, together with [Rich Dad Poor
 Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short few days in early September.
 
+
 * TOC
 {:toc}
 
@@ -23,7 +24,7 @@ Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short 
 # Content
 **TLDR**; one or two sentences recollecting the most important takeaways
 
-
+## Foreword
 - Life and Death situations force realisations about important leadership
   principles
 - There are crucial leaders at every level of the team
