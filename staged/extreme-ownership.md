@@ -23,13 +23,16 @@ Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short 
 ---
 # Content
 **TLDR**; one or two sentences recollecting the most important takeaways
+**TLDR**; 
 
 ## Foreword
-- Life and Death situations force realisations about important leadership
-  principles
-- There are crucial leaders at every level of the team
+**TLDR**; Extreme situations make 
+
+- Life and Death situations force realizations about important leadership
+  principles.
+- There are crucial leaders at every level of the team.
 - Leaders have the biggest impact on their teams success, and there is no one
-  else to blame if things go wrong -> ultimate responsibility
+  else to blame if things go wrong. Leaders have ultimate responsibility.
 
 ## Part I: Winning the War Within
 Ch1: Extreme Ownership
@@ -263,7 +266,7 @@ Ch13: Afterword
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Publication Checklist:
 - [ ] Content
-    - [ ] Added cover-image
+    - [x] Added cover-image
     - [ ] the beginning of the post is clear and a good description
     - [ ] the beginning of each paragraph describes
           the information contained in the paragraph
