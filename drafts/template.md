@@ -72,7 +72,8 @@ as well as when I read it. Reference other book reviews if applicable.
     - [ ] test-read actual rendered text
     - [ ] checked how it looks like on mobile
 - [ ] Publication
-    - [ ] scheduled publication / linked in [books][books]
+    - [ ] scheduled publication
+    - [ ] linked in [books][books]
     - [ ] checked if linked in prior/upcoming posts
     - [ ] posted link to review on goodreads
     - [ ] removed this comment
