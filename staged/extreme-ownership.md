@@ -26,6 +26,8 @@ Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short 
 **TLDR**;
 
 ## Foreword
+<!-- comment. -->
+
 {: .box-note}
 Extreme situations make clear cases about what works and what does not.
 
@@ -81,7 +83,7 @@ communicating the strategic reason _why_ something is done to their team.
 - Senior Leaders need to pass down general strategic understanding of the
   mission
 - Leaders on all levels need to understand _why_ they do something, not just
-  _what_ to adapt to changing circumstances faster
+  _what_, to adapt to changing circumstances faster
 - Leadership is not one person leading, but many leaders working together to
   lead (up and down the chain)
 
@@ -233,8 +235,9 @@ High performance is possible only with proper discipline and clear procedures.
 
 
 **Ch13: Afterword**
-Some Leaders are born, but everyone can learn. Listen to every good idea.
+
 {: .box-note}
+Some Leaders are born, but everyone can learn. Listen to every good idea.
 
 - Some leaders are born, others made. But everyone can become a leader by
   taking ultimate responsibility.
@@ -381,6 +384,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [rich-dad]: ../2020-XX-XX-rich-dad-poor-dad/
 [personal-mba]: ../2020-XX-XX-personal-mba/
 [7-habits]: ../2020-09-02-seven-habits/
-[ego-enemy]: ../2020-XX-XX-ego-enemy/
+[ego-enemy]: ../2020-09-23-ego-enemy/
 [synergy]: ../2020-09-02-seven-habits/#habit-6-synergize
 [drive]: ../2020-XX-XX-drive/
