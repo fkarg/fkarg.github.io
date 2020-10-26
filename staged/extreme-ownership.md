@@ -23,9 +23,10 @@ Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short 
 ---
 # Content
 **TLDR**; one or two sentences recollecting the most important takeaways
-**TLDR**; 
+**TLDR**;
 
 ## Foreword
+{: .box-note}
 Extreme situations make clear cases about what works and what does not.
 
 - Life and Death situations force realizations about important leadership
@@ -35,10 +36,12 @@ Extreme situations make clear cases about what works and what does not.
   else to blame if things go wrong. Leaders have ultimate responsibility.
 
 ## Part I: Winning the War Within
+**Ch1: Extreme Ownership**
+
+{: .box-note}
 Every Leader needs to take responsibility for everything that could impact
 their mission. Taking ownership of mistakes is needed to learn and improve.
 
-<!-- Ch1: Extreme Ownership -->
 - The leader is ultimately responsible for everything that happens
 - Leader need to _own_ and take responsibility for everything in their world,
   since there is no one else to blame
@@ -48,9 +51,12 @@ their mission. Taking ownership of mistakes is needed to learn and improve.
   learning and improving
 
 
+**Ch2: No Bad Teams, Only Bad Leaders**
+
+{: .box-note}
 Leadership is the most important factor for team-based performance - there are
 no bad teams, only bad leaders.
-<!-- Ch2: No Bad Teams, Only Bad Leaders -->
+
 - There are no bad teams, only bad leaders
 - Leadership is the most important factor for team-based performace
 - There must be consequences for substandard performance, if it is being
@@ -60,10 +66,13 @@ no bad teams, only bad leaders.
 - 'Win' your mission, no excuses
 
 
+**Ch3: Believe**
+
+{: .box-note}
 Everyone needs to be on the same page for successful execution, different
 opinions are fine prior to deciding. Leaders are responsible for properly
 communicating the strategic reason _why_ something is done to their team.
-<!-- Ch3: Believe -->
+
 - Tell everyone _why_ you are doing something
 - A leader must be a true believer of a mission to convince and inspire others
   to follow and accomplish it
@@ -76,9 +85,13 @@ communicating the strategic reason _why_ something is done to their team.
 - Leadership is not one person leading, but many leaders working together to
   lead (up and down the chain)
 
+
+**Ch4: Check the Ego**
+
+{: .box-note}
 [Ego is the Enemy][ego-enemy], and leadership is ego-management. Take the blame
 for explaining too little when someone in your team does something wrong.
-<!-- Ch4: Check the Ego -->
+
 - Ego is the Enemy, and it is deadly
 - Ego can prevent honest and realistic performance assessments => always have metrics
 - When something happens: Take the blame for too little explaining, and catch
@@ -86,19 +99,34 @@ for explaining too little when someone in your team does something wrong.
 
 
 ## Part II: The Laws of Combat
-Ch5: Cover and Move
+**Ch5: Cover and Move**
+
+{: .box-note}
+Build [synergies][synergy] with other teams.
+
 - Cover and Move requires two active teams: one covering while the other moves
   with frequent switches
 - Essentially, know about other teams and coordinate with them
 - In Business: Work together to win. Other teams are not adversaries but assets
 
-Ch6: Simple
+
+**Ch6: Simple**
+
+{: .box-note}
+Everyone benefits from simple communication and situations with few moving parts.
+
 - Simplifying as much as possible is crucial for success
 - When things go wrong (and they will) complexity compounds issues
-- keep plans and communication simple, so that everyone can understand it
+- Keep plans and communication simple, so that everyone can understand it
+- Being forced to simplify will make clear if you understand important details
 - Simplify everything, as much as you can
 
-Ch7: Prioritize and Execute
+
+**Ch7: Prioritize and Execute**
+
+{: .box-note}
+prioritize ruthlessly <!-- TODO: reformulation -->
+
 - Verbalization of 'prioritize and execute': "Relax, look around, make a call"
 - Usually, countless problems show up at the same time, so you need to
   prioritize
@@ -108,82 +136,118 @@ Ch7: Prioritize and Execute
   of command
 - Have full focus on your highest-priority-objective until it is solved, only
   then focus on the next
-- do not fixate on a problem too much, maintain the ability to see other
+- Do not fixate on a problem too much, maintain the ability to see other
   problems and rapidly shift priorities when needed
 
-Ch8: Decentralized Command
-- micromanagement does not scale, is large unnecessary effort and complex
-- major bottlenecks: communication and situational awareness
-- delegate tactical decisions to frontline-leaders, and focus on strategic
+
+**Ch8: Decentralized Command**
+
+{: .box-note}
+True leaders create and need leaders, not followers. Everything needs to have
+someone clearly responsible for doing it.
+
+- Micromanagement does not scale, is unnecessary effort and complex
+- [Motivation][drive] also takes a hit
+- Major bottlenecks: communication and situational awareness
+- Delegate tactical decisions to frontline-leaders, and focus on strategic
   decisions instead
-- it is hard to manage more than six to ten people directly
-- everything needs a clearly designated leader
-- it is important where the limits of decision-making authority are for lower
+- It is hard to manage more than six to ten people directly
+- Everything needs a clearly designated leader
+- It is important where the limits of decision-making authority are for lower
   levels
-- relevant information for strategic situational awareness neds to be passed up
+- Relevant information for strategic situational awareness neds to be passed up
   and down the chain, especially when something critical changes
-- leaders need to be free to move wherever they are most needed
+- Leaders need to be free to move wherever they are most needed
 
 
 ## Part III: Sustaining Victory
-Ch9: Plan
-- Never take anything for granted when doing mission planning
-- maximize chances for mission success, assuming faulty intel
-- making assumptions that turn out to be false are failure in leadership
-- have a standardized planning process
-- let senior personnell supervise the process, but let everyone, no matter how
-  junior, participate in the planning
-- there will always be risk. minimize it, but take it
-- reevaluate the plan afterward to improve planning process
-- planning is an integral part of higher performance
+**Ch9: Plan**
 
-Ch10: Leading up and Down the Chain of Command
-- it's hard to see strategic impact when working on a tactical level
-- you need to make sure that everyone understands _why_ you do what you do,
+{: .box-note}
+Maximize expected mission success while relying on the least amount of
+assumptions. <!-- TODO -->
+
+- Never take anything for granted when doing mission planning
+- Maximize chances for mission success, assuming faulty intel
+- Making assumptions that turn out to be false are failure in leadership
+- Have a standardized planning process
+- Let senior personnell supervise the process, but let everyone, no matter how
+  junior, participate in the planning
+- The situation will change, better have a plan that can adapt
+- There will always be risk. Minimize it, but take it
+- Reevaluate the plan afterward to improve the planning process
+- Planning is an integral part of higher performance
+
+
+**Ch10: Leading up and Down the Chain of Command**
+
+{: .box-note}
+Do not expect support if you did not convey the importance to your superior.
+Have boundaries and tell them what you are going to do within them. Do not get
+lost in details, and keep your team aware of the strategic picture. <!-- TODO -->
+
+- It is hard to see strategic impact when working on a tactical level
+- You need to make sure that everyone understands _why_ you do what you do,
   from a strategic perspective
-- figure out ways to communicate the strategic picture instead of blaming them
+- Figure out ways to communicate the strategic picture instead of blaming them
   for not understanding it
-- if your boss is not helping you as much as you need him to, blame yourself
+- If your boss is not helping you as much as you need him to, blame yourself
   first and see what you can do better to convey the seriousness of the
   situation and that support will be allocated
-- you also need to push situational awareness up the chain of command
-- public displays of discontent or disagreement with the chain of command
+- You also need to push situational awareness up the chain of command
+- Public displays of discontent or disagreement with the chain of command
   undermine authority at all levels and lead to catastrophic performance
-- every leader needs to support a decision, once it has been made, and execute
+- Every leader needs to support a decision, once it has been made, and execute
   it as if it were his own - even when being against it
-- responsibility for leading everyone in your world: subordinates and superiors
+- Responsibility for leading everyone in your world: subordinates and superiors
   alike
-- don't ask your leader what you should do, tell them what you are going to do
+- Don't ask your leader what you should do, tell them what you are going to do
 
-Ch11: Decisiveness amid Uncertainty
-- information will never be complete, and yet decisions need to be made
-- leaders need to make decisions promptly and adjust them based on evolving
+
+**Ch11: Decisiveness amid Uncertainty**
+
+{: .box-note}
+Make the best decision with the information available, but always make a
+decision.
+
+- Information will never be complete, and yet decisions need to be made
+- Leaders need to make decisions promptly and adjust them based on evolving
   situations
 - Waiting for certainty leads to the inability to execute. Uncertainty will prevails.
-- as a leader, be 'aggressive' in your decisions, certainly not 'inactive'
-- leaders _need_ to be seen as decive, even when facing hard decisions. You
+- As a leader, be 'aggressive' in your decisions, certainly not 'inactive'
+- Leaders _need_ to be seen as decive, even when facing hard decisions. You
   always have enough informations for a decision.
 
-Ch12: Discipline Equals Freedom
-- freedom to operate increased substantially through disciplined procedures
-- the best are always the most disciplined
-- make your fundamental procedures to disciplined habits to make changes easier
-- let others step up and take charge when it makes sense
-- leaders who lose their temper lose respect, but do show emotions
-- be competitive, but a gracious and professional loser
-- (some more details)
 
-Ch13: Afterword
+**Ch12: Discipline Equals Freedom**
+
+{: .box-note}
+High performance is possible only with proper discipline and clear procedures.
+
+- Freedom to operate increases substantially through disciplined procedures
+- The best are always the most disciplined
+- Make your fundamental procedures to disciplined habits, this enables easier changes
+- Let others step up and take charge when it makes sense
+- Leaders who lose their temper lose respect, but do show emotions
+- Leaders should be competitive, but lose in a gracious and professional way
+
+
+**Ch13: Afterword**
+Some Leaders are born, but everyone can learn. Listen to every good idea.
+{: .box-note}
+
 - Some leaders are born, others made. But everyone can become a leader by
   taking ultimate responsibility.
-- the boldest and most successful plans tend to come from frontline leaders
-- leadership is simple, but not easy
-- leading is the most challenging, and therefore most gratifying undertaking
+- The boldest and most successful plans tend to come from frontline leaders
+- Leadership is simple, but not easy
+- Leading is the most challenging, and therefore most gratifying undertaking
+
 
 ---
 # Review
 - [ ] Glad I read it?
 - [ ] Short verdict
+
 
 ## Main Takeaways
 - Leading up the chain: if they have to ask, you were bad at explaining.
@@ -201,6 +265,7 @@ Ch13: Afterword
 - [ ] How could I have learned these concepts when not reading them in this book?
 - [ ] Did learning these concepts improve my life?
 
+
 ## Criticism
 - examples could have been better at times (=> simple communication)
 
@@ -212,6 +277,7 @@ Ch13: Afterword
 - [ ] Book is easily skimmable?
 - [ ] Misc, specific to book
 - [ ] Whom would I recommend reading this book?
+
 
 ## Favourite Quotes
 > The only meaningful measure for a leader is wether the team succeeds or
@@ -316,3 +382,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [personal-mba]: ../2020-XX-XX-personal-mba/
 [7-habits]: ../2020-09-02-seven-habits/
 [ego-enemy]: ../2020-XX-XX-ego-enemy/
+[synergy]: ../2020-09-02-seven-habits/#habit-6-synergize
+[drive]: ../2020-XX-XX-drive/
