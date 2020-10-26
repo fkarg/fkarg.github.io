@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: Extreme Ownership'
 subtitle: How US Navy Seals Lead and Win
 cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427163007l/23848190.jpg'
@@ -26,7 +26,7 @@ Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short 
 **TLDR**; 
 
 ## Foreword
-**TLDR**; Extreme situations make 
+Extreme situations make clear cases about what works and what does not.
 
 - Life and Death situations force realizations about important leadership
   principles.
@@ -35,23 +35,35 @@ Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short 
   else to blame if things go wrong. Leaders have ultimate responsibility.
 
 ## Part I: Winning the War Within
-Ch1: Extreme Ownership
-- The leader is ultimately responsible for everything
-- Leader need to _own_ everything in their world, there is no one else to blame
-- Best leaders take extreme ownership of everything that could impact their mission
-- It is absolutely necessary to take ownership when things go wrong for
-  learning, growing and improving
+Every Leader needs to take responsibility for everything that could impact
+their mission. Taking ownership of mistakes is needed to learn and improve.
 
-Ch2: No Bad Teams, Only Bad Leaders
+<!-- Ch1: Extreme Ownership -->
+- The leader is ultimately responsible for everything that happens
+- Leader need to _own_ and take responsibility for everything in their world,
+  since there is no one else to blame
+- The best leaders take extreme ownership of everything that could impact their
+  mission
+- It is absolutely necessary to take ownership of mistakes for growing,
+  learning and improving
+
+
+Leadership is the most important factor for team-based performance - there are
+no bad teams, only bad leaders.
+<!-- Ch2: No Bad Teams, Only Bad Leaders -->
 - There are no bad teams, only bad leaders
 - Leadership is the most important factor for team-based performace
-- There must be consequences for substandard performance, what is being
-  tolerated will continue to happen
-- The best teams continuously look for ways to improve and set their standards
+- There must be consequences for substandard performance, if it is being
+  tolerated it will continue to happen
+- The best teams continuously look for ways to improve / set their standards
   higher
 - 'Win' your mission, no excuses
 
-Ch3: Believe
+
+Everyone needs to be on the same page for successful execution, different
+opinions are fine prior to deciding. Leaders are responsible for properly
+communicating the strategic reason _why_ something is done to their team.
+<!-- Ch3: Believe -->
 - Tell everyone _why_ you are doing something
 - A leader must be a true believer of a mission to convince and inspire others
   to follow and accomplish it
@@ -64,11 +76,14 @@ Ch3: Believe
 - Leadership is not one person leading, but many leaders working together to
   lead (up and down the chain)
 
-Ch4: Check the Ego
+[Ego is the Enemy][ego-enemy], and leadership is ego-management. Take the blame
+for explaining too little when someone in your team does something wrong.
+<!-- Ch4: Check the Ego -->
 - Ego is the Enemy, and it is deadly
 - Ego can prevent honest and realistic performance assessments => always have metrics
 - When something happens: Take the blame for too little explaining, and catch
   up
+
 
 ## Part II: The Laws of Combat
 Ch5: Cover and Move
@@ -300,3 +315,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [rich-dad]: ../2020-XX-XX-rich-dad-poor-dad/
 [personal-mba]: ../2020-XX-XX-personal-mba/
 [7-habits]: ../2020-09-02-seven-habits/
+[ego-enemy]: ../2020-XX-XX-ego-enemy/
