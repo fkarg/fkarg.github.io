@@ -13,7 +13,7 @@ stories into the deep import of how and what they calculated', according to
 Peter Galison.
 
 
-I bought this book after visiting the [Museum of Mathematics](museum) in New
+I bought this book after visiting the [Museum of Mathematics][museum] in New
 York a few years ago. It has been some time since I started or finished reading
 it, but I still wanted to write a few sentences about it.
 
