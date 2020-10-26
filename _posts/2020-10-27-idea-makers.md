@@ -110,7 +110,7 @@ No quotes, since I did not take notes while reading it.
     - [x] test-read actual rendered text
     - [x] checked how it looks like on mobile
 - [ ] Publication
-    - [ ] scheduled publication / linked in [books][books]
+    - [x] scheduled publication / linked in [books][books]
     - [x] checked if linked in prior/upcoming posts
     - [ ] posted link to review on goodreads
     - [ ] removed this comment
