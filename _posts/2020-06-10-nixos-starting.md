@@ -7,7 +7,7 @@ tags:
   - setup
 ---
 So I kind of involuntarily switched to NixOS recently. This is the story how
-this happened and a couple things I wish I knew when switching.
+this happened and a couple of things I wish I knew when switching.
 
 
 * TOC
@@ -80,10 +80,10 @@ _wrong_. I needed to hold and build another presentation, this time with LaTeX.
 On an operating system where I was foreign and had no idea what the package is
 called. So I googled it.
 
-From here on, my experiences with NixOS were mostly pleasent. I expected some
+From here on, my experiences with NixOS were mostly pleasant. I expected some
 sort of hassle after installing LaTeX, some package missing to actually build
 it, some cryptic error message. It's _always_ like this when building a new
-project. Not this time. Installing LaTeX took a few minutes but than I was
+project. Not this time. Installing LaTeX took a few minutes but then I was
 able to build the presentation again, just two hours before we were supposed to
 start the presentation. I felt immense relief, to say the least. Everything
 would have worked out even if this did not work, but we wanted to change some
@@ -98,12 +98,12 @@ sure how, but at some point I became aware of
 the actual searchable package repository. I bookmarked it immediately. This
 considerably improved both my speed and confidence when searching for packages.
 
-A pleasen surprise what that a couple of packages from my setup which were not
+A pleasent surprise what that a couple of packages from my setup which were not
 packaged yet for Ubuntu (`ripgrep` or `broot`) were just immediately available
 as a package. And not just those, also some plugins or other packages which
 supposedly required a different package manager first (`cargo` or `pip`) were
 directly available through nix. [Configuration](#options) was as well. Things
-were off to a really good start.
+were off to a fantastic start.
 
 (I learned about `nix search <pkgname>` today. It does basically the same on
 the command line.)
@@ -123,7 +123,7 @@ sort of a mostly static though living document with most of 'available' and
 up-to-date knowledge about NixOS. This does not make it the best place to learn
 about Nix and NixOS, but it is a good place to find answers for specific
 questions. Since I wanted to learn more about NixOS, I started reading through
-parts of the manual and in other places in the internet. Frequently, the manual
+parts of the manual and in other places on the internet. Frequently, the manual
 was referenced or linked, and sometimes, Nix-Pills where mentioned.
 
 ## Nix-Pills
@@ -138,7 +138,7 @@ at least skim over the content.
 All the configuration (`*.nix`) files are written in a specific functional
 programming language, Nix. As it is a purely functional language, I was mostly
 familiar with the basic concepts. Still, it was probably my weirdest experience
-in learning a programming language. I believe almost all of it's intricacies
+in learning a programming language. I believe almost all of its intricacies
 get covered by the [Nix pills][nix-pills], so I won't go into detail here.
 
 The learning experience was weird primarily because I thought that reading the
@@ -158,7 +158,7 @@ configuration of packages. Only the sky is the limit. And well, if you need to
 write an option yourself for your exotic configuration, the Nix Pills got you
 covered. Regardless, being able to search for options transformed my
 relationship with NixOS. I did note use it more often than searching for
-package names, but it made configurating NixOS just so much _easier_.
+package names, but it made configuring NixOS just so much _easier_.
 
 ## Selecting old Configurations when Booting
 So eventually I wrote a configuration that was just sufficiently f\*cked up to
@@ -188,17 +188,22 @@ frequently, executing `nix-collect-garbage` and `nix-store --optimise` every
 month or so will free up some space without removing any relevant data from
 prior generations. Obviously more can be freed by removing all prior
 generations via `nix-collect-garbage --delete-old`, but then you cannot boot in
-earlier generations either, so use it with care. The 
-`--delete-older-than <period>` is a much more safe bet. Example periods would
-be `7d` or `30d`.
+earlier generations either, so use it with care. The option
+`--delete-older-than <period>` is a much safer bet. Example periods would
+be `7d` or `30d`. In conclusion:
+
+- `nix-collect-garbage` (delete unreachable store paths)
+- `nix-collect-garbage --delete-older-than 30d` (keep system generations younger than 30 days)
+- `nix-env --delete-generations +10` (keep last ten user environment generations)
+- `nix-store --optimise` (reduce disk space by hard-linking identical files)
 
 # Conclusion
 NixOS promises reproducible builds and does not disappoint. Even though some
 things still feel rough, such as parts of the documentation or the Nix
 language, it really feels like a next-generation package manager. After all, it
 really solves reproducibility. Obviously there are still improvements possible
-in both Nix and NixOS, but I think it is certainly among the least-bad tools in
-regards to its value. I do prefer `ansible` in terms of usability, and by a
+in both Nix and NixOS, but I think it is certainly among the least-bad tools
+with regard to its value. I do prefer `ansible` in terms of usability, and by a
 lot, but they are just from two entirely different worlds, with Nix having much
 stronger guarantees to 'same'-ness than ansible would ever be able to provide.
 
@@ -214,7 +219,9 @@ Stay tuned.
 
 **Edits**:
 - 2020-06-11: small rewordings of ... everything.
+- 2020-10-27: fixed typos, added list of garbage collection commands
 
+---
 [nix-pills]: https://nixos.org/nixos/nix-pills/index.html
 [options]: https://nixos.org/nixos/options.html
 [nixos-explained]: https://christine.website/blog/nixos-desktop-flow-2020-04-25
