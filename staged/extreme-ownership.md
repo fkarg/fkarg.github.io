@@ -22,11 +22,16 @@ Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short 
 
 ---
 # Content
-**TLDR**; one or two sentences recollecting the most important takeaways
-**TLDR**;
+<!-- comment to avoid pylanguagetool parsing error. -->
+
+{: .box-note}
+Take responsibility for everything relevant to you, the only one to blame for
+failure is you.
+
+<!-- **TLDR**; -->
 
 ## Foreword
-<!-- comment. -->
+<!-- comment to avoid pylanguagetool parsing error. -->
 
 {: .box-note}
 Extreme situations make clear cases about what works and what does not.
@@ -253,34 +258,58 @@ Some Leaders are born, but everyone can learn. Listen to every good idea.
 
 
 ## Main Takeaways
-- Leading up the chain: if they have to ask, you were bad at explaining.
-- 'Leadership is Ego-Management'
-- No bad Teams, only bad leaders
-- ownership of stuff, extreme.
-- discipline creates/equals freedom
-- having responsibility and being the one to blame are different things
+<!-- comment. -->
 
-- additional: extreme ownership is the same as focusing on your circle of
-  influence from 7-habits
+{: .box-note}
+I learned about communication, ego-management, and the importance of leaders on
+every level.
 
-- [ ] What are the biggest new mental models I created when reading this book?
-- [ ] What were the most significant concepts encountered and why?
-- [ ] How could I have learned these concepts when not reading them in this book?
-- [ ] Did learning these concepts improve my life?
+<!-- TODO: Short collection of Takeaways -->
+
+Reading that 'if your boss repeatedly asks 'stupid questions', you have not
+explained it well enough' was quite the realization for me. Obviously, it is
+your job to explain the situation, and being asking 'stupid questions' is a
+clear indicator of lacking situational awareness - lacking because you did not
+explain it well enough yet.
+
+'Leadership is Ego-Management' is also on of these things that hit me. Of
+course it is, but at the same time - I had no idea.
+
+While I was aware of exceptional teams needing good leaders, I was not aware
+just how much of a teams performance depends on the leader. Something else I
+have noticed however: The teams leader is not necessarily the leader of the
+team. I had no idea just how much of an effect leaders (can) have.
+
+Taking ownership is the same as 'increasing your circle of influence', as it
+has been talked about in [The 7 Habits][7-habits]. I did not understand it back
+then, but the concept of 'extreme ownership' made it much more clear for me.
+
+Discipline equals freedom: It is not a new concept for me, but I
+still find it hard to articulate. Especially, trying to explain the
+effectiveness to others.
+
+Being at fault and being to blame are separate. I started writing a [blog post
+about responsibility][responsibility], and missing this realization is probably
+why I got stuck.
 
 
 ## Criticism
-- examples could have been better at times (=> simple communication)
+<!-- comment. -->
 
-- [ ] Clearly structured?
-- [ ] Good Examples?
-- [ ] Clear Explanations?
-- [ ] Concise reasons why?
-- [ ] Is the advice actionable?
-- [ ] Book is easily skimmable?
-- [ ] Misc, specific to book
-- [ ] Whom would I recommend reading this book?
+{: .box-note}
+Stories could make their point more clearly, but the book resonated with me.
 
+
+The book deeply resonated with me. There are probably few things as _absolute_
+as responsibility.
+
+The book uses stories to better demonstrate principles of each chapter. While I
+really like some of these stories, not all of them demonstrated their principle
+as well as they could have.
+
+Still, the book was very well written, clearly structured and an enjoyable read.
+
+I would recommend it to everyone struggling with responsibility or leadership.
 
 ## Favourite Quotes
 > The only meaningful measure for a leader is wether the team succeeds or
@@ -387,3 +416,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [ego-enemy]: ../2020-09-23-ego-enemy/
 [synergy]: ../2020-09-02-seven-habits/#habit-6-synergize
 [drive]: ../2020-XX-XX-drive/
+[responsibility]: ../202X-XX-XX-responsibility/
