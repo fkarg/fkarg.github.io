@@ -13,7 +13,8 @@ leadership book'.
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
 I received this book as a birthday present, together with [Rich Dad Poor
-Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short few days in early September.
+Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short
+few days in early September.
 
 
 * TOC
@@ -65,7 +66,7 @@ Leadership is the most important factor for team-based performance - there are
 no bad teams, only bad leaders.
 
 - There are no bad teams, only bad leaders
-- Leadership is the most important factor for team-based performace
+- Leadership is the most important factor for team-based performance
 - There must be consequences for substandard performance, if it is being
   tolerated it will continue to happen
 - The best teams continuously look for ways to improve / set their standards
@@ -162,8 +163,8 @@ someone clearly responsible for doing it.
 - Everything needs a clearly designated leader
 - It is important where the limits of decision-making authority are for lower
   levels
-- Relevant information for strategic situational awareness neds to be passed up
-  and down the chain, especially when something critical changes
+- Relevant information for strategic situational awareness needs to be passed
+  up and down the chain, especially when something critical changes
 - Leaders need to be free to move wherever they are most needed
 
 
@@ -178,7 +179,7 @@ assumptions. <!-- TODO -->
 - Maximize chances for mission success, assuming faulty intel
 - Making assumptions that turn out to be false are failure in leadership
 - Have a standardized planning process
-- Let senior personnell supervise the process, but let everyone, no matter how
+- Let senior personnel supervise the process, but let everyone, no matter how
   junior, participate in the planning
 - The situation will change, better have a plan that can adapt
 - There will always be risk. Minimize it, but take it
@@ -222,8 +223,8 @@ decision.
   situations
 - Waiting for certainty leads to the inability to execute. Uncertainty will prevails.
 - As a leader, be 'aggressive' in your decisions, certainly not 'inactive'
-- Leaders _need_ to be seen as decive, even when facing hard decisions. You
-  always have enough informations for a decision.
+- Leaders _need_ to be seen as decisive, even when facing hard decisions. You
+  always have enough information for a decision.
 
 
 **Ch12: Discipline Equals Freedom**
@@ -253,6 +254,10 @@ Some Leaders are born, but everyone can learn. Listen to every good idea.
 
 ---
 # Review
+The message resonated with me. I'm really glad I read it, and would recommend
+it to everyone struggling with responsibility or leadership.
+
+I am really glad that I read it, a
 - [ ] Glad I read it?
 - [ ] Short verdict
 
@@ -264,30 +269,42 @@ Some Leaders are born, but everyone can learn. Listen to every good idea.
 I learned about communication, ego-management, and the importance of leaders on
 every level.
 
-<!-- TODO: Short collection of Takeaways -->
+Here is a short list of my main Takeaways:
+- Stupid Questions are Your Fault (for not properly explaining)
+- Leadership is Ego-Management
+- The Importance of Leaders
+- Extreme Ownership
+- Discipline Equals Freedom
+- Responsibility
 
+### Stupid Questions are Your Fault (for not properly explaining)
 Reading that 'if your boss repeatedly asks 'stupid questions', you have not
-explained it well enough' was quite the realization for me. Obviously, it is
+explained it well enough' was quite the 'eye-opener' for me. Obviously, it is
 your job to explain the situation, and being asking 'stupid questions' is a
-clear indicator of lacking situational awareness - lacking because you did not
-explain it well enough yet.
+clear indicator of lacking situational awareness from the one asking these
+questions - lacking because you did not explain it well enough.
 
-'Leadership is Ego-Management' is also on of these things that hit me. Of
-course it is, but at the same time - I had no idea.
+### Leadership is Ego-Management
+'Leadership is Ego-Management' is also one of these things that hit me. Of
+course, it is, but at the same time - I had no idea. This is something I still
+need to learn in depth. First step: [managing my own ego][ego-enemy].
 
-While I was aware of exceptional teams needing good leaders, I was not aware
-just how much of a teams performance depends on the leader. Something else I
-have noticed however: The teams leader is not necessarily the leader of the
-team. I had no idea just how much of an effect leaders (can) have.
+### The Importance of Leaders
+Even knowing that exceptional teams need good leaders, I underestimated the
+importance of leaders. Especially those in middle and upper management.
 
-Taking ownership is the same as 'increasing your circle of influence', as it
-has been talked about in [The 7 Habits][7-habits]. I did not understand it back
-then, but the concept of 'extreme ownership' made it much more clear for me.
+### Extreme Ownership
+It was mentioned as 'focus on your circle of influence' in [The 7
+Habits][7-habits], but I never internalized it until seeing it as extreme
+ownership. I needed the message about responsibility to be uncompromising and
+ruthless.
 
-Discipline equals freedom: It is not a new concept for me, but I
-still find it hard to articulate. Especially, trying to explain the
-effectiveness to others.
+### Discipline Equals Freedom
+Having been an advocate for processes, 'Discipline equals freedom' is one more
+concept that resonated with me. I still find it hard to explain the
+effectiveness to others, especially those not wanting to change.
 
+### Responsibility
 Being at fault and being to blame are separate. I started writing a [blog post
 about responsibility][responsibility], and missing this realization is probably
 why I got stuck.
@@ -300,25 +317,43 @@ why I got stuck.
 Stories could make their point more clearly, but the book resonated with me.
 
 
-The book deeply resonated with me. There are probably few things as _absolute_
-as responsibility.
-
+### Better Stories
 The book uses stories to better demonstrate principles of each chapter. While I
 really like some of these stories, not all of them demonstrated their principle
 as well as they could have.
 
-Still, the book was very well written, clearly structured and an enjoyable read.
+Overall, it feels like the book still has some 'rough' edges and could use some
+polishing.
+
+Diamonds take time to form: To me, it feels like only few and small
+improvements would be needed to take it to the next level. This is
+partially why I find it so frustrating. For me the potential is clearly there,
+but it has somehow failed to materialize. I do hope a second version will
+change this.
+
+### Good parts
+The book deeply resonated with me. There is nothing as _absolute_ and uncaring
+as reality, and uncompromising responsibility for decisions mirrors that
+perfectly.
+
+Not just that, I learned a lot about responsibility and leadership, among other
+things. It was very easy to read and follow. I really liked that each chapter
+had a part focusing solely on the principle and application to business as
+well.
+
+The book was very well written, clearly structured and an enjoyable read.
 
 I would recommend it to everyone struggling with responsibility or leadership.
 
-## Favourite Quotes
-> The only meaningful measure for a leader is wether the team succeeds or
+
+## Favorite Quotes
+> The only meaningful measure for a leader is whether the team succeeds or
 > fails.
 
 > But combat is reflective of life, only amplified and intensified.
 
 **Part 1:**
-> the burdon of command and the deep meaning of responsibility: the leader is
+> the burden of command and the deep meaning of responsibility: the leader is
 > truly and ultimately responsible for _everything_.
 
 > leadership is the single greatest factor in any team's performance
@@ -328,7 +363,7 @@ I would recommend it to everyone struggling with responsibility or leadership.
 
 > "If you aren't winning, [..] then you aren't making the right decisions."
 
-> If frontline leaders and toops understand _why_, they can move forward, fully
+> If frontline leaders and troops understand _why_, they can move forward, fully
 > believing in what they are doing.
 
 > When personal agenda becomes more important than the team and the overarching
@@ -362,7 +397,7 @@ I would recommend it to everyone struggling with responsibility or leadership.
 > Our freedom to operate and maneuver had increased substantially through
 > disciplined procedures. Discipline equals freedom.
 
-> A true leader is not indimidated when others step up and take charge.
+> A true leader is not intimidated when others step up and take charge.
 
 > Leaders who lose their temper also lose respect
 
