@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: Extreme Ownership'
 subtitle: How US Navy Seals Lead and Win
 cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427163007l/23848190.jpg'
