@@ -10,7 +10,9 @@ tags:
 Review of Jocko Willink and Leif Babins 'absolute best and most useful
 leadership book'.
 
-<!-- TLDR of the review, and if I would recommend it to others. -->
+The harsh take on responsibility and leadership resonated with me. This is a
+book for everyone looking to broaden their perspective on these topics, it
+certainly helped me.
 
 I received this book as a birthday present, together with [Rich Dad Poor
 Dad][rich-dad] and [The Personal MBA][personal-mba]. I read the book in a short
@@ -40,7 +42,7 @@ Extreme situations make clear cases about what works and what does not.
 - Life and Death situations force realizations about important leadership
   principles.
 - There are crucial leaders at every level of the team.
-- Leaders have the biggest impact on their teams success, and there is no one
+- Leaders have the biggest impact on their teams success, there is no one
   else to blame if things go wrong. Leaders have ultimate responsibility.
 
 ## Part I: Winning the War Within
@@ -84,24 +86,26 @@ communicating the strategic reason _why_ something is done to their team.
 - Tell everyone _why_ you are doing something
 - A leader must be a true believer of a mission to convince and inspire others
   to follow and accomplish it
-- Frontline Leaders need to believe just the same, and they need to lead just
-  the same
+- Frontline Leaders need to believe just the same, they need to lead just the
+  same
 - Senior Leaders need to pass down general strategic understanding of the
   mission
 - Leaders on all levels need to understand _why_ they do something, not just
   _what_, to adapt to changing circumstances faster
 - Leadership is not one person leading, but many leaders working together to
-  lead (up and down the chain)
+  lead (up as well as down the chain)
 
 
 **Ch4: Check the Ego**
 
 {: .box-note}
 [Ego is the Enemy][ego-enemy], and leadership is ego-management. Take the blame
-for explaining too little when someone in your team does something wrong.
+for explaining too little when someone you are responsible for does something
+wrong.
 
 - Ego is the Enemy, and it is deadly
-- Ego can prevent honest and realistic performance assessments => always have metrics
+- Ego can prevent honest and realistic performance assessments, so you should
+  always have metrics
 - When something happens: Take the blame for too little explaining, and catch
   up
 
@@ -114,17 +118,18 @@ Build [synergies][synergy] with other teams.
 
 - Cover and Move requires two active teams: one covering while the other moves
   with frequent switches
-- Essentially, know about other teams and coordinate with them
+- Essentially, know about other teams to coordinate with them
 - In Business: Work together to win. Other teams are not adversaries but assets
 
 
 **Ch6: Simple**
 
 {: .box-note}
-Everyone benefits from simple communication and situations with few moving parts.
+Everyone benefits from simple communication and situations with few moving
+parts.
 
 - Simplifying as much as possible is crucial for success
-- When things go wrong (and they will) complexity compounds issues
+- When things go wrong (they will) complexity compounds issues
 - Keep plans and communication simple, so that everyone can understand it
 - Being forced to simplify will make clear if you understand important details
 - Simplify everything, as much as you can
@@ -140,12 +145,12 @@ prioritize ruthlessly <!-- TODO: reformulation -->
   prioritize
 - Ideally, stay at least a step or two ahead of real-time problems
 - Keep the strategic picture in mind while prioritizing
-- Priorities can change rapidly, communicate any changes up and down the chain
-  of command
+- Priorities can change rapidly, communicate changes up and down the chain
+  of command when they are being made
 - Have full focus on your highest-priority-objective until it is solved, only
   then focus on the next
 - Do not fixate on a problem too much, maintain the ability to see other
-  problems and rapidly shift priorities when needed
+  problems to rapidly shift priorities when needed
 
 
 **Ch8: Decentralized Command**
@@ -157,7 +162,7 @@ someone clearly responsible for doing it.
 - Micromanagement does not scale, is unnecessary effort and complex
 - [Motivation][drive] also takes a hit
 - Major bottlenecks: communication and situational awareness
-- Delegate tactical decisions to frontline-leaders, and focus on strategic
+- Delegate tactical decisions to frontline-leaders, to focus on strategic
   decisions instead
 - It is hard to manage more than six to ten people directly
 - Everything needs a clearly designated leader
@@ -190,9 +195,9 @@ assumptions. <!-- TODO -->
 **Ch10: Leading up and Down the Chain of Command**
 
 {: .box-note}
-Do not expect support if you did not convey the importance to your superior.
+Do not expect support if you did not properly convey the importance.
 Have boundaries and tell them what you are going to do within them. Do not get
-lost in details, and keep your team aware of the strategic picture. <!-- TODO -->
+lost in details, but keep your team aware of the strategic picture.
 
 - It is hard to see strategic impact when working on a tactical level
 - You need to make sure that everyone understands _why_ you do what you do,
@@ -200,8 +205,8 @@ lost in details, and keep your team aware of the strategic picture. <!-- TODO --
 - Figure out ways to communicate the strategic picture instead of blaming them
   for not understanding it
 - If your boss is not helping you as much as you need him to, blame yourself
-  first and see what you can do better to convey the seriousness of the
-  situation and that support will be allocated
+  first to see what you can do better for conveying the seriousness of the
+  situation so that support will be allocated
 - You also need to push situational awareness up the chain of command
 - Public displays of discontent or disagreement with the chain of command
   undermine authority at all levels and lead to catastrophic performance
@@ -218,7 +223,7 @@ lost in details, and keep your team aware of the strategic picture. <!-- TODO --
 Make the best decision with the information available, but always make a
 decision.
 
-- Information will never be complete, and yet decisions need to be made
+- Information will never be complete, yet decisions need to be made
 - Leaders need to make decisions promptly and adjust them based on evolving
   situations
 - Waiting for certainty leads to the inability to execute. Uncertainty will prevails.
@@ -237,7 +242,7 @@ High performance is possible only with proper discipline and clear procedures.
 - Make your fundamental procedures to disciplined habits, this enables easier changes
 - Let others step up and take charge when it makes sense
 - Leaders who lose their temper lose respect, but do show emotions
-- Leaders should be competitive, but lose in a gracious and professional way
+- Leaders should be competitive, but gracious and professional when losing
 
 
 **Ch13: Afterword**
@@ -280,7 +285,7 @@ Here is a short list of my main Takeaways:
 ### Stupid Questions are Your Fault (for not properly explaining)
 Reading that 'if your boss repeatedly asks 'stupid questions', you have not
 explained it well enough' was quite the 'eye-opener' for me. Obviously, it is
-your job to explain the situation, and being asking 'stupid questions' is a
+your job to explain the situation, and being asked 'stupid questions' is a
 clear indicator of lacking situational awareness from the one asking these
 questions - lacking because you did not explain it well enough.
 
@@ -306,7 +311,7 @@ effectiveness to others, especially those not wanting to change.
 
 ### Responsibility
 Being at fault and being to blame are separate. I started writing a [blog post
-about responsibility][responsibility], and missing this realization is probably
+about responsibility][responsibility], missing this realization is part of
 why I got stuck.
 
 
@@ -322,26 +327,25 @@ The book uses stories to better demonstrate principles of each chapter. While I
 really like some of these stories, not all of them demonstrated their principle
 as well as they could have.
 
-Overall, it feels like the book still has some 'rough' edges and could use some
+Overall, it feels like the book still has 'rough' edges that could use
 polishing.
 
-Diamonds take time to form: To me, it feels like only few and small
-improvements would be needed to take it to the next level. This is
-partially why I find it so frustrating. For me the potential is clearly there,
-but it has somehow failed to materialize. I do hope a second version will
-change this.
+Diamonds take time to form: To me, it feels like only a few small improvements
+would be needed to take it to the next level. This is part of why I find it
+so frustrating. For me the potential is clearly there, but it has somehow
+failed to materialize. I do hope a second version will change this.
 
 ### Good parts
 The book deeply resonated with me. There is nothing as _absolute_ and uncaring
-as reality, and uncompromising responsibility for decisions mirrors that
-perfectly.
+as reality, which is mirrored perfectly by the suggested uncompromising
+responsibility for decisions.
 
 Not just that, I learned a lot about responsibility and leadership, among other
-things. It was very easy to read and follow. I really liked that each chapter
+things. It was easy to read and follow. I really liked that each chapter
 had a part focusing solely on the principle and application to business as
 well.
 
-The book was very well written, clearly structured and an enjoyable read.
+The book was very well written, clearly structured, and an enjoyable read.
 
 I would recommend it to everyone struggling with responsibility or leadership.
 
