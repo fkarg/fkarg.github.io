@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: 'Book: Extreme Ownership'
 subtitle: How US Navy Seals Lead and Win
 cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427163007l/23848190.jpg'
@@ -417,27 +417,27 @@ I would recommend it to everyone struggling with responsibility or leadership.
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Publication Checklist:
-- [ ] Content
+- [x] Content
     - [x] Added cover-image
-    - [ ] the beginning of the post is clear and a good description
-    - [ ] the beginning of each paragraph describes
+    - [x] the beginning of the post is clear and a good description
+    - [x] the beginning of each paragraph describes
           the information contained in the paragraph
-    - [ ] each paragraph describes at most one idea
-    - [ ] the end is on a high note/positive outlook or
+    - [x] each paragraph describes at most one idea
+    - [x] the end is on a high note/positive outlook or
           inspirational call to action
-    - [ ] Tell them what you're going to tell them. Then tell them.
+    - [x] Tell them what you're going to tell them. Then tell them.
           Finally, tell them what you told them. - Unknown
-- [ ] Grammar and Typos
-    - [ ] checked with `pylanguagetool` for typos
-    - [ ] checked with `homer` for compulsive hedgers
-    - [ ] checked with `homer` for vague words
-    - [ ] checked with `homer` for sentence length
-- [ ] Details
-    - [ ] test-read actual rendered text
-    - [ ] checked how it looks like on mobile
+- [x] Grammar and Typos
+    - [x] checked with `pylanguagetool` for typos
+    - [x] checked with `homer` for compulsive hedgers
+    - [x] checked with `homer` for vague words
+    - [x] checked with `homer` for sentence length
+- [x] Details
+    - [x] test-read actual rendered text
+    - [x] checked how it looks like on mobile
 - [ ] Publication
-    - [ ] scheduled publication / linked in [books][books]
-    - [ ] checked if linked in prior/upcoming posts
+    - [x] scheduled publication / linked in [books][books]
+    - [x] checked if linked in prior/upcoming posts
     - [ ] posted link to review on goodreads
     - [ ] removed this comment
 
