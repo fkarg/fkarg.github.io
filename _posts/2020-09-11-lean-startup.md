@@ -344,4 +344,4 @@ innovative teams.
 ---
 [mvp-slc]: https://blog.asmartbear.com/slc.html
 [death-winning]: ../2020-10-12-goalboss/#death-by-winning
-[discipline-freedom]: ../2020-XX-XX-extreme-ownership
+[discipline-freedom]: ../2020-11-10-extreme-ownership

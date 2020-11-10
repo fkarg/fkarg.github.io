@@ -280,7 +280,7 @@ book so far.
 [anchoring]: https://www.lesswrong.com/posts/bMkCEZoBNhgRBtzoj/anchoring-and-adjustment
 [power-habit]: ../2020-09-16-power-of-habit/
 [drive]: ../2020-XX-XX-drive/
-[extreme-ownership]: ../2020-XX-XX-extreme-ownership/
+[extreme-ownership]: ../2020-11-10-extreme-ownership/
 [no-asshole]: ../2020-02-28-no-asshole-rule/
 [explain]: https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password
 [7-habits]: ../2020-09-02-seven-habits/
