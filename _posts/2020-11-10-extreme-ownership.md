@@ -138,7 +138,8 @@ parts.
 **Ch7: Prioritize and Execute**
 
 {: .box-note}
-prioritize ruthlessly <!-- TODO: reformulation -->
+Always prioritize and focus on one problem only, but adjust to the situation as
+needed.
 
 - Verbalization of 'prioritize and execute': "Relax, look around, make a call"
 - Usually, countless problems show up at the same time, so you need to
@@ -178,7 +179,7 @@ someone clearly responsible for doing it.
 
 {: .box-note}
 Maximize expected mission success while relying on the least amount of
-assumptions. <!-- TODO -->
+assumptions.
 
 - Never take anything for granted when doing mission planning
 - Maximize chances for mission success, assuming faulty intel
@@ -413,39 +414,6 @@ I would recommend it to everyone struggling with responsibility or leadership.
 > [.] leading people is the most challenging and, therefore, the most
 > gratifying undertaking of all human endeavors.
 
-
-<!--
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Publication Checklist:
-- [x] Content
-    - [x] Added cover-image
-    - [x] the beginning of the post is clear and a good description
-    - [x] the beginning of each paragraph describes
-          the information contained in the paragraph
-    - [x] each paragraph describes at most one idea
-    - [x] the end is on a high note/positive outlook or
-          inspirational call to action
-    - [x] Tell them what you're going to tell them. Then tell them.
-          Finally, tell them what you told them. - Unknown
-- [x] Grammar and Typos
-    - [x] checked with `pylanguagetool` for typos
-    - [x] checked with `homer` for compulsive hedgers
-    - [x] checked with `homer` for vague words
-    - [x] checked with `homer` for sentence length
-- [x] Details
-    - [x] test-read actual rendered text
-    - [x] checked how it looks like on mobile
-- [ ] Publication
-    - [x] scheduled publication / linked in [books][books]
-    - [x] checked if linked in prior/upcoming posts
-    - [ ] posted link to review on goodreads
-    - [ ] removed this comment
-
-Footnote<sup>[1](#footnote1)</sup> among text.
-- - -
-**Footnotes**:
-<a name="footnote1">1</a>: Text from footnote1.
--->
 
 ---
 [books]: ../2019-09-12-books/
