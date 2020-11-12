@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: 'Book: Drive'
-subtitle: subtitle
+subtitle: The Surprising Truth About What Motivates Us
 cover-img: 'Todo: search for cover-image'
 tags:
 - book
@@ -172,7 +172,8 @@ p 185 ##71 The Type I Reading List pls 5 ##12 Listen to the Gurus: Six Business 
     - [ ] test-read actual rendered text
     - [ ] checked how it looks like on mobile
 - [ ] Publication
-    - [ ] scheduled publication / linked in [books][books]
+    - [ ] scheduled publication
+    - [ ] linked in [books][books]
     - [ ] checked if linked in prior/upcoming posts
     - [ ] posted link to review on goodreads
     - [ ] removed this comment
