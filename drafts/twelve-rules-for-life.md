@@ -100,12 +100,64 @@ biology.
 ## Rule 5: Do not let your children do anything that makes you dislike them
 - Parents being afraid of saying no to their children produce children
   incapable of suffering
-- 
+- chimpanzees literally tear each other apart
+- animals, as well as children, can be conditioned to do what you want. Just
+  give them a small reward when they do something you want them to.
+- the fundamental (moral) question is how to maximize learning with minimal
+  punishment
+- have few rules, too many are just confusing
+- use minimum appropriate punishment for violations
+- If you don't punish the misbehaviour of your child, society will - much
+  harsher than you ever could.
+- the primary duty of parents is to make their children socially desirable
 
 
 ## Rule 6: Set your house in perfect order before you critizise the world
+- suffering is the norm, but it could always be worse
+- just slowly stop doing things you know are good for you and others
+- do small things to continuously improve your life
+- your life will become simpler and much less convoluted
+- 'It's hard to light a candle, easy to curse the dark instead'[light candle][light-candle]
+
+
 ## Rule 7: Pursue what is meaningful (not what is expedient)
+- The world is difficult and sorrowful, and the easiest would be to follow
+  impulses, to lie, cheat, steal, deceive and manipulate.
+- but maybe our culture has something useful to say about this? It exist far longer
+- sacrifice and work are not fundamentally different, because you give up
+  something of value in the present to receive something better than you
+  otherwise would have in the future. - Delayed gratification. Basic principle:
+  _sacrifice will improve the future_.
+    - relates to: 7-habits: center
+- not all sacrifices are of equal quality
+- human evil is worse than the harm nature can do / does
+- => harsh life, magnified by continually rejected sacrifices (however bad or
+  half-hearted) => even more half-hearted sacrifices (if at all) and more
+  contempt, eventual spite and revenge
+    - that's a path I could have taken at one point.
+- many people don't develop ptsd not for what they saw, but for what _they_ did
+- christianity actually 'solved' a whole lot of problems and was much less
+  barbaric than previous roman or other cultures. But at some point everyone
+  just took the solved problems as granted and critized the emerging ones
+  (without solving them)
+- Meanings have value, and we all need something of value to base ourselves on.
+  Otherwise the only path to expect is hell.
+
+
 ## Rule 8: Tell the truth - or, at least, don't lie
+- Telling the truth to mentally ill patients tends to help them, sometimes even
+  more so when that truth is slightly uncomfortable for them
+- telling the truth is a completely different way of life to not doing it
+- The rabbithole of lying goes deep - including not to admit to
+  responsibilities and everything that follows (Not saying NO when you had a chance)
+- Living the truth is not always easy, and it is not easy to notice yourself
+  lying. But living the truth gives your existence meaning. It allows you to
+  gradually improve all kinds of areas in your life, by taking responsibility
+  for them.
+- the sensible shelling point is not to tell any lies at all
+- when lies have ravaged in someones life, only hell follows
+
+
 ## Rule 9: Assume that the person you are listening to might know something you don't
 ## Rule 10: Be precise in your speech
 ## Rule 11: Do not bother children when they are skateboarding
@@ -160,8 +212,40 @@ details about Marxism and more. They were there, I just didn't understand them.
 > You might be winning, but you are not growing, and growing might be the most
 > important form of winning.
 
-> 
+> If [your childrens] actions make you dislike them, think what an effect they
+> will have on other people, who care much less about them than you - they will
+> punish them, socially and severely.
 
+> If you are suffering - well, that's the norm. People are limited and life is
+> tragic. If your suffering is unbearable, however, and you are starting to
+> become corrupted, here's something to think about.
+
+> _The successful among us delay gratification_.
+
+> [.] if you abide, truthfully and courageously, by the highest of ideals, you
+> will be provided with more security and strength than will be offered by any
+> short-sighted concentration on your own safety.
+
+> You may find that if you attend to these moral obligations, once you have
+> placed "make the world better" at the top of your value hierarchy, your
+> experience ever-deepening meaning. It's not bliss. It's not happiness. It is
+> something more like atonement for the criminal fact of your fracured and
+> damaged Being.
+
+> Taking the easy way out or telling the truth - those are not merely two
+> different choices. They are different pathways through life. They are utterly
+> different ways of existing.
+
+> the smallest of lies is where the big lie starts
+
+> Hell comes when lies have destroyed the relationship between individual or
+> state and reality itself. [...] Everything becomes frustration and
+> disappointment. [...] Tortured by constant failure, the individual becomes
+> bitter.
+
+> In Paradise, everyone speaks the truth. That's what makes it Paradies.
+
+> 
 
 
 <!--
@@ -200,3 +284,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
+[light-candle]: https://youtu.be/ukDEYRXoH2g?t=87
