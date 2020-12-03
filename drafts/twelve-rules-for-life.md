@@ -154,14 +154,108 @@ biology.
   lying. But living the truth gives your existence meaning. It allows you to
   gradually improve all kinds of areas in your life, by taking responsibility
   for them.
-- the sensible shelling point is not to tell any lies at all
+- the sensible shelling point is not to tell any lies at all 
+  (since small lies can snowball fast)
 - when lies have ravaged in someones life, only hell follows
 
 
 ## Rule 9: Assume that the person you are listening to might know something you don't
+- psychotherapy is not advice, but genuine conversation, which is talking, but
+  mostly listening.
+- memory is the tool (identity?) to guide your future
+- self-criticism is not actually thinking, thinking is actually rare
+- freud had a point, since people still hate him
+- you can help and understand people a lot simply by listening
+- is really hard, but actually worth it -> habit 5?
+
+
 ## Rule 10: Be precise in your speech
+- we tend to perceive everything as only a part of what it is. And when it
+  breaks we perceive the additional (previously ignored) complex parts as
+  annoying - since they were not there before
+- our perception is limited, and flaws become apparent when things break down
+- not talking a small issue will blow it up eventually. So it's better to talk
+  about it soon. if you actually want to resolve it, that is.
+- Defining your fears is half the work. Precision gives way to solutions, to
+  tools that could actually solve the problem, reducing overall complexity.
+    => 4h-workweek: actual feer is uncertainty
+- you need goal-directed focus to move forward, random wandering will not cut it.
+
+
 ## Rule 11: Do not bother children when they are skateboarding
+- Children need playgrounds, that are at least somewhat challenging. Otherwise,
+  they will find unintended and potentially unsafe ways either way. It is
+  necessary to "optimize" (playground) risk instead of minimizing it.
+- Success and resentment: Resenting more successful people (and damaging their
+  lifes) will not improve what you resent them for. Moralizing has never been
+  worse, it's seriously bad what some people propagate.
+- University students mental health suffers because of it. - philosophically
+  berated by defenders of the planet simply for their existence. His
+  assumption: It is worse for being a young man in todays culture. They are not
+  welcome, sexually suspect, and their achievements are unearned (just because
+  you are ...). They do worse in school and are being suppressed in university.
+  Losing to a girl is not okay for boys. Boys only have their value hierarchies
+  to prove themselves, but they start to face competition from girls as well.
+  Games turning in Girls Games induce Boys to leave - it is not clear how to
+  win => few men in most university disciplines in 15 Years
+- Stable relationships decline, because fewer guys want to marry. Girls want to
+  do more so (than, statistically, ever).
+- Most females in high-pressure careers bail out in their thirties, they just
+  want to marry and have kids. It's not men making them leave. They would want
+  to keep every talented individual. It's just that much fewer want to work
+  80h/week to be even moderately successful. It's the Market defining success,
+  certainly not the patriarchy.
+- Culture creation by only men is simply perverse, also because half of the
+  population is female.
+- Both tampons and the pill were invented by Men. Certainly not to suppress
+  women. Social activism as new form of school.
+- Ideas have consequences: Especially on Country-level decision making, People
+  are likely to die due to every decision you make. Example: "kulaks",
+  successful farmers, were killed because they had more wealth than others.
+  They were the 20% where 80% of the food came from. Kill them, and suddenly
+  agricultural output drops beyond measure.
+- Hierarchies and categories do not solely exist to oppress and exclude. While
+  it is clear that power plays a role, here (success) it is unlikely that it is
+  the only, or even the dominant role - The prime indicator usually is
+  competence, not something else.
+- The solution is certainly not to have guys grow up as girls, simply because
+  they have a lot of different tendencies, also early on. About 5% of 2yo boys
+  are agressive, by temperament. They are taught to integrate that behaviour in
+  more sophisticated routines instead of behaving like little girls. A lot of
+  his female clients are not aggressive enough, however. This can lead to
+  burnout, among other things.
+- Men require constant internal contests of strength, to prove themselves. And
+  if they don't stand up for themselves or start whining, they get beaten down,
+  because they are useless and deserve it. It is a necessary contest among men.
+- So just leave children alone when they are skateboarding.
+
+
 ## Rule 12: Pet a cat when you encounter one on the street
+- First he talks quite a bit about his dog, because dog-people are not to be
+  excluded, and group-based pro/antisocial behaviour is much more common and
+  easily created than expected. Even with groups decided by coin flips or other
+  arbitrary methods.
+- Being might require limitations to exist. Reality is cruel, as is given
+  exemplarly by his daughters hardships, also early in life, with juvenile
+  arthritis and requiring a hip replacement early in life
+- History of superman and how he became boring when being too strong. Perhaps
+  being requires becoming, to overcome limitations, to have something to strive
+  for.
+- There are limits of improvement, beyond which we might not want to go, lest
+  we sacrifice our humanity itself. "Being requires limitations" is easy to say
+  when everything goes well, but when it doesn't?
+- They foudn out the following things: Spend some dedicated time for it, or it
+  will take all your time don't do it in the evening or you can't sleep, and
+  things go downhill from there rapidly. It's a war, not a battle. Many
+  battles, and you need to be in good condition for all of them.
+- Petting a cat (or dog, for that matter) reminds you that life is not all bad,
+  and afterwards, you just might be able to see things slightly less bad.
+
+## Coda
+Writing with a pen of light has something Metaphysical. So he asked some hard
+questions and really answered them, trying to bring them into context together,
+which worked wonderfully. It could have integrated them better together, more
+intertwined and interacting, maybe.
 
 -->
 
@@ -179,6 +273,8 @@ biology.
 
 - Strong fundamentals, not to be neglected
 - There is always something to improve on for each chapter
+
+<!-- TODO: I still have some notes about that. Include them. -->
 
 ## Criticism
 Sometimes, it hits just the right level of abstraction, with deep references
@@ -244,6 +340,22 @@ details about Marxism and more. They were there, I just didn't understand them.
 > bitter.
 
 > In Paradise, everyone speaks the truth. That's what makes it Paradies.
+
+> _Memory is a tool_. Memory is the pasts guide to the future. If you remember
+> that something bad happened, and you can figure out why, then you can try to
+> avoid that bad thing happening again.
+
+> People think they think, but it's not true. It's mostly self-criticism that
+> passes for thinking. True thinking is rare [...]. It's difficult.
+
+> Freud had a point. He was, after all, a genius. You can tell that because
+> people still hate him.
+
+> The limitations of all our perceptions of things and selves manifest
+> themselves when something we can usually depend on in our simplified world
+> breaks down.
+
+> The past is not necessarily what it was, even though it has already been.
 
 > 
 
