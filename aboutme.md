@@ -16,6 +16,9 @@ Self-Improvement is part of my core being, more than a lot of other things.
 Enthusiasm to help and work with other people is probably second. And then
 there is a lot of interconnected ones.
 
+It would be awesome of you if you could help me improve by giving me anonymous
+feedback: [https://www.admonymous.co/fkarg](https://www.admonymous.co/fkarg).
+
 ### Personal Mission Statement
 After reading [The Seven Habits of Highly Effective People][7-habits], I
 created my personal mission statement. Here it is:
