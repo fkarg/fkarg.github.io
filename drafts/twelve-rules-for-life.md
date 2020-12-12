@@ -3,7 +3,7 @@ layout: post
 published: false
 title: 'Book: 12 Rules for Life'
 subtitle: an antidote to chaos
-cover-img: 'Todo: search for cover-image'
+cover-img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/12_Rules_for_Life_Front_Cover_%282018_first_edition%29.jpg/398px-12_Rules_for_Life_Front_Cover_%282018_first_edition%29.jpg'
 tags:
 - book
 ---
@@ -12,7 +12,7 @@ to the New York Times.
 
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
-I got the book in early january and read it in the latter half of april. 
+I got the book in early january and read it in the latter half of april.
 
 I recommend skipping to [content](#content) if you're not interested in details
 _why_ I bought it.
@@ -44,10 +44,43 @@ piqued, I bought the book.
 
 ---
 # Content
-## Part One
 **TLDR**; one or two sentences recollecting the most important takeaways
 
-- bulletpoints of some notes
+12 Rules for Life describes a consistent and sound framework on how to take
+responsibility for yourself, in even the worst kind of situations.
+
+- Rule 1: Stand up straight with your shoulders back
+- Rule 2: Treat yourself like you are someone you are responsible for helping
+- Rule 3: Make friends with people who want the best in you
+- Rule 4: Compare yourself who you were yesterday, not who someone else is today
+- Rule 5: Do not let your children do anything that makes you dislike them
+- Rule 6: Set your house in perfect order before you critizise the world
+- Rule 7: Pursue what is meaningful (not what is expedient)
+- Rule 8: Tell the truth - or, at least, don't lie
+- Rule 9: Assume that the person you are listening to might know something you don't
+- Rule 10: Be precise in your speech
+- Rule 11: Do not bother children when they are skateboarding
+- Rule 12: Pet a cat when you encounter one on the street
+
+The book does not only contain deeper descriptions of these rules, but also
+deeper context in both studies and philosophy surrounding them. While they
+appear to be 'common sense', many people do not follow them.
+For those not
+knowing _why_ they should follow them, Jordan does a good job at both
+explaining _why_ someone might want to follow them, and the profound
+implications for when they do. For each of them, it will improve improve the
+life of those following them, but they obviously work best when adhered to
+together.
+
+
+
+Overall:
+- extreme advocate for taking responsibility for yourself
+- is a basic framework for day-to-day interaction
+- provides stable framework covering the most basic parts, necessary to be
+  capable of taking on the 'worst case'
+- 'If everything else goes down, you can still do these things'
+
 
 
 <!--
@@ -57,8 +90,10 @@ but only about their existence, and how deeply they are rooted within our
 biology.
 
 - higher levels of serotonin signal higher status and better life
-    - from god knows where: study, leaders have more than twice the serotonin
-      their subordinates (actually responsibility?)
+    - I read a study about leaders having about twice the serotonin relative to
+      their subordinates
+    - personal speculation: might actually be related to responsibility one
+      has? might enable better and more decisive decision-making?
 - If nothing else, standing up straight with your shoulders back improves your
   perception of yourself, allowing you to actually improve your condition.
 
@@ -154,7 +189,7 @@ biology.
   lying. But living the truth gives your existence meaning. It allows you to
   gradually improve all kinds of areas in your life, by taking responsibility
   for them.
-- the sensible shelling point is not to tell any lies at all 
+- the sensible shelling point is not to tell any lies at all
   (since small lies can snowball fast)
 - when lies have ravaged in someones life, only hell follows
 
@@ -200,11 +235,11 @@ biology.
   win => few men in most university disciplines in 15 Years
 - Stable relationships decline, because fewer guys want to marry. Girls want to
   do more so (than, statistically, ever).
-- Most females in high-pressure careers bail out in their thirties, they just
-  want to marry and have kids. It's not men making them leave. They would want
-  to keep every talented individual. It's just that much fewer want to work
-  80h/week to be even moderately successful. It's the Market defining success,
-  certainly not the patriarchy.
+- Most woman in high-pressure careers bail out in their thirties, they just
+  want to marry and have kids. It's not men making them leave. Companies would
+  want to keep every talented individual. It's just that much fewer want to
+  work 80h/week to be even moderately successful. It's the Market defining
+  success, Certainly not the patriarchy.
 - Culture creation by only men is simply perverse, also because half of the
   population is female.
 - Both tampons and the pill were invented by Men. Certainly not to suppress
@@ -273,6 +308,28 @@ intertwined and interacting, maybe.
 
 - Strong fundamentals, not to be neglected
 - There is always something to improve on for each chapter
+
+It was claimed to be dangerous. I don't see that. Only in the sense that it
+colud be misrepresented, as it quite often is. And if we say that most people
+reading it will notice at least some of the true intent, then this book does
+more good than bad. Even more so when considering that most people actually
+want to understand his message, and not just have read the book to (mis)quote
+him. I think I haven't seen one person accurately quoting him, though it may be
+that I just forgot those that did. Anyway. Takeaways:
+
+As with most things, even though nothing is fundamentally new, it does a good
+job of connecting seemingly seperate things. Some of the more abstract parts
+deeply struck with me, while the others were, well, too abstract, and I was
+unable to follow. Even though I'd like to add some Rules myself (about
+continuous self-improvement, researching different disciplines), they provide a
+pretty stable foundation, if you don't have one yet. It has massive
+implications itself, understanding even half of them requires a lifetime
+already. It's certainly food for thought and well-written. but I can't fully
+figure out what's with these neo-marxists he blames about all kind of things. I
+don't really get that part. Would I recommend it to others? Yes, I enjoyed and
+benefited reading it, and I think most other people would too.
+
+
 
 <!-- TODO: I still have some notes about that. Include them. -->
 
@@ -357,7 +414,6 @@ details about Marxism and more. They were there, I just didn't understand them.
 
 > The past is not necessarily what it was, even though it has already been.
 
-> 
 
 
 <!--
@@ -397,3 +453,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 ---
 [books]: ../2019-09-12-books/
 [light-candle]: https://youtu.be/ukDEYRXoH2g?t=87
+[detailed]: https://www.nateliason.com/notes/12-rules-for-life-jordan-peterson
