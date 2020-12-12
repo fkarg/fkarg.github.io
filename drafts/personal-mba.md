@@ -7,25 +7,20 @@ cover-img: 'Todo: search for cover-image'
 tags:
 - book
 ---
-Short quote what the book is supposed to be
+Josh Kaufmanns international bestseller, which "takes you you on a worthwile
+tour of the key ideas in business", according to Seth Godin.
 
-TLDR of the review, and if I would recommend it to others.
+<!-- TLDR of the review, and if I would recommend it to others. -->
 
-Short description of where I got the book from and how I got interested in it,
-as well as when I read it. Reference other book reviews if applicable.
+<!-- Short description of where I got the book from and how I got interested in it,
+as well as when I read it. Reference other book reviews if applicable. -->
 
 * TOC
 {:toc}
 
 ---
 # Content
-## Part One
-**TLDR**; one or two sentences recollecting the most important takeaways
 
-- bulletpoints of some notes
-
-## Part Two
-## Part Three
 
 ---
 # Review
