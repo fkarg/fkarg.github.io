@@ -166,7 +166,7 @@ Slowly go through the [Incompletion Trigger List][gtd-triggers] and write down
 all Open Loops that come to mind.
 
 {: .box-warning}
-Don't forget to print the trigger list if you want to go offline when doing
+Don't forget to print the trigger list if you want to go offline for doing
 these exercises.
 
 
