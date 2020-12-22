@@ -7,12 +7,13 @@ cover-img: 'Todo: search for cover-image'
 tags:
 - book
 ---
-Short quote what the book is supposed to be
+Daniel H. Pink's 'book that will change how you think and transform how you
+live'.
 
-TLDR of the review, and if I would recommend it to others.
+<!-- TLDR of the review, and if I would recommend it to others. -->
 
-Short description of where I got the book from and how I got interested in it,
-as well as when I read it. Reference other book reviews if applicable.
+<!-- Short description of where I got the book from and how I got interested in it,
+as well as when I read it. Reference other book reviews if applicable. -->
 
 * TOC
 {:toc}
@@ -147,6 +148,9 @@ p 185 ##71 The Type I Reading List pls 5 ##12 Listen to the Gurus: Six Business 
 - [ ] Book is easily skimmable?
 - [ ] Misc, specific to book
 - [ ] Whom would I recommend reading this book?
+
+## How to Apply
+- [ ] Describe how to apply what I learned in this book
 
 ## Favourite Quotes
 

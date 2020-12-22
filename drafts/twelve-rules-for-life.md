@@ -330,6 +330,9 @@ don't really get that part. Would I recommend it to others? Yes, I enjoyed and
 benefited reading it, and I think most other people would too.
 
 
+## How to Apply
+- [ ] Describe how to apply what I learned in this book
+
 
 <!-- TODO: I still have some notes about that. Include them. -->
 

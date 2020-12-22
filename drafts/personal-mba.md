@@ -20,7 +20,11 @@ as well as when I read it. Reference other book reviews if applicable. -->
 
 ---
 # Content
-
+Josh Kaufmanns goal with this the book is to provide solid fundamentals about
+how businesses work. He starts out with a top-level overview, and explores the
+categories of value creation, marketing, sales, value delivery, finance, the
+human mind, working with yourself, working with others, understanding systems,
+analyzing systems and improving systems by dedicating a whole chapter to each.
 
 ---
 # Review
@@ -33,6 +37,8 @@ as well as when I read it. Reference other book reviews if applicable. -->
 - [ ] How could I have learned these concepts when not reading them in this book?
 - [ ] Did learning these concepts improve my life?
 
+- Absolute biggest takeaway: 'Mental Models'
+
 ## Criticism
 - [ ] Clearly structured?
 - [ ] Good Examples?
@@ -42,6 +48,9 @@ as well as when I read it. Reference other book reviews if applicable. -->
 - [ ] Book is easily skimmable?
 - [ ] Misc, specific to book
 - [ ] Whom would I recommend reading this book?
+
+## How to Apply
+- [ ] Describe how to apply what I learned in this book
 
 ## Favourite Quotes
 
@@ -81,3 +90,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
+[gears-understanding]: https://www.lesswrong.com/tag/gears-level
