@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: The Personal MBA'
 subtitle: master the art of business
-cover-img: 'Todo: search for cover-image'
+cover-img: 'https://personalmba.com/img/personalmba-cover-us.png'
 tags:
 - book
 ---
@@ -170,7 +170,7 @@ is supposed to be like, or a starting point on how to learn about it.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Publication Checklist:
 - [ ] Content
-    - [ ] Added cover-image
+    - [x] Added cover-image
     - [ ] the beginning of the post is clear and a good description
     - [ ] the beginning of each paragraph describes
           the information contained in the paragraph
