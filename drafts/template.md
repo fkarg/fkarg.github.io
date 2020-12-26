@@ -7,12 +7,12 @@ cover-img: 'Todo: search for cover-image'
 tags:
 - book
 ---
-Short quote what the book is supposed to be
+<!-- Short quote what the book is supposed to be -->
 
-TLDR of the review, and if I would recommend it to others.
+<!-- TLDR of the review, and if I would recommend it to others. -->
 
-Short description of where I got the book from and how I got interested in it,
-as well as when I read it. Reference other book reviews if applicable.
+<!-- Short description of where I got the book from and how I got interested in
+it, as well as when I read it. Reference other book reviews if applicable. -->
 
 * TOC
 {:toc}
@@ -32,11 +32,13 @@ as well as when I read it. Reference other book reviews if applicable.
 - [ ] Glad I read it?
 - [ ] Short verdict
 
+
 ## Main Takeaways
 - [ ] What are the biggest new mental models I created when reading this book?
 - [ ] What were the most significant concepts encountered and why?
 - [ ] How could I have learned these concepts when not reading them in this book?
 - [ ] Did learning these concepts improve my life?
+
 
 ## Criticism
 - [ ] Clearly structured?
@@ -48,10 +50,11 @@ as well as when I read it. Reference other book reviews if applicable.
 - [ ] Misc, specific to book
 - [ ] Whom would I recommend reading this book?
 
-## How to Apply
-- [ ] Describe how to apply what I learned in this book
 
 ## Favourite Quotes
+
+> Example quote
+
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
