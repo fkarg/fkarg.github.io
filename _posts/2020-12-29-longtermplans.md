@@ -1,20 +1,22 @@
 ---
 layout: post
 published: true
-title: 'Longtermplans: Goal Setting Workshop'
+title: 'Goal Setting Workshop'
 subtitle: how to set and achieve goals
 cover-img: 'https://alyjuma.com/wp-content/uploads/2016/10/lifepath.jpg'
 tags:
 - workshop
 ---
 This is the transcript of a pretty long workshop. It is among the most
-effective things I do every three months to keep me focused.
+effective things I do every few months to keep me focused.
 
 
 This is an abridged culmination of the most effective exercises I found over
 the last few years. It does by far not include everything I came across, not
 even everything effective I came across. It's large enough the way it is right
-now already, and I'd much prefer it to be smaller rather than larger.
+now already, and I'd much prefer it to be smaller rather than larger. 
+
+You can find a presentation (in German) [here][presentation].
 
 
 * TOC
@@ -891,3 +893,4 @@ General Process:
 [gtd-triggers]: https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf
 [weekly]: https://gettingthingsdone.com/wp-content/uploads/2014/10/Weekly_Review_Checklist.pdf
 [death-winning]: ../2020-10-12-goalboss/#death-by-winning
+[presentation]: https://github.com/fkarg/things-to-talk-about/blob/master/longtermplans/main_handout.pdf
