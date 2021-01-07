@@ -7,18 +7,24 @@ cover-img: 'Todo: search for cover-image'
 tags:
 - book
 ---
-Short quote what the book is supposed to be
+Robert Kiosakis book ''.<!-- Short quote what the book is supposed to be -->
 
-TLDR of the review, and if I would recommend it to others.
+<!-- TLDR of the review, and if I would recommend it to others. -->
 
-Short description of where I got the book from and how I got interested in it,
-as well as when I read it. Reference other book reviews if applicable.
+I received this book together with [The Personal MBA][personal-mba] as a
+birthday present and read it in early september.
+<!-- Short description of where I got the book from and how I got interested in
+it, as well as when I read it. Reference other book reviews if applicable. -->
 
 * TOC
 {:toc}
 
 ---
 # Content
+In this book, Robert Kiosaki tells the story about how he (allegedly, more
+about this later) learned abot money, with many important lessons being
+imparted while he was still young (starting when he was nine years old).
+
 ## Part One
 **TLDR**; one or two sentences recollecting the most important takeaways
 
@@ -89,3 +95,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
+[critic]: https://www.johntreed.com/blogs/john-t-reed-s-real-estate-investment-blog/61651011-john-t-reeds-analysis-of-robert-t-kiyosakis-book-rich-dad-poor-dad-part-1
