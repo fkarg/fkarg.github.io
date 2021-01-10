@@ -3,7 +3,7 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  comments_label             : "Leave a comment"
+  comments_label             : "Comments and Feedback are appreciated"
   comments_title             : "Comments"
   comment_form_info          : "Your email address will not be published or saved (only hashed). Required fields are marked"
   comment_form_comment_label : "Comment"
@@ -172,7 +172,7 @@ zh-HK:
 # German / Deutsch
 # ----------------
 de: &DEFAULT_DE
-  comments_label             : "Hinterlasse einen Kommentar"
+  comments_label             : "Kommentare und Feedback sind gern gesehen"
   comments_title             : "Kommentare"
   comment_form_info          : "Die E-Mail Adresse wird nicht veröffentlicht oder gespeichert (nur gehasht). Benötigte Felder sind markiert"
   comment_form_comment_label : "Kommentar"
