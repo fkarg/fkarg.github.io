@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: Rich Dad Poor Dad'
 subtitle: What the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not!
 cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569289490l/52037104._SX318_SY475_.jpg' <!--_ TODO: remove -->
