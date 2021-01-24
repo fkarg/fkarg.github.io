@@ -7,51 +7,68 @@ cover-img: 'Todo: search for cover-image'
 tags:
 - book
 ---
-Short quote what the book is supposed to be
+Review of Richard Feynmans autobiography, where 'anyone who can read it without
+laughing out loud is bad crazy', according to the Los Angeles Times Book Review.
 
-TLDR of the review, and if I would recommend it to others.
+This book quite clearly is a masterpiece, and I can only recommend everyone to
+read it.
 
-Short description of where I got the book from and how I got interested in it,
-as well as when I read it. Reference other book reviews if applicable.
+I received this book together with [Lean Startup][lean] to christmas some time
+ago. I read it over the course of last year (it was in my bedside table,
+separate from my other books).
 
 * TOC
 {:toc}
 
 ---
 # Content
-## Part One
-**TLDR**; one or two sentences recollecting the most important takeaways
+This book is an autobiography of Richard Feynman, a widely-known professor of
+physics and clear thinker. There are five parts:
+- Far from Rockaway to MIT
+- The Princeton Years
+- Feynman, the Bomb, and the Military
+- From Cornell to Caltech, With a Touch of Brazil
+- The World of One Physicist
 
-- bulletpoints of some notes
+Each part contains multiple stories with varying length, the shortest stories
+being only three pages in length. Still, each story and each part is in itself
+contained.
 
-## Part Two
-## Part Three
+Content-wise, they mostly show some aspects or quirks of how Feynman thought
+about and perceived the world. This includes his escapades during university
+just as well as with his numerous hobbies, among which are painting and playing
+bongos.
+
 
 ---
 # Review
-- [ ] Glad I read it?
-- [ ] Short verdict
+I'm very glad to have read it. It was very entertaining, and I learned some
+things as well. Recommended for everyone even slightly interested in physics or
+solid reasoning.
 
 ## Main Takeaways
-- [ ] What are the biggest new mental models I created when reading this book?
-- [ ] What were the most significant concepts encountered and why?
-- [ ] How could I have learned these concepts when not reading them in this book?
-- [ ] Did learning these concepts improve my life?
+The main thing I learned that whatever you do, there is no value in taking it
+absolutely serious. Also, don't be afraid to try out new things.
+
+While this book is not as content-heavy as other books I'm reading, I was still
+surprised by how much I was able to get out of it - not just the momentarily
+enjoyment while reading it. Within these stories are many of Feynmans Life
+Lessons, presented in a clearly structured yet funny manner.
+
 
 ## Criticism
-- [ ] Clearly structured?
-- [ ] Good Examples?
-- [ ] Clear Explanations?
-- [ ] Concise reasons why?
-- [ ] Is the advice actionable?
-- [ ] Book is easily skimmable?
-- [ ] Misc, specific to book
-- [ ] Whom would I recommend reading this book?
+There are probably a few bad things that could be said about this book, but
+honestly, I did not find any.
 
-## How to Apply
-- [ ] Describe how to apply what I learned in this book
+The stories were well contained, clearly structured and easy to follow. While
+the leisurely manner of writing was weird at first, I came to like it fast.
+
+I would recommend this book to anyone who is even in the slightest manner
+interested in structured thinking (Rationality, Physics, Maths, ...).
 
 ## Favourite Quotes
+No Quotes, as it is a 'leisurely' book, meaning I did not take notes while
+reading it.
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -89,3 +106,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
+[lean]: ../2020-09-11-lean-startup/
