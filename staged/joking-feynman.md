@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: Surely You're Joking, Mr. Feynman!'
 subtitle: adventures of a curious character
 cover-img: 'Todo: search for cover-image'
