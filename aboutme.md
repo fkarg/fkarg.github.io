@@ -62,7 +62,7 @@ delta][delta] I am a member of.
 Being a freelancer has its perks: you get to work at very interesting projects
 sometimes. Due to NDAs this list is necessarily incomplete. Things I've worked
 on in the past:
-- Consulting startups (I love to do these!)
+- Consulting for very-early-stage startups
 - Consulting a trade school in Karlsruhe about increasing the resilience of
   their digital infrastructure and systems in a team through [delta][delta]
 - Writing and maintaining a number of ansible roles
@@ -93,10 +93,10 @@ on in the past:
 
 You can find more of my projects on [github](https://github.com/fkarg),
 especially those I'm not being paid for. If you have something interesting,
-feel free to send me a mail. If it's something I haven't done before, chances
-are that I'm interested.
+feel free to contact me.
 
 
+<!--
 ### Programming languages
 Even though I'm familiar with languages like `Java` and `C++`, I prefer `Rust`,
 `Python`, and `Haskell`. I'm also familiar with `ansible` and a number of other
@@ -104,6 +104,7 @@ tools.
 
 My development environment depends on the specific language, but is mostly
 centered about my editor, `vim`.
+-->
 
 <!--
 ## Contact
