@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Book: Idea Makers'
 subtitle: Personal Perspectives on the Lives and Ideas of Some Notable People
-cover-img: 'http://compressed.photo.goodreads.com/books/1468669633l/30618260.jpg'
+cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468669633l/30618260.jpg'
 tags:
 - book
 ---
