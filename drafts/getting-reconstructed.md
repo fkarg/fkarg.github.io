@@ -91,7 +91,21 @@ Related:
 - Transhumanismus
 
 
-Footnote<sup>[1](#footnote1)</sup> among text.
+
+from: https://en.wikipedia.org/wiki/Teleportation_in_fiction
+
+Examples:
+- Transportation in Gantz (Manga/Anime/Movie)
+- Beaming in Star Trek
+- Portals in 'Portal' (according to [lore] explanation here)
+
+Non-Examples:
+- 'jumps' in Jumper
+- Travelling with the Tardis in Doctor Who
+- Wormholes in Interstellar
+- Apparation in Harry Potter
+
+
 
 ---
 **Footnotes**:
@@ -99,3 +113,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 <a name="footnote1">1</a>: Text from footnote1.
 
 The awesome title image was created by JingTan @JingChunTan666.
+
+
