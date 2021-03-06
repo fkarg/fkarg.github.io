@@ -12,17 +12,51 @@ tags:
 {:toc}
 
 ---
+
+
 Starting a Rationalist Meetup during Lockdown (LW Post)
 ===
 
+## Post-Meta (current phase, next steps, planning, ...)
+
+### Status: Phase 1; Speed
+(bad) content creation. Focus on creating a lot of content first, it will be distilled and improved later on.
+
+
+Notice: we have reached ~20% of maximum document size/length. I (Felix) have a local backup.
+
+Timestamp of last backup: 2021-03-06 23:09
+
+Did significant changes happen since the last backup: YES.
+
+### Next phases
+- content refinement
+    - try to reduce/distill everything
+        - remove everything that seems superfluous, taking up length without providing clarity
+        - is the sentence used meaning precisely what you intend? is it understood like this as well?
+    - checking for 
+        - clarity
+        - decent grammar
+        - logical constistency
+        - good ordering of paragraphs
+        - typos
+        - short and understandable sentences
+    - includes proofreading
+        - read over everything
+        - make it it fluently readable
+        - link where links should be
+
+
+
+---
 Authors: Felix Karg, crtltab, wilm
 
 
-This is a post about our experiences in starting a Rationalist Meetup during Lockdown. If you are not interested in our story, you might want to skip to the `Summary: things working well` or `Meta: probably relevant` sections instead.
+This is a post about our experiences in starting a Rationalist Meetup during Lockdown. If you are not interested in our situation specifically, you might want to skip ahead to the section: `Summary: things working well`.
 
-Warning: we have reached 10% of maximum document size/length.
 
 ## Initial Situation
+<!-- TODO: link LW profiles! -->
 `wilm` moves to Karlsruhe, and hits up `Felix Karg` through a shared friend from the Berlin LW Group. A first meeting is scheduled for the end of November, as there is no LW group yet (there is an inactive EA group though). Karlsruhe (as Germany is in general) is in Lockdown, and the situation doesn't seem to be changing any time soon. So, we'll do it online. We had no idea what will happen.
 
 <!--
@@ -34,21 +68,23 @@ Warning: we have reached 10% of maximum document size/length.
     - => Online \o/
 -->
 
+---
+
 ## Creating a new Meetup Group
 ### General
-We created a post on LessWrong, not knowing what will happen. People showed up. So we did the same again next week. More people showed up.
+We created a post on LessWrong, not knowing what will happen. People showed up. So we did the same again next week. More people showed up. This has continued for the last three months.
 
 The first thing we did on every meetup was an introductory round, since there were always new people. On our second Meeting we decided that we wanted to do the Hammertime sequence. So the next ~30min we talked about our experiences with the last 'day', or 'days', if we wanted to do multiple.
 
-Something else we did quite a bit in the beginning was 'Opinion-Speed-Dating', we had a list of topics to talk about, threw 2-3 people in a breakout session with 10-15min duration and got to know each other decently well.
+Something else we did quite a bit in the beginning was 'Opinion-Speed-Dating', we had a list of topics to talk about, threw 2-3 people in a breakout session with 10-15min duration and got to know each other decently well while discussing a multitude of fascinating topics.
 
-Other discussion rounds we had include topics like:
+Other topics or discussion rounds we had include things like:
 - HPMOR
-- How we do our Weekly review/planning
+- How we do our weekly review and planning
 - book recommendations
 - babble challenge
 - standing desks
-- stocks
+- stocks, and personal investment strategies
 - other (misc)
 - ...
 
@@ -87,11 +123,17 @@ Originally, the meeting was scheduled until 20:30. It slowly extended to 21:00, 
         - Signal-Gruppe
 -->
 
-### Organisatorical
+### Organisational effort
+There is less to do organisationally than maybe expected. Writing a post announcing the meetup takes about 10mins, and the topics are being scheduled at the last meetup or get decided spontaneously.
+
+<!--
+
 - LW-Posts
 - Infrastructure
     - Pads:
     - Signal-Group
+-->
+
 
 <!--
 ### Organisation
@@ -131,15 +173,19 @@ We have a couple of hedgedoc (formerly CodMD) pads every member can access:
 Links are provided during a meetup, when it is being talked about, or in the Coordination Group.
 
 
-## Discarded Structures
+---
+## Discarded Infrastructure
+Of course, not everything you try at first works out. Here are two examples of things we tried initially, but switched to something different later on.
+
 ### Public Jitsi
 The first few meetups were on the public Jitsi instance. It was difficult to organize, but we were paranoid about it.
 
 This was one one hand complicated to organise, because we rotated the Meeting id and were not using the same Room every time. On the other hand, quality was not so good, proberply not beeing able to host so many members. Also not having our meetups on a public platform is more comftorable
 
 ### Public Telegram Group
-We set up a Telegram group and postet the link on the Community Page, this (most likley) caused bots to join and advertise esoteric crypto currencies, among other things. This, and a meta-discussion resulted in us migrating to a closed `Signal` group instead.
+We set up a Telegram group and postet the invite-link publicly on LessWrong, specifically in an event. This was most likley the what caused bots to join and advertise esoteric crypto currencies, among other things. This, and a meta-discussion resulted in us migrating to a closed `Signal` group instead.
 
+Key Takeaway: Even on LW, don't publicly post invite links to private groups - you're asking for spam.
 <!--
 ## Iterating
 We iterated/experimented with a few things. This is a collection of a few things we tried.
@@ -150,27 +196,87 @@ We iterated/experimented with a few things. This is a collection of a few things
 ## Summary: Things working well
 
 ### Posts on LessWrong
+Almost everyone who joined found us through a weekly post. Some people were invited personally as well, but even among those, most were invited from members who joined us by reading the post first.
+
+It worked so well in fact, that we decided to only make a post about every other meetup. This way, we hope to be able to keep some of a 'private' atmosphere to discuss personal topics.
+<!-- needs rewrite, but keep core idea -->
 
 ### Basic Topic: Hammertime
+We decided on our second or third meeting, that we wanted to do Hammertime, and keep us accountable to each other while doing so. The idea was to do one or two Hammertime 'days' every week, and talk about experiences with them in the next meetup.
+
+Our cadence was quite high initially, but slowed down with more people. This is a tradeoff I'm willing to make, if it means that everyone continues to participate.
+
+
 
 ### Breakout-Sessions
+With few people, a very comfortable atmosphere allowing for honest exchange and topic digression presented itself naturally, but that got harder with more people attending. An easy solution for this was to create Breakout-Sessions with 2-4 People, depending on what they are supposed to be talking about. This enables a similar setting, but also allows us to get to know more people over time.
+
+### Friendly atmosphere, allowing for honesty and vulnerability
+We're not sure _how_ this happened, but having a friendly atmosphere allowing everyone to open up personally is a huge asset. We notice that this atmosphere sometimes needs to 're-create' itself, as it's not always present when the meetup starts. Creation is easier when less people are present (as would be the case in Breakout sessions), and effects tend to spill over to the 'big' meeting even after breakout sessions have concluded.
+
+This allows for sharing of very personal problems and subsequent solving or at least iteration on them from everyone present. Important: beware of other-optimizing.
+
 
 ### 'Talks'
+A different solution to the digital 'big-group-discussion'-problem is to have primarily one person talking. Forms include talking from personal experience, talks with presentations, and workshops.
 
-### Friendly atmosphere, allowing for vulnerability
+Long and intensive Q&A sessions can be very valuable for everyone present, but they can easily degregade when someone feels attacked or put on the spot. Also, make sure to stay on topic.
+
 
 ### Camera
-Even though we don't have a policy for this, everyone prefers to interact with each other via camera.
+Something that surely helps to create the personal atmosphere is that we don't communicate via speech only. Video as additional communication bandwidth allows for a lot more nuanced interactions, as it allows watching how others react, even just for a second, which reduces a lot of ambiguity.
+
+This is not an explicit policy, but somehow happened automatically. I also have the feeling that people in general like to use cameras for interaction more than they ever did before corona.
+
 
 ### Hand-Signs
+When your group hits a certain point (~8 people or more), receiving input from everyone becomes a communication challenge and can easily take a long time. In-person meetings sometimes have rules for a number of hand-signs, signaling a number of different things: 
+- 'I want to talk'
+- 'I have an objection to this'
+- 'This is wrong, I can tell you how'
+- 'Applause'
+- and many more (link!)
 
-### 'Experienced' Rationalists
+Not all of them are being used to the same degree of course, the one used most often is probably the 'temperature probe': receiving immediate feedback on how people feel about a certain proposition.
+
+
+### Having 'Experienced' Rationalists
+-> change to: "Having 'community' experience"
+(is being referenced in first paragraph, so needs to be adjusted accordingly)
+
+It's hard to say exactly what would define an 'experienced' rationalist, though Yudkowski or Zvi or Scott Alexander or .... would constitute such. But, having people like that is probably less important than having people who havea experience with _other_ rationalist meetups - how they are organized, and what works for them.
+
+(link!) Sure, 'how to organize a LW meetup' is a great guide - and one we consulted frequently -  but having seen an implementation in person as a reference is worth a lot.
+
+And, luckily, we had people with 'community' experience. `wilm` experienced how the Berlin community organized itself, `Felix` visited them before as well, and both of them as well as  others attended previous meetups at Congress (actually, `Felix` created his LW account to announce a Congress Meetup) or the European Community Weekend regularly held in Berlin.
+
+Anyways, having people who had community experience was increadibly helpful for initial formation and later iteration
+
 
 ### Make it noticable, that your meetup might not be in English
 
+TODO: rewrite considerably, as it could be easily misunderstood (esp. those who dropped by)
+
+While always engaging and very interesting, we had a number of meetups where non-local people showed up. This is not a problem - not all of our active members are from the immedite vicinity, and we welcome everyone who is friendly and up for an exchange - but we didn't expect people from all around the world to show up.
+
+When they did show up, we simply switched to English. Still: most who showed up like that expected that it would be in english. We haven't had someone like that showing up since adding '(Germany)' after the city name a while ago.
+
+(Intention: _maybe_ you should be able to speak german for that meetup)
+
+
 ### Allow topic digression
 <!-- abschweifen -->
+Something that I/(we?) believe most of us have found very valuable is the ease with which we can digress to other topics. Even when a topic is specified, it's not rare to stray to another - sometimes related, sometimes not - topic for a few minutes before continuing the original discussion.
 
+These digressions where mostly started by someone asking a question about a personal challenge related to the topic, but not 'completely' related. Sometimes, it's also someone wanting to share something closely related, and digression happens from there with others sharing other information.
+
+These very valuable interventions happen less in larger groups, for a number of reasons:
+- it's not given that everyone is interested or wants to participate in a topic digression
+- no one wants to take up a lot of 'space' which would inevitably result in others not being able to do the same
+- it's harder to keep track about everyone, which limits the energy available to keep track of  fast switching between arguments and topics
+- others?
+
+What we noticed though, is that having space for these kinds of digressions is what's enabling the previously mentioned 'friendly' and open atmosphere in the first place. We noticed that when we had a meetup with only four people after having had ~10 during the last few. We digressed a lot. And it was absolutely worth it, every time - it was engaging, everyone learned something, everyone had fun, everyone participated. In larger groups, this is simply not possible.
 
 <!--
 - was uns aufgefallen ist:
@@ -200,18 +306,54 @@ Even though we don't have a policy for this, everyone prefers to interact with e
     - möglichkeit für abschweifen geben
 
 -->
-
+---
 ## Ideas for the future
 
+These are things we plan to try at some point in the future, some closer and some further away. If you have any experience with them, or how they worked out in your group/meetup, feel free to share that information.
+
+
 ### Gather.Town
+While probably not an improvement for talks or big-round discussions, it's probably a good organic alternative to breakout sessions. `ctrltab` managed to get us access to it, but we haven't tried it yet.
+
 
 ### Meeting in Person
 
+Well, this probably goes without saying but we would love to meet up in person once this is a reasonable alternative. We haven't thought about this in detail (yet).
+
+
 ### Non-Public Meetups
+This is something we are currently experimenting with: announcing not every meetup on LW. 'Onboarding' (an introduction round, explaining hammertime or other current topics, and other stuff) is something we surely like doing, but having more 'new' members than experienced ones can make for a very ... interesting (not at all similar to previous ones) meetup. It's also hard to share very personal information when there is always someone new and unknown present.
+
 
 ### Better Scaling
+We would love to be able to welcome a lot of new people, but we don't know how well our current setup would scale. The digital infrastructure is unlikely to be the problem, but it'll be very difficult to get everyone to coordinate properly. It's also more difficult to properly integrate everyone.
+
+Discussions get painful with a lot of people. We don't have 'talking queues' or any form of heavy moderation, but it's probably inevitable should we continue to grow leaps and bounds.
+
+Continuing to grow also increases the chance to encounter someone with adversary intentions (for whatever reasons), and we are not prepared for that, at all.
 
 ### Own Infrastructure
+
+Something we thought about for some time was having some forms of own infrastructure; primarily a wiki and pads. Our current pads (HedgeDoc) are on the publicly hosted instance, and 'security' happens by not sharing the pad-links publicly - everyone could edit them.
+
+Having our own infrastructure and especially something like 'backups' as well as access control (at least to writing), it would ease concerns about adversaries as well. (Well, maybe we are just safety-concerned as we are CS people with a healthy dose of paranoia. We'll never know)
+
+
+### Hammertime Integration of New People
+
+Honestly, this is probably one of our hardest problems. While a clear path to working on hammertime is great for cohesion with current participants, it's hard to integrate new ones. It's easy to say 'sure, I'll just do the first five days until next week', but we are at day 13 now, it is getting less and less feasible.
+
+
+### What to do when Hammertime is over?
+
+Hammertime is one of our basic 'pillars', and losing it will probably result in some form of change for our meetup. We could just iterate and re-start from day 1 (probably especially useful for those having joined sometime inbetween), but it's not clear that this is better than not doing it.
+
+
+### Getting enough Content
+
+This is not an immediate problem. 'Talks' have not fully established themselves yet, but I believe it will only be a matter of time.
+
+We have a list of discussion ideas, and I don't think they will be exhausted anytime soon - in fact, the list is getting longer rather than shorter.
 
 <!--
 - Ideen für die Zukunft
@@ -227,18 +369,38 @@ Even though we don't have a policy for this, everyone prefers to interact with e
 
 -->
 
+---
 
 ## Meta: probably relevant
 
 ### Composition
+TODO: Extend
+
+For a long time, everyone was related to CS in some way
 
 ### Setup
+TODO: Extend
+
+Most people use Neo, or other non-standard Keyboard layouts
+
+<!-- its not most -->
 
 ### HPMOR-fandom
+Most people either came to LW through HPMOR or now thoroughly enjoy reading/listening to it. We had, in fact, a number of HPMOR discussions already, and cut others short, trying to avoid spoilers for others.
+
+Being aware of, and at least having started reading/listening (and well, having started fancying) HPMOR has become a form of 'shared culture'
 
 ### LW-Books
+Something similar has happened with the LW Books:
 
-### Inviting others
+Most people got the LW books, and so discussions about their topics (Babble & Prune) occur spontaneously.
+
+Still, I expect much more of this to happen in the future, since most have not finished reading them as of yet.
+
+### 
+
+### Inviting others (CFAR-Instructor)
+TODO: ask Anne if we can/should mention/link her. Maybe just interesting as a general point, and the actual person is not 'as' relevant? Maybe we could also get others to come by and hold talks about stuff, that would be awesome
 
 ### Don't talk too much about Meta
 
@@ -268,64 +430,8 @@ Even if Corona is no longer a relevant topic, it might just be a good idea to cr
 Our recommendation would be: If you live in a city which doesn't have a Rationalists Group yet just create a Post on the Community Page informing locals that you are there and you might be suprissed how many will join.
 
 
-
-Notes (unchanged)
-===
-- ausgangslage
-    - kein LW meetup in KA
-    - Lockdown
-    - wird sich absehbar nicht ändern
-    - => Online \o/
-- was wir gemacht haben
-    - Organisation
-        - Vorbereitung
-            - LW-Post(s)
-            - Leuten bescheid sagen
-        - Während dem Treffen
-            - Begriffe erklären
-        - Verworfenes
-            - Jitsi
-            - Telegram
-    - Infrastruktur
-        - BBB
-        - Pads: Ideensammlung Treffen, Bücher, Diskussionsthemen
-        - Signal-Gruppe
-- was uns aufgefallen ist:
-    - was hat gut geklappt
-        - Grundsätzliches Thema: Hammertime
-        - Breakout-Räume
-        - Pads
-        - 'Vorträge' (Anne zu Murphyjitsu)
-        - Babbel-Challenge
-        - Diskussionen in kleinen Räumen
-            - Opinion-Speed-Dating
-            - Misc
-        - Vertrauliche Atmosphäre, um auch privates preiszugeben
-    - themen
-    - worauf sollte man achten / probleme
-        - Meta-degeneration
-        - Moderation
-    - sonstige tipps?
-        - Kamera an
-        - möglichkeit für abschweifen geben
-- Meta
-    - mostly computer scientists
-    - HPMOR-fandom is spreading infectiously
-    - Very similar setups: Neo-layout, standing tables
-    - Most received the LW books, discussion is great
-    - Anne einladen war eine gute idee
-    - Diskussionen in großen 'räumen' sind anstrengend und selten zielführend
-    - Handzeichen sind gut für schnelle wortlose kommunikation
-    - neue leute kommen zufällig dazu, wenn man LW-posts macht
-        - auch leute aus woher immer kommen zufällig dazu
-        - es wird angenommen, dass das Meetup auf Englisch ist
-        - wenn man einen hinweis auf das Land des meetups hinzufügt, steigt die wsk, dass neu dazutreffende die lokale Sprache können
-- Ideen für die Zukunft
-    - Gather.town
-    - persönliche Treffen
-    - nicht jedes mal 'neue'
-    - struktur 'skalierbar' machen
-[- fazit ]
+---
+Please share any advice or other relevant experiences you may have.
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
