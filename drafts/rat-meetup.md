@@ -23,11 +23,13 @@ Starting a Rationalist Meetup during Lockdown (LW Post)
 (bad) content creation. Focus on creating a lot of content first, it will be distilled and improved later on.
 
 
-Notice: we have reached ~20% of maximum document size/length. I (Felix) have a local backup.
+Notice: we have reached ~20% of maximum document size/length. I (Felix) have a local backup. 
+
+We are at ~3.5k words currently, which is a not-short but not exactly long post either. Actually, around 4k words is probably the ideal length for LW.
 
 Timestamp of last backup: 2021-03-06 23:09
 
-Did significant changes happen since the last backup: YES.
+Did significant changes happen since the last backup: surely.
 
 ### Next phases
 - content refinement
@@ -57,7 +59,9 @@ This is a post about our experiences in starting a Rationalist Meetup during Loc
 
 ## Initial Situation
 <!-- TODO: link LW profiles! -->
-`wilm` moves to Karlsruhe, and hits up `Felix Karg` through a shared friend from the Berlin LW Group. A first meeting is scheduled for the end of November, as there is no LW group yet (there is an inactive EA group though). Karlsruhe (as Germany is in general) is in Lockdown, and the situation doesn't seem to be changing any time soon. So, we'll do it online. We had no idea what will happen.
+`wilm` moves to Karlsruhe, and hits up `Felix Karg` through a shared friend from the Berlin LW Group. A first meeting is scheduled for the end of November, as there is no LW group yet (there is an inactive EA group though). Karlsruhe (as Germany is in general) is in Lockdown, and the situation doesn't seem to be changing any time soon.
+
+So, we'll do it online. We had no idea what will happen.
 
 <!--
 - ausgangslage
@@ -72,11 +76,22 @@ This is a post about our experiences in starting a Rationalist Meetup during Loc
 
 ## Creating a new Meetup Group
 ### General
-We created a post on LessWrong, not knowing what will happen. People showed up. So we did the same again next week. More people showed up. This has continued for the last three months.
+We created a post <!-- link --> on LessWrong, not knowing what will happen. People showed up. So we did the same again next week. More people showed up. This has continued for the last three months.
 
-The first thing we did on every meetup was an introductory round, since there were always new people. On our second Meeting we decided that we wanted to do the Hammertime sequence. So the next ~30min we talked about our experiences with the last 'day', or 'days', if we wanted to do multiple.
+The schedule / content of our meetings evolved over time, but also had a few constants.
+As new people showed up almost every time, we usually started with an introductory round, in which everyone briefly shared their background.
+On our second Meeting we decided that we wanted to do the Hammertime sequence together.
+This meant that in the next roughly 30 minutes, we talked about our experences with the last 'day', or 'days', if we wanted to do multiple.
 
-Something else we did quite a bit in the beginning was 'Opinion-Speed-Dating', we had a list of topics to talk about, threw 2-3 people in a breakout session with 10-15min duration and got to know each other decently well while discussing a multitude of fascinating topics.
+Usually we schedule one or two other topics.
+Sometimes, these were random things that came up during our conversations and discussions, like techniques and tools for productivity and time management, HPMOR, or even alternative keyboard layouts.
+Other times, we purposefully scheduled sessions that were designed to get to know each other, or in which we practiced rationality techniques.
+For instance, we often did something we called 'Opinion-Speed-Dating'.
+For this, we split into groups of 2-3 people and picked a conversation topic from a curated list of topics designed to favor personal or philosophical discussions (example topics: TODO).
+After 10 to 15 min we came back together and shared the most interesting thoughts and ideas from the sub-groups.
+This worked quite well as a way to get to know each other and also is a fun activity on its own. 
+
+<!--Something else we did quite a bit in the beginning was 'Opinion-Speed-Dating', we had a list of topics to talk about, threw 2-3 people in a breakout session with 10-15min duration and got to know each other decently well while discussing a multitude of fascinating topics.-->
 
 Other topics or discussion rounds we had include things like:
 - HPMOR
@@ -90,6 +105,7 @@ Other topics or discussion rounds we had include things like:
 
 
 ### Meetup Schedule
+
 Our weekly schedule looks something like this (times are approximate):
 - 19:00 - 19:10 People slowly coming in and welcoming each other
 - 19:10 - 19:20 Introductions (if someone new was present, which was almost always the case)
@@ -162,7 +178,7 @@ We also have a Signal group with most members, which we use for coordination bet
 Everyone showing up to a meetup is invited.
 
 #### Pads
-We have a couple of hedgedoc (formerly CodMD) pads every member can access:
+We have a couple of hedgedoc (formerly CodMD, formerly HackMD) pads every member can access:
 - Ideas for future meetups (mostly discussion topics)
 - History of recent meetup topics
 - Book recommendations
@@ -180,12 +196,12 @@ Of course, not everything you try at first works out. Here are two examples of t
 ### Public Jitsi
 The first few meetups were on the public Jitsi instance. It was difficult to organize, but we were paranoid about it.
 
-This was one one hand complicated to organise, because we rotated the Meeting id and were not using the same Room every time. On the other hand, quality was not so good, proberply not beeing able to host so many members. Also not having our meetups on a public platform is more comftorable
+This was on one hand complicated to organise, because we rotated the Meeting id and were not using the same Room every time. On the other hand, quality was not so good, proberply not beeing able to host so many members. Also not having our meetups on a public platform is more comftorable
 
 ### Public Telegram Group
-We set up a Telegram group and postet the invite-link publicly on LessWrong, specifically in an event. This was most likley the what caused bots to join and advertise esoteric crypto currencies, among other things. This, and a meta-discussion resulted in us migrating to a closed `Signal` group instead.
+We set up a Telegram group and posted the invite-link publicly on LessWrong, specifically in an event. This was most likely the what caused bots to join and advertise esoteric crypto currencies, among other things. This, and a meta-discussion resulted in us migrating to a closed `Signal` group instead.
 
-Key Takeaway: Even on LW, don't publicly post invite links to private groups - you're asking for spam.
+Key Takeaway: Even on LW, don't publicly post invite links to private groups on popular messengers - you're asking for spam.
 <!--
 ## Iterating
 We iterated/experimented with a few things. This is a collection of a few things we tried.
@@ -226,7 +242,7 @@ Long and intensive Q&A sessions can be very valuable for everyone present, but t
 ### Camera
 Something that surely helps to create the personal atmosphere is that we don't communicate via speech only. Video as additional communication bandwidth allows for a lot more nuanced interactions, as it allows watching how others react, even just for a second, which reduces a lot of ambiguity.
 
-This is not an explicit policy, but somehow happened automatically. I also have the feeling that people in general like to use cameras for interaction more than they ever did before corona.
+This is not an explicit policy, but somehow happened automatically. I also have the feeling that people in general like to use cameras for interaction more than they ever did before the Corona pandemic.
 
 
 ### Hand-Signs
@@ -246,11 +262,11 @@ Not all of them are being used to the same degree of course, the one used most o
 
 It's hard to say exactly what would define an 'experienced' rationalist, though Yudkowski or Zvi or Scott Alexander or .... would constitute such. But, having people like that is probably less important than having people who havea experience with _other_ rationalist meetups - how they are organized, and what works for them.
 
-(link!) Sure, 'how to organize a LW meetup' is a great guide - and one we consulted frequently -  but having seen an implementation in person as a reference is worth a lot.
+(link!) Surely, 'how to organize a LW meetup' is a great guide - and one we consulted frequently -  but having seen an implementation in person as a reference is worth a lot.
 
 And, luckily, we had people with 'community' experience. `wilm` experienced how the Berlin community organized itself, `Felix` visited them before as well, and both of them as well as  others attended previous meetups at Congress (actually, `Felix` created his LW account to announce a Congress Meetup) or the European Community Weekend regularly held in Berlin.
 
-Anyways, having people who had community experience was increadibly helpful for initial formation and later iteration
+Anyways, having people who had community experience was incredibly helpful for initial formation and later iteration
 
 
 ### Make it noticable, that your meetup might not be in English
@@ -262,6 +278,7 @@ While always engaging and very interesting, we had a number of meetups where non
 When they did show up, we simply switched to English. Still: most who showed up like that expected that it would be in english. We haven't had someone like that showing up since adding '(Germany)' after the city name a while ago.
 
 (Intention: _maybe_ you should be able to speak german for that meetup)
+<!-- marcus: in berlin war der default tatsächlich englisch und ich fand das auch ganz cool eigentlich. falls wir mal nicht deutschsprachige teilnehmer aus der karlsruher gegend dabei haben sollten wir die imo integrieren (evtl nachdem wir unsere interessen darüber -->
 
 
 ### Allow topic digression
@@ -330,7 +347,7 @@ We would love to be able to welcome a lot of new people, but we don't know how w
 
 Discussions get painful with a lot of people. We don't have 'talking queues' or any form of heavy moderation, but it's probably inevitable should we continue to grow leaps and bounds.
 
-Continuing to grow also increases the chance to encounter someone with adversary intentions (for whatever reasons), and we are not prepared for that, at all.
+Continuing to grow also increases the chance to encounter someone with adversary intentions (for whatever reasons) <!-- or incompatible goals / preferences --> , and we are not prepared for that, at all.
 
 ### Own Infrastructure
 
@@ -352,6 +369,7 @@ Hammertime is one of our basic 'pillars', and losing it will probably result in 
 ### Getting enough Content
 
 This is not an immediate problem. 'Talks' have not fully established themselves yet, but I believe it will only be a matter of time.
+<!-- are talks even necessary? -->
 
 We have a list of discussion ideas, and I don't think they will be exhausted anytime soon - in fact, the list is getting longer rather than shorter.
 
@@ -373,10 +391,20 @@ We have a list of discussion ideas, and I don't think they will be exhausted any
 
 ## Meta: probably relevant
 
-### Composition
+### Diversity
 TODO: Extend
 
-For a long time, everyone was related to CS in some way
+One of the goals of our meetup was to establish a local community that allows rationalists and adjacent interested people to meet and connect with like-minded individuals.
+Naturally, in order to achieve this, we strive towards being open and diverse in order to not exclude anyone.
+
+Unfortunately, we did not to become as diverse as we had hoped.
+More accurately, we failed badly, reaching a size of almost ten regular attendees that were all associated with the same computer science department.
+Over time, this improved a bit, but our group is still embarrassingly homogeneous, with a strong over-representation of male computer science students of German descent.
+
+While it is to be expected that a LessWrong meetup group attracts certain people more than others, the decomposition of our current meetup is still less diverse than it could be.
+This is probably a problem as it might make new attendees feel uncomfortable if they do not match the main demographic, leading to a potential feedback loop.
+
+If you have experience with similar issues or even know of possible solutions for this, please let us know.
 
 ### Setup
 TODO: Extend
@@ -386,14 +414,14 @@ Most people use Neo, or other non-standard Keyboard layouts
 <!-- its not most -->
 
 ### HPMOR-fandom
-Most people either came to LW through HPMOR or now thoroughly enjoy reading/listening to it. We had, in fact, a number of HPMOR discussions already, and cut others short, trying to avoid spoilers for others.
+Most people either came to LW through HPMOR or ar now thoroughly enjoy reading/listening to it after being introduced to it at the meetup. We had, in fact, a number of HPMOR discussions already, and cut others short, trying to avoid spoilers for others.
 
 Being aware of, and at least having started reading/listening (and well, having started fancying) HPMOR has become a form of 'shared culture'
 
 ### LW-Books
 Something similar has happened with the LW Books:
 
-Most people got the LW books, and so discussions about their topics (Babble & Prune) occur spontaneously.
+Most people got the LW books, and so discussions about their topics (e.g., Babble & Prune) occur spontaneously.
 
 Still, I expect much more of this to happen in the future, since most have not finished reading them as of yet.
 
@@ -432,6 +460,7 @@ Our recommendation would be: If you live in a city which doesn't have a Rational
 
 ---
 Please share any advice or other relevant experiences you may have.
+
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
