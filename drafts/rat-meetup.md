@@ -13,7 +13,6 @@ tags:
 
 ---
 
-
 Starting a Rationalist Meetup during Lockdown (LW Post)
 ===
 
@@ -23,11 +22,11 @@ Starting a Rationalist Meetup during Lockdown (LW Post)
 (bad) content creation. Focus on creating a lot of content first, it will be distilled and improved later on.
 
 
-Notice: we have reached ~20% of maximum document size/length. I (Felix) have a local backup. 
+Notice: we have reached ~27% of maximum document size/length. I (Felix) have a local backup. 
 
 We are at ~3.5k words currently, which is a not-short but not exactly long post either. Actually, around 4k words is probably the ideal length for LW.
 
-Timestamp of last backup: 2021-03-06 23:09
+Timestamp of last backup: 2021-03-08 23:01
 
 Did significant changes happen since the last backup: surely.
 
@@ -207,7 +206,7 @@ Key Takeaway: Even on LW, don't publicly post invite links to private groups on 
 We iterated/experimented with a few things. This is a collection of a few things we tried.
 -->
 
-
+---
 
 ## Summary: Things working well
 
@@ -269,7 +268,7 @@ And, luckily, we had people with 'community' experience. `wilm` experienced how 
 Anyways, having people who had community experience was incredibly helpful for initial formation and later iteration
 
 
-### Make it noticable, that your meetup might not be in English
+### Make it noticable, if your meetup might not be in English
 
 TODO: rewrite considerably, as it could be easily misunderstood (esp. those who dropped by)
 
@@ -392,8 +391,6 @@ We have a list of discussion ideas, and I don't think they will be exhausted any
 ## Meta: probably relevant
 
 ### Diversity
-TODO: Extend
-
 One of the goals of our meetup was to establish a local community that allows rationalists and adjacent interested people to meet and connect with like-minded individuals.
 Naturally, in order to achieve this, we strive towards being open and diverse in order to not exclude anyone.
 
@@ -406,31 +403,52 @@ This is probably a problem as it might make new attendees feel uncomfortable if 
 
 If you have experience with similar issues or even know of possible solutions for this, please let us know.
 
+---
+<!-- with Felix' suggestions -->
+One of the goals of our meetup was to establish a local community that allows rationalists and adjacent interested people to meet and connect with like-minded individuals and talk about the art of rationality. For this, having a variety of different viewpoints is very valuable.
+
+We did not have this luxury for some time. When we reached the size of about ten regular attendees, all of us were associated with the same faculty - computer science. We had students of varying semesters, graduates and postgraduates, but we were all associated with computer science. In short: our views did not differ about most things, and we had a number of topics thought through for ourselves. This allowed for much more in-depth technical discussions - sometimes even far out of our areas of expertise.
+
+This hasonly  changed recently, with a number of new people - not associated with computer science - joining us.
+
+While it is to be expected that a LessWrong meetup group attracts certain groups more than others, listening to a broader range of voices is probably beneficial for all of us.
+
+Still, this is something to watch out for, as new attendees might feel uncomfortable if they don't have CS knowledge and technical discussons occur frequently.
+
+If you have experience with similar sitations, feel free to share them.
+
 ### Setup
-TODO: Extend
+We did not talk about personal computer setups for quite some time, but when we did, we noticed that many of shared a number of aspects.
 
-Most people use Neo, or other non-standard Keyboard layouts
+Many of used non-standard keyboard layouts, most of whom used Neo2 (which is optimized for German/English, and especially the positioning of special characters makes programming so much easier). Linux distributions varied greatly, but no one used Windows. Usage of tiling Window Managers (i3, sway, xmonad) was also overrepresented (Or at least, based on our experience).
 
-<!-- its not most -->
 
 ### HPMOR-fandom
 Most people either came to LW through HPMOR or ar now thoroughly enjoy reading/listening to it after being introduced to it at the meetup. We had, in fact, a number of HPMOR discussions already, and cut others short, trying to avoid spoilers for others.
 
-Being aware of, and at least having started reading/listening (and well, having started fancying) HPMOR has become a form of 'shared culture'
+Being aware of, and at least having started reading/listening (and well, having started fancying) HPMOR has become a form of 'shared culture'.
 
 ### LW-Books
 Something similar has happened with the LW Books:
 
-Most people got the LW books, and so discussions about their topics (e.g., Babble & Prune) occur spontaneously.
+Most people got their set a few weeks ago, and so discussions about their topics (e.g., Babble & Prune) occur spontaneously.
 
 Still, I expect much more of this to happen in the future, since most have not finished reading them as of yet.
 
-### 
-
+<!--
 ### Inviting others (CFAR-Instructor)
 TODO: ask Anne if we can/should mention/link her. Maybe just interesting as a general point, and the actual person is not 'as' relevant? Maybe we could also get others to come by and hold talks about stuff, that would be awesome
+-->
 
 ### Don't talk too much about Meta
+We had a point earlier to allow for digressions. But you shouldn't let them get out of hand either.
+
+<!-- Most of Rationality and LessWrong specifically is about concepts with varying levels of abstraction. It's easy to lose track of what the object-level is right now and start an avalanche of another meta-discussion instead. Asking for 'Why' and trying to understand everything as models and gears is one of the absolute strengths of rationalists. It can also be a weakness, if you don't actually make progress on the intended topic instead. -->
+
+If necessary (and they absolutely are) have meta-discussions about the  structure of you meetup. This includes frequency of LW-posts (every meetup?) as well as general structure and topics. Ideally you keep the voting separate from discussion, though it's hard to do that properly in the first place.
+
+Make separate meetings or at least a separate breakout sessions for those wanting to discuss meta-meta-topics, and present their results to the others later on. Those presenting meta-suggestions to the rest of the group need to be really really thorough in explaining their reasoning behind the proposed changes - rationalists _will_ spot everything that's even slightly odd or not the 'ideal' solution. _That's what we are trained for_. Otherwise, most immediate discussions in the bigger group will be about discussions you discussed previously. Take in new ideas, but don't stall making decisions.
+
 
 <!--
 - Meta
@@ -445,6 +463,7 @@ TODO: ask Anne if we can/should mention/link her. Maybe just interesting as a ge
         - Moderation
 -->
 
+---
 
 ## Conclusion
 
