@@ -12,7 +12,6 @@ tags:
 {:toc}
 
 ---
-
 Starting a Rationalist Meetup during Lockdown (LW Post)
 ===
 
@@ -35,6 +34,7 @@ Did significant changes happen since the last backup: surely.
     - try to reduce/distill everything
         - remove everything that seems superfluous, taking up length without providing clarity
         - is the sentence used meaning precisely what you intend? is it understood like this as well?
+        - Optimise structure
     - checking for 
         - clarity
         - decent grammar
@@ -49,8 +49,23 @@ Did significant changes happen since the last backup: surely.
 
 
 
+
 ---
-Authors: Felix Karg, crtltab, wilm
+<!-- LINKS -->
+[run-lw-meetup]: https://wiki.lesswrong.com/images/c/ca/How_to_Run_a_Successful_Less_Wrong_Meetup_Group.pdf
+[first-meetup]: https://www.lesswrong.com/events/jAtroxWapiL5iknPc/karlsruhe-rationalist-meetup
+[fkarg-lw]: https://www.lesswrong.com/users/felix-karg
+[wilm-lw]: https://www.lesswrong.com/users/wilm
+[crtltab-lw]: https://www.lesswrong.com/users/ctrltab
+[signal-messenger]: https://signal.org/en/
+[hand-signals]: https://en.wikipedia.org/wiki/File:Hands_signals-Occupy-A4.svg
+[temperature-probe]: https://www.linkedin.com/pulse/several-simple-hand-signals-video-based-collaboration-chris/
+[hedgedog]: https://demo.hedgedoc.org/
+[bbb]: https://bigbluebutton.org/
+
+
+---
+Authors: fkarg, crtltab, wilm
 
 
 This is a post about our experiences in starting a Rationalist Meetup during Lockdown. If you are not interested in our situation specifically, you might want to skip ahead to the section: `Summary: things working well`.
@@ -58,7 +73,7 @@ This is a post about our experiences in starting a Rationalist Meetup during Loc
 
 ## Initial Situation
 <!-- TODO: link LW profiles! -->
-`wilm` moves to Karlsruhe, and hits up `Felix Karg` through a shared friend from the Berlin LW Group. A first meeting is scheduled for the end of November, as there is no LW group yet (there is an inactive EA group though). Karlsruhe (as Germany is in general) is in Lockdown, and the situation doesn't seem to be changing any time soon.
+[`wilm`][wilm-lw] moves to Karlsruhe, and hits up [`fkarg`][fkarg-lw] through a shared friend from the Berlin LW Group. A first meeting is scheduled for the end of November, as there is no LW group yet (there is an inactive EA group though). Karlsruhe (as Germany is in general) is in Lockdown, and the situation doesn't seem to be changing any time soon.
 
 So, we'll do it online. We had no idea what will happen.
 
@@ -73,9 +88,11 @@ So, we'll do it online. We had no idea what will happen.
 
 ---
 
+TODO: About our group
+
 ## Creating a new Meetup Group
 ### General
-We created a post <!-- link --> on LessWrong, not knowing what will happen. People showed up. So we did the same again next week. More people showed up. This has continued for the last three months.
+We created a [post][first-meetup] on LessWrong, not knowing what will happen. People showed up. So we did the same again next week. More people showed up. This has continued for the last three months.
 
 The schedule / content of our meetings evolved over time, but also had a few constants.
 As new people showed up almost every time, we usually started with an introductory round, in which everyone briefly shared their background.
@@ -167,6 +184,9 @@ In the next days someone creates a post on the lesswrong community page outlinin
 -->
 
 ### Infrastructure
+
+TODO: welche use-cases sind bei uns aufgetreten, mit welcher Software decken wir diese ab?
+
 #### Meetups
 For our Meetups we use a Big Blue Button instance hosted by our local university, available for free to students. The access-link does not change, and the room cannot be entered while no moderator is present.
 
@@ -198,17 +218,13 @@ The first few meetups were on the public Jitsi instance. It was difficult to org
 This was on one hand complicated to organise, because we rotated the Meeting id and were not using the same Room every time. On the other hand, quality was not so good, proberply not beeing able to host so many members. Also not having our meetups on a public platform is more comftorable
 
 ### Public Telegram Group
-We set up a Telegram group and posted the invite-link publicly on LessWrong, specifically in an event. This was most likely the what caused bots to join and advertise esoteric crypto currencies, among other things. This, and a meta-discussion resulted in us migrating to a closed `Signal` group instead.
+We set up a Telegram group and posted the invite-link publicly on LessWrong, specifically in an event. This was most likely the what caused bots to join and advertise esoteric crypto currencies, among other things. This, and a meta-discussion resulted in us migrating to a closed [`Signal`][signal] group instead.
 
 Key Takeaway: Even on LW, don't publicly post invite links to private groups on popular messengers - you're asking for spam.
-<!--
-## Iterating
-We iterated/experimented with a few things. This is a collection of a few things we tried.
--->
+
 
 ---
-
-## Summary: Things working well
+## Success Factors
 
 ### Posts on LessWrong
 Almost everyone who joined found us through a weekly post. Some people were invited personally as well, but even among those, most were invited from members who joined us by reading the post first.
@@ -270,7 +286,7 @@ Anyways, having people who had community experience was incredibly helpful for i
 
 ### Make it noticable, if your meetup might not be in English
 
-TODO: rewrite considerably, as it could be easily misunderstood (esp. those who dropped by)
+TODO: rewrite considerably, as it could be easily misunderstood (esp. from those who dropped by)
 
 While always engaging and very interesting, we had a number of meetups where non-local people showed up. This is not a problem - not all of our active members are from the immedite vicinity, and we welcome everyone who is friendly and up for an exchange - but we didn't expect people from all around the world to show up.
 
@@ -417,6 +433,7 @@ Still, this is something to watch out for, as new attendees might feel uncomfort
 
 If you have experience with similar sitations, feel free to share them.
 
+
 ### Setup
 We did not talk about personal computer setups for quite some time, but when we did, we noticed that many of shared a number of aspects.
 
@@ -479,6 +496,54 @@ Our recommendation would be: If you live in a city which doesn't have a Rational
 
 ---
 Please share any advice or other relevant experiences you may have.
+
+# Meta: writing
+
+Goals:
+1. Sharing what we did (we established a Rationalist meetup group online)
+1. Sharing what we learned (things we can recommend, warn about, ect.)
+1. Receiving feedback from other groups about our issues or other useful ideas
+1. Having a reference for others who want to do something similar in the future
+    1. maybe give a list of things to do
+
+
+Struktur:
+- Intro: About Our Group / How We formed
+    - Beginning
+        - (rewrite initial structure for this)
+    - Our meetup structure
+    - Trivia (optional)
+- Main Part: Learnings from our group
+    - Meetup Content
+        - struktur 
+            - time slots
+            - in der woche vorher ein paar dinge vornehmen
+            - notfalls auch spontan
+        - inhalte 
+            - longtime project: hammertime
+            - vorträge
+            - opinion speed dating
+    - Announcing and Organising
+        - writing a post on LW
+    - Infrastructure
+    - Tips for good socializing during the meetup / Culture
+        - Camera
+        - Hand-Signs
+        - digressions, etc
+        - goal: friendly atmosphere
+        - Breakout Sessions
+        - Allow Topic Digressions
+        - HPMOR-Fandom
+    - Other Success Factors
+        - Make your physical meetup location noticable
+        - having community experience
+        - Having meta-discussions/introspections
+    - Things to keep in mind / Gotchas
+        - Diversity
+        - Scaling
+        - Discarded Infrastructure
+- Ideas for the future / Suggestions
+- Conclusion
 
 
 <!--
