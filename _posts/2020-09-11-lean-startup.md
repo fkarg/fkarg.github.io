@@ -12,8 +12,8 @@ Review of Eric Ries' 'mandatory reading for entrepreneurs'.
 This book has been on my wish list for some time now, as it has been recommended
 from all over the place. Not just recommended, but without noticing I had
 attended multiple workshops teaching the core concepts without realizing it.
-I received it last Christmas and now got around to actually reading it in early
-July.
+I received it last Christmas together with [Surely You're Joking, Mr.
+Feynman][feynman] and now got around to actually reading it in early July.
 
 
 * TOC
@@ -345,3 +345,4 @@ innovative teams.
 [mvp-slc]: https://blog.asmartbear.com/slc.html
 [death-winning]: ../2020-10-12-goalboss/#death-by-winning
 [discipline-freedom]: ../2020-11-10-extreme-ownership
+[feynman]: ../2021-03-18-joking-feynman

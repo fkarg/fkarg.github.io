@@ -62,8 +62,11 @@ honestly, I did not find any.
 The stories were well contained, clearly structured and easy to follow. While
 the leisurely manner of writing was weird at first, I came to like it fast.
 
-I would recommend this book to anyone who is even in the slightest manner
-interested in structured thinking (Rationality, Physics, Math, ...).
+Anyone interested in structured thinking, such as used in rationality, physics,
+math, computer science or a number of other disciplines is bound to enjoy it.
+If you are not in this category yourself, consider gifting it to your
+'technical' friend - I'm sure they'll be delighted.
+
 
 ## Favorite Quotes
 No Quotes, as it is a 'leisurely' book, meaning I did not take notes while
@@ -73,14 +76,14 @@ reading it.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Publication Checklist:
 - [ ] Content
-    - [ ] Added cover-image
-    - [ ] the beginning of the post is clear and a good description
-    - [ ] the beginning of each paragraph describes
+    - [x] Added cover-image
+    - [x] the beginning of the post is clear and a good description
+    - [x] the beginning of each paragraph describes
           the information contained in the paragraph
-    - [ ] each paragraph describes at most one idea
-    - [ ] the end is on a high note/positive outlook or
+    - [x] each paragraph describes at most one idea
+    - [x] the end is on a high note/positive outlook or
           inspirational call to action
-    - [ ] Tell them what you're going to tell them. Then tell them.
+    - [x] Tell them what you're going to tell them. Then tell them.
           Finally, tell them what you told them. - Unknown
 - [ ] Grammar and Typos
     - [ ] checked with `pylanguagetool` for typos
