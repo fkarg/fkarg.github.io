@@ -1,19 +1,19 @@
 ---
 layout: post
 published: true
-title: 'Book: Surely You're Joking, Mr. Feynman!'
+title: 'Book: Surely You''re Joking, Mr. Feynman!'
 subtitle: adventures of a curious character
-cover-img: 'Todo: search for cover-image'
+cover-img: 'https://upload.wikimedia.org/wikipedia/en/d/d2/SurelyYoureJokingMrFeynman.PNG'
 tags:
 - book
 ---
-Review of Richard Feynmans autobiography, where 'anyone who can read it without
+Review of Richard Feynman's autobiography, where 'anyone who can read it without
 laughing out loud is bad crazy', according to the Los Angeles Times Book Review.
 
 This book quite clearly is a masterpiece, and I can only recommend everyone to
 read it.
 
-I received this book together with [Lean Startup][lean] to christmas some time
+I received this book together with [Lean Startup][lean] to Christmas some time
 ago. I read it over the course of last year (it was in my bedside table,
 separate from my other books).
 
@@ -30,9 +30,8 @@ physics and clear thinker. There are five parts:
 - From Cornell to Caltech, With a Touch of Brazil
 - The World of One Physicist
 
-Each part contains multiple stories with varying length, the shortest stories
-being only three pages in length. Still, each story and each part is in itself
-contained.
+Each part contains multiple stories with varying length, the shortest being
+only three pages in length. Still, each part is in itself contained.
 
 Content-wise, they mostly show some aspects or quirks of how Feynman thought
 about and perceived the world. This includes his escapades during university
@@ -50,10 +49,10 @@ solid reasoning.
 The main thing I learned that whatever you do, there is no value in taking it
 absolutely serious. Also, don't be afraid to try out new things.
 
-While this book is not as content-heavy as other books I'm reading, I was still
-surprised by how much I was able to get out of it - not just the momentarily
-enjoyment while reading it. Within these stories are many of Feynmans Life
-Lessons, presented in a clearly structured yet funny manner.
+While the book is not as content-heavy as other books I'm reading, I was still
+surprised by how much I was able to get out of it - not just the momentary
+enjoyment while reading it. Within these stories are many of Feynman's Life
+Lessons, easy to understand and often quite funny.
 
 
 ## Criticism
@@ -64,9 +63,9 @@ The stories were well contained, clearly structured and easy to follow. While
 the leisurely manner of writing was weird at first, I came to like it fast.
 
 I would recommend this book to anyone who is even in the slightest manner
-interested in structured thinking (Rationality, Physics, Maths, ...).
+interested in structured thinking (Rationality, Physics, Math, ...).
 
-## Favourite Quotes
+## Favorite Quotes
 No Quotes, as it is a 'leisurely' book, meaning I did not take notes while
 reading it.
 
