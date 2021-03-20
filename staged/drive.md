@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Book: Drive'
 subtitle: The Surprising Truth About What Motivates Us
 cover-img: 'Todo: search for cover-image'
