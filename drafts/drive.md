@@ -7,10 +7,13 @@ cover-img: 'Todo: search for cover-image'
 tags:
 - book
 ---
-Daniel H. Pink's 'book that will change how you think and transform how you
-live'.
+Review of Daniel H. Pink's 'book that will change how you think and transform
+how you live'.
 
 <!-- TLDR of the review, and if I would recommend it to others. -->
+
+This was the third suggested book of our Book Circle, which I read in the end
+of october. The second was [Rich Dad, Poor Dad][rich-dad].
 
 <!-- Short description of where I got the book from and how I got interested in it,
 as well as when I read it. Reference other book reviews if applicable. -->
@@ -20,126 +23,110 @@ as well as when I read it. Reference other book reviews if applicable. -->
 
 ---
 # Content
-## Part One
-**TLDR**; one or two sentences recollecting the most important takeaways
+## Part One: A New Operating System
+'Motivation' has three flavours, or 'operating system' versions as they are
+being referred to in the book.
+- 1.0: Getting everything needed for survival: food and shelter, safety and other basic needs
+- 2.0: 'Carrot and Stick' - extrinsic motivation based on pleasure and pain or monetary reward
+- 3.0: Intrinsic motivation, which can be far more powerful than extrinsic motivation
 
-- bulletpoints of some notes
+What really surprised me just how much focus narrowed and performance suffered
+as soon as monetary rewards are offered for 'out-of-the-box' or problem solving
+tasks (which is basically every task nowadays). A fair amount of studies is
+cited throughout. In short: Extrinsic rewards are _very_ bad for tasks that are
+(or at least can be) inherently interesting.
 
-## Part Two
-## Part Three
+Offering money for something signals it's inherent 'work'-attribute, and no one
+will do it for free anymore. Monetary penalties switch from a moral framework
+to a utility-based one, and the punished behaviour might increase (double or
+more) for small penalties.
 
-<!-- OCRd from reMarkable, needs improvements
+Monetary incentives _do_ work for brain-dead-simple tasks though: there is no
+intrinsic motivation possible that could be killed in the first place. To
+increase effectiveness: acknowledge it's boring, explain _why_ it's necessary,
+and let everyone do it their own way.
 
-[Drive] Pt 3 (47 p 147 2020-to-21 # Part three: Type 1 Toolkit # He 7- Type 1 for Individuals: Nine Strategies for 
+Unexpected rewards (monetary or otherwise) work as well for intrinsically
+motivating tasks, until they become _expected_ entitlement.
 
-Awakening you-Motivation pts) Flow test: 8 random reminders throughout the day 
+There is a model as well: Type X people are those mainly motivated by extrinsic
+properties, Type I are mainly motivated intrinsically - and they almost always
+outperforms Type X beaviour in the long run.
 
-write down 
+## Part Two: The Three Elements
+Type I behaviour builds on three pillars: autonomy, mastery, and purpose.
 
-what you do
-how you feel
-if you are in "flow" ⇒ look at patterns which produced flow ⇒ Optimize for these situations
-p 254 A great man is one sentence 
+Autonomy is _acting with a choice_ instead of only being demanded things
+continuously. Autonomy emerges when people have control over their task, time,
+technique and team. Have 20% of total work time as creative time, during which
+people are allowed to do whatever (a number of companies do that with
+resounding success).
 
-⇒ what is your sentence? 
+The urge to master something new and engaging is the best predictor for
+productivity. To master something, the environment needs to be 'flow'-friendly:
+clear objectives and quick feedback. Have learning goals, not just productivity
+goals. Not being allowed to experience 'flow'-moments leads to severe symptoms
+of anxiety disorder within 48 hours.
 
-p 155 > At the end of each day, ask yourself wether 
+Letting people do what is meaningful to them reduces burnout rates
+significantly. This can also mean to explain better _why_ they are doing
+something, and _what_ the meaning behind an activity is or _how_ the company
+depends on a certain success. Benefits include higher levels of satisfaction
+and subjective well-being as well as increased productivity while decreasing
+anxiety, depression and burnout.
 
-you were better today than you were yesterday. No need to be flawless, but have small improvements each day ⇒ Was 1 better today than yesterday? 
 
-p 156 Take a longer sabbatical every now and then, do what you p 157 Do a review of learning and performance {want 
+## Part Three: Type I Toolkit
+Optimize for situations producing 'flow' by sampling throughout the day and
+looking at patterns. There is no need to be flawless, but have small
+improvements each day. Take longer sabbaticals to do what you want, and review
+your learning and performance goals every month. Do deliberate practice
+regularly, and get feedback.
 
-goals every month 
+Make sure everyone is aligned on purpose and mission. Do not make your teams
+compete within. Pay above average, or add other perks: make money a non-issue
+for your employees.
 
-p1 58 Oblique card-deck: Tate one if you get stuck. They 
+Praise effort and strategy instead of intelligence, and never couple allowance
+with chores.
 
-have questions or statements to get you a state-break p 159 Do deliberate practice regularly, getting feedback p 160 Have Answers to the questions: (review regularly) 
-
-= What gets you up in the morning? 
-
-What keeps you up at night? 
-
-⇒ If answers change: what are you going to do about it? pl 61 Create Motivational posters 
-
-• • •
-
-1- Drive] Pt 3 Ch 8
-
-p 962 ##8 Type 1 for Organizations
-
-Nine Ways to improve your Company, Office, Our Group Try out 20%-fine (may be start with 10%) pl 63 Colleagues can award a 550 Bonus without asking
-
-for permission ⇒ Non contingent reward pl b 4 Make an autonomy audit Chow unuch autonomy
-
-does everyone have) Separate results for task, Gime, technique, team p 1565 Relinquish control:
-
-Involve people in goal-setting
-Use won controlling language
-Hold office Hours
-p 166 Make sure everyone is aligned on purpose and mission
-
-Do employees refer to the company as 'they' ar as 'we'? ⇒ Difference matters
-
-* 167 > How does the built environment of your workplace
-
-promote or inhibit autonomy, mastery, and purpose? p 168 Have diverse teams that do not compete within.
-
-Give them • shaped mission, a. ud cross - (ca-n fleur to find optimally challenging tasks for everyone pl 69 Have internal hackathons
-
-• • •
-
-I Drive] Pt 3 Chg
-
-2020-10-27
-
-g. 970##9 The Zen of Compensation:
-
-Paying People the Type I Way p 171 Ensure Internal (People with similar jobs receive similar pay
-
-within the company) and External (Everyone gets paid close
-
-to industy average for their job) Fairness p 772 Pay above average , or add other pecks p 173 Find a good mix of performance Metrics, and make them haul
-
-fo gave
-
-p 174 ##10 Type I for Parents and Educators.
-
-Nine Ideas for Helping Our Kids p 175 Refrain from giving Home wah that is an engaging, does not
-
-allow for autonomy, on where the purpose is not clear to them p 176 Allow them to come up with relevant problems themselves
-
-⇐ 20%-time with focus on one topic) Tuy DIY Report cards: set learning goals at the beginning of the
-
-school year and review your progress at the end. At home on in homeroom p 177 Do wat couple allowance with chores (⇒ If-then-reward) p 178 Praise effort and strategy, not intelligence ⇒ growth-mindset pH 9 Make praise specific; praise in private i only when there is a reason
-
-Help kids to see the Big Picture:
-
-Why am I learning this?
-Haw is this relevant to the world?
-g. 180 Examples of Type I schools and how they do t un schoolers
-
-⇒ Make them teach what they have learned
-
-p 185 ##71 The Type I Reading List pls 5 ##12 Listen to the Gurus: Six Business Thinkers Who Get it pzon ##13 The Type I Fitness Plea: Four Tips for Getting
-
-(And Staying) Motivated to Exercise Set your own goals, do what you-want-, Do something char you can get better. reward yourself right
-
-203 ##74 Price: The Recep
--->
+Set your own goals, do what you _want_, do something where you can get better,
+reward yourself right.
 
 
 ---
 # Review
-- [ ] Glad I read it?
-- [ ] Short verdict
+I am so glad I read this book. Fundamentall it was nothing new, but the amount
+of detail adn implications were absolutely worth reading it. 'Drive' provides a
+decent gears-level understanding of how motivation works, and I can see the
+same mechanisms working within myself.
+
 
 ## Main Takeaways
+- detailed understanding about motivation and it's mechanisms
+- what to do, good working conditions, and what absolutely not to do as an
+  employer
+- allows for motivational debugging within myself: 'why don't I want to do this?'
+- the book provided necessary amount of depth/implications to the 'simple' concepts
+- a number of lists with resources at the end of the book
+
 - [ ] What are the biggest new mental models I created when reading this book?
 - [ ] What were the most significant concepts encountered and why?
 - [ ] How could I have learned these concepts when not reading them in this book?
 - [ ] Did learning these concepts improve my life?
 
 ## Criticism
+The book is very well structured, has few but good examples and clear
+explanations. I don't fully agree with the 'versioning' model, but I can see
+its usefulness. It sometimes felt like the book was repetitive. The advice
+given is absolutely actionable and the book is quite easily skimmable and
+usable as a reference. I especially liked the lists and specific application
+tips at the end.
+
+I would recommend everyone to read this book, but especially those regularly
+frustrated or stressed, as well as those with jobs that have a high risk of
+burnout.
+
 - [ ] Clearly structured?
 - [ ] Good Examples?
 - [ ] Clear Explanations?
@@ -149,10 +136,35 @@ p 185 ##71 The Type I Reading List pls 5 ##12 Listen to the Gurus: Six Business 
 - [ ] Misc, specific to book
 - [ ] Whom would I recommend reading this book?
 
-## How to Apply
-- [ ] Describe how to apply what I learned in this book
-
 ## Favourite Quotes
+
+> [...] external rewards and punishments [...] can work nicely for algorithmic
+> tasks. But they can be devastating for heuristic ones. (page 30)
+
+> It is those who are least motivated to pursue extrinsic rewards who
+> eventually receive them. (page 46)
+
+> [.] most of the scandals and misbehaviour that have seemed endemic to modern
+> life involve shortcuts [to external rewards]. (page 51)
+
+> By offering a reward, a principal signals to the agent that the task is
+> undesirable. (page 54)
+
+> For routine tasks, which aren't very interesting and don't demand much
+> creative thinking, rewards can provide a small motivational booster shot
+> without the harmful side effects. (page 62)
+
+> The businesses that offered autonomy grew at four times the rate of the
+> control-oriented firms and had one-third the turnover. (page 91)
+
+> [In short], management is not the solution, it's the problem. (page 92)
+
+> [They found] that those who did the best typically spent the most time and
+> effort on the mundane activities that readied them for the [challenge]. (page
+> 125)
+
+> At the end of each day, ask yourself wether you were better today than you
+> were yesterday. (page 155)
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -190,3 +202,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
+[7-habits]: ../2020-XX-XX-seven-habits/
+[rich-dad]: ../2021-XX-XX-rich-dad/
+[gears-level]: https://www.lesswrong.com/tag/gears-level
