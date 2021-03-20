@@ -12,8 +12,11 @@ financial future', according to USA TODAY.
 
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
-I received this book together with [The Personal MBA][personal-mba] as a
-birthday present and read it in early september.
+I received this book together with [The Personal
+MBA][personal-mba] as a birthday present and read it in early
+september, as it also became the second suggested book of our
+Book Club. The first book was [7 Habits of Highly Effective
+People][7-habits] which I have already read before.
 <!-- Short description of where I got the book from and how I got interested in
 it, as well as when I read it. Reference other book reviews if applicable. -->
 
