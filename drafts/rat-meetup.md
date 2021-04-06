@@ -11,7 +11,6 @@ tags:
 * TOC
 {:toc}
 
-
 Starting a Rationalist Meetup during Lockdown (LW Post)
 ===
 
@@ -145,20 +144,89 @@ Apart from those, we scheduled one or two other topics to discuss about. This in
 
 The first step in creating the meetup group was writing a [post][first-meetup] on LessWrong in order to announce the meetup. Since the initial video-call, we have been meeting online almost every week and with a (sort of) steady influx of new members our group has grown to more than a dozen regular attendees.
 
-The weekly schedule of our meetup looks roughly like this:
+Similarly, the structure and content of our meetings has evolved over time.
+Recently our weekly schedule looked roughly like this:
 - 19:00 - 19:10 People slowly coming in and welcoming each other
 - 19:10 - 19:20 Introductions (if someone new is present)
 - 19:20 - 20:00 Topic 1: Hammertime Sequence
 - Topic 2
-- (Topic 3)
+- [Topic 3]
 - Scheduling Topics for next Week
 - Feedback
 - [End of Meetup]
 - Open Socializing
 
 The first few meetups were considerably shorter, but recently the open socializing went until around 21:30 to 22:00 o'clock.
+If you want to start your own meetup it is probably advisable, to adjust the structure and content to the interests and preferences of the people attending.
 
-Working through the Hammertime Sequence acts as a cornerstone of our meetup giving us a 'baseline-purpose' to get together, but it is rarely the highlight of the day.
+From our experience, coming up with interesting and worthwhile content is nothing to be worried about as (so far) we always had more ideas for discussion topics or other activities than we manage to schedule.
+One of the cornerstones of our meetup has been working through the [Hammertime Sequence][hammertime].
+We started committing to work on one or two days of the sequence each week in of the first meetups.
+This way, working on Hammertime and discussing our experiences and insights is giving our group a 'baseline-purpose' to get together, but this is rarely the highlight of the day.
+
+After discussing the most recent days of Hammertime, we most often have either have discussions, or presentations by one or multiple members.
+Often enough this is not even structured: having an initial topic people are interested in talking about is sufficient to provide a seed for long discussions with numerous digressions, usually resulting in a number of other topics being written down to talk about further.
+Other times, especially when a topic has been explicitly scheduled in the previous week, there might be prepared talks or presentations.
+Some of the topics we recently talked about are:
+- note taking systems (here a few attendees presented their systems for taking notes, including Zettelkasten TODO LINK derived systems)
+- book recommendations / reviews
+- tracking data (e.g. health data, finances, etc.)
+- HPMOR
+
+
+
+
+Another activity we often did is something we called 'Opinion-Speed-Dating'. For this, we split into groups of 2-3 people and pick a conversation topic from a curated list of topics designed to favor personal or philosophical discussions.
+After 10 to 15 min we then come back together and share the most interesting thoughts and ideas from each sub-group, sometimes continuing the discussion and digressions.
+This is not only fun on its own, but also worked quite well as a way to get to know each other.
+
+## How to start and run a meetup group
+
+If the above description of our group sounds like a nice thing [re-phrase?], you are probably wondering how to create and run a similar meetup.
+The good news is that from our experience, there is less to do organisationally than maybe expected.
+
+To get started, we suggest reading some introductory material like this post or the guide on [how to run a successful LW meetup group][run-lw-meetup].
+Reflect upon what you want to get from and give to the meetup group you want to start.
+Finally, write a post [like ours][first-meetup] in order to announce the first meetup.
+
+The weekly organizational tasks are also very manageable.
+Writing a post announcing the next meetup takes about 10mins, and (from our experience) it's not a problem to rely on the topics being scheduled during the previous meetup or getting decided spontaneously.
+
+[How to Run a successful LW Meetup Group][run-lw-meetup] mentions a number of implicit or explicit roles, such as content provider, welcomer (someone that includes and introduces new people and greets meetup veterans), networker, or organizer.
+So far (after almost half a year) we did not explicitly assign any roles.
+The closest to any of these roles is the 'organizer', who writes the weekly post, but even this task is done by whoever volunteers first.
+We do also not have designated content providers, as most of our time is spent discussing various topics.[TODO: mhh das wurde oben eigentlich schon genauer erklärt oder?]
+
+Additionally, there is some infrastructure needed to run an online meetup.
+The most important component is a platform on which to run the actual meeting.
+For our Meetups we use a Big Blue Button instance hosted by our local university, that is available for free to students. The access-link does not change, and the room cannot be entered while no moderator is present.
+
+Apart from that having a group in an instant messenger (Signal in our case) is useful for coordination between meetups (e.g. 'I'll be late today' or 'I won't be able to make it').
+We invite everyone showing up to a meetup to this group.
+
+Next, we use a few collaborative online documents that can easily be edited by multiple users in order to store more permanent information. We have a couple of hedgedoc (formerly CodMD, formerly HackMD) pads that every member can access, but something like Google Docs would probably work as well.
+Currently we use these documents for:
+- Ideas for future meetups (mostly discussion topics)
+- History of recent meetup topics
+- Book recommendations
+- Questions for Opinion Speed Dating
+<!-- - A Meta-Pad with links to the other pads, every other pad links to this one
+- …
+
+Links are provided during a meetup, when it is being talked about, or in the Coordination Group.-->
+
+## Tips and Recommendations
+
+So far, despite having only met each other online, the atmosphere during our meetups has been really great and people are enjoying to get together.
+We might simply have been lucky, we think that there are a few factors that might have been beneficial for fostering a friendly atmosphere.
+We share these and a few other tips below.
+
+<!-- put in successfactors and the stuff -->
+
+## Gotchas and other things to keep in mind
+
+<!-- put in diversity, scaling, discarded infrastructure -->
+
 
 
 <!-- # Things we Learned from our Group -->
