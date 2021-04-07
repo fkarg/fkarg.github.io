@@ -11,6 +11,8 @@ Attribution 3.0 Unported ([CC BY 3.0][cc-30])
 
 Autor: [zlaten][zlaten]
 
+Changed: added white background
+
 
 
 ---
