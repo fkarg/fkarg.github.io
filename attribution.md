@@ -28,6 +28,8 @@ Autor: [laurareen][laurareen]
 
 Changes:
 - adapted 'brain matter' color to blog theme
+- increased stroke width from 2 to 3 on all lines
+- moved brain 'halves' together
 - converted to ico
 
 
