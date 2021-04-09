@@ -7,16 +7,6 @@ cover-img: 'https://lh3.googleusercontent.com/KiGlki4lNJRGH97XqOtZBo8GmwT7TW4AAw
 tags:
 - thoughts
 ---
-<!-- Short quote what the book is supposed to be -->
-
-<!-- TLDR of the review, and if I would recommend it to others. -->
-
-<!-- Short description of where I got the book from and how I got interested in
-it, as well as when I read it. Reference other book reviews if applicable. -->
-<!--
-* TOC
-{:toc}
--->
 
 Most of the time, we don't want to see reality. Even more often than that, our
 brain doesn't let us perceive reality. But sometimes - sometimes, reality
@@ -94,91 +84,6 @@ Stories surrounding a small shard of reality with layers of illusion -
 enough to make it bearable. They can help. Of course we yearn for illusion.
 Reality is too real, any distraction is welcome. Why would it be different?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Publication Checklist:
-- [ ] Content
-    - [ ] Added cover-image
-    - [ ] the beginning of the post is clear and a good description
-    - [ ] the beginning of each paragraph describes
-          the information contained in the paragraph
-    - [ ] each paragraph describes at most one idea
-    - [ ] the end is on a high note/positive outlook or
-          inspirational call to action
-    - [ ] Tell them what you're going to tell them. Then tell them.
-          Finally, tell them what you told them. - Unknown
-- [ ] Grammar and Typos
-    - [ ] checked with `pylanguagetool` for typos
-    - [ ] checked with `homer` for compulsive hedgers
-    - [ ] checked with `homer` for vague words
-    - [ ] checked with `homer` for sentence length
-- [ ] Details
-    - [ ] test-read actual rendered text
-    - [ ] checked how it looks like on mobile
-- [ ] Publication
-    - [ ] scheduled publication
-    - [ ] linked in [books][books]
-    - [ ] checked if linked in prior/upcoming posts
-    - [ ] posted link to review on goodreads
-    - [ ] removed this comment
-
-Footnote<sup>[1](#footnote1)</sup> among text.
-- - -
-**Footnotes**:
-<a name="footnote1">1</a>: Text from footnote1.
--->
 ---
 The picture is from [My Shards][my-shards] from [Ezra Miller][ezra-miller].
 
