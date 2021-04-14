@@ -115,3 +115,5 @@ I have a few things in mind I want to write about, including but not limited to:
 - everything you do should be with the goal of 'creating' something or
   'solving' a problem, this helps to significantly speed up learning and
   experimenting progress, and create clearer mental models
+
+- overview of how I manage my own finances (incl. beancount)
