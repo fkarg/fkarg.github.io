@@ -85,7 +85,7 @@ calculated from two balance sheets and an income statement.
 ## Part Five: Ratios: Learning What the Numbers Are Really Telling You
 Ratios are only indicators and different for each industry. Make sure your
 assumptions are correct and your reference is good - they will always have
-biases regardless.
+biases regardless, keep this in mind.
 
 ## Part Six: How to Calculate (and Really Understand) ROI
 ## Part Seven: Applied FI: Working Capital Management
@@ -165,7 +165,7 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
-[rich-dad]: ../2021-XX-XX-rich-dad/
+[rich-dad]: ../2021-04-14-rich-dad-poor-dad/
 [personal-mba]: ../2021-XX-XX-personal-mba/
 [beancount]: https://github.com/beancount/beancount
 [bc-plugins]: https://github.com/fkarg/beancount-plugins

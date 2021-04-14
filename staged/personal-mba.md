@@ -205,4 +205,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [gears-understanding]: https://www.lesswrong.com/tag/gears-level
 [mental-model]: https://fs.blog/mental-models/
 [books-recommended]: https://personalmba.com/best-business-books/
-[rich-dad]: ../202X-XX-XX-rich-dad-poor-dad
+[rich-dad]: ../2021-04-14-rich-dad-poor-dad/

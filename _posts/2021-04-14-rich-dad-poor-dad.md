@@ -120,12 +120,12 @@ was dodging the answer, exploring a number of 'related' topics without conclusio
 I liked the repetitiveness of certain ideas when he took a new perspective
 about the original idea. Sadly, this was not always the case.
 
-I encountered this [criticism][critic] sometime after having read the book.
+I [encountered this criticism][critic] sometime after having read the book.
 Looking back, I'm glad I didn't take most parts at face value.
 
 While I do have to thank this book much for my current enthusiasm and knowledge
 about finance (not directly, but at least indirectly), it's questionable to
-recommend it given the amount of [reasonable criticism][critic]. I'm glad I
+recommend it given the amount and validity of the criticism. I'm glad I
 read it, but it's unlikely that I'll take another look into it.
 
 
@@ -170,40 +170,6 @@ read it, but it's unlikely that I'll take another look into it.
 
 > Action always beats inaction.
 
-
-<!--
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Publication Checklist:
-- [ ] Content
-    - [x] Added cover-image
-    - [ ] the beginning of the post is clear and a good description
-    - [ ] the beginning of each paragraph describes
-          the information contained in the paragraph
-    - [ ] each paragraph describes at most one idea
-    - [ ] the end is on a high note/positive outlook or
-          inspirational call to action
-    - [ ] Tell them what you're going to tell them. Then tell them.
-          Finally, tell them what you told them. - Unknown
-- [ ] Grammar and Typos
-    - [x] checked with `pylanguagetool` for typos
-    - [x] checked with `homer` for compulsive hedgers
-    - [x] checked with `homer` for vague words
-    - [x] checked with `homer` for sentence length
-- [ ] Details
-    - [ ] test-read actual rendered text
-    - [ ] checked how it looks like on mobile
-- [ ] Publication
-    - [ ] scheduled publication
-    - [ ] linked in [books][books]
-    - [ ] checked if linked in prior/upcoming posts
-    - [ ] posted link to review on goodreads
-    - [ ] removed this comment
-
-Footnote<sup>[1](#footnote1)</sup> among text.
-- - -
-**Footnotes**:
-<a name="footnote1">1</a>: Text from footnote1.
--->
 
 ---
 [books]: ../2019-09-12-books/

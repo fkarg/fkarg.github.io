@@ -203,5 +203,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 ---
 [books]: ../2019-09-12-books/
 [7-habits]: ../2020-XX-XX-seven-habits/
-[rich-dad]: ../2021-XX-XX-rich-dad/
+[rich-dad]: ../2021-04-14-rich-dad/
 [gears-level]: https://www.lesswrong.com/tag/gears-level
