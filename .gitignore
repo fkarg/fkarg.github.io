@@ -18,3 +18,9 @@ beautiful-jekyll-theme-*.gem
 
 # obsidian.md
 .obsidian
+
+# nix-shell artifacts
+vendor
+.bundle
+result
+gemset.nix
