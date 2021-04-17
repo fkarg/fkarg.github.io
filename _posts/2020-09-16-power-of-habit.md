@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Book: The Power of Habit'
 subtitle: Why we do what do and how to change
-cover-img: 'https://upload.wikimedia.org/wikipedia/en/7/7f/The_Power_of_Habit.jpg'
+cover-img: 'https://images-eu.ssl-images-amazon.com/images/I/41fQW9Q-L4L._SY264_BO1,204,203,200_QL40_ML2_.jpg'
 tags:
 - book
 ---

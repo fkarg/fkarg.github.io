@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Book: Extreme Ownership'
 subtitle: How US Navy Seals Lead and Win
-cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427163007l/23848190.jpg'
+cover-img: 'https://images-eu.ssl-images-amazon.com/images/I/51yoHjJDQ3L._SY264_BO1,204,203,200_QL40_ML2_.jpg'
 tags:
 - book
 ---

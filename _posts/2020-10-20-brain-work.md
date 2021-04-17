@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Book: Make Your Brain Work'
 subtitle: How to maximize your Efficiency, Productivity and Effectiveness
-cover-img: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344733046l/15807288.jpg'
+cover-img: 'https://images-eu.ssl-images-amazon.com/images/I/51U-RrwqaQL._SY264_BO1,204,203,200_QL40_ML2_.jpg'
 tags:
 - book
 ---
