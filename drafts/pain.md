@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: 'It's not about the pain'
+title: "It's not about the pain"
 subtitle: subtitle
 cover-img: 'Todo: search for cover-image'
 tags:

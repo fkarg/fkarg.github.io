@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Tesla: it's too late for others to catch up
+title: "Tesla: it's too late for others to catch up"
 subtitle: utter domination - for how long?
 tags:
 - thoughts

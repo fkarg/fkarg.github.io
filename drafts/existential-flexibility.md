@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Rapid Integration
-subtitle: the biggest advantage: existential flexibility
+subtitle: 'the biggest advantage: existential flexibility'
 cover-img: 'Todo: search for cover-image'
 tags:
 - thoughts
