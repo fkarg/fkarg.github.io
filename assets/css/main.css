@@ -513,16 +513,19 @@ footer .footer-custom-content {
   height: 12rem;
   width: 12rem;
   margin-top: -2.1875rem;
-  filter: grayscale(90%);
-}
-.post-image:hover {
-  filter: grayscale(0%);
 }
 .post-image img {
   border-radius: 6.25rem;
   height: 12rem;
   width: 12rem;
 }
+.post-preview:hover {
+  filter: grayscale(0%);
+}
+.post-preview {
+  filter: grayscale(80%);
+}
+
 .post-preview .post-read-more {
   font-weight: 800;
 }
