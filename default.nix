@@ -1,3 +1,4 @@
+# originally from: https://stesie.github.io/2016/08/nixos-github-pages-env
 # # Gemfile with:
 # source 'https://rubygems.org'
 # gem 'github-pages'
