@@ -18,7 +18,7 @@ this happened and a couple of things I wish I knew when switching.
 This is not about super-low-level NixOS information, as you will find that
 primarily [here](https://nixos.org/learn.html). Rather, while talking about my
 situation I want to help you get to know a couple resources that I wish I knew
-when starting out, as my initial workarounds where ... sub-optimal. If you just
+when starting out, as my initial workarounds were ... sub-optimal. If you just
 want to know my thoughts about NixOS, you might want to jump to the
 [conclusion](#conclusion).
 
@@ -47,8 +47,8 @@ computer for some time.
 
 So my first encounter did not exactly go well. It felt similar to having
 'burnt' myself once, and while I knew that I needed to understand and configure
-it more before I could actually use the computer, I was avoiding it
-continuously. So what changed? How did I actually 'switch' to NixOS?
+it more before I could actually use the computer, I was avoiding it. So what
+changed? How did I actually 'switch' to NixOS?
 
 ## Only NixOS
 My Laptop crashed and burnt. Or, well, not exactly. For some reason, it did not
@@ -57,14 +57,14 @@ I tried to fix that. Didn't work. Tried some more things. Didn't work. Did a
 backup, and tried to install a new OS. I slightly panicked and just wanted a
 working OS. I tried Ubuntu first. Then Linux Mint, Debian, and NixOS. None
 worked. They all failed to install the bootloader - maybe due to the same
-reason it previously failed to start. I already suspected the SSD. Regardless,
-I had two presentations to prepare, and they were more critical than fixing my
-computer.
+reason it previously failed to boot. I already suspected an SSD failure.
+Regardless, I had two presentations to prepare, and they were more critical
+than fixing my computer.
 
 As I was sitting in our student council room (I'm well-known there) already,
 and several people were aware of what I was trying to do, I just told them: 'I
 can't figure out why installing an OS on this laptop just does not work.' There
-were three people ready for the challenge. I started to prepare for the
+were three people willing to take the challenge. I started to prepare for the
 presentation I was supposed to hold in two hours, somewhat unaware of what was
 happening to my laptop. At some point, just before I needed to go, they were
 successful: 'You now have NixOS'. It was among the bootsticks I had with me,
@@ -82,12 +82,12 @@ called. So I googled it.
 
 From here on, my experiences with NixOS were mostly pleasant. I expected some
 sort of hassle after installing LaTeX, some package missing to actually build
-it, some cryptic error message. It's _always_ like this when building a new
-project. Not this time. Installing LaTeX took a few minutes but then I was
-able to build the presentation again, just two hours before we were supposed to
-start the presentation. I felt immense relief, to say the least. Everything
-would have worked out even if this did not work, but we wanted to change some
-small things before actually presenting.
+it, or some cryptic error message. It's _always_ like this when trying
+something new. Not this time. Installing LaTeX took a few minutes, but then I
+was able to build the presentation again, just two hours before we were
+supposed to hold the presentation. I felt immense relief, to say the least.
+Everything would have worked out even if this did not work, but we wanted to
+update some details.
 
 
 ## Packages
@@ -171,12 +171,12 @@ available either. Looking back, I think the `$PATH` was broken). I was really
 unable to fix it this time, even when consulting the internet on another
 laptop.
 
-What I remembered after wasting two hours: When booting on NixOS, you can
-select to boot an earlier configuration instead of the current one. And so I
-did. There, everything still worked, including internet. And since I already
-fixed the configuration it was easy to switch to the upgraded materialization
-of the configuration. This feature alone helped me significantly. It would not
-work with other package managers, since it depends a lot on the way Nix works
+What I remembered after two hours: When booting on NixOS, you can select to
+boot an earlier configuration instead of the current one. And so I did. There,
+everything still worked, including internet. And since I already fixed the
+configuration it was easy to switch to the upgraded materialization of the
+configuration. This feature alone helped me significantly. It would not work
+with other package managers, since it depends a lot on how Nix works
 internally.
 
 ## Garbage Collection
@@ -213,15 +213,25 @@ one - since I know a rollback is easy and will work. Bonus points for it not
 requiring integration to my dotfiles after all.
 
 Since I'm still using an Ubuntu-based laptop for work, I decided to write a
-`ansible`-playbook for dotfile deployment. A post about that is in progress.
-Stay tuned.
+`ansible`-playbook for dotfile deployment and management. I also [installed
+nix][install-nix] to receive the `nix` benefits. A post about that is in
+progress. Stay tuned.
+
+If you want to try `NixOS` yourself, you might want to check out [this
+page][download-nix]. You can download a live-CD-image as well as a
+[VirtualBox][vb] image there.
 
 
 **Edits**:
 - 2020-06-11: small rewordings of ... everything.
 - 2020-10-27: fixed typos, added list of garbage collection commands
+- 2021-04-25: fixed some more typos and grammatical oddities. 
+- 2021-04-25: Added 'If you want to try NixOS'-paragraph and links
 
 ---
 [nix-pills]: https://nixos.org/nixos/nix-pills/index.html
 [options]: https://nixos.org/nixos/options.html
 [nixos-explained]: https://christine.website/blog/nixos-desktop-flow-2020-04-25
+[install-nix]: https://nixos.org/guides/install-nix.html
+[download-nix]: https://nixos.org/download.html
+[vb]: https://www.virtualbox.org/wiki/Downloads
