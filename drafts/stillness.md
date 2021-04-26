@@ -3,7 +3,7 @@ layout: post
 published: false
 title: 'Book: Stillness is the Key'
 subtitle: An Ancient Strategy for Modern Life
-cover-img: 'Todo: search for cover-image'
+cover-img: 'https://assets.thalia.media/img/artikel/7c6f9d3bc6576be598f6cab907cfd9b0bccad6cd-00-00.jpeg'
 tags:
 - book
 ---
@@ -113,18 +113,102 @@ would ignore something like this.
 - conquer your anger
     - have some form of mastery or idealism as your goal instead
 
-- 
+- all is one
+    - as can be seen from space, we are all part of one world
+    - too often we forget, and we forget ourselves in the process
 
 
 ## Part Three: Body
 
+- Domain of the body
+    - winston churchills' secret: conservation of energy, so that he never
+      shirked a task or backed down from a challenge
+    - aim high
+    - never allow mistakes or criticism to get you down
+    - waste no energy on grudges, duplicity, or infighting
+    - make room for joy
+    - sometimes, everything just breaks down: love the discipline you know and
+      let it support you
+    - even if you don't your body will keep score about what you do and request
+      its due relaxation eventually
+
+- Say no
+    - when you know what to say no to, you can say yes to the things that
+      matter
+    - have something that matters enough to say yes to, to say no to everything
+      else
+
+- take a walk
+    - walking is an exercise in peace, and many great minds got inspiration
+      doing it
+
+- build a routine
+    - freedom is opportunity for self-discipline
+        -> [freedom through discipline][freedom-discipline]
+    - something done regularly with sincerity and feeling becomes a sacred,
+      essential routine
+    - The purpose of ritual is to settle our bodies and minds down, starting in
+      control
+        - choices are bad
+        - limit interruptions
+        - limit uncertainty
+
+- get rid of your stuff
+    - The petty man is servant to things - social media, computer, money, other
+      materialistic stuff
+        - don't let things in the material world own you
+    - more money and stuff tends to bring more problems as well
+    - be aware of 'comfort creep': getting used to a certain level of
+      convenience and luxury -> the mind becomes toxic and scary ([ego][ego-enemy]!)
+
+- seek solitude
+    - it's difficult to understand yourself if you're never by yourself
+    - biggest problem in information age: lack of reflection
+    - but: solitude without purpose is a killer of creativity, but most lack
+      solitude, not purpose
+
+- be a human being
+    - you need a balance, don't overwork yourself
+    - to make good decisions consistently, you cannot be stressed too much
+
+- go to sleep
+    - working harder is rarely possible or actually the solution
+    - Working smarter always is
+    - You can't perform at your best, without having slept enough
+    - Sleep is a time of stillness
+
+- find a hobby
+    - greek: 'leisure' is rendered as 'schole' - freedom from the need to survive for intellectual or creative pursuit
+    - have something you can do purely for yourself
+    - To do leisure well, without letting become a job, is hard
+
+- beware escapism
+    - despair and restlessness go together, but you can't flee from despair
+    - instead of escaping, turn inside, to stillness. It might actually improve
+      the situation.
+
+- act bravely
+    - according to your morals / spiritual ideals, in moments of truth
+    - do kindness when you can
+
+
+
 ---
 # Review
+I am quite glad to have read the book. I was looking for some insight into
+stillness. stillness didn't fail me, it is I who failed stillness.
+
+Recommended for everyone anxious or striving for inner calm.
+
 - [ ] Glad I read it?
 - [ ] Short verdict
 
 
 ## Main Takeaways
+There is a number of ways towards stillness, and it takes continuous and active
+effort to get there. It did instill within me a new 'approach' to calmness,
+maybe?
+
 - [ ] What are the biggest new mental models I created when reading this book?
 - [ ] What were the most significant concepts encountered and why?
 - [ ] How could I have learned these concepts when not reading them in this book?
@@ -132,6 +216,28 @@ would ignore something like this.
 
 
 ## Criticism
+Sometimes when reading a book, I get an aversion to continue reading it for a
+bit. So instead of reading this book, I read some other book, or not read at
+all. This happened with [Ego is the Enemy][ego-enemy], and I hoped to not
+experience something similar. In `Ego is the Enemy`, I assumed it was because
+the content was uncomfortable for me, as I was struggling with my own ego a
+bit.
+
+Something similar happened when reading `Stillness is the Key`. At this point,
+I assume it is because of how Ryan Holiday structures his books: Many small
+stories and concepts, loosely tied together. The mistake is probably trying to
+read it as a book, from front to back - there is rarely chronological
+dependency after all.
+
+He focuses a lot on stillness and other behaviours being held high by
+numerous noteworthy historical figures, and not so much on the underlying
+principles _why_ or when this would not work. Scientific references are rare,
+historic ones all over the place. It is still a great book, and I believe most
+claims are correct, but I would have preferred more references to scientific
+backing - at least where they exist.
+
+
+
 - [ ] Clearly structured?
 - [ ] Good Examples?
 - [ ] Clear Explanations?
@@ -170,8 +276,31 @@ would ignore something like this.
 > The leaders we truly respect, who stand head and shoulders above the rest,
 > have been motivated by more than anger or hate. (page 153)
 
-> 
+> The less we are convinced of our exceptionalism, the greater ability we have
+> to understand and contribute to our environment [...]. (page 162)
 
+> Life is hard. Fortune is fickle. We can't afford to be weak. We can't afford
+> to be fragile. (page 165)
+
+> Epicurus once said that the wise will accomplish three things in their life:
+> leave written works behind them, be financially prudent und provide for the
+> future, and cherish country living. That is to say, we will be reflective, we
+> will be responsible and moderate, and we will find the time to relax in
+> nature. (page 183)
+
+> You don't solve a maze by rushing through. You have to stop and think. (page
+> 188)
+
+> You were born free - free of stuff, free of burdon. (page 212)
+
+> If solitude is the school of genius, as the historian Edward Gibbon put it,
+> then the crowded, busy world is the purgatory of the idiot. (page 215)
+
+> If you see fraud, and do not say fraud, the philosopher Nassim Taleb has
+> said, _you are fraud_. Worse, you will feel like a fraud. (page 252)
+
+> Do kindness where you can. Because you'll have to find a way to live with
+> yourself if you don't. (page 252)
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -209,3 +338,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
+[freedom-discipline]: ../../2020-11-10-extreme-ownership/#discipline-equals-freedom
+[ego-enemy]: ../../2020-09-23-ego-enemy/
