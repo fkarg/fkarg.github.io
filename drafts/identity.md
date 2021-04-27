@@ -64,3 +64,5 @@ https://www.youtube.com/watch?v=nQHBAdShgYI
 [replication]: https://fkarg.github.io/tags/#replication
 [wikipersonal]: https://en.wikipedia.org/wiki/Personal_identity
 [wikiself]: https://en.wikipedia.org/wiki/Identity_(social_science)
+[soma-review]: https://www.youtube.com/watch?v=J5fpTvdExsY
+[soma-critique]: https://www.youtube.com/watch?v=J4tbbcWqDyY
