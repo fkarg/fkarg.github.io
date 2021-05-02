@@ -18,7 +18,7 @@ with import <nixpkgs> { };
 let jekyll_env = bundlerEnv {
     name = "jekyll_env";
     ruby = ruby_2_6;
-    gemfile = ./Gemfile;
+    gemfile = ./Gemfile-nix-shell;
     lockfile = ./Gemfile.lock;
     gemset = ./gemset.nix;
   };
