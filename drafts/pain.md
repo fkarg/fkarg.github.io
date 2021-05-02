@@ -1,11 +1,12 @@
 ---
 layout: post
 published: false
-title: "It's not about the pain"
+title: Pain is the unit of Value
 subtitle: subtitle
 cover-img: 'Todo: search for cover-image'
 tags:
-- book
+- lesswrong
+- thoughts
 ---
 Short review what the article is going to be about
 
@@ -19,15 +20,38 @@ as well as when I read it. Reference other book reviews if applicable.
 
 
 
-I read alkjash's [Pain is not the unit of effort][original] post a few days
-ago, and I felt like something was ... missing while reading it. Not that it's
-not true, in fact, I believe the two rules do apply. But ... maybe not in the
-way they might be easily interpreted in.
+## Background
+When I read alkjash's [Pain is not the unit of effort][original] post some time
+ago, I had a few thoughts about it. Recently, I had a chance to talk to him
+about them. Here are my current thoughts.
+
+In the post, alkjash makes a very good point against a common failure mode:
+more 'pain' (or 'effort') coming from signaling the 'effort' than the work
+itself.
+
+There is also these two corollaries:
 
 > 1. If it hurts, you're probably doing it wrong.
 > 2. You're not trying your best if you're not happy.
 
+And I don't agree with them. Not in their strongest form, at least, but we'll
+get there.
 
+
+In my current model of alkjash, he will disagree with me saying that 'a life
+worth living without suffering is not possible'. I'm not sure if that's true,
+but let's explore how I got there and why I think like this.
+
+## Suffering for Something Worth Doing
+
+
+
+
+
+
+
+
+But ... maybe not in the way they might be interpreted in.
 
 The easiest thing to do is to drop down and vegetate. And yet you are reading
 this post right now. Why?
@@ -159,3 +183,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 ---
 [books]: ../2019-09-12-books/
 [original]: https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort
+[liftoff]: ../202X-XX-XX-liftoff/
