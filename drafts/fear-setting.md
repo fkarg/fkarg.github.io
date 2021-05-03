@@ -9,7 +9,7 @@ tags:
 
 From Tim Ferris' four-hour-workweek (p46-47):
 > 1. Define your nightmare, the absolute worst that could happen if you did what you are considering.
-> 2. What steps colud you take to repair the damage or get things back on the upswing, even if temporarily?
+> 2. What steps could you take to repair the damage or get things back on the upswing, even if temporarily?
 > 3. What are the outcomes or benefits, both temporary and permanent, of more probable scenarios?
 > 4. If you were fired from your job today, what would you do to get things under financial control?
 > 5. What are you putting off out of fear?
