@@ -14,6 +14,9 @@ twenty-first century life', according to Robert Greene.
 
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
+I got this book sometime in the end of September 2020, and read it from late
+november to early January. I read [Drive][drive] just before, and [Miracle
+Morning][miracle-morning] after.
 <!-- Short description of where I got the book from and how I got interested in
 it, as well as when I read it. Reference other book reviews if applicable. -->
 
@@ -205,14 +208,28 @@ Recommended for everyone anxious or striving for inner calm.
 
 
 ## Main Takeaways
-There is a number of ways towards stillness, and it takes continuous and active
-effort to get there. It did instill within me a new 'approach' to calmness,
-maybe?
 
-- [ ] What are the biggest new mental models I created when reading this book?
-- [ ] What were the most significant concepts encountered and why?
-- [ ] How could I have learned these concepts when not reading them in this book?
-- [ ] Did learning these concepts improve my life?
+
+### Reminders
+It did serve as a good reminder that stillness takes a continuous and active
+effort to achieve.
+It does list a number of things, which I know
+are good for me, but I currently neglect. Hobbies are one such thing, but I
+don't think that will change before I'm vaccinated.
+
+Still. All of these are very good reminders about the core of living a
+fulfilled life in the present. Usually, worry and stress will take over.
+
+### A new way of Reading
+I figured out something else, but it isn't directly related to the book itself.
+It's more about how I'm reading books.
+
+Chronological (front-to-back) might not be the best way. In this case, reading
+chapters I'm interested in and skipping others I'm not interested in would have
+probably kept my motivation higher and I wouldn't have 'skipped' reading so
+often. Even a few books later, I haven't tried this yet - but I will, should a
+similarly disconnected book come across next time. [The Personal
+MBA][personal-mba] would have been a good candidate for this as well.
 
 
 ## Criticism
@@ -340,3 +357,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [books]: ../2019-09-12-books/
 [freedom-discipline]: ../../2020-11-10-extreme-ownership/#discipline-equals-freedom
 [ego-enemy]: ../../2020-09-23-ego-enemy/
+[drive]: ../2021-XX-XX-drive/
+[miracle-morning]: ../2021-XX-XX-miracle-morning/
+[personal-mba]: ../2021-XX-XX-personal-mba/
