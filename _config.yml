@@ -254,7 +254,15 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
+    # other stuff
+  - drafts/
   - docs/
+    # nix-shell stuff
+  - Gemfile-nix-shell
+  - default.nix
+  - gemset.nix
+  - vendor
+  - result
 
 plugins:
   - jekyll-paginate
