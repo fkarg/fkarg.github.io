@@ -10,6 +10,7 @@ tags:
 
 * TOC
 {:toc}
+
 Starting a Rationalist Meetup during Lockdown (LW Post)
 ===
 
@@ -20,7 +21,7 @@ Starting a Rationalist Meetup during Lockdown (LW Post)
 
 Notice: we are at ~36% of maximum document size/length. I (Felix) have a nonlocal and version-controlled backup.
 
-Timestamp of last backup: 2021-04-18 23:07
+Timestamp of last backup: 2021-05-06 18:40
 
 Did significant changes happen since the last backup: absolutely.
 
@@ -141,7 +142,7 @@ New people showed up almost every time, so we usually started with a round of in
 Apart from those, we scheduled one or two other topics to discuss about. This includes techniques and tools for productivity and time management as well as HPMOR or alternative keyboard layouts. Other topics were to get to know each other better via discussion in smaller groups or practicing rationality techniques.
 -->
 
-## Ⅰ (v1.3)
+## Overview (v1.3)
 The first step in creating the meetup group was writing a [post][first-meetup] on LessWrong in order to announce the meetup. Since the initial video-call, we have been meeting online almost every week and with a regular influx of new members our group has grown to about a dozen regular attendees.
 
 Similarly, the structure and content of our meetings has evolved over time. Our weekly schedule looks something like this currently:
@@ -220,9 +221,13 @@ Links are provided during a meetup, when it is being talked about, or in the [me
 
 <!-- Links are provided during a meetup, when it is being talked about, or in the Coordination Group.-->
 
-## Ⅲ (v??)
+## Reasons for Success (v??)
 
-So far the atmosphere during our meetups has been really great and people are thoroughly enjoying to get together. While this might be due to survivorship bias and being lucky, we think that there are a few factors beneficial for fostering a friendly atmosphere.
+So far the atmosphere during our meetups has been really great and people are thoroughly enjoying to get together.
+This makes it more fun for people to attend the meetup and also allows everyone to open up personally.
+This allows for sharing even very personal problems and subsequent solving or at least iteration on them from everyone present. (Important: [beware of other-optimizing][other-optimizing].)
+While this might be due to survivorship bias and being lucky, we think that there are a few factors beneficial for fostering a friendly atmosphere.
+
 <!--We share these and a few other tips below.-->
 Below, we share a few of these factors along with general tips and reflect on some of the things we maybe were lucky with.
 
@@ -234,7 +239,9 @@ This is not an explicit policy, but it somehow happened automatically. I also ha
 
 
 #### Breakout Sessions (v1.2)
-With few people, a very comfortable atmosphere allowing for honest exchange and topic digression presented itself naturally. Establishing such an atmosphere got a lot harder with more people attending concurrently. An easy solution for this was to create breakout sessions with up to five people.
+We found that with fewer people, a very comfortable atmosphere allowing for honest exchange and topic digression presented itself naturally. Establishing such an atmosphere got a lot harder with more people attending concurrently. An easy solution for this was to create breakout-sessions (i.e., splitting up the video conference into multiple rooms) with up to five people.
+Often the atmosphere from the small groups tends to spill over to the 'big' meeting even after breakout sessions have concluded.
+This is one of the reasons we try to have breakout sessions early in our Meetup.
 
 Benefits are multi-faceted:
 - People are less afraid to talk longer
@@ -256,12 +263,6 @@ When your group hits a certain point (~8 people or more), receiving input from e
 Not all of them are being used to the same degree of course, the one used most often is probably the 'temperature probe': receiving immediate feedback on how people feel about a certain proposition.
 We found that this is a good way of overcoming a part of the barrier that is put on our natural social interaction by taking place in an online meeting. 
 
-#### Open Atmosphere (v1.2) [todo: open atmorpshere in einer liste von dingen die zu jener beitragen... man könnte das was hier steht am kurz vor die liste packen um klar zu machen was wir mit offener atmosphäre meinen und wieso das cool ist]
-One of our most valuable assets is the friendly atmosphere we have, which allows everyone to open up personally. This is not always and not automatically the case however - this atmosphere sometimes needs to 're-create' itself when the meetup starts. Creation is easier when less people are present (as would be the case in Breakout sessions), and effects tend to spill over to the 'big' meeting even after breakout sessions have concluded. This is one of the reasons we try to have breakout sessions early in our Meetup.
-
-This allows for sharing very personal problems and subsequent solving or at least iteration on them from everyone present. Important: [beware of other-optimizing][other-optimizing].
-
-
 #### Allow Topic Digressions (v1.2)
 Something we see a lot of value in for ourselves is the ability to have frequent topic digressions. Even when a topic is provided, it's not rare to stray to another - sometimes related, sometimes not - topic for a few minutes before continuing the original discussion.
 
@@ -274,8 +275,9 @@ These very valuable interventions happen less in larger groups:
 
 We noticed that having space for these kinds of digressions is what's enabling the previously mentioned friendly and open atmosphere in the first place. The value gained from deeper discussions with digressions is a big part of why people participate.
 
-
-#### Success Factors: Shared Culture (v1.2) [todo: ich bin nicht ganz sicher was die punkte hier dem leser groß bringen. fällt eher unter fun-facts oder? …eventuell könnte man daraus einen aggregierten punkt machen: Shared Culture: We noticed that many of the members have common interests and shared (niche) culture, such as having read HPMOR or other LW reading material or using elaborately configured computer setups. Having discovered these common interests, delving into them was a nice way of connecting with each other, even if this sometimes was fairly off-topic at times (e.g., who would have thought that SUCH a large fraction of the attendees use [custom keyboard layouts][neo-layout]😳).]
+#### Shared Culture
+We noticed that many of the members have common interests and shared (niche) culture, such as having read HPMOR or other LW reading material or using elaborately configured computer setups. Having discovered these common interests, delving into them was a nice way of connecting with each other, even if this sometimes was fairly off-topic at times (but also fun, e.g., who would have thought that SUCH a large fraction of the attendees use [custom keyboard layouts][neo-layout]).
+<!--#### Success Factors: Shared Culture (v1.2) [todo: ich bin nicht ganz sicher was die punkte hier dem leser groß bringen. fällt eher unter fun-facts oder? …eventuell könnte man daraus einen aggregierten punkt machen: ]
 #### HPMOR-fandom (v1.2)
 Most people either came to LW through [HPMOR][hpmor] or ar now thoroughly enjoy reading/listening to it after being introduced to it at the meetup. We had a number of HPMOR discussions and cut some of them short, trying to avoid spoilers for those not yet aware.
 
@@ -292,7 +294,7 @@ We did not talk about personal computer setups for quite some time. When we did,
 Many use non-standard keyboard layouts, with [Neo][neo-layout] being the most common one (optimized for German/English, with comfortable positioning of special characters making programming easier). Linux distributions varied greatly, Windows is rare. Usage of Tiling Window Managers (e.g. i3, sway, xmonad) is overrepresented.
 
 Which is to say: most setups are highly specialized and have been adapted over many years.
-
+-->
 
 
 ### Success Factors: Other (v1.1)
@@ -428,7 +430,7 @@ Even if Corona will hopefully not be a relevant topic in the near future, it mig
 - could be done on much bigger scale: germany-wide, europe-wide, ...
 
 
-## Ⅳ  Conclusion (v1.2)
+## Conclusion (v1.2)
 If your group has been stagnant since lockdown, we would encourage you to try out some of the things we did. We would also like to know what others are doing during lockdown - or did, during lockdown. 
 
 The "How to run a LessWrong Meetup" booklet is very helpful and we have consulted it multiple times.
@@ -485,7 +487,7 @@ Long and intensive Q&A sessions can be very valuable for everyone present, but t
 <!-- put in successfactors and the stuff -->
 
 <!-- # Things we Learned from our Group -->
-<!--## Meetup Structure and Content
+<!-- ## Meetup Structure and Content
 ### Schedule (v1.2)
 The weekly schedule of our meetup looks roughly like this:
 - 19:00 - 19:10 People slowly coming in and welcoming each other
