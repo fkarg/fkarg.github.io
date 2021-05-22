@@ -13,7 +13,8 @@ how you live'.
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
 This was the third suggested book of our Book Circle, which I read in the end
-of october. The second was [Rich Dad, Poor Dad][rich-dad].
+of october. The second was [Rich Dad, Poor Dad][rich-dad], the fourth was
+[Getting Things Done][gtd].
 
 <!-- Short description of where I got the book from and how I got interested in it,
 as well as when I read it. Reference other book reviews if applicable. -->
@@ -205,3 +206,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [7-habits]: ../2020-XX-XX-seven-habits/
 [rich-dad]: ../2021-04-14-rich-dad/
 [gears-level]: https://www.lesswrong.com/tag/gears-level
+[gtd]: ../
