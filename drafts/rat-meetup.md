@@ -30,16 +30,16 @@ Obligatory disclaimer: What worked for us might not work for you, and things tha
 
 
 ### Why create a Meetup (v1.0)
-Our reason to create a meetup was simple: bring together aspiring rationalists from our area, to learn together, to share progress, to help each other, and to socialize. It also helps to get to know new people and to learn about how other people think.
+Our reason to create a meetup was simple: to bring together aspiring rationalists from our area, to learn together, to share progress, to help each other, and to socialize. It also helps to get to know new people and to learn about how other people think.
 
 
 ## Overview
-The first step in creating the meetup group was writing a [post][first-meetup] on LessWrong to announce the meetup. Since the initial video-call, we have been meeting online almost every week. With a regular influx of new members our group has grown to about a dozen regular attendees.
+The first step in creating the meetup group was writing a [post][first-meetup] on LessWrong to announce the meetup. Since the initial video-call, we have been meeting online almost every week. With a regular influx of new members, our group has grown to about a dozen regular attendees.
 
 Similarly, the structure and content of our meetings has evolved over time. Our weekly schedule looks something like this currently:
-- 19:00 - 19:10 People slowly coming in and welcoming each other
-- 19:10 - 19:20 Introductions (if someone new is present)
-- 19:20 - 20:00 Topic 1: Hammertime Sequence
+- 19:00 – 19:10 People slowly coming in and welcoming each other
+- 19:10 – 19:20 Introductions (if someone new is present)
+- 19:20 – 20:00 Topic 1: Hammertime Sequence
 - Topic 2
 - [Topic 3]
 - Scheduling Topics for next Week
@@ -59,8 +59,8 @@ After talking about the most recent Hammertime days, we usually have discussions
 
 Other times, especially when a topic has been explicitly scheduled in the previous week, there might be prepared talks or interactive sessions.
 
-Some of the topics we recently talked about are:
-- note taking systems (e.g. Zettelkasten, roam and obsidian.md, emacs Org-Mode)
+Some topics we recently talked about are:
+- note-taking systems (e.g. Zettelkasten, roam and obsidian.md, emacs Org-Mode)
 - personal management systems and workflows (e.g. GTD-implementations or parts of OS setups)
 - book recommendations and reviews
 - how to track data and visualize it (e.g. health, finances)
@@ -74,7 +74,7 @@ After 10 to 15 min we then come back together and share the most interesting tho
 
 
 ## Initiating a Meetup
-If the idea of attending a meetup sounds appealing to you, why not try creating one yourself? In our experience, there is less to do organisationally than maybe expected.
+If the idea of attending a meetup sounds appealing to you, why not try creating one yourself? In our experience, there is less to do organizationally than maybe expected.
 
 Here is what we did.
 
@@ -95,18 +95,18 @@ We of course needed infrastructure to run an online meetup - but we didn't want 
 
 Our infrastructure changed drastically early on, so here is what we're currently using.
 
-#### Videochat
-The most important part for a virtual meetup is the platform for videocalls. We use a [Big Blue Button][bbb] instance hosted by our local university for our meetups (provided for free to students). This allows for high-quality videochats with breakout sessions and screen sharing. Additionally, no one needs to install anything and the university setup guarantees privacy. The link to the room does not change, but it can only be entered when a moderator is present.
+#### Video chat
+The most important part for a virtual meetup is the platform for video calls. We use a [Big Blue Button][bbb] instance hosted by our local university for our meetups (provided for free to students). This allows for high-quality video chats with breakout sessions and screen sharing. Additionally, no one needs to install anything and the university setup guarantees privacy. The link to the room does not change, but it can only be entered when a moderator is present.
 
 #### Coordination
 Having an instant messenger group ([Signal][signal-messenger] in our case) is useful for coordination between meetups (e.g. 'I'll be late today' or 'I won't be able to make it') and sharing information.
 
-Everyone showing up to a meetup is invited to that group.
+Everyone who shows up to a meetup is invited to that group.
 
 #### Shared documents
 We use a few collaborative online documents that can easily be edited by multiple users in order to store more permanent information. We have a couple of [HedgeDoc][hedgedoc] (formerly CodMD, formerly HackMD) documents that every member can access. Google Docs would probably work just as well.
 
-Currently we use these documents for:
+Currently, we use these documents for:
 - Ideas for future meetups (mostly discussion topics)
 - History of recent meetup topics
 - Book recommendations
@@ -125,7 +125,7 @@ Yes, that's it. Really.
 
 
 ## Reasons for Success
-So far the atmosphere during our meetups has been really great and people are thoroughly enjoying to get together. This allows for sharing personal problems and subsequent solving or at least iteration on them from everyone present (important: [beware of other-optimizing][other-optimizing]).
+So far the atmosphere during our meetups has been really great and people are thoroughly enjoying getting together. This allows for sharing personal problems and subsequent solving or at least iteration on them from everyone present (important: [beware of other-optimizing][other-optimizing]).
 
 We think that there are a few factors beneficial for fostering such a friendly atmosphere. Be aware of us being lucky and survivorship bias.
 
@@ -192,16 +192,16 @@ Everyone who joined found us directly through a post or indirectly through getti
 
 Posts were weekly for the first twelve meetups, and biweekly since. While we want to be open for new members, we do try to keep the 'personal' and private atmosphere we established.
 
-There is less to do organisationally than maybe expected. Writing a post announcing the meetup takes about 10mins. The topics are being decided upon at the last meetup or spontaneously, so there isn't really much to do.
+There is less to do organizationally than maybe expected. Writing a post announcing the meetup takes about 10mins. The topics are being decided upon at the last meetup or spontaneously, so there isn't really much to do.
 
 
 
-#### Make your physical meetup location noticable
+#### Make your physical meetup location noticeable
 Most of our meetups have been in German. We spontaneously decided to hold some in English when someone was not able to participate in German.
 
 We very much welcome new faces, and are more appropriately a 'Karlsruhe Area'-Meetup. Still, we would appreciate it if people were at least aware of where [Karlsruhe][ka] is, and that we might speak German.
 
-We noticed that the quality of expression takes a small but noticable hit when switching to English. To reduce unnecessary friction in discussions, a policy going forward is that we will hold Meetups in German.
+We noticed that the quality of expression takes a small but noticeable hit when switching to English. To reduce unnecessary friction in discussions, a policy going forward is that we will hold Meetups in German.
 
 Since we added 'Germany' in brackets to our description, almost all newcomers were able to participate in German.
 
@@ -221,11 +221,11 @@ We had a point earlier to allow for digressions. Thing is,  you shouldn't let th
 
 If necessary (and they absolutely are) have meta-discussions about the  structure of your meetup. This includes frequency of LW-posts (every meetup?) as well as general structure and topics, as well as why you participate and what your expectations are. Do try not to discuss too much about how to vote properly.
 
-Make separate meetings or at least a separate sessions for those wanting to discuss meta-meta-topics, and present results to the others. Those presenting meta-suggestions to the rest of the group need to be really really thorough in explaining their reasoning behind the proposed changes - rationalists _will_ spot everything that's even slightly odd or not the 'ideal' solution. _That's what we are trained for_. If that happens, most immediate discussion will be about details you miscommunicated. Take in new ideas, but don't stall making decisions.
+Make separate meetings or at least a separate session for those wanting to discuss meta-meta-topics, and present results to the others. Those presenting meta-suggestions to the rest of the group need to be really thorough in explaining their reasoning behind the proposed changes - rationalists _will_ spot everything that's even slightly odd or not the 'ideal' solution. _That's what we are trained for_. If that happens, the most immediate discussion will be about details you miscommunicated. Take in new ideas, but don't stall making decisions.
 
 
 ## Things to keep in mind
-There is a number of things to keep in mind however. Here is a few we think are important.
+There is a number of things to keep in mind, however. Here is a few we think are important.
 
 ### Diversity
 One of the goals of our meetup was to establish a local community that allows rationalists and adjacent interested people to meet and connect with like-minded individuals and talk about the art of rationality. For this, having a variety of different viewpoints is very valuable.
@@ -238,9 +238,9 @@ While it is to be expected that a LessWrong meetup group attracts certain groups
 
 > A change of perspective is worth 80 IQ points -- Michael Nielsen
 
-Still, this is something to watch out for, as new attendees might feel uncomfortable if they don't have CS knowledge and technical discussons occur frequently.
+Still, this is something to watch out for, as new attendees might feel uncomfortable if they don't have CS knowledge and technical discussions occur frequently.
 
-If you have experience with similar sitations, we would like to know more about them. Feel free to share them in a comment below.
+If you have experience with similar situations, we would like to know more about them. Feel free to share them in a comment below.
 
 ### Moderation
 Moderation is not really needed when it's only three or four people, but larger groups need a moderate amount of moderation to stay at least somewhat on topic and schedule.
@@ -250,9 +250,9 @@ Moderation is not really needed when it's only three or four people, but larger 
 At some point we started having (every second) meetups without announcing them on LW first. The goal was to have a balance between including new people and deeper and more personal discussions, with unannounced meetups focusing on these profoundly valuable meetups going deep.
 
 ### Hammertime Integration of New People
-While a clear path to working on hammertime is great for cohesion with current participants, it's hard to integrate new people. Some newcomers tried catching up, others started doing the same days we did. At the same time, not everyone is interested in doing or discussing hammertime anymore.
+While a clear path to working on Hammertime is great for cohesion with current participants, it's hard to integrate new people. Some newcomers tried catching up, others started doing the same days we did. At the same time, not everyone is interested in doing or discussing Hammertime anymore.
 
-To accomodate for that shifting interest, we start out with creating a separate Breakout Session to talk about Hammertime - those not following usually find their own topic to talk about real quick.
+To accommodate for that shifting interest, we start out with creating a separate Breakout Session to talk about Hammertime - those not following usually find their own topic to talk about real quick.
 
 
 ### Changing Plans
@@ -264,7 +264,7 @@ The first few meetups were on the [public Jitsi][jitsi] instance. It was difficu
 It was complicated, because we rotated the Meeting id without using the same Room every time. Video quality suffered with every new member. Having our meetups on a private [BBB][bbb] instance is much more comfortable, with less lag and much better scaling.
 
 #### Public Telegram Group
-We had a Telegram group initially. We then made the mistake of publicly posting the invite-link on LessWrong to our meetup posts. We cannot explain what caused bots to join and advertise esoteric crypto currencies otherwise. This, and a meta-discussion resulted in us migrating to a closed [Signal][signal-messenger] group instead.
+We had a Telegram group initially. We then made the mistake of publicly posting the invite-link on LessWrong to our meetup posts. We cannot explain what caused bots to join and advertise esoteric cryptocurrencies otherwise. This, and a meta-discussion, resulted in us migrating to a closed [Signal][signal-messenger] group instead.
 
 Key Takeaway: Even on LW, don't publicly post invite links to private groups for popular messengers - you're asking for spam.
 
