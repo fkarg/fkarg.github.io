@@ -2,7 +2,6 @@
 layout: post
 published: false
 title: 'Starting a Rationalist Meetup during Lockdown'
-subtitle: subtitle
 cover-img: 'Todo: search for cover-image'
 tags:
 - lesswrong
@@ -14,42 +13,11 @@ tags:
 Starting a Rationalist Meetup during Lockdown (LW Post)
 ===
 
-## Post-Meta (current phase, next steps, planning, ...)
-
-### Status: Phase 2; Content Refinement (v1.1)
-
-
-Notice: we are at ~26% of maximum document size/length. I (Felix) have a nonlocal and version-controlled backup.
-
-Timestamp of last backup: 2021-05-09 23:07
-
-Did significant changes happen since the last backup: absolutely.
-
-### Versioning (v1.3)
-So I started to add versioning numbers to some headers.
-
-- `v0.X` Prototypes, unclear if fitting/necessary at this position
-- `v1.0` is everything that was present when we restructured, in its current form
-- `v1.X` some refining changes happened since the original `1.0`-version, but nothing _too major_
-- `v2.0` major rewrite/refactor
-- `vX.Y` accordingly
-- `semi-final XX` considered `semi-final` by those with their initials added in `XX`. Others should read through this paragraph and either consider it as semi-final as well by adding their name (or initials), or add a note with their objections. It is automatically considered `final` when it has been approved by **three** people. The last to approve should change the version to `final`, instead of adding his initials/name
-    - example: `semi-final fk mt`
-- `final` Don't touch (except for single letter typos)
-
-Increase version numbers somewhat similar to semantic versioning, though we might not need a third version number.
-
-The lowest-level paragraph header which is versioned counts for the respective paragraph(s). `###`-headers with sub-headers may be versioned to make versions of their sub-headers in the table of contents visible.
-
-
-
----
 Authors: [fkarg][fkarg-lw] (my [blog][blog-fkarg]), [crtltab][crtltab-lw], [wilm][wilm-lw]
-<!-- Policy: Dinge werden nur beim ersten 'erwähnen' verlinkt-->
 
 ---
 
-## Backstory and Intentions (semi-final fk)
+## Backstory and Intentions
 In October 2020, `wilm` moved to Karlsruhe and was disappointed that there was no local LessWrong community. In order to change this, he reached out to `fkarg` and together they decide to try to establish a LW Meetup Group in Karlsruhe.
 
 Despite the ongoing pandemic, which made in-person gatherings impossible, the Meetup Group has been going great! In this post we want to share what we have learned about starting and running a local meetup group during lockdown.
@@ -61,7 +29,11 @@ In the following we will explain how we got started, how we organize our meeting
 Obligatory disclaimer: What worked for us might not work for you, and things that didn't work for us might work very well for you.
 
 
-## Overview (semi-final fk)
+### Why create a Meetup (v1.0)
+Our reason to create a meetup was simple: bring together aspiring rationalists from our area, to learn together, to share progress, to help each other, and to socialize. It also helps to get to know new people and to learn about how other people think.
+
+
+## Overview
 The first step in creating the meetup group was writing a [post][first-meetup] on LessWrong to announce the meetup. Since the initial video-call, we have been meeting online almost every week. With a regular influx of new members our group has grown to about a dozen regular attendees.
 
 Similarly, the structure and content of our meetings has evolved over time. Our weekly schedule looks something like this currently:
@@ -81,9 +53,9 @@ The first few meetups were considerably shorter, but recently the open socializi
 
 From our experience, coming up with interesting and worthwhile content is nothing to be worried about as (so far) we always had more ideas for discussion topics or other activities than we manage to schedule.
 
-One of the cornerstones of our meetup has been working through the [Hammertime Sequence][hammertime]. We started committing to work on one or two days of the sequence each week in of the first meetups. This way, working on Hammertime and discussing our experiences and insights is giving our group a 'baseline-purpose' to get together, but this is rarely the highlight of the day. This honor usually belongs to Topic 2 or 3, if not to some discussion that started randomly.
+One of the cornerstones of our meetup has been working through the [Hammertime Sequence][hammertime]. We started committing to work on one or two days of the sequence each week on our second meetup. This way, working on Hammertime and discussing our experiences and insights is giving our group a 'baseline-purpose' to get together, but this is rarely the highlight of the day. This honor usually belongs to Topic 2 or 3, if not to some discussion that started randomly.
 
-After discussing the most recent days of Hammertime, we usually have discussions, or presentations by one or multiple members. Often enough this is not structured: having an initial topic people are interested in talking about is sufficient to provide a seed for long discussions with numerous digressions, usually resulting in a number of other topics being written down to talk about in more detail later.
+After talking about the most recent Hammertime days, we usually have discussions, and sometimes presentations by one or multiple members. Often enough this is not structured: having an initial topic people are interested in talking about is sufficient. Over time, numerous digressions occur and topics shift repeatedly, usually with additional topics written down to talk about in more detail later.
 
 Other times, especially when a topic has been explicitly scheduled in the previous week, there might be prepared talks or interactive sessions.
 
@@ -101,24 +73,24 @@ After 10 to 15 min we then come back together and share the most interesting tho
 
 
 
-## Initiating a Meetup (semi-final fk)
+## Initiating a Meetup
 If the idea of attending a meetup sounds appealing to you, why not try creating one yourself? In our experience, there is less to do organisationally than maybe expected.
 
-Here is what we achieved.
+Here is what we did.
 
-### First Meetup (semi-final fk)
-To get started, we read guides like [How to Run a successful LW Meetup Group][run-lw-meetup]. We tried to figure out what we want to achieve and roughly plan the first meetup (mainly getting to know each other and sharing expectations). Finally, we [wrote a post][first-meetup] in order to announce the new meetup. Don't forget to invite your friends!
+### First Meetup
+To get started, we read guides like the [How to Run a successful LW Meetup Group][run-lw-meetup] or the [Meetup Cookbook][meetup-cookbook]. We tried to figure out what we want to achieve and roughly plan the first meetup (mainly getting to know each other and sharing expectations). Finally, we [wrote a post][first-meetup] in order to announce the new meetup. Don't forget to invite your friends!
 
-The weekly organizational tasks are very manageable. Writing a post to announce the next meetup takes about 10mins, and (from our experience) it's not a problem to rely on the topics being scheduled during the previous meetup or getting decided spontaneously. You don't need to have a solid plan from the get-go.
+Weekly organization is very manageable. Writing a post to announce the next meetup takes about 10mins, and (from our experience) it's not a problem to rely on the topics being scheduled during the previous meetup or getting decided spontaneously. No thoroughly thought-through plan needed.
 
 
-### Roles (semi-final fk)
+### Roles
 [How to Run a successful LW Meetup Group][run-lw-meetup] mentions a number of implicit and explicit roles, such as content provider, welcomer (someone that includes and introduces new people and greets meetup veterans), networker, or organizer.
 
 So far (after about half a year) we did not need to explicitly assign most of these roles. `fkarg` emerged as a moderator, but many others help out with organizing, providing content, and writing the posts.
 
 
-### Infrastructure (semi-final fk)
+### Infrastructure
 We of course needed infrastructure to run an online meetup - but we didn't want to host it ourselves. Using publicly available instances is absolutely fine.
 
 Our infrastructure changed drastically early on, so here is what we're currently using.
@@ -152,7 +124,7 @@ Yes, that's it. Really.
 
 
 
-## Reasons for Success (semi-final fk)
+## Reasons for Success
 So far the atmosphere during our meetups has been really great and people are thoroughly enjoying to get together. This allows for sharing personal problems and subsequent solving or at least iteration on them from everyone present (important: [beware of other-optimizing][other-optimizing]).
 
 We think that there are a few factors beneficial for fostering such a friendly atmosphere. Be aware of us being lucky and survivorship bias.
@@ -161,14 +133,14 @@ We think that there are a few factors beneficial for fostering such a friendly a
 Below, we share a few of these factors along with general tips and reflections.
 
 
-### Success Factors: Social (semi-final fk)
-#### Cameras (semi-final fk)
+### Success Factors: Social
+#### Cameras
 Something that helped create a more personal atmosphere is that we don't communicate via speech only. Video offers additional communication bandwidth which allows for a lot more nuanced interactions. Seeing how others react, even just for a split-second, reduces a lot of the inherent ambiguity in communication.
 
 This is not an explicit policy, but rather an implicit one. We also have the feeling that people in general like to use cameras for interaction more than they ever did before the pandemic.
 
 
-#### Breakout Sessions (semi-final fk)
+#### Breakout Sessions
 We found that with fewer people, a very comfortable atmosphere allowing for honest exchange and topic digression presented itself naturally. Establishing such an atmosphere got a lot harder with more and continuously new people attending. An easy solution for this was to create breakout-sessions (i.e., splitting up the video conference into multiple rooms) with up to five people.
 
 The 'comfortable' atmosphere from the small groups tends to spill over to the 'big' meeting even after breakout sessions have concluded. This is one of the reasons we try to have breakout sessions early in our Meetup.
@@ -183,7 +155,7 @@ Benefits are multi-faceted:
 - It's easier to 'synchronize' with each other to establish a group mentality / atmosphere
 
 
-#### Hand-Signs (semi-final fk)
+#### Hand-Signs
 When your group hits a certain point (~8 people or more), receiving input from everyone becomes a communication challenge and can easily take a long time. In-person meetings sometimes have rules for a number of hand-signs, signaling a number of different things: 
 - 'I want to talk'
 - 'I have an objection to this'
@@ -194,7 +166,7 @@ When your group hits a certain point (~8 people or more), receiving input from e
 Not all of them are being used to the same degree of course, the one used most often is probably the [temperature probe][temperature-probe]: receiving immediate feedback on how people feel about a certain proposition.
 
 
-#### Allow Topic Digressions (semi-final fk)
+#### Allow Topic Digressions
 Something we see a lot of value in for ourselves is the ability to have frequent topic digressions. Even when a topic is provided, it's not rare to stray to another - sometimes related, sometimes not - topic for a few minutes before continuing the original discussion.
 
 These digressions are usually started by someone asking a question about a personal challenge related to the topic or sharing related information.
@@ -207,15 +179,15 @@ These very valuable interventions happen less in larger groups:
 We noticed that having space for these kinds of digressions is what's enabling the previously mentioned friendly and open atmosphere in the first place. The value gained from deeper discussions with digressions is a big part of why people participate.
 
 
-#### Shared Culture (semi-final fk)
+#### Shared Culture
 We noticed that many of the members have a number of common interests. They might be interested in certain (niche) subcultures, having just read HPMOR, or spent a lot of time configuring their computer setup.
 
 Having discovered these common interests, delving into them is a nice way of connecting with each other. These tend to be more off-topic than usual (but also fun, e.g., who would have thought that a large fraction of attendees uses [a custom keyboard layout][neo-layout]).
 
 
 
-### Success Factors: Other (semi-final fk)
-#### Posts on LessWrong (semi-final fk)
+### Success Factors: Other
+#### Posts on LessWrong
 Everyone who joined found us directly through a post or indirectly through getting invited by someone who joined through a weekly post. Most people who joined us at some point stayed.
 
 Posts were weekly for the first twelve meetups, and biweekly since. While we want to be open for new members, we do try to keep the 'personal' and private atmosphere we established.
@@ -224,27 +196,27 @@ There is less to do organisationally than maybe expected. Writing a post announc
 
 
 
-#### Make your physical meetup location noticable (semi-final fk)
+#### Make your physical meetup location noticable
 Most of our meetups have been in German. We spontaneously decided to hold some in English when someone was not able to participate in German.
 
 We very much welcome new faces, and are more appropriately a 'Karlsruhe Area'-Meetup. Still, we would appreciate it if people were at least aware of where [Karlsruhe][ka] is, and that we might speak German.
 
-While we are fully capable of seamlessly switching to English, discussion and especially expression quality will take a hit for us with a different mother tongue. To reduce unnecessary friction in discussions, a policy going forward is that we will hold Meetups in German.
+We noticed that the quality of expression takes a small but noticable hit when switching to English. To reduce unnecessary friction in discussions, a policy going forward is that we will hold Meetups in German.
 
 Since we added 'Germany' in brackets to our description, almost all newcomers were able to participate in German.
 
 
-#### Having Community Experience (semi-final fk)
+#### Having Community Experience
 While it's hard to define what an 'experienced' rationalist would constitute, it's much easier to define 'community experience'. Community Experience is time spent with _other_ rationalist meetups - how they were organized, and what worked for them.
 
 'How to organize a LW meetup' is a great guide - and one we consult frequently -  but having seen an implementation in person as a reference is worth a lot.
 
-Luckily, we have people with community experience. `wilm` was a long-time member of the Berlin community. `wilm` as well as others attended previous meetups at Congress (actually, `fkarg` created his LW account to announce and organize Congress Meetups). Multiple members also attended at least one LW European Community Weekend in Berlin.
+Luckily, we have a few people with community experience (e.g. through the LW European Community Weekend in Berlin, the meetups at Chaos Communication Congress or other events).
 
 Having people who had exposure to other rationalist communities is incredibly helpful for initial formation and later iteration.
 
 
-#### Don't talk too much about the Meta (semi-final fk)
+#### Don't talk too much about the Meta
 We had a point earlier to allow for digressions. Thing is,  you shouldn't let them get out of hand either.
 
 If necessary (and they absolutely are) have meta-discussions about the  structure of your meetup. This includes frequency of LW-posts (every meetup?) as well as general structure and topics, as well as why you participate and what your expectations are. Do try not to discuss too much about how to vote properly.
@@ -252,10 +224,10 @@ If necessary (and they absolutely are) have meta-discussions about the  structur
 Make separate meetings or at least a separate sessions for those wanting to discuss meta-meta-topics, and present results to the others. Those presenting meta-suggestions to the rest of the group need to be really really thorough in explaining their reasoning behind the proposed changes - rationalists _will_ spot everything that's even slightly odd or not the 'ideal' solution. _That's what we are trained for_. If that happens, most immediate discussion will be about details you miscommunicated. Take in new ideas, but don't stall making decisions.
 
 
-## Things to keep in mind (semi-final fk)
+## Things to keep in mind
 There is a number of things to keep in mind however. Here is a few we think are important.
 
-### Diversity (semi-final fk)
+### Diversity
 One of the goals of our meetup was to establish a local community that allows rationalists and adjacent interested people to meet and connect with like-minded individuals and talk about the art of rationality. For this, having a variety of different viewpoints is very valuable.
 
 We did not have this luxury for some time. When we reached the size of about ten regular attendees, all of us were associated with the same faculty - computer science. We had students of varying semesters, graduates and postgraduates, but we were all associated with computer science. In short: our views did not differ about most things, and we had a number of topics thought through for ourselves. This allowed for much more in-depth technical discussions - sometimes even far out of our areas of expertise.
@@ -270,20 +242,20 @@ Still, this is something to watch out for, as new attendees might feel uncomfort
 
 If you have experience with similar sitations, we would like to know more about them. Feel free to share them in a comment below.
 
-### Moderation (semi-final fk)
+### Moderation
 Moderation is not really needed when it's only three or four people, but larger groups need a moderate amount of moderation to stay at least somewhat on topic and schedule.
 
 
-### Non-Public Meetups (v1.0)
-We started doing (every second) meetup without announcing it on LW first. The goal was to have a balance between including new people and deeper and more personal discussions, with unannounced meetups focusing on these profoundly valuable meetups going deep.
+### Non-Public Meetups
+At some point we started having (every second) meetups without announcing them on LW first. The goal was to have a balance between including new people and deeper and more personal discussions, with unannounced meetups focusing on these profoundly valuable meetups going deep.
 
-### Hammertime Integration of New People (v1.0)
+### Hammertime Integration of New People
 While a clear path to working on hammertime is great for cohesion with current participants, it's hard to integrate new people. Some newcomers tried catching up, others started doing the same days we did. At the same time, not everyone is interested in doing or discussing hammertime anymore.
 
 To accomodate for that shifting interest, we start out with creating a separate Breakout Session to talk about Hammertime - those not following usually find their own topic to talk about real quick.
 
 
-### Changing Plans (semi-final fk)
+### Changing Plans
 Of course, not everything you try at first works out. Here are two examples of things we tried, but changed soon after.
 
 #### Public Jitsi
@@ -298,13 +270,13 @@ Key Takeaway: Even on LW, don't publicly post invite links to private groups for
 
 
 
-## Ideas for the future (semi-final fk)
+## Ideas for the future
 These are things we plan to try at some point in the future, some closer and some further away. If you tried them with your group or meetup, feel free to share any experiences about them.
 
-### Meeting in Person (semi-final fk)
+### Meeting in Person
 This probably goes without saying: we would love to meet up in person once it is a reasonable alternative. We haven't thought about this yet, as it seems to be a bit further off.
 
-### Gather.Town (semi-final fk)
+### Gather.Town
 `ctrltab` managed to get us access to the LW town, and we tried it a few weeks ago.
 
 This did not work out so well, as it took us half an hour to get everyone there first. Someone was always muted, and we didn't quite know how it all works. We do think it's ideal for dynamic breakout sessions and discussions though.
@@ -313,7 +285,7 @@ Not just due to lag, but for large-group discussions we prefer our BBB instance 
 
 
 
-### Own Infrastructure (semi-final fk)
+### Own Infrastructure
 Something we thought about is having some form of own infrastructure; primarily a wiki and pads. Our shared documents ([HedgeDoc][hedgedoc]) are on the publicly hosted instance, and 'security' happens by not sharing the pad-links publicly - everyone could edit them.
 
 Having our own infrastructure with backups and access control (at least for writing), would make us more comfortable. Our demographic is, after all, mostly CS people with detailed knowledge of what could go wrong. You need to make the backup before you need it.
@@ -322,8 +294,7 @@ Having our own infrastructure with backups and access control (at least for writ
 
 ### What to do when Hammertime is over? (v1.0)
 <!-- could remove ?? -->
-Hammertime is one of our basic 'pillars' for meeting. We are now close to being done with Hammertime, but we have many more ideas with which courses or similar exercise collections to follow up with. Examples include
-<!-- TODO: Include some links -->
+Hammertime is one of our basic 'pillars' for meeting. We are now close to being done with Hammertime, but we have many more ideas with which courses or similar exercise collections to follow up with. Examples include the [Training Regime][training-regime], the series on [Guilt-Free Motivation][guilt-free] and others.
 
 
 ### Getting enough Content (v1.0)
@@ -334,18 +305,15 @@ We would need to think about it seriously should we run out of ideas at some poi
 
 
 
-## Conclusion (v1.2)
+## Conclusion
 If you think about organizing a new meetup yourself, or you want to try online-meetups with your group, we encourage you to just try it out. We would like to know what other Meetups are doing during lockdown - or did, during lockdown.
 
-The "How to run a LessWrong Meetup" booklet is very helpful to get you started, and we have consulted it multiple times.
+The "How to run a LessWrong Meetup" booklet is very helpful to get started, and we have consulted it multiple times.
 
-If you would love to interact with other people on LessWrong more - join a Meetup, or create your own!
+If you would love to interact more with other people on LessWrong - join a Meetup, or create your own!
 
 ---
 Please share any advice or other relevant experiences.
-
-
-
 
 
 
@@ -355,7 +323,7 @@ Please share any advice or other relevant experiences.
 [run-lw-meetup]: https://wiki.lesswrong.com/images/c/ca/How_to_Run_a_Successful_Less_Wrong_Meetup_Group.pdf
 [first-meetup]: https://www.lesswrong.com/events/jAtroxWapiL5iknPc/karlsruhe-rationalist-meetup
 [fkarg-lw]: https://www.lesswrong.com/users/felix-karg
-[blog-fkarg]: https://fkarg.github.io
+[blog-fkarg]: https://fkarg.me
 [wilm-lw]: https://www.lesswrong.com/users/wilm
 [crtltab-lw]: https://www.lesswrong.com/users/ctrltab
 [signal-messenger]: https://signal.org/en/
@@ -370,6 +338,9 @@ Please share any advice or other relevant experiences.
 [neo-layout]: https://neo-layout.org/
 [ka]: https://goo.gl/maps/Fxm9Az14fLwXuyAcA
 [jitsi]: https://meet.jit.si/
+[training-regime]: https://www.lesswrong.com/s/d922gAtBM8JNzkKKJ
+[guilt-free]: https://mindingourway.com/guilt/
+[meetup-cookbook]: https://tigrennatenn.neocities.org/meetup_cookbook.html
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
