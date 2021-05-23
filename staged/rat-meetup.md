@@ -1,20 +1,18 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Starting a Rationalist Meetup during Lockdown'
-cover-img: 'Todo: search for cover-image'
+cover-img: 'https://res.cloudinary.com/lesswrong-2-0/image/upload/v1498011194/LessWrong_Logo_skglnw.svg'
 tags:
 - lesswrong
 ---
-
-* TOC
-{:toc}
-
-Starting a Rationalist Meetup during Lockdown (LW Post)
-===
-
 Authors: [fkarg][fkarg-lw] (my [blog][blog-fkarg]), [crtltab][crtltab-lw], [wilm][wilm-lw]
 
+<!--
+cover-img: 'https://res.cloudinary.com/lesswrong-2-0/image/upload/v1498011194/LessWrong_Logo_skglnw.svg'
+
+cover-img: 'https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,dpr_2.0,g_custom,h_96,q_auto,w_292/v1/sequences/vnyzzznenju0hzdv6pqb.jpg'
+-->
 ---
 
 ## Backstory and Intentions
@@ -33,6 +31,10 @@ Obligatory disclaimer: What worked for us might not work for you, and things tha
 Our reason to create a meetup was simple: to bring together aspiring rationalists from our area, to learn together, to share progress, to help each other, and to socialize. It also helps to get to know new people and to learn about how other people think.
 
 
+* TOC
+{:toc}
+
+
 ## Overview
 The first step in creating the meetup group was writing a [post][first-meetup] on LessWrong to announce the meetup. Since the initial video-call, we have been meeting online almost every week. With a regular influx of new members, our group has grown to about a dozen regular attendees.
 
@@ -49,7 +51,7 @@ Similarly, the structure and content of our meetings has evolved over time. Our 
 
 The first few meetups were considerably shorter, but recently the open socializing went until around 21:30 to 22:00 o'clock.
 
-(If you want to start your own meetup it is probably advisable, to adjust the structure and content to the interests and preferences of the people attending.)
+(If you want to start your own meetup it is advisable to adjust the structure and content to the interests and preferences of the people attending.)
 
 From our experience, coming up with interesting and worthwhile content is nothing to be worried about as (so far) we always had more ideas for discussion topics or other activities than we manage to schedule.
 
@@ -74,7 +76,7 @@ After 10 to 15 min we then come back together and share the most interesting tho
 
 
 ## Initiating a Meetup
-If the idea of attending a meetup sounds appealing to you, why not try creating one yourself? In our experience, there is less to do organizationally than maybe expected.
+If the idea of attending a meetup sounds appealing to you, why not try creating one yourself? In our experience, there is less to do organizationally than expected.
 
 Here is what we did.
 
@@ -156,14 +158,14 @@ Benefits are multi-faceted:
 
 
 #### Hand-Signs
-When your group hits a certain point (~8 people or more), receiving input from everyone becomes a communication challenge and can easily take a long time. In-person meetings sometimes have rules for a number of hand-signs, signaling a number of different things: 
+When your group hits a certain point (~8 people or more), receiving input from everyone becomes a communication challenge and can easily take a long time. In-person meetings sometimes have rules for a number of hand-signs, signaling a number of different things:
 - 'I want to talk'
 - 'I have an objection to this'
 - 'This is wrong, I can tell you how'
 - 'Applause'
 - and [many more][hand-signals]
 
-Not all of them are being used to the same degree of course, the one used most often is probably the [temperature probe][temperature-probe]: receiving immediate feedback on how people feel about a certain proposition.
+Not all of them are being used to the same degree of course, the one used most often is the [temperature probe][temperature-probe]: receiving immediate feedback on how people feel about a certain proposition.
 
 
 #### Allow Topic Digressions
@@ -180,7 +182,7 @@ We noticed that having space for these kinds of digressions is what's enabling t
 
 
 #### Shared Culture
-We noticed that many of the members have a number of common interests. They might be interested in certain (niche) subcultures, having just read HPMOR, or spent a lot of time configuring their computer setup.
+We noticed that most members have a number of common interests. They might be interested in certain (niche) subcultures, having just read HPMOR, or spent a lot of time configuring their computer setup.
 
 Having discovered these common interests, delving into them is a nice way of connecting with each other. These tend to be more off-topic than usual (but also fun, e.g., who would have thought that a large fraction of attendees uses [a custom keyboard layout][neo-layout]).
 
@@ -192,7 +194,7 @@ Everyone who joined found us directly through a post or indirectly through getti
 
 Posts were weekly for the first twelve meetups, and biweekly since. While we want to be open for new members, we do try to keep the 'personal' and private atmosphere we established.
 
-There is less to do organizationally than maybe expected. Writing a post announcing the meetup takes about 10mins. The topics are being decided upon at the last meetup or spontaneously, so there isn't really much to do.
+There is less to do organizationally than expected. Writing a post announcing the meetup takes about 10mins. The topics are being decided upon at the last meetup or spontaneously, so there isn't really much to do.
 
 
 
@@ -234,7 +236,7 @@ We did not have this luxury for some time. When we reached the size of about ten
 
 This has changed recently, with a number of new people - not associated with computer science - joining us.
 
-While it is to be expected that a LessWrong meetup group attracts certain groups more than others, listening to a broader range of voices is probably beneficial for all of us.
+While it is to be expected that a LessWrong meetup group attracts certain groups more than others, listening to a broader range of voices is beneficial for all of us.
 
 > A change of perspective is worth 80 IQ points -- Michael Nielsen
 
@@ -274,7 +276,7 @@ Key Takeaway: Even on LW, don't publicly post invite links to private groups for
 These are things we plan to try at some point in the future, some closer and some further away. If you tried them with your group or meetup, feel free to share any experiences about them.
 
 ### Meeting in Person
-This probably goes without saying: we would love to meet up in person once it is a reasonable alternative. We haven't thought about this yet, as it seems to be a bit further off.
+This goes without saying: we would love to meet up in person once it is a reasonable alternative. We haven't thought about this yet, as it seems to be a bit further off.
 
 ### Gather.Town
 `ctrltab` managed to get us access to the LW town, and we tried it a few weeks ago.
@@ -345,36 +347,26 @@ Please share any advice or other relevant experiences.
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Publication Checklist:
-- [ ] Content
-    - [ ] Added cover-image
-    - [ ] the beginning of the post is clear and a good description
-    - [ ] the beginning of each paragraph describes
+- [x] Content
+    - [x] Added cover-image
+    - [x] the beginning of the post is clear and a good description
+    - [x] the beginning of each paragraph describes
           the information contained in the paragraph
-    - [ ] each paragraph describes at most one idea
-    - [ ] the end is on a high note/positive outlook or
+    - [x] each paragraph describes at most one idea
+    - [x] the end is on a high note/positive outlook or
           inspirational call to action
-    - [ ] Tell them what you're going to tell them. Then tell them.
+    - [x] Tell them what you're going to tell them. Then tell them.
           Finally, tell them what you told them. - Unknown
 - [ ] Grammar and Typos
-    - [ ] checked with `pylanguagetool` for typos
-    - [ ] checked with `homer` for compulsive hedgers
-    - [ ] checked with `homer` for vague words
+    - [x] checked with `pylanguagetool` for typos
+    - [x] checked with `homer` for compulsive hedgers
+    - [x] checked with `homer` for vague words
     - [ ] checked with `homer` for sentence length
 - [ ] Details
-    - [ ] test-read actual rendered text
+    - [x] test-read actual rendered text
     - [ ] checked how it looks like on mobile
 - [ ] Publication
     - [ ] scheduled publication
-    - [ ] linked in [books][books]
-    - [ ] checked if linked in prior/upcoming posts
-    - [ ] posted link to review on goodreads
+    - [x] checked if linked in prior/upcoming posts
     - [ ] removed this comment
-
-Footnote<sup>[1](#footnote1)</sup> among text.
-- - -
-**Footnotes**:
-<a name="footnote1">1</a>: Text from footnote1.
 -->
-
----
-[books]: ../2019-09-12-books/
