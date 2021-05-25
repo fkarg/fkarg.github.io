@@ -16,7 +16,7 @@ cover-img: 'https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,dpr_2.0
 ---
 
 ## Backstory and Intentions
-In October 2020, `wilm` moved to Karlsruhe and was disappointed that there was no local LessWrong community. In order to change this, he reached out to `fkarg` and together they decide to try to establish a LW Meetup Group in Karlsruhe.
+In October 2020, `wilm` moved to Karlsruhe and was disappointed by the lack of a local LessWrong community. In order to change this, he reached out to `fkarg` and together they decide to try to establish a LW Meetup Group in Karlsruhe.
 
 Despite the ongoing pandemic, which made in-person gatherings impossible, the Meetup Group has been going great! In this post we want to share what we have learned about starting and running a local meetup group during lockdown.
 
@@ -33,6 +33,8 @@ Our reason to create a meetup was simple: to bring together aspiring rationalist
 
 * TOC
 {:toc}
+
+---
 
 
 ## Overview
@@ -158,14 +160,14 @@ Benefits are multi-faceted:
 
 
 #### Hand-Signs
-When your group hits a certain point (~8 people or more), receiving input from everyone becomes a communication challenge and can easily take a long time. In-person meetings sometimes have rules for a number of hand-signs, signaling a number of different things:
+When your group hits a certain point (~8 people or more), receiving input from everyone becomes a communication challenge and can easily take a long time. In-person meetings sometimes have rules for a number of hand-signs, signaling a number of different things: 
 - 'I want to talk'
 - 'I have an objection to this'
 - 'This is wrong, I can tell you how'
 - 'Applause'
 - and [many more][hand-signals]
 
-Not all of them are being used to the same degree of course, the one used most often is the [temperature probe][temperature-probe]: receiving immediate feedback on how people feel about a certain proposition.
+We do of course not use all of these gestures to the same degree, the one used most often is the [temperature probe][temperature-probe]: receiving immediate feedback on how people feel about a certain proposition.
 
 
 #### Allow Topic Digressions
@@ -190,12 +192,16 @@ Having discovered these common interests, delving into them is a nice way of con
 
 ### Success Factors: Other
 #### Posts on LessWrong
-Everyone who joined found us directly through a post or indirectly through getting invited by someone who joined through a weekly post. Most people who joined us at some point stayed.
+Everyone who joined found us directly through a post or indirectly through getting invited by someone who joined through a weekly post.
+This means that the obvious method of attracting members seems to work quite well.
+Most people who joined us at some point also stayed.
 
-Posts were weekly for the first twelve meetups, and biweekly since. While we want to be open for new members, we do try to keep the 'personal' and private atmosphere we established.
+In order to find a balance between attracting new people and retaining the personal atmosphere, we only make a post for every other meetup. This has also worked well so far.
+<!--Posts were weekly for the first twelve meetups, and biweekly since. While we want to be open for new members, we do try to keep the 'personal' and private atmosphere we established.
+
 
 There is less to do organizationally than expected. Writing a post announcing the meetup takes about 10mins. The topics are being decided upon at the last meetup or spontaneously, so there isn't really much to do.
-
+-->
 
 
 #### Make your physical meetup location noticeable
@@ -205,7 +211,7 @@ We very much welcome new faces, and are more appropriately a 'Karlsruhe Area'-Me
 
 We noticed that the quality of expression takes a small but noticeable hit when switching to English. To reduce unnecessary friction in discussions, a policy going forward is that we will hold Meetups in German.
 
-Since we added 'Germany' in brackets to our description, almost all newcomers were able to participate in German.
+Since we added 'Germany' in parentheses to our description, almost all newcomers were able to participate in German.
 
 
 #### Having Community Experience
@@ -221,7 +227,7 @@ Having people who had exposure to other rationalist communities is incredibly he
 #### Don't talk too much about the Meta
 We had a point earlier to allow for digressions. Thing is,  you shouldn't let them get out of hand either.
 
-If necessary (and they absolutely are) have meta-discussions about the  structure of your meetup. This includes frequency of LW-posts (every meetup?) as well as general structure and topics, as well as why you participate and what your expectations are. Do try not to discuss too much about how to vote properly.
+If necessary (and they absolutely are) have meta-discussions about the  structure of your meetup. This includes frequency of LW-posts (every meetup?) as well as general structure and topics, as well as why you participate and what your expectations are. Do try not to discuss too much about things that do not matter much, like how to vote properly.
 
 Make separate meetings or at least a separate session for those wanting to discuss meta-meta-topics, and present results to the others. Those presenting meta-suggestions to the rest of the group need to be really thorough in explaining their reasoning behind the proposed changes - rationalists _will_ spot everything that's even slightly odd or not the 'ideal' solution. _That's what we are trained for_. If that happens, the most immediate discussion will be about details you miscommunicated. Take in new ideas, but don't stall making decisions.
 
@@ -232,7 +238,7 @@ There is a number of things to keep in mind, however. Here is a few we think are
 ### Diversity
 One of the goals of our meetup was to establish a local community that allows rationalists and adjacent interested people to meet and connect with like-minded individuals and talk about the art of rationality. For this, having a variety of different viewpoints is very valuable.
 
-We did not have this luxury for some time. When we reached the size of about ten regular attendees, all of us were associated with the same faculty - computer science. We had students of varying semesters, graduates and postgraduates, but we were all associated with computer science. In short: our views did not differ about most things, and we had a number of topics thought through for ourselves. This allowed for much more in-depth technical discussions - sometimes even far out of our areas of expertise.
+We did not have this luxury for some time. When we reached the size of almost ten regular attendees, all of us were associated with the same faculty - computer science. We had students of varying semesters, graduates and postgraduates, but we were all associated with computer science. In short: our views did not differ about most things, and we had a number of topics thought through for ourselves. This allowed for much more in-depth technical discussions - sometimes even far out of our areas of expertise.
 
 This has changed recently, with a number of new people - not associated with computer science - joining us.
 
@@ -242,7 +248,7 @@ While it is to be expected that a LessWrong meetup group attracts certain groups
 
 Still, this is something to watch out for, as new attendees might feel uncomfortable if they don't have CS knowledge and technical discussions occur frequently.
 
-If you have experience with similar situations, we would like to know more about them. Feel free to share them in a comment below.
+If you have experience with similar situations or have some tips for how to foster diversity, we would like to know more about them. Feel free to share them in a comment below.
 
 ### Moderation
 Moderation is not really needed when it's only three or four people, but larger groups need a moderate amount of moderation to stay at least somewhat on topic and schedule.
@@ -254,7 +260,7 @@ At some point we started having (every second) meetups without announcing them o
 ### Hammertime Integration of New People
 While a clear path to working on Hammertime is great for cohesion with current participants, it's hard to integrate new people. Some newcomers tried catching up, others started doing the same days we did. At the same time, not everyone is interested in doing or discussing Hammertime anymore.
 
-To accommodate for that shifting interest, we start out with creating a separate Breakout Session to talk about Hammertime - those not following usually find their own topic to talk about real quick.
+To accommodate for that shifting interest, we start out with creating a separate Breakout Session to talk about Hammertime - those not following usually quickly find their own topic to talk about.
 
 
 ### Changing Plans
