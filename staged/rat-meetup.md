@@ -27,9 +27,8 @@ In the following we will explain how we got started, how we organize our meeting
 Obligatory disclaimer: What worked for us might not work for you, and things that didn't work for us might work very well for you.
 
 
-### Why create a Meetup (v1.0)
+### Why create a Meetup
 Our reason to create a meetup was simple: to bring together aspiring rationalists from our area, to learn together, to share progress, to help each other, and to socialize. It also helps to get to know new people and to learn about how other people think.
-
 
 * TOC
 {:toc}
@@ -53,7 +52,7 @@ Similarly, the structure and content of our meetings has evolved over time. Our 
 
 The first few meetups were considerably shorter, but recently the open socializing went until around 21:30 to 22:00 o'clock.
 
-(If you want to start your own meetup it is advisable to adjust the structure and content to the interests and preferences of the people attending.)
+(If you want to start your own meetup, it is advisable to adjust the structure and content to the interests and preferences of the people attending.)
 
 From our experience, coming up with interesting and worthwhile content is nothing to be worried about as (so far) we always had more ideas for discussion topics or other activities than we manage to schedule.
 
@@ -133,7 +132,6 @@ So far the atmosphere during our meetups has been really great and people are th
 
 We think that there are a few factors beneficial for fostering such a friendly atmosphere. Be aware of us being lucky and survivorship bias.
 
-<!--We share these and a few other tips below.-->
 Below, we share a few of these factors along with general tips and reflections.
 
 
@@ -197,11 +195,6 @@ This means that the obvious method of attracting members seems to work quite wel
 Most people who joined us at some point also stayed.
 
 In order to find a balance between attracting new people and retaining the personal atmosphere, we only make a post for every other meetup. This has also worked well so far.
-<!--Posts were weekly for the first twelve meetups, and biweekly since. While we want to be open for new members, we do try to keep the 'personal' and private atmosphere we established.
-
-
-There is less to do organizationally than expected. Writing a post announcing the meetup takes about 10mins. The topics are being decided upon at the last meetup or spontaneously, so there isn't really much to do.
--->
 
 
 #### Make your physical meetup location noticeable
@@ -300,17 +293,8 @@ Having our own infrastructure with backups and access control (at least for writ
 
 
 
-### What to do when Hammertime is over? (v1.0)
-<!-- could remove ?? -->
+### What to do when Hammertime is over?
 Hammertime is one of our basic 'pillars' for meeting. We are now close to being done with Hammertime, but we have many more ideas with which courses or similar exercise collections to follow up with. Examples include the [Training Regime][training-regime], the series on [Guilt-Free Motivation][guilt-free] and others.
-
-
-### Getting enough Content (v1.0)
-<!-- could remove (does not provide sufficient value) -->
-We have a list of discussion ideas, and it won't be exhausted anytime soon - in fact, the list is getting longer rather than shorter.
-
-We would need to think about it seriously should we run out of ideas at some point.
-
 
 
 ## Conclusion
