@@ -1,8 +1,8 @@
 ---
 layout: post
 published: false
-title: 'Book: The Miracle Morning'
-subtitle: the 6 habits that will transform your life before 8am
+title: 'Book: Why We Sleep'
+subtitle: subtitle
 cover-img: 'Todo: search for cover-image'
 tags:
 - book
@@ -11,9 +11,9 @@ tags:
 
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
-This was the fifth suggested book of our Book Circle, which I read in the end
-of January. The fourth book was [Getting Things Done][gtd-book], which I have
-read previously. The sixth was [Why We Sleep][why-sleep].
+This was the sixth suggested book of our Book Circle, which I read \<timeframe\>.
+fifth: miracle morning
+seventh: talk like ted
 <!-- Short description of where I got the book from and how I got interested in
 it, as well as when I read it. Reference other book reviews if applicable. -->
 
@@ -95,5 +95,3 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
-[gtd-book]: ../2019-XX-XX-getting-things-done/
-[why-sleep]: ../2021-XX-XX-why-we-sleep/
