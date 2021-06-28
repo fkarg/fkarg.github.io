@@ -17,8 +17,8 @@ I recognized that I had to work on my financial literacy in [Rich Dad, Poor
 Dad][rich-dad] and this was one of the books highly recommended in [Personal
 MBA][personal-mba], which I reading right after Rich Dad. So I got it, and read
 it in late October until the middle of November last year. After reading it, I
-started organizing my finances with [beancount][beancount], and even started
-[writing my own plugins][bc-plugins] for amortizing stuff.
+started [organizing my finances][own-finances] with [beancount][beancount], and
+even started [writing my own plugins][bc-plugins].
 <!-- Short description of where I got the book from and how I got interested in
 it, as well as when I read it. Reference other book reviews if applicable. -->
 
@@ -28,9 +28,9 @@ it, as well as when I read it. Reference other book reviews if applicable. -->
 ---
 
 # Content
-**TLDR**; one or two sentences recollecting the most important takeaways
+The book is all about an approachable way to the foundations of finance. I
+really appreciated it and the newfound knowledge is going to be valuable.
 
-- bulletpoints of some notes
 ## Part One: The Art of Finance (and Why it Matters)
 The first two chapters were of introductory nature, which I really liked. First
 it explains in short what Financial Intelligence consists of, and a number of
@@ -87,17 +87,55 @@ Ratios are only indicators and different for each industry. Make sure your
 assumptions are correct and your reference is good - they will always have
 biases regardless, keep this in mind.
 
+
 ## Part Six: How to Calculate (and Really Understand) ROI
+ROI is fundamental for capital investment decisions. Cash NOW is worth more
+than cash tomorrow - especially if you need it. Future value is a guess at
+best. Don't disregard opportunity costs. Include technicians in cost
+estimation, they likely know best. Be conservative in your estimates, and don't
+disregard the value of time.
+
 ## Part Seven: Applied FI: Working Capital Management
+Working capital has a number of levers. Unsatisfied customers will take their
+time paying. Ask your employees about the financial situation of customers. Try
+to keep days payable outstanding small. How fast is your cash conversion cycle
+(freed up again after being converted to inventory)? Always check distribution,
+not averages.
+
 ## Part Eight: Creating a Financially Intelligent Company
+Businesses tend to fare better with more financially intelligent people,
+especially among managers - since they make more educated decisions.
+Transparency and open communications are an antidote to politics. Be available
+for questions. Always communicate WHY changes are happening and consult
+affected individuals prior to implementing the change.
+
+Financial Literacy is not an one-time training course. The material needs to
+become part of a companies culture. It takes time and effort, but it will be
+worth it. You might want to offer regular internal classes, but don't try to
+make them accountants.
+
+Company growth should be a conscious choice, and needs to be planned for.
+Branch off in others later and focus on one area when small. Also a number of
+further book and material recommendations.
 
 ---
 # Review
+Wow I'm so glad I read that book. But not just reading it, but also
+implementing and using the newfound knowledge. Look at that, I'm now somewhat
+capapble of reading the financial statements of public companies! My friends
+looked at me real weird for that.
+
+I also got around to tracking my personal finances in more detail.
+
+
 - [ ] Glad I read it?
 - [ ] Short verdict
 
 
 ## Main Takeaways
+- a better understanding for the art of finance
+- a 
+
 - [ ] What are the biggest new mental models I created when reading this book?
 - [ ] What were the most significant concepts encountered and why?
 - [ ] How could I have learned these concepts when not reading them in this book?
@@ -169,3 +207,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [personal-mba]: ../2021-XX-XX-personal-mba/
 [beancount]: https://github.com/beancount/beancount
 [bc-plugins]: https://github.com/fkarg/beancount-plugins
+[financial-report]: ../2021-XX-XX-read-financial-report/
+[own-finances]: ../2021-XX-XX-beancount-setup/
