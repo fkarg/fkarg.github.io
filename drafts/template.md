@@ -50,6 +50,8 @@ it, as well as when I read it. Reference other book reviews if applicable. -->
 - [ ] Misc, specific to book
 - [ ] Whom would I recommend reading this book?
 
+## Conclusion
+put it all together
 
 ## Favourite Quotes
 
