@@ -12,30 +12,11 @@ to the New York Times.
 
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
-I got the book in early january and read it in the latter half of april.
+I got the book in early January and read it in the latter half of April 2020. I also bought the second part, [Beyond Order: 12 More Rules for Life][12-more-rules] recently.
 
-I recommend skipping to [content](#content) if you're not interested in details
-_why_ I bought it.
-<!-- Short description of where I got the book from and how I got interested in
-it, as well as when I read it. Reference other book reviews if applicable. -->
-
-## Background: Jordan Peterson
-I first got to know Jordan Peterson from 'youtube lectures', parts of his
-lectures that got uploaded to youtube. Topics included discussions about
-philosophical topics with very applicable advice. At some point I've learned
-about the C-16 fiasko, which turned into something worse than what Peterson
-feared.
-
-Later still, I was surprised by the large amount of attempted politically
-motivated misrepresentation. I don't agree on everything he talks about, but
-his arguments can hardly be disregarded easily.
-
-At this point, his book '12 Rules for Life' has been out for some time already.
-For the longest time, I did not plan on reading it. I did however, read over
-multiple reviews, noticing that some of them clearly tried to misrepresent the
-content. Until I read one (which I sadly cannot find again), claiming the book
-'could be dangerous'. I did not believe it for one second. With my curiousity
-piqued, I bought the book.
+The main reason I bought 12 Rules for Life was because a critic claimed that
+reading it 'could be dangerous'. I just had to see for myself, because that
+couldn't possibly be true.
 
 
 * TOC
@@ -44,10 +25,8 @@ piqued, I bought the book.
 
 ---
 # Content
-**TLDR**; one or two sentences recollecting the most important takeaways
-
 12 Rules for Life describes a consistent and sound framework on how to take
-responsibility for yourself, in even the worst kind of situations.
+responsibility for yourself, bottom-up from the worst possible situations.
 
 - Rule 1: Stand up straight with your shoulders back
 - Rule 2: Treat yourself like you are someone you are responsible for helping
@@ -65,21 +44,18 @@ responsibility for yourself, in even the worst kind of situations.
 The book does not only contain deeper descriptions of these rules, but also
 deeper context in both studies and philosophy surrounding them. While they
 appear to be 'common sense', many people do not follow them.
-For those not
-knowing _why_ they should follow them, Jordan does a good job at both
-explaining _why_ someone might want to follow them, and the profound
-implications for when they do. For each of them, it will improve improve the
-life of those following them, but they obviously work best when adhered to
-together.
 
+For those not knowing _why_ they should follow them, Peterson does a good job
+at both explaining _why_ someone might want to follow them, and the profound
+implications for when they do. Each rule will undoubtably improve the life of
+those following it. They will work even better when applied together.
 
 
 Overall:
-- extreme advocate for taking responsibility for yourself
-- is a basic framework for day-to-day interaction
-- provides stable framework covering the most basic parts, necessary to be
-  capable of taking on the 'worst case'
-- 'If everything else goes down, you can still do these things'
+- extreme advocate for taking self-responsibility
+- a basic framework for interpreting and dealing with day-to-day struggles
+- assuming the 'worst case imaginable', you can still make them work
+- basically, 'If everything else goes down, you can still do these things'
 
 
 
@@ -291,8 +267,9 @@ Writing with a pen of light has something Metaphysical. So he asked some hard
 questions and really answered them, trying to bring them into context together,
 which worked wonderfully. It could have integrated them better together, more
 intertwined and interacting, maybe.
-
 -->
+
+More content notes as HTML-comment.
 
 
 ---
@@ -301,6 +278,9 @@ intertwined and interacting, maybe.
 - [ ] Short verdict
 
 ## Main Takeaways
+### Improvement Everywhere
+
+### Strong Fundamentals
 - [ ] What are the biggest new mental models I created when reading this book?
 - [ ] What were the most significant concepts encountered and why?
 - [ ] How could I have learned these concepts when not reading them in this book?
@@ -309,17 +289,9 @@ intertwined and interacting, maybe.
 - Strong fundamentals, not to be neglected
 - There is always something to improve on for each chapter
 
-It was claimed to be dangerous. I don't see that. Only in the sense that it
-colud be misrepresented, as it quite often is. And if we say that most people
-reading it will notice at least some of the true intent, then this book does
-more good than bad. Even more so when considering that most people actually
-want to understand his message, and not just have read the book to (mis)quote
-him. I think I haven't seen one person accurately quoting him, though it may be
-that I just forgot those that did. Anyway. Takeaways:
-
 As with most things, even though nothing is fundamentally new, it does a good
 job of connecting seemingly seperate things. Some of the more abstract parts
-deeply struck with me, while the others were, well, too abstract, and I was
+deeply stuck with me, while the others were, well, too abstract, and I was
 unable to follow. Even though I'd like to add some Rules myself (about
 continuous self-improvement, researching different disciplines), they provide a
 pretty stable foundation, if you don't have one yet. It has massive
@@ -330,20 +302,47 @@ don't really get that part. Would I recommend it to others? Yes, I enjoyed and
 benefited reading it, and I think most other people would too.
 
 
-## How to Apply
-- [ ] Describe how to apply what I learned in this book
-
 
 <!-- TODO: I still have some notes about that. Include them. -->
 
 ## Criticism
-Sometimes, it hits just the right level of abstraction, with deep references
-providing new insight. But sometimes, I just feel ... lost in the references,
-in the explanation. Sometimes I just have no clue about what he is referencing,
-about the context he is in, the explanations he is building. Even without them,
-most points are very well understandable, it just seems to lack depth somwhat -
-which would have been provided by the references to other people's works, to
-details about Marxism and more. They were there, I just didn't understand them.
+The book has difficulty with varying levels of abstraction, and related to
+that, tangents. Some relevant terms, such as neo-marxists, are not explained,
+but overall the book is very well-rounded.
+
+### Varying levels of Abstraction
+Finding the right level of abstraction and detail for describing a complicated
+concept to someone is hard. Even more so, when you don't know what sort of
+audience and background-knowledge to expect. Some chapters have just the right
+level of abstraction with deep references providing new meaninful new insights,
+but I was missing context in others.
+
+This is maybe the biggest strength as well as weakness of this book:
+the large amount of assumed-to-be-known references allows for deeply insightful
+and concise high-level arguments, rarely seen in any other book. At the same
+time, unfamiliarity makes for a partially confusing read. It was still possible
+to follow and understand most arguments without a full grasp of the context in
+most cases, but their comprehension would have provided significantly deeper
+insights.
+
+### Tangents
+There is a similar dichotomy to the many tangents that were made: I appreciated
+a lot of them, but did not see the connection for some others. Overall, I would
+overwhelmingly prefer to keep them.
+
+### Neo-Marxists
+I am sure that Jordan Peterson knows better, but he still blames a lot of
+problems on Neo-marxists, beginning early on in the book. No explanation as to
+who they are and why they do what they do follows. I did not know whom he was
+referring to even after reading the book. A short explanation for relevant
+terms would have been helpful. Arguably, the internet can provide that.
+
+## Conclusion
+Do not make a mistake: this is a very well-rounded book. While it is no _light_
+read, it is easy to read. I appreciate the insights in many different
+directions.
+-> Fundamentals
+
 
 - [ ] Clearly structured?
 - [ ] Good Examples?
@@ -457,3 +456,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [books]: ../2019-09-12-books/
 [light-candle]: https://youtu.be/ukDEYRXoH2g?t=87
 [detailed]: https://www.nateliason.com/notes/12-rules-for-life-jordan-peterson
+[12-more-rules]: ../2021-XX-XX-twelve-more-rules/
+[7-habits]: ../2020-09-02-seven-habits/
