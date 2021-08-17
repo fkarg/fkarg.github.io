@@ -7,17 +7,20 @@ cover-img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/12_Rules_f
 tags:
 - book
 ---
-Review of 'the most influential public intellectual[s']' bestseller, according
+Review of "the most influential public intellectual's" bestseller, according
 to the New York Times.
 
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
-I got the book in early January and read it in the latter half of April 2020. I also bought the second part, [Beyond Order: 12 More Rules for Life][12-more-rules] recently.
+I got the book in early January and read it in the latter half of April 2020. I
+also bought the second part, [Beyond Order: 12 More Rules for
+Life][12-more-rules], recently.
 
 The main reason I bought 12 Rules for Life was because a critic claimed that
 reading it 'could be dangerous'. I just had to see for myself, because that
 couldn't possibly be true.
 
+In short: I can recommend it to everyone on a path of self-development.
 
 * TOC
 {:toc}
@@ -26,14 +29,14 @@ couldn't possibly be true.
 ---
 # Content
 12 Rules for Life describes a consistent and sound framework on how to take
-responsibility for yourself, bottom-up from the worst possible situations.
+responsibility for yourself, bottom-up, from the worst possible situations.
 
 - Rule 1: Stand up straight with your shoulders back
 - Rule 2: Treat yourself like you are someone you are responsible for helping
 - Rule 3: Make friends with people who want the best in you
 - Rule 4: Compare yourself who you were yesterday, not who someone else is today
 - Rule 5: Do not let your children do anything that makes you dislike them
-- Rule 6: Set your house in perfect order before you critizise the world
+- Rule 6: Set your house in perfect order before you criticize the world
 - Rule 7: Pursue what is meaningful (not what is expedient)
 - Rule 8: Tell the truth - or, at least, don't lie
 - Rule 9: Assume that the person you are listening to might know something you don't
@@ -43,7 +46,7 @@ responsibility for yourself, bottom-up from the worst possible situations.
 
 The book does not only contain deeper descriptions of these rules, but also
 deeper context in both studies and philosophy surrounding them. While they
-appear to be 'common sense', many people do not follow them.
+appear to be 'common sense', plenty of people do not follow them - me included.
 
 For those not knowing _why_ they should follow them, Peterson does a good job
 at both explaining _why_ someone might want to follow them, and the profound
@@ -51,11 +54,11 @@ implications for when they do. Each rule will undoubtably improve the life of
 those following it. They will work even better when applied together.
 
 
-Overall:
-- extreme advocate for taking self-responsibility
+Overall, this book is:
+- an extreme advocate for taking self-responsibility
 - a basic framework for interpreting and dealing with day-to-day struggles
-- assuming the 'worst case imaginable', you can still make them work
-- basically, 'If everything else goes down, you can still do these things'
+- sound in practice, you can still make it work in the worst case imaginable
+- basically, 'If everything else turns south, you can still do these things'
 
 
 
@@ -269,92 +272,73 @@ which worked wonderfully. It could have integrated them better together, more
 intertwined and interacting, maybe.
 -->
 
-More content notes as HTML-comment.
+You can find my detailed notes to each chapter as HTML-comments. I figured I
+don't want to edit them. You can find [very good notes here][detailed].
 
 
 ---
 # Review
-- [ ] Glad I read it?
-- [ ] Short verdict
+Not just from a literary perspective -- Jordan Peterson has his way with words
+-- but also from a content perspective, this is a very good book, and one I
+would highly recommend it to anyone on a path of self- or character-development.
 
 ## Main Takeaways
-### Improvement Everywhere
-
-### Strong Fundamentals
-- [ ] What are the biggest new mental models I created when reading this book?
-- [ ] What were the most significant concepts encountered and why?
-- [ ] How could I have learned these concepts when not reading them in this book?
-- [ ] Did learning these concepts improve my life?
-
-- Strong fundamentals, not to be neglected
-- There is always something to improve on for each chapter
-
 As with most things, even though nothing is fundamentally new, it does a good
-job of connecting seemingly seperate things. Some of the more abstract parts
+job of connecting supposedly separate things. Some of the more abstract parts
 deeply stuck with me, while the others were, well, too abstract, and I was
-unable to follow. Even though I'd like to add some Rules myself (about
-continuous self-improvement, researching different disciplines), they provide a
-pretty stable foundation, if you don't have one yet. It has massive
-implications itself, understanding even half of them requires a lifetime
-already. It's certainly food for thought and well-written. but I can't fully
-figure out what's with these neo-marxists he blames about all kind of things. I
-don't really get that part. Would I recommend it to others? Yes, I enjoyed and
-benefited reading it, and I think most other people would too.
-
-
+unable to follow. Even though I'd like to add rules myself (e.g. about
+continuous self-improvement, researching different disciplines), they provide
+an abundantly stable foundation, if you don't have one yet. It has massive
+implications itself -- understanding even half of them might take a
+lifetime already. It's certainly food for thought and well-written.
 
 <!-- TODO: I still have some notes about that. Include them. -->
 
 ## Criticism
 The book has difficulty with varying levels of abstraction, and related to
-that, tangents. Some relevant terms, such as neo-marxists, are not explained,
-but overall the book is very well-rounded.
+that, tangents. Certain relevant terms, such as neo-marxists, are not
+explained, but overall the book is very well-rounded.
 
 ### Varying levels of Abstraction
 Finding the right level of abstraction and detail for describing a complicated
 concept to someone is hard. Even more so, when you don't know what sort of
-audience and background-knowledge to expect. Some chapters have just the right
-level of abstraction with deep references providing new meaninful new insights,
-but I was missing context in others.
+audience and background-knowledge to expect. There are chapters with just the
+right level of abstraction and deep references providing new and meaningful
+insights, but I was missing context in others.
 
-This is maybe the biggest strength as well as weakness of this book:
+This is both the biggest strength as well as weakness of this book:
 the large amount of assumed-to-be-known references allows for deeply insightful
-and concise high-level arguments, rarely seen in any other book. At the same
-time, unfamiliarity makes for a partially confusing read. It was still possible
+and concise high-level arguments, rarely seen in a book. At the same time,
+unfamiliarity makes for a partially confusing read. It was still possible
 to follow and understand most arguments without a full grasp of the context in
-most cases, but their comprehension would have provided significantly deeper
-insights.
+the majority cases, but their comprehension would have provided significantly
+deeper insights.
 
 ### Tangents
-There is a similar dichotomy to the many tangents that were made: I appreciated
-a lot of them, but did not see the connection for some others. Overall, I would
-overwhelmingly prefer to keep them.
+There is a similar dichotomy to the numerous tangents that were made: I
+appreciated a lot of them, but did not see the connection for others. Overall,
+I would overwhelmingly prefer to keep them.
 
 ### Neo-Marxists
 I am sure that Jordan Peterson knows better, but he still blames a lot of
 problems on Neo-marxists, beginning early on in the book. No explanation as to
 who they are and why they do what they do follows. I did not know whom he was
-referring to even after reading the book. A short explanation for relevant
+referring to, even after reading the book. A short explanation of relevant
 terms would have been helpful. Arguably, the internet can provide that.
 
 ## Conclusion
 Do not make a mistake: this is a very well-rounded book. While it is no _light_
-read, it is easy to read. I appreciate the insights in many different
-directions.
--> Fundamentals
+read, it is easy to read. I appreciate the insights in divers directions,
+considerably refining my fundamentals.
 
-
-- [ ] Clearly structured?
-- [ ] Good Examples?
-- [ ] Clear Explanations?
-- [ ] Concise reasons why?
-- [ ] Is the advice actionable?
-- [ ] Book is easily skimmable?
-- [ ] Misc, specific to book
-- [ ] Whom would I recommend reading this book?
+I would recommend this book to everyone on a path of self- or
+character-development - you won't regret it. It's not written for the faint of
+heart, and e.g. [The Seven Habits of Highly Effective People][7-habits] is more
+lighthearted and optimistic, there is a place and necessity for the
+uncompromising take 'Twelve Rules for Life' has. Go get it, you won't regret
+it.
 
 ## Favourite Quotes
-
 > It's not what we don't know that gets us in trouble. It's what we know for
 > sure that just ain't so. - Mark Twain
 
@@ -454,7 +438,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
-[light-candle]: https://youtu.be/ukDEYRXoH2g?t=87
 [detailed]: https://www.nateliason.com/notes/12-rules-for-life-jordan-peterson
 [12-more-rules]: ../2021-XX-XX-twelve-more-rules/
 [7-habits]: ../2020-09-02-seven-habits/
