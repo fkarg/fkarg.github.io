@@ -7,17 +7,16 @@ cover-img: 'https://personalmba.com/img/personalmba-cover-us.png'
 tags:
 - book
 ---
-Josh Kaufmanns international bestseller, which "takes you you on a worthwile
+Josh Kaufmanns international bestseller, which "takes you on a worthwhile
 tour of the key ideas in business", according to Seth Godin.
 
-I learned a lot reading this book, even though my main takeaways are
-methodical, and not actually part of the content.
-
-I would recommend this book to everyone looking for a broad overview of what
-business is supposed to be like, or a starting point on how to learn about it.
+Even though many takeaways are methodical, I learned a lot while reading this
+book. I would recommend this book to everyone looking for a broad overview of
+what business is supposed to be like, or a starting point on how to learn about
+it.
 
 I received this book as a birthday present together with [Rich Dad Poor
-Dad][rich-dad] and read it in late September and early October. The
+Dad][rich-dad] and read it in late September and early October 2020. The
 recommendation for this book showed up many times, so I wanted to see for
 myself.
 
@@ -49,33 +48,31 @@ model][mental-model] of his providing a deeper
 
 ---
 # Review
-I'm absolutely glad I read this book. My recommendation would not to read it in
-concept-for-concept-order. My biggest takeaway was not even actual content
-within the book, but the approach to split everything in [mental
-models][mental-models].
+I'm absolutely glad I read this book. My recommendation would be to not read it
+in concept-for-concept-order, but use it as a reference guide.
 
 
 ## Main Takeaways
 My biggest takeaway, by far, was the approach to split everything in mental
 models for better understanding. The book recommendations are a treasure chest,
-and writing down goals were the other main takeaways.
+and 'writing down goals first' were other valuable takeaways.
 
 
 ### Mental Models
 Contrary to most other books, it did not have one big central theme that is
-explored in multiple facets. Instead, a large number of small concepts is
-introduced.
+explored in multiple facets. Instead, numerous small concepts are introduced.
 
-This approach, to split everything apart in [mental models][mental-models] has
-been my biggest takeaway. I believe there is a lot of value to be gained by
-being much more explicit about the mental models we create and use.
+This approach, to split everything apart in mental models, has been my biggest
+takeaway. I believe there is a lot of value to be gained by being much more
+explicit about the mental models we create and use.
 
 
 ### Book Recommendations
 While the book provided only very important concepts, it regularly recommended
 higher-quality books which go deeper. This alone is worth a lot, given enough
-time. I have followed two of the many recommendations so far, which turned out
-to be high-quality books providing exactly what I was missing. The full list of
+time to follow them. For example, I got [Financial Intelligence for
+Entrepreneurs][fi] soon after and read it starting in late October. You can
+read how I restructured my finances in [its review][fi]. The full list of
 recommended books can be found [here][books-recommended].
 
 
@@ -86,25 +83,29 @@ and retention by writing down one or two sentences about _why_ you want to read
 the book, and _what_ it is you want to learn by reading it. I did so for every
 book I have read since.
 
+The same principle applies for any other (bigger) goal as well, and is
+exceedingly powerful when used.
+
 
 
 ## Criticism
-This is probably the most clearly structured book I have read so far. It's
+This is likely the most clearly structured book I have read so far. It's
 absolutely easy to skim over and find parts that interest you. Introductions
 to each section are short and concise, and the provided definitions for each
 concept have clearly been thought about multiple times.
 
 Long examples are rare, but present when providing significant advantage in
-understanding. Short examples are all over the place. Descriptions in general
-are pretty concise, and I would be hard-pressed to say that anything was
-'missing' for most descriptions.
+understanding. Everything is further explained using short examples.
+Descriptions in general are exceptionally concise, and very much practically
+useful.
 
-This is not a book with mostly actionable advice. It's mostly _applyable_, or
-_usable_ advice.
+This is not a book with primarily actionable advice. It's predominantly
+_applyable_, and _usable_ advice.
 
+## Conclusion
 Everyone with interest in what an MBA is supposed to provide can only gain from
-reading this book, knowledge-wise. I understand why this book is seen as a
-'business-classic', and would call it something similar myself.
+reading this book, knowledge-wise. I certainly understand why this book is seen
+as a 'business-classic'.
 
 
 Recommended for everyone who is looking for a broad overview of what business
@@ -112,7 +113,6 @@ is supposed to be like, or a starting point on how to learn about it.
 
 
 ## Favourite Quotes
-
 > Self-education is, I firmly believe, the only kind of education there is. - Isaac Asimov
 
 > Whoever best describes the problem is the one most likely to solve it. - Dan Roam (Back of the Napkin)
@@ -126,12 +126,12 @@ is supposed to be like, or a starting point on how to learn about it.
 
 > Changing the world is difficult, if you can't pay the bills.
 
-> No businessplan survives first contact with customers. - Steven Gary Blank
+> No business plan survives first contact with customers. - Steven Gary Blank
 
 > Things which matter most must never be at the mercy of things which matter
 > least. - Johann Goethe
 
-> If you're not embarresed by the first version of your product, you've
+> If you're not embarrassed by the first version of your product, you've
 > launched too late. - Read Hoffman, founder of LinkedIn
 
 > High-quality attention must be earned.
@@ -144,7 +144,7 @@ is supposed to be like, or a starting point on how to learn about it.
 > a system is to give you access to Force Multipliers you would not be able to
 > access any other way.
 
-> Change the Reference Level, and your behaviour will change automatically.
+> Change the Reference Level, and your behavior will change automatically.
 
 > All you need to know is that something you want is possible, and you'll find
 > a way to get it.
@@ -154,7 +154,7 @@ is supposed to be like, or a starting point on how to learn about it.
 
 > Making the decision will always be your responsibility.
 
-> When you communicate the intent behind your plans, you allow the people ou
+> When you communicate the intent behind your plans, you allow the people you
 > work with to intelligently respond to changes as they happen.
 
 > If your social circle is not supporting your goals, change your social circle.
@@ -162,8 +162,9 @@ is supposed to be like, or a starting point on how to learn about it.
 > ... if there are more than seven or eight variables or dependencies, the
 > cognitive scope limitation kicks in and confusion takes over.
 
-> you can't reliably optimize a system's performance across multiple variables
-> at once. Pick the most important one and focus your efforts accordingly.
+> ... you can't reliably optimize a system's performance across multiple
+> variables at once. Pick the most important one and focus your efforts
+> accordingly.
 
 
 <!--
@@ -206,3 +207,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [mental-model]: https://fs.blog/mental-models/
 [books-recommended]: https://personalmba.com/best-business-books/
 [rich-dad]: ../2021-04-14-rich-dad-poor-dad/
+[fi]: ../2021-XX-XX-financial-intelligence/
