@@ -265,6 +265,8 @@ exclude:
     # other stuff
   - drafts/
   - docs/
+  - staged/*.py
+  - staged/*.txt
     # nix-shell stuff
   - Gemfile-nix-shell
   - default.nix
