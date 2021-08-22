@@ -123,6 +123,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
-[12-rules]: ../2020-XX-XX-twelve-rules/
+[12-rules]: ../2021-02-10-twelve-rules-for-life/
 [everything-fcked]: ../2020-06-20-everything-f-cked/
 [power-habit]: ../2020-09-16-power-of-habit/
