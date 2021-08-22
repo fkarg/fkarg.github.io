@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Book: 12 Rules for Life'
 subtitle: an antidote to chaos
 cover-img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/12_Rules_for_Life_Front_Cover_%282018_first_edition%29.jpg/398px-12_Rules_for_Life_Front_Cover_%282018_first_edition%29.jpg'
@@ -20,7 +19,8 @@ The main reason I bought 12 Rules for Life was because a critic claimed that
 reading it 'could be dangerous'. I just had to see for myself, because that
 couldn't possibly be true.
 
-In short: I can recommend it to everyone on a path of self-development.
+In short: I can recommend it to everyone on a path of self-development. You can
+find more books I have read and reviewied [here][books].
 
 * TOC
 {:toc}
@@ -279,8 +279,8 @@ don't want to edit them. You can find [very good notes here][detailed].
 ---
 # Review
 Not just from a literary perspective -- Jordan Peterson has his way with words
--- but also from a content perspective, this is a very good book, and one I
-would highly recommend it to anyone on a path of self- or character-development.
+-- but also from a content perspective, this is an excellent book. Certainly
+one I highly recommend to anyone on a path of self- or character-development.
 
 ## Main Takeaways
 As with most things, even though nothing is fundamentally new, it does a good
@@ -289,7 +289,7 @@ deeply stuck with me, while the others were, well, too abstract, and I was
 unable to follow. Even though I'd like to add rules myself (e.g. about
 continuous self-improvement, researching different disciplines), they provide
 an abundantly stable foundation, if you don't have one yet. It has massive
-implications itself -- understanding even half of them might take a
+implications itself -- understanding even half of them could take a
 lifetime already. It's certainly food for thought and well-written.
 
 <!-- TODO: I still have some notes about that. Include them. -->
@@ -306,13 +306,13 @@ audience and background-knowledge to expect. There are chapters with just the
 right level of abstraction and deep references providing new and meaningful
 insights, but I was missing context in others.
 
-This is both the biggest strength as well as weakness of this book:
-the large amount of assumed-to-be-known references allows for deeply insightful
-and concise high-level arguments, rarely seen in a book. At the same time,
-unfamiliarity makes for a partially confusing read. It was still possible
-to follow and understand most arguments without a full grasp of the context in
-the majority cases, but their comprehension would have provided significantly
-deeper insights.
+This is both the biggest strength and weakness of this book: the large amount
+of assumed-to-be-known references allows for deeply insightful and concise
+high-level arguments, rarely seen in a book. At the same time, unfamiliarity
+makes for a partially confusing read. It was still possible to follow and
+understand most arguments without a full grasp of the context in the majority
+cases, but their comprehension would have provided significantly deeper
+insights.
 
 ### Tangents
 There is a similar dichotomy to the numerous tangents that were made: I
@@ -346,12 +346,13 @@ it.
 > destruction, integrated, and strength of character. This is one of the most
 > difficult lessons of life.
 
-> He whose life has a Why can bear almost any how. - Friedrich Nietzsche
+> He whose life has a Why to live for can bear almost any how. - Friedrich
+> Nietzsche
 
 > You might be winning, but you are not growing, and growing might be the most
 > important form of winning.
 
-> If [your childrens] actions make you dislike them, think what an effect they
+> If [your children's] actions make you dislike them, think what an effect they
 > will have on other people, who care much less about them than you - they will
 > punish them, socially and severely.
 
@@ -368,7 +369,7 @@ it.
 > You may find that if you attend to these moral obligations, once you have
 > placed "make the world better" at the top of your value hierarchy, your
 > experience ever-deepening meaning. It's not bliss. It's not happiness. It is
-> something more like atonement for the criminal fact of your fracured and
+> something more like atonement for the criminal fact of your fractured and
 > damaged Being.
 
 > Taking the easy way out or telling the truth - those are not merely two
@@ -377,12 +378,12 @@ it.
 
 > the smallest of lies is where the big lie starts
 
-> Hell comes when lies have destroyed the relationship between individual or
+> Hell comes when lies have destroyed the relationship between an individual or
 > state and reality itself. [...] Everything becomes frustration and
 > disappointment. [...] Tortured by constant failure, the individual becomes
 > bitter.
 
-> In Paradise, everyone speaks the truth. That's what makes it Paradies.
+> In Paradise, everyone speaks the truth. That's what makes it Paradise.
 
 > _Memory is a tool_. Memory is the pasts guide to the future. If you remember
 > that something bad happened, and you can figure out why, then you can try to
