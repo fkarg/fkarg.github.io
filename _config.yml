@@ -234,10 +234,18 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      published: true
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       readtime: true # add word count on all blog posts
-      tex: false
+      tex: false  # deactivate tex-support globally. activate individually.
+  -
+    scope:
+      path: "staged"
+    values:
+      layout: "post"
+      readtime: true
+      published: true
   -
     scope:
       path: "" # all files

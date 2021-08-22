@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: 'Book: Title'
 subtitle: subtitle
 cover-img: 'Todo: search for cover-image'
