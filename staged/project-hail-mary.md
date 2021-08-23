@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Book: Project Hail Mary'
 subtitle: Science Fiction from the Author of 'The Martian'
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/a/ad/Project_Hail_Mary%2C_First_Edition_Cover_%282021%29.jpg'
@@ -51,15 +50,15 @@ I don't intend to spoil it to you too much, so here's the books descriptions:
 ---
 # Review
 I had an absolute blast reading it. I thought it was starting slow, but the
-story picks up pace fast. The book is interesting throughout, and I was on edge
-continuously, wanting to know what would happen next. Exceptionally
-well-written too, even if that's what is expected of a book of this caliber.
+story is picking up pace fast. The book is interesting throughout -- I always
+wanted to know what would happen next. Exceptionally well-written too, though
+that's maybe what is expected of a book of this caliber.
 
 ## Criticism
 I really liked the amnesia-style storytelling structure of the book. Things
 were happening, and we were slowly getting more and more of the necessary
 context. It was mostly concise and very detailed in its world-building while
-being interesting and building suspense throughout.
+being both interesting and building suspense throughout.
 
 This may sound real bad in a bit, but I did like the book quite a lot. The
 world was consistent - mostly.
@@ -130,12 +129,13 @@ Collide][three-worlds] (which you should give a read).
 ## Conclusion
 As you might have noticed, I really like this book, even though I have some ...
 nitpicks. Maybe that is exactly _why_ I like it so much? Anyways, go get it
-yourself and read it. I can borrow you mine if you ask nicely (and I haven't
-borrowed it to someone else already).
+yourself and read it. Or ask me to borrow it -- though I might have lent it to
+someone else already.
 
 
 ## Favourite Quotes
-I didn't take notes when reading it, so no quotes today.
+I didn't take notes when reading it, so no quotes today. But, you can find some
+very good quotes [on goodreads][quotes].
 
 
 ## Other Recommendations
@@ -156,6 +156,8 @@ which I really liked), but it turned out to be a disappointment. I've also been
 told that `Enders Game` is way better than the movie, and it's a shame I didn't
 get to reading it yet (Today I Learned: it's a [whole series][ender-chron], not
 just a single book, huh).
+
+You can find a lot more books I have read and reviewed [here][books].
 
 
 <!--
@@ -198,3 +200,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [ender-chron]: https://en.wikipedia.org/wiki/Ender%27s_Game_(novel_series)#chronological_order
 [atp]: https://en.wikipedia.org/wiki/Adenosine_triphosphate
 [three-worlds]: https://www.lesswrong.com/s/qWoFR4ytMpQ5vw3FT
+[quotes]: https://www.goodreads.com/work/quotes/79106958-project-hail-mary
