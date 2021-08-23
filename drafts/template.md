@@ -56,6 +56,7 @@ put it all together
 
 > Example quote
 
+You can find a lot more books I have read and reviewed [here][books].
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
