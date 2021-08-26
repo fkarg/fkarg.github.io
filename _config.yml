@@ -15,6 +15,7 @@ navbar-links:
   More:
     - Privacy Policy: "privacy_policy"
     - Favicon Attribution: "attribution"
+  Search: "search"
   About Me: "aboutme"
 
 # --- Logo --- #

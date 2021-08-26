@@ -692,6 +692,9 @@ footer .footer-custom-content {
     font-size: 0.875rem;
   }
 }
+.search-heading h1 {
+    font-size: 3.125rem;
+}
 
 .header-section.has-img .no-img {
   margin-top: 0;
