@@ -1,9 +1,8 @@
 ---
 layout: post
-published: false
 title: Dotfile-Management with Ansible
 subtitle: even if you don't know ansible yet
-cover-img: 'Todo: search for cover-image'
+cover-img: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png'
 tags:
 - setup
 ---
@@ -143,7 +142,8 @@ you'd like to make changes to them just once and see the effects without having
 to re-run the ansible playbook. Which is to say, you'd like to create a symlink
 to your configuration file, instead of copying it. Nothing easier than that:
 
-``` # part of main.yml
+```yaml
+# part of main.yml
 - name: Link File A to B
   file:
     src: /path/to/A
@@ -162,7 +162,8 @@ Assuming you are a fan of viewing stars, and your favourite piece of software
 is `stellarium`. When being on a ubuntu-based distribution, you would install
 it with `sudo apt install stellarium`. Let's include that in our script.
 
-``` # part of main.yml, v1
+```yaml
+# part of main.yml, v1
 - name: Install stellarium
   shell: sudo apt install stellarium
 ```
@@ -174,11 +175,11 @@ especially if you need to input some additional data. Actually, there is an apt
 module.
 
 
-``` # part of main.yml, v2
+```yaml
+# part of main.yml, v2
 - name: Install stellarium
   apt:
     name: stellarium
-    
 ```
 
 That's it? Not yet, I'm afraid.If you try, it will fail because a normal user
@@ -206,7 +207,8 @@ Ignoring an actually failing task is considerably easy, you only need to add
 `ignore_errors: true` to the module. So the fully non-working but also
 error-ignoring installation of `stellarium` using `apt` looks like this:
 
-``` # part of main.yml, v3
+```yaml
+# part of main.yml, v3
 - name: Install stellarium
   apt:
     name: stellarium
@@ -226,7 +228,8 @@ Privilige escalation in ansible (to sudo/root) works in most cases with a
 simple `become: true`.
 
 
-``` # part of main.yml, v3
+```yaml
+# part of main.yml, v3
 - name: Install stellarium
   apt:
     name: stellarium
@@ -234,7 +237,7 @@ simple `become: true`.
 ```
 
 However, this will fail if privilige escalation requires a password on your
-computer (as it should!). This can be mitigated by calling 
+computer (as it should!). This can be mitigated by calling
 `ansible-playbook main.yml -K` instead of the previous without `-K`. This will
 prompt you for a password that will be tried whenever a privilige escalation
 is supposed to happen and a password is required.
@@ -254,7 +257,8 @@ NixOS/CentOS/Arch/... as well, where `apt` is not available?
 So we might want to ensure that our task is only run when `apt` is actually
 available. Loosely speaking, this restricts us to debian and ubuntu.
 
-``` # part of main.yml, v4
+```yaml
+# part of main.yml, v4
 - name: Install stellarium
   apt:
     name: stellarium
@@ -274,7 +278,8 @@ You can see all available facts with the `setup` module, as described
 
 In a playbook, we can build a task to do the same:
 
-``` # part of main.yml
+```yaml
+# part of main.yml
 - debug: var=ansible_facts
 ```
 
@@ -300,9 +305,7 @@ receive values based on the success of a prior task
 Slowly figuring out what to do, step by step. Including the stepwise
 'escalation' to the more formally correct methods.
 
-
-Footnote<sup>[1](#footnote1)</sup> among text.
-
+## Conclusion
 
 
 

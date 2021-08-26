@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 title: Those who are Responsible
 subtitle: subtitle
 tags:
@@ -255,13 +254,10 @@ they are different:
 
 
 ---
-**Footnotes**:
-
-<a name="footnote1">1</a>: Text from footnote1.
 [hpmor]: https://hpmor.com
 [ch90]: https://hpmor.com/chapter/90
-[circle of influence]: 
-[role]: https://en.wikipedia.org/wiki/Role
+[circle of influence]: https://www.abrahampc.com/blog/2020/3/16/what-can-i-do-the-circles-of-concern-and-influence
+[rote]: https://en.wikipedia.org/wiki/Role
 [7-habits]: ../2020-09-02-seven-habits/
 [gtd]: ../2020-07-16-getting-things-done/
 [signaling]: https://wiki.lesswrong.com/wiki/Signaling
