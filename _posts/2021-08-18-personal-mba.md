@@ -72,8 +72,8 @@ While the book provided only very important concepts, it regularly recommended
 higher-quality books which go deeper. This alone is worth a lot, given enough
 time to follow them. For example, I got [Financial Intelligence for
 Entrepreneurs][fi] soon after and read it starting in late October. You can
-read how I restructured my finances in [its review][fi]. The full list of
-recommended books can be found [here][books-recommended].
+read how I restructured my finances in [my financial setup][own-finances]. The
+full list of recommended books can be found [here][books-recommended].
 
 
 ### Clarify your Goal
@@ -173,4 +173,5 @@ is supposed to be like, or a starting point on how to learn about it.
 [mental-model]: https://fs.blog/mental-models/
 [books-recommended]: https://personalmba.com/best-business-books/
 [rich-dad]: ../2021-04-14-rich-dad-poor-dad/
-[fi]: ../2021-XX-XX-financial-intelligence/
+[own-finances]: ../2021-XX-XX-beancount-setup/
+[fi]: ../2021-08-25-financial-intelligence/
