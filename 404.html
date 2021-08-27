@@ -9,15 +9,31 @@ permalink: /404.html
   <h1>You might want to try again later.</h1>
 
   <p>
-  I sometimes create forward-links to <a
-      href="https://fkarg.me/tags/#book">book reviews</a> I have not
-  written yet. You can recognize them by a number of 'XX' in the URL. When the
-  review is written, these 'XX's will be replaced with the publication date,
-  and you will find a valid page there. <br>
+  I sometimes create forward-links to <a href="{{ 'tags/#book' | relative_url }}">book reviews</a> I have not written yet. You can recognize them by a
+  number of 'XX' in the URL. When the review is written, these 'XX's will be
+  replaced with the publication date, and you will find a valid page there.
+  <br>
+  </p>
+  <p>
+  If the post exists, you will find it by searching. Why not give it a try?
+  </p>
+  <p>
+  <form action="/search" method="get">
+    <input type="text" id="search-box" name="query">
+    <input type="submit" value="search">
+  </form>
+
+    <script>
+    var searchBox = document.getElementById('search-box');
+    var re = /https?:\/\/(localhost:4000|www.fkarg.me)\/(20..-..-..-|staged\/)?/;
+    var slash = /\//;
+    searchBox.value = window.location.href.replace(re, '').replace(slash, '');
+    </script>
+
   </p>
 
   <p>
-  Check again later.
+  Search for it or try again later.
   </p>
 
   <br/>

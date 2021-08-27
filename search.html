@@ -3,6 +3,18 @@ layout: search
 title: Search through Cogitate
 published: true
 ---
+
+<div> When searching, note the following:
+    <ul>
+        <li>Every post <b>with at least one word matching</b> is shown</li>
+        <li>Posts are sorted based on an overall 'match score'</li>
+        <li>Occurences in url, title or subtitle are weighed more</li>
+        <li>Occurences of multiple search terms are weighed more</li>
+        <li>Fuzzy matching (up to edit distance one) is active</li>
+        <li>Matching the beginning of word is a full match</li>
+    </ul>
+</div>
+
 <form action="{{ 'search' | relative_url }}" method="get">
   <label for="search-box">Search:</label>
   <input type="text" id="search-box" name="query">
@@ -38,7 +50,6 @@ published: true
         "post_entry": {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length | jsonify}},
         "url": "{{ post.url | xml_escape }}",
         "date": "{{ post.date | date: date_format }}",
-        // "thumbnail": "",
         "thumbnail": "{% if thumbnail != "" %}{{ thumbnail | absolute_url }}{% endif %}",
         "tags": "{% for tag in post.tags %}<a href=\"{{ 'tags' | absolute_url }}#{{- tag -}}\">{{- tag -}}</a> {% endfor %}"
       }
