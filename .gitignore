@@ -25,3 +25,8 @@ vendor
 result
 gemset.nix
 .jekyll-metadata
+.jekyll-cache
+
+# pdfs
+docs
+*.pdf

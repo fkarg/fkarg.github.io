@@ -270,10 +270,14 @@ exclude:
   - staged/*.txt
     # nix-shell stuff
   - Gemfile-nix-shell
+  - shell.nix
   - default.nix
   - gemset.nix
   - vendor
   - result
+  - .jekyll_cache
+  - .gitignore
+  - .git
 
 plugins:
   - jekyll-paginate
