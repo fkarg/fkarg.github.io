@@ -61,7 +61,7 @@ context. It was mostly concise and very detailed in its world-building while
 being both interesting and building suspense throughout.
 
 This may sound real bad in a bit, but I did like the book quite a lot. The
-world was consistent - mostly.
+world was consistent -- mostly.
 
 {: .box-error :}
 Warning: **SPOILERS ahead.** Skip ahead to [conclusion](#conclusion) if you want to
@@ -84,11 +84,10 @@ confusing parts.
 - I think I paid attention to it, but it was never explicitly mentioned if all
   of astrophage mass can be turned into radiation energy or not, or what
   happens to 'empty' astrophage.
-- I found it unusual that nitrogen levels increased mostly just marginally each
-  time, instead of mostly stagnation with infrequent breakthroughs, as is the
-  pattern in most penecilin experiments with bacteria. I don't know too much
-  about that, but it was different from my expectation. Can someone
-  confirm/deny this gut feeling?
+- I found it unusual that nitrogen levels increased at most marginally each
+  time, instead of stagnation with infrequent breakthroughs. At least, that's
+  the setup in most bacteria [penecilin experiments][penecilin], so that's
+  where my intuition comes from. Can someone confirm/deny this gut feeling?
 - Someone else mentioned the noticable absence of checklists, which are quite
   commonly used in both aviation and space travel. Many of his 'stupid
   mistakes' could have easily been avoided.
@@ -98,32 +97,33 @@ confusing parts.
   close to the other taumobia-80-infected ship. I would have expected at least
   these tanks (and later his full ship) to be contaminated again.
 
-If I'm wrong on any of these, feel free to write a comment or mail, and I'll be
-happy to correct it (and mention your name, if you want me to!).
+I'd gladly be proven wrong on any of these, feel free to write me a comment or
+mail!
 
 ### Neglecting Their Main Job
 Something I found at the very least weird was how they were barely starting to
 communicate around halfway through the book. And they were bound to continue
 like this for a while longer, by the pace they were going. I was wondering:
 "what's stopping you from attempting to do some proper research, you established
-rudimentary communication after all". But, well, they didn't - and it turned
+rudimentary communication after all". But, well, they didn't -- and it turned
 out not to be necessary, but still.
 
-Yeah I know. "Don't berate someone when he's successful". It's still a bad
+Yeah I know. "Don't berate someone when he's successful" -- it's still a bad
 policy. I would have had a real urgency to get this solved first, even if I
-just made a new friend - he's in a similar situation as well.
+just made a new friend -- he's in a similar situation as well.
 
-### Physics Experiments
+### Overly Precise Physics Experiments
 It really irritated me that he did ten gravity experiments first before
 confirming that yes, he is indeed subjected to about 1.5 gravities. I would
 have measured it once for a rough measure and thrice for maybe slightly more
-precise results - but he was only looking for a ballpark figure anyways!
+precise results -- and he was only looking for a ballpark figure anyways!
 
 ### Surprisingly Human
 All things considered, Eridians appeared to be strangely human. Even when going
 by just Rocky, his psychology and behaviour seemed strangely human. I was
 expecting a culture-clash somewhat akin to what happened in [Three Worlds
-Collide][three-worlds] (which you should give a read).
+Collide][three-worlds] (which you should give a read). In the real world, even
+humans seem more alien than Rocky sometimes.
 
 
 ## Conclusion
@@ -201,3 +201,4 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [atp]: https://en.wikipedia.org/wiki/Adenosine_triphosphate
 [three-worlds]: https://www.lesswrong.com/s/qWoFR4ytMpQ5vw3FT
 [quotes]: https://www.goodreads.com/work/quotes/79106958-project-hail-mary
+[penecilin]: https://www.youtube.com/watch?v=plVk4NVIUh8
