@@ -117,3 +117,16 @@ I have a few things in mind I want to write about, including but not limited to:
   experimenting progress, and create clearer mental models
 
 - overview of how I manage my own finances (incl. beancount)
+
+- superimposing intent: We (humans) try to see small systems with 'intent'
+  everywhere, even though we only _impose_ that intent on these systems almost
+  every time. Examples: functions in code ('oh, it _tries_ to ...'), or
+  biological processes ('the cell _wants_ to have a constant supply of energy for ...')
+
+- We value text: while most of the internet prefers pictures and videos for
+  entertainment, we prefer to have information as text. Why? because while
+  pictures/videos are certainly helpful, they rarely can describe the full
+  picture with the necessary nuance.
+
+- I don't have the privilige: I have actual challenges and problems to solve,
+  to help numerous people first.
