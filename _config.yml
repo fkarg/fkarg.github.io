@@ -16,6 +16,7 @@ navbar-links:
     - Privacy Policy: "home/privacy_policy"
     - Favicon Attribution: "home/attribution"
   Search: "search"
+  Now: "home/now"
   About: "home/about"
 
 # --- Logo --- #
