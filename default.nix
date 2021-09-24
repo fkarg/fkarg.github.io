@@ -17,7 +17,8 @@ with import <nixpkgs> { };
 
 let jekyll_env = bundlerEnv {
     name = "jekyll_env";
-    ruby = ruby_2_6;
+    # ruby = ruby_2_6;
+    inherit ruby;
     gemfile = ./Gemfile-nix-shell;
     lockfile = ./Gemfile.lock;
     gemset = ./gemset.nix;
@@ -25,7 +26,7 @@ let jekyll_env = bundlerEnv {
 in
   stdenv.mkDerivation rec {
     name = "jekyll_env";
-    buildInputs = [ jekyll_env ];
+    buildInputs = [ jekyll_env bundix ruby ];
 
     shellHook = ''
       exec ${jekyll_env}/bin/jekyll serve --watch --incremental

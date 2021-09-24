@@ -8,8 +8,6 @@ _site
 Thumbs.db
 ehthumbs.db
 
-Gemfile.lock
-
 beautiful-jekyll-theme-*.gem
 
 # python and virtualenv
@@ -23,7 +21,6 @@ beautiful-jekyll-theme-*.gem
 vendor
 .bundle
 result
-gemset.nix
 .jekyll-metadata
 .jekyll-cache
 
