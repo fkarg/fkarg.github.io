@@ -13,10 +13,10 @@ author: Felix Karg
 
 navbar-links:
   More:
-    - Privacy Policy: "privacy_policy"
-    - Favicon Attribution: "attribution"
+    - Privacy Policy: "home/privacy_policy"
+    - Favicon Attribution: "home/attribution"
   Search: "search"
-  About Me: "aboutme"
+  About: "home/about"
 
 # --- Logo --- #
 
