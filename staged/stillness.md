@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Book: Stillness is the Key'
 subtitle: An Ancient Strategy for Modern Life
 cover-img: 'https://assets.thalia.media/img/artikel/7c6f9d3bc6576be598f6cab907cfd9b0bccad6cd-00-00.jpeg'
@@ -16,7 +15,8 @@ twenty-first century life', according to Robert Greene.
 
 I got this book sometime in the end of September 2020, and read it from late
 november to early January. I read [Drive][drive] just before, and [Miracle
-Morning][miracle-morning] after.
+Morning][miracle-morning] after. You can find more books I have read and
+reviewed [here][books].
 <!-- Short description of where I got the book from and how I got interested in
 it, as well as when I read it. Reference other book reviews if applicable. -->
 
@@ -357,6 +357,6 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [books]: ../2019-09-12-books/
 [freedom-discipline]: ../../2020-11-10-extreme-ownership/#discipline-equals-freedom
 [ego-enemy]: ../../2020-09-23-ego-enemy/
-[drive]: ../2021-XX-XX-drive/
+[drive]: ../2021-06-12-drive/
 [miracle-morning]: ../2021-XX-XX-miracle-morning/
 [personal-mba]: ../2021-XX-XX-personal-mba/
