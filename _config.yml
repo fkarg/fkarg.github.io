@@ -42,24 +42,25 @@ navbar-links:
 social-network-links:
   rss: true
   email: "fkarg10@gmail.com"
-  #   facebook: daattali
   github: fkarg
-  #   twitter: yourname
-#  reddit: yourname
 
-#  linkedin: felix-karg-33973b178
+    # linkedin: felix-karg-33973b178
+    # stackoverflow: "3162351/fkarg"
+    # telegram: fkarg_me
+    # telephone: +4917681501822
+    # calendly: fkarg
+
+#  facebook: daattali
+#  twitter: yourname
+#  reddit: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
 #  snapchat: yourname
 #  instagram: yourname
 #  youtube: user/yourname
 #  spotify: yourname
-#  telephone: +14159998888
 #  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
