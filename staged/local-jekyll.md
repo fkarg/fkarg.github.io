@@ -195,6 +195,10 @@ configurations, which the newfound way won't. In my case, it doesn't need to.
   triggering a page rebuild or being available on navigation. I exclude e.g.
   the `README.md` or my `drafts/` folder with unfinished posts.
 - If you're confused about `nix-shell`, see [this introduction to nix-shell][nix-shell].
+- Even if your server is runnig locally doesn't mean all of your resources are
+  local and available offline. My site used to have many external `javascript`
+  and `css` dependencies, which aren't available without internet, making it
+  look very weird and mostly unfunctional when offline.
 
 
 ---
