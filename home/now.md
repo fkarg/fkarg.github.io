@@ -8,7 +8,7 @@ published: true
 (Never seen a now page before? [Here][nnn] is what it’s all about.)
 
 ## Studying
-I moved to Karlsruhe in October 2019 to do my Masters degree in Computer
+I moved to Karlsruhe in October 2019 to do my Master's degree in Computer
 Science. Maybe I'll be done in 2023. I really enjoy being a student, but I
 don't really enjoy, you know, exams.
 
@@ -26,7 +26,7 @@ I'm reading about one nonfiction book every month, taking notes. Sometime
 later, I [write a review][books] about it.
 
 ## Dancing
-I started dancing (latin and standard) a few weeks ago.
+I started dancing (Latin and Standard) a few weeks ago.
 
 ## Rationality Meetup
 I'm an active member of Karlsruhe Rationality, a weekly meetup to talk about
