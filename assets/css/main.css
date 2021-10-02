@@ -810,6 +810,8 @@ footer .footer-custom-content {
 
 table {
   padding: 0;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
 }
 table tr {
   border-top: 1px solid #cccccc;
