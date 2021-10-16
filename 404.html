@@ -2,6 +2,10 @@
 layout: default
 title: 404 - Page not found
 permalink: /404.html
+redirect_from:
+- /staged/
+- /home/
+- /assets/
 ---
 
 <div class="text-center" id="redirecting">
@@ -31,7 +35,7 @@ permalink: /404.html
 
     <script>
     var searchBox = document.getElementById('search-box');
-    var re = /https?:\/\/(localhost:4000|www.fkarg.me)\/(20..-..-..-|staged\/)?/;
+    var re = /https?:\/\/(localhost:4000|www.fkarg.me|blog.fkarg.de)\/(20..-..-..-)?/;
     var slash = /\//;
     searchBox.value = window.location.href.replace(re, '').replace(slash, '');
     </script>
