@@ -32,18 +32,23 @@ later, I [write a review][books] about it.
 I really enjoy dancing (Latin and Standard), which I started again a few weeks
 ago.
 
-## Rationality Meetup
-I'm an active member of Karlsruhe Rationality, a weekly meetup to talk about
-character development, transhumanism, how to make better decisions, the future,
-and many other things with very smart people. You can find our group schedule
-and public meetings [here][ka-rat].
+## Server
+Recently I got myself a server. I'm now learning a lot about configuration and
+administration. You can find it on [fkarg.de](https://fkarg.de). No guarantee
+for uptime, I'm playing around a lot.
+
+## Organizing Meetups
+About a year ago, we initiated [Karlsruhe Rationality][ka-rat], a weekly meetup
+to talk about character development, transhumanism, how to make better
+decisions, the future, and many other fascinating topics.
+
 
 ---
 
 You might also be interested in my [about][about] page.
 
 ---
-**Edit**: last updated on 2021-10-03
+**Edit**: last updated on 2021-10-15
 
 [books]: https://fkarg.me/2019-09-12-books/
 [about]: ../about/
