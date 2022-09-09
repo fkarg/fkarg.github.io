@@ -9,31 +9,37 @@ tags:
 Review of Ryan Holidays book that 'teaches us all how to maintain our focus and
 presence of mind amid the sometimes overwhelming conflicts and troubles of
 twenty-first century life', according to Robert Greene.
-<!-- Short quote what the book is supposed to be -->
 
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
 I got this book sometime in the end of September 2020, and read it from late
-november to early January. I read [Drive][drive] just before, and [Miracle
-Morning][miracle-morning] after. You can find more books I have read and
-reviewed [here][books].
-<!-- Short description of where I got the book from and how I got interested in
-it, as well as when I read it. Reference other book reviews if applicable. -->
+November to early January. Immediately before I read [Drive][drive], and
+[Miracle Morning][miracle-morning] after. You can find more books I have read
+and reviewed [here][books]. During the time I read it, I was struggling with
+the isolation due to lockdown and had to properly face my ego. Keeping my calm
+was going to be critical if I wanted to have any chance long-term.
 
 * TOC
 {:toc}
 
 ---
 # Content
-It is a book about stillness, as the title suggests. It has many names, but has
-been remarked to be very important by many people across history. Only a fool
-would ignore something like this.
+
+It is a book about stillness -- mental resilience. The concept has many names,
+but has been called essential by many important figures all throughout history.
+In my own words, I think of it as
+
+> Having the self-confidence to deal with whatever life throws at you.
+
+What follows are notes that I took while reading. They're not edited, but
+I think this is better than not publishing this post. Section [Review](#review)
+onward is edited properly again.
 
 ## Part One: Mind
 
-- as long as you can reach peace within, the whole world could be at war and
+- As long as you can reach peace within, the whole world could be at war and
   you could still think, work, and be well.
-- The modern world is not quiet. Stillness allows for focus, preserverenece and success
+- The modern world is not quiet. Stillness allows for focus, perseverance and success
 - Everyone depends on leaders having a calm mind. Good news: it can be learned
 
 - being present might be the hardest thing in the modern world
@@ -68,6 +74,7 @@ would ignore something like this.
 - stillness necessitates being detached from the outcome (which one it will be: success/failure)
 
 ## Part Two: Spirit
+
 - Sources of stillness and elements of a balanced life:
     - an open heart
     - being true to oneself
@@ -78,8 +85,8 @@ would ignore something like this.
     - it needs to be about more than yourself
 - those who seek stillness must come to:
     - develop a strong moral compass
-    - steer clear of envy and jelousy and harmful desires
-    - come to terms with the painful woulnds of their childhood
+    - steer clear of envy, jelousy and harmful desires
+    - come to terms with the painful wounds of their childhood
     - practice gratitude and appreciation for the world around them
     - cultivate relationships and love in their life
     - place belief and control in the hands of something larger than themselves
@@ -198,41 +205,60 @@ would ignore something like this.
 
 ---
 # Review
-I am quite glad to have read the book. I was looking for some insight into
-stillness. stillness didn't fail me, it is I who failed stillness.
 
-Recommended for everyone anxious or striving for inner calm.
+Reading the book calmed me down a bit. I was looking for insight into
+stillness, and I think I gained a little. Stillness didn't fail me, it is I who
+failed stillness.
 
-- [ ] Glad I read it?
-- [ ] Short verdict
 
+{: .box-note}
+**Note in 2022**: This is even more true now than it has been last year. I've
+been focusing a lot on university and exams recently, stressing myself out
+without proper breaks. I need to re-learn stillness all over again, and simply
+going over my notes is helping already.
+
+
+Highly recommended for everyone anxious or striving for inner calm, but the
+writing style of Ryan Holiday is not for everybody. The content would much
+better fit for a 'one chapter daily'-style, which the [Daily Stoic
+Newsletter][daily-stoic] provides. I subscribed, though I'm usually skimming
+the subject if at all, but it might be something for you.
 
 ## Main Takeaways
 
+- Its valuable time spent thinking about stillness
 
 ### Reminders
+
 It did serve as a good reminder that stillness takes a continuous and active
 effort to achieve.
 It does list a number of things, which I know
 are good for me, but I currently neglect. Hobbies are one such thing, but I
-don't think that will change before I'm vaccinated.
+don't think that will change before I'm vaccinated<sup>[1](#footnote1)</sup>.
 
 Still. All of these are very good reminders about the core of living a
 fulfilled life in the present. Usually, worry and stress will take over.
 
 ### A new way of Reading
+
 I figured out something else, but it isn't directly related to the book itself.
 It's more about how I'm reading books.
 
 Chronological (front-to-back) might not be the best way. In this case, reading
 chapters I'm interested in and skipping others I'm not interested in would have
-probably kept my motivation higher and I wouldn't have 'skipped' reading so
+probably kept my motivation higher, and I wouldn't have 'skipped' reading so
 often. Even a few books later, I haven't tried this yet - but I will, should a
 similarly disconnected book come across next time. [The Personal
-MBA][personal-mba] would have been a good candidate for this as well.
+MBA][personal-mba] would have been an excellent candidate for this as well.
 
 
 ## Criticism
+
+- I have an aversion to Ryan Holiday's style of writing
+- A lot of focus on exemplary behaviors, little on underlying principles
+
+### Aversion
+
 Sometimes when reading a book, I get an aversion to continue reading it for a
 bit. So instead of reading this book, I read some other book, or not read at
 all. This happened with [Ego is the Enemy][ego-enemy], and I hoped to not
@@ -242,40 +268,44 @@ bit.
 
 Something similar happened when reading `Stillness is the Key`. At this point,
 I assume it is because of how Ryan Holiday structures his books: Many small
-stories and concepts, loosely tied together. The mistake is probably trying to
-read it as a book, from front to back - there is rarely chronological
-dependency after all.
+stories and concepts, loosely tied together. My mistake probably lies in trying
+to read it as a book, from front to back -- in books from Ryan Holiday, there
+is little chronological dependency.
 
-He focuses a lot on stillness and other behaviours being held high by
-numerous noteworthy historical figures, and not so much on the underlying
-principles _why_ or when this would not work. Scientific references are rare,
-historic ones all over the place. It is still a great book, and I believe most
-claims are correct, but I would have preferred more references to scientific
-backing - at least where they exist.
+### Focus on Behaviors, not Principles or Foundations
+
+While Ryan Holiday focuses a lot on stillness and its many forms exemplified
+by numerous noteworthy historical figures, he neglects highlighting the
+underlying principles of _why_ and _how_ it works. Scientific references are
+rare, yet historic references are all over the place.
+
+It is still a great book. I believe most claims are correct, but I would
+have much preferred more scientific backing, and more exploration of the
+underlying reasons. Other books that may provide some deeper principles are,
+e.g. [12 Rules for Life][12-rules], [7 Habits][7-habits], what I'm currently
+reading, [13 Things Mentally Strong People Don't Do][13-things], and what I
+recently ordered, [The Confident Mind][confident-mind].
+
+## Conclusion
+
+Stillness tries to collect wisdom on mental fortitude throughout history. It
+reads more like a personal research journal than anything else. This style is
+not for everybody, but this makes it a densely-packed reminder containing
+copious pieces of valuable advice. You need to try reading it should my review
+have sparked an interest in you, but note its different style.
 
 
-
-- [ ] Clearly structured?
-- [ ] Good Examples?
-- [ ] Clear Explanations?
-- [ ] Concise reasons why?
-- [ ] Is the advice actionable?
-- [ ] Book is easily skimmable?
-- [ ] Misc, specific to book
-- [ ] Whom would I recommend reading this book?
-
-
-## Favourite Quotes
+## Favorite Quotes
 
 > Love is only real if it's happening right now. (page 27)
 
-> "If you wish to improve", Epicectus once said, "be content to appear clueless
-> or stupid in extraneuos matters." (page 31)
+> "If you wish to improve", Epictetus once said, "be content to appear clueless
+> or stupid in extraneous matters." (page 31)
 
 > Whatever you face, whatever you're doing will require, first and foremost,
 > that you don't defeat yourself. (page 43)
 
-> The world is like muddy water. To see through it we have to let things
+> The world is like muddy water. To see through it, we have to let things
 > settle. (page 47)
 
 > People who don't read have no advantage over those who cannot read. (page 65)
@@ -300,7 +330,7 @@ backing - at least where they exist.
 > to be fragile. (page 165)
 
 > Epicurus once said that the wise will accomplish three things in their life:
-> leave written works behind them, be financially prudent und provide for the
+> leave written works behind them, be financially prudent and provide for the
 > future, and cherish country living. That is to say, we will be reflective, we
 > will be responsible and moderate, and we will find the time to relax in
 > nature. (page 183)
@@ -308,7 +338,7 @@ backing - at least where they exist.
 > You don't solve a maze by rushing through. You have to stop and think. (page
 > 188)
 
-> You were born free - free of stuff, free of burdon. (page 212)
+> You were born free - free of stuff, free of burden. (page 212)
 
 > If solitude is the school of genius, as the historian Edward Gibbon put it,
 > then the crowded, busy world is the purgatory of the idiot. (page 215)
@@ -360,3 +390,10 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [drive]: ../2021-06-12-drive/
 [miracle-morning]: ../2021-XX-XX-miracle-morning/
 [personal-mba]: ../2021-XX-XX-personal-mba/
+[daily-stoic]: https://dailystoic.com/
+[12-rules]: ../2021-02-10-twelve-rules-for-life/
+[7-habits]: ../2020-09-02-seven-habits/
+[13-things]: ../2022-XX-XX-mentally-strong/
+[confident-mind]: ../2022-XX-XX-confident-mind/
+<a name="footnote1">[1](#reminders)</a>: Note: Written in early 2021, I received my first shot a few weeks later and quite early by normal population availability.
+
