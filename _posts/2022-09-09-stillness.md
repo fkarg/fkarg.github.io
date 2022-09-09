@@ -389,7 +389,7 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 [ego-enemy]: ../../2020-09-23-ego-enemy/
 [drive]: ../2021-06-12-drive/
 [miracle-morning]: ../2021-XX-XX-miracle-morning/
-[personal-mba]: ../2021-XX-XX-personal-mba/
+[personal-mba]: ../2021-08-18-personal-mba/
 [daily-stoic]: https://dailystoic.com/
 [12-rules]: ../2021-02-10-twelve-rules-for-life/
 [7-habits]: ../2020-09-02-seven-habits/

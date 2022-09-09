@@ -418,7 +418,7 @@ I would recommend it to everyone struggling with responsibility or leadership.
 ---
 [books]: ../2019-09-12-books/
 [rich-dad]: ../2021-04-14-rich-dad-poor-dad/
-[personal-mba]: ../2020-XX-XX-personal-mba/
+[personal-mba]: ../2021-08-18-personal-mba/
 [7-habits]: ../2020-09-02-seven-habits/
 [ego-enemy]: ../2020-09-23-ego-enemy/
 [synergy]: ../2020-09-02-seven-habits/#habit-6-synergize

@@ -173,7 +173,7 @@ read it, but it's unlikely that I'll take another look into it.
 
 ---
 [books]: ../2019-09-12-books/
-[personal-mba]: ../2021-0X-XX-personal-mba/
+[personal-mba]: ../2021-08-18-personal-mba/
 [critic]: https://www.johntreed.com/blogs/john-t-reed-s-real-estate-investment-blog/61651011-john-t-reeds-analysis-of-robert-t-kiyosakis-book-rich-dad-poor-dad-part-1
 [lottery]: https://www.lovemoney.com/gallerylist/64958/lottery-winners-who-blew-the-lot
 [fi-entrep]: ../2021-0X-XX-financial-intelligence-entrepreneurs/
