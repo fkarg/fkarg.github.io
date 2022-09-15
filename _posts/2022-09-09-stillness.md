@@ -5,6 +5,7 @@ subtitle: An Ancient Strategy for Modern Life
 cover-img: 'https://assets.thalia.media/img/artikel/7c6f9d3bc6576be598f6cab907cfd9b0bccad6cd-00-00.jpeg'
 tags:
 - book
+- mental resilience
 ---
 Review of Ryan Holidays book that 'teaches us all how to maintain our focus and
 presence of mind amid the sometimes overwhelming conflicts and troubles of

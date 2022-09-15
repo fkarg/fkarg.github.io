@@ -6,6 +6,7 @@ subtitle: How to maximize your Efficiency, Productivity and Effectiveness
 cover-img: 'https://images-eu.ssl-images-amazon.com/images/I/51U-RrwqaQL._SY264_BO1,204,203,200_QL40_ML2_.jpg'
 tags:
 - book
+- productivity
 ---
 Review of Amy Branns book that 'Not only provides us with greater understanding
 on how the brain works, but also gives us useful tools on how to make the brain

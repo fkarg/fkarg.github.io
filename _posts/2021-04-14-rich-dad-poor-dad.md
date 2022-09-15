@@ -6,6 +6,7 @@ subtitle: What the Rich Teach Their Kids About Money - That the Poor and Middle 
 cover-img: 'https://m.media-amazon.com/images/I/51u8ZRDCVoL._SY346_.jpg'
 tags:
 - book
+- financial
 ---
 Review of Robert Kiosakis 'starting point for anyone looking to gain control of
 their financial future', according to USA TODAY.

@@ -6,6 +6,7 @@ subtitle: How US Navy Seals Lead and Win
 cover-img: 'https://images-eu.ssl-images-amazon.com/images/I/51yoHjJDQ3L._SY264_BO1,204,203,200_QL40_ML2_.jpg'
 tags:
 - book
+- leadership
 ---
 Review of Jocko Willink and Leif Babins 'absolute best and most useful
 leadership book'.

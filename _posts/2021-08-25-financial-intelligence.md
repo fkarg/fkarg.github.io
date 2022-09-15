@@ -5,6 +5,7 @@ subtitle: what you need to know about the numbers
 cover-img: 'https://images-na.ssl-images-amazon.com/images/I/41zy5NSJtvL._SX328_BO1,204,203,200_.jpg'
 tags:
 - book
+- financial
 ---
 Review of Karen Berman and Joe Knight's book that helps you 'understand what
 your income statement and balance sheet are telling you'.

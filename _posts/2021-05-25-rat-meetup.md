@@ -6,7 +6,7 @@ cover-img: 'https://res.cloudinary.com/lesswrong-2-0/image/upload/v1498011194/Le
 tags:
 - lesswrong
 ---
-Authors: [fkarg][fkarg-lw] (my [blog][blog-fkarg]), [crtltab][crtltab-lw], [wilm][wilm-lw]
+Authors: [fkarg][fkarg-lw] (post on [LessWrong][lw]), [crtltab][crtltab-lw], [wilm][wilm-lw]
 
 <!--
 cover-img: 'https://res.cloudinary.com/lesswrong-2-0/image/upload/v1498011194/LessWrong_Logo_skglnw.svg'
@@ -333,6 +333,7 @@ Please share any advice or other relevant experiences.
 [training-regime]: https://www.lesswrong.com/s/d922gAtBM8JNzkKKJ
 [guilt-free]: https://mindingourway.com/guilt/
 [meetup-cookbook]: https://tigrennatenn.neocities.org/meetup_cookbook.html
+[lw]: https://www.lesswrong.com/posts/JnqehbZDZhuut55TG/starting-a-rationalist-meetup-during-lockdown
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

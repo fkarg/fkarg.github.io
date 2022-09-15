@@ -6,6 +6,7 @@ subtitle: master the art of business
 cover-img: 'https://personalmba.com/img/personalmba-cover-us.png'
 tags:
 - book
+- financial
 ---
 Josh Kaufmanns international bestseller, which "takes you on a worthwhile
 tour of the key ideas in business", according to Seth Godin.

@@ -6,6 +6,7 @@ subtitle: Building a Civilized Workplace and Surviving One That Isn't
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/9/9e/The_No_Asshole_Rule.jpg'
 tags:
 - book
+- social
 ---
 Review of the book claiming to have answers to some of our everyday struggles.
 

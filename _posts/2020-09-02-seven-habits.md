@@ -6,6 +6,8 @@ subtitle: Powerful Lessons in Personal Change
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/a/a2/The_7_Habits_of_Highly_Effective_People.jpg'
 tags:
 - book
+- habits
+- mental resilience
 ---
 Review of Stephen Coveys 'masterpiece', which is 'simple but incredibly
 effective, [and] a great guide for any aspiring leader!'

@@ -6,6 +6,7 @@ subtitle: the art of stress-free productivity
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/e/e1/Getting_Things_Done.jpg'
 tags:
   - book
+  - productivity
 ---
 My rewritten review of the updated edition of David Allan's bestseller GTD -
 supposedly it 'can be hazardous to your old habits of procrastination'.

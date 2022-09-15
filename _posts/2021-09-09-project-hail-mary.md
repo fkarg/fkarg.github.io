@@ -5,6 +5,7 @@ subtitle: Science Fiction from the Author of 'The Martian'
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/a/ad/Project_Hail_Mary%2C_First_Edition_Cover_%282021%29.jpg'
 tags:
 - book
+- fiction
 ---
 Review of Andy Weir's third book, "an epic story of redemption, discovery and
 cool speculative sci-fi", according to USA Today. Several people recommended it

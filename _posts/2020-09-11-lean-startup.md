@@ -6,6 +6,7 @@ subtitle: How Constant Innovation Creates Radically Successful Businesses
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/1/11/Lean_Startup.png'
 tags:
 - book
+- startup
 ---
 Review of Eric Ries' 'mandatory reading for entrepreneurs'.
 

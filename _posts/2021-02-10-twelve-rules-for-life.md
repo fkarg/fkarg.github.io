@@ -5,6 +5,7 @@ subtitle: an antidote to chaos
 cover-img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/12_Rules_for_Life_Front_Cover_%282018_first_edition%29.jpg/398px-12_Rules_for_Life_Front_Cover_%282018_first_edition%29.jpg'
 tags:
 - book
+- mental resilience
 ---
 Review of "the most influential public intellectual's" bestseller, according
 to the New York Times.

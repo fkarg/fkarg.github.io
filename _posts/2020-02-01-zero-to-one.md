@@ -6,6 +6,7 @@ subtitle: Notes on Startups, or How to Build the Future
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/d/d3/Zero_to_One.jpg'
 tags:
 - book
+- startup
 ---
 Review of Peter Thiels' 'rare thing: a concise [and] thought-provoking book on
 entrepreneurship'.

@@ -6,6 +6,7 @@ subtitle: A Book About Hope
 cover-img: 'https://upload.wikimedia.org/wikipedia/en/b/b6/Book_cover_for_Everything_is_Fucked_a_Book_about_Hope_by_Mark_Manson.jpeg'
 tags:
   - book
+  - mental resilience
 ---
 Review of Mark Manson's book that aims 'for a better life and better world and
 could not be more needed right now.'
