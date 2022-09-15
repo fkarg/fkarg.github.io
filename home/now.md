@@ -9,38 +9,35 @@ published: true
 
 ## Studying
 I moved to Karlsruhe in October 2019 to do my Master's degree in Computer
-Science. Maybe I'll be done in 2023. I really enjoy being a student, listening
-to lectures, and learning.
+Science. At this point, I only have a few exams and my masters thesis left.
 
 ## Coding
 I have a working student job at [heliopas.ai](https://heliopas.ai) as backend
-developer and data scientist. I'm also working on projects as a freelancer on
-the side.
+developer and data scientist. In the past, I've also worked on projects as a
+freelancer on the side too -- this is currently paused.
 
-I'm working with `Python/django`, `TypeScript/node`, `docker` and other
-technologies.
+I'm working with `Python/django`, `docker` and other technologies.
 
 ## Blogging
-I'm publishing about one post every month. Most of them are book reviews. 
-Other posts are about my thoughts and digital setup.
+I've just recently begun writing something on my blog again. Before that, I
+focused my (creative writing) energy on a university seminar ([report][report]
+and [presentation][pointnet]) as well as a [project][confertus] for a while.
 
 ## Reading
-I'm reading about one nonfiction book every month, taking notes. Sometime
-later, I [write a review][books] about it.
+I've been reading a bunch in 2020 and 2021, and begun doing so more again last
+month (August of 2022). I used to take a bunch of notes too, but I stopped
+doing that. With some delay, I [write reviews][books] about what I read.
 
 ## Dancing
-I really enjoy dancing (Latin and Standard), which I started again a few weeks
-ago.
+I really enjoy pair dancing (Latin and Standard). We're training 2-3 times a
+week.
 
-## Server
-Recently I got myself a server. I'm now learning a lot about configuration and
-administration. You can find it on [fkarg.de](https://fkarg.de). No guarantee
-for uptime, I'm playing around a lot.
-
-## Organizing Meetups
-About a year ago, we initiated [Karlsruhe Rationality][ka-rat], a weekly meetup
-to talk about character development, transhumanism, how to make better
-decisions, the future, and many other fascinating topics.
+## Weekly Meetups
+In 2020, we initiated a local [LessWrong][lw] group, [Karlsruhe
+Rationality][ka-rat]. We wrote about some of our experiences and lessons
+leanrned [here][meetup]. In our meetups, we talk about how to make better
+decisions and related topics -- including character development, forecasting,
+AI, and many other fascinating topics.
 
 
 ---
@@ -48,9 +45,14 @@ decisions, the future, and many other fascinating topics.
 You might also be interested in my [about][about] page.
 
 ---
-**Edit**: last updated on 2021-10-15
+**Edit**: last updated on 2022-09-15
 
 [books]: https://fkarg.me/2019-09-12-books/
 [about]: ../about/
+[lw]: https://lesswrong.com/
+[meetup]: ../../2021-05-25-rat-meetup/
 [ka-rat]: https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R
 [nnn]: https://nownownow.com/
+[report]: ../../202X-XX-XX-pointnet/
+[pointnet]: https://github.com/fkarg/things-to-talk-about/blob/master/pointnet/main_handout.pdf
+[confertus]: ../../confertus/
