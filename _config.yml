@@ -15,6 +15,8 @@ navbar-links:
   More:
     - Privacy Policy: "home/privacy_policy"
     - Favicon Attribution: "home/attribution"
+  Projects:
+    - confertus: "confertus"
   Search: "search"
   Now: "home/now"
   About: "home/about"
@@ -286,7 +288,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 
 # Beautiful Jekyll / Dean Attali
