@@ -484,7 +484,7 @@ these, consistency is key. Consistently hitting your _lead_ measures ensures
 that you hit your _lag_ measures as well.
 
 ### Tips for applying them
-A Lag measures can be singular as well: 'Finish writing the Goal Setting
+A Lag measure can be singular as well: 'Finish writing the Goal Setting
 Workshop post' is a current Lag measure for a milestone of mine. It does not
 necessarily have to be clear _how_ lag measures are achieved, but it should be
 clear how to hit the lead measures.
