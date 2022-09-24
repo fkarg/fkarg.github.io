@@ -11,6 +11,8 @@ tags:
 Review of Philip Tetlocks
 <!-- TODO: early quote -->
 
+Reading Timeframe: August 2022
+
 * TOC
 {:toc}
 
@@ -51,6 +53,7 @@ regarding forecasting all kinds of events
 ### consider multiple different models / viewpoints
 ### update on new information appropriately
 ### exchange information with others
+### Mideaval Medicine was Magic, without scientific strucuture
 
 
 ## Criticism

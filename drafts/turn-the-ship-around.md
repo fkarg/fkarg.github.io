@@ -12,6 +12,8 @@ Review of David Marquet's ...
 
 'Turn The Ship Around'
 
+Reading Timeframe: August 2022
+
 * TOC
 {:toc}
 

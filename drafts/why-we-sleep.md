@@ -6,12 +6,16 @@ subtitle: subtitle
 cover-img: 'Todo: search for cover-image'
 tags:
 - book
+- book circle
 ---
+Review of Matthew Walker's book that is 'compelling and utterly convincing ...
+you'll never think of your bedtime in the same way again', according to James
+McConnachie (The Sunday Times).
 <!-- Short quote what the book is supposed to be -->
 
 <!-- TLDR of the review, and if I would recommend it to others. -->
 
-This was the sixth suggested book of our Book Circle, which I read \<timeframe\>.
+This was the sixth suggested book of our Book Circle, which I read in march and early april of 2021.
 fifth: miracle morning
 seventh: talk like ted
 <!-- Short description of where I got the book from and how I got interested in
@@ -95,3 +99,5 @@ Footnote<sup>[1](#footnote1)</sup> among text.
 
 ---
 [books]: ../2019-09-12-books/
+[miracle]: ../2022-XX-XX-miracle-morning/
+[talk-like-ted]: ../2022-XX-XX-talk-like-ted/
