@@ -60,7 +60,45 @@ it, as well as when I read it. Reference other book reviews if applicable. -->
 
 ## Favourite Quotes
 
-> Example quote
+> Slowness was not the most sensitive signature of sleepiness, entirely missed
+> responses were. [...] otherwise known as microsleeps (page 135)
+
+> You do not know how sleep-deprived you are when you are sleep-deprived. (page 137)
+
+> With chronic sleep restriction over months and years, an individual will
+> actuall acclimate to their impaired performance, lower alertness, and reduced
+> energy levels. That low-level exhaustion becomes their accepted norm, or
+> baseline. (page 137)
+
+> In terms of memory, then, sleep is not like the bank. You cannot accumulate a
+> debt and hope to pay it off at a later point in time. Sleep for
+> memory-consolidation is an all-or-nothing event. (page 156)
+
+> [...] wakefulness is low-level brain damage, while sleep is neurological
+> sanitation. Having regular deep NREM-sleep delays Alzheimer-onset 5-10 years.
+> (page 161)
+
+> Take away the bedrock of sleep, or weaken it just a little, and careful
+> eating or physical exercise become less than effective, as we shall see.
+> (page 163)
+
+> Every major system, tissue, and organ of your body suffers when sleep becomes
+> short. No aspect of your health can retreat at the sign of sleep loss and
+> escape unharmed. (page 163)
+
+> [...] diabetes lops ten years off an individual's life expectancy. Chronic
+> sleep deprivation is now recognized as one of the major contributors to the
+> escalation of type 2 diabetes throughout first-world countries. It's a
+> preventable contribution (page 170)
+
+> No matter what immunological circumstance you find yourself in -- be it
+> preperation for receiving a vaccine to help boost immunity, or mobilizing a
+> mighty adaptive immune response to defeat a viral attack -- sleep , and a
+> full night of it, is especially prudent. (page 182)
+
+> It is sleep that builds connections between distantly related informational
+> elements that are not obvious in the light of the waking day. (page 255)
+
 
 
 <!--

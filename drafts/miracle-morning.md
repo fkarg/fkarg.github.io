@@ -102,6 +102,21 @@ it, as well as when I read it. Reference other book reviews if applicable. -->
 > Whether you think you can, or you think you can't, you're right either way.
 > -- Henry Ford (page 85)
 
+> The benefits of morning exercise are too many to ignore (page 103)
+
+> [...] are you committed to implementing what you're learning and taking action (page 111)
+
+> When you create your affirmations, make sure that they are aligned with your
+> goals and dreams, and that they clarify _what you will need to think_ (page
+> 137)
+
+> Visualize yourself effortlessly enjoying the process of achieving your goals (page 137)
+
+> Whether it's our routines or our relationships, it's our responsibility to
+> actively and continuously make them the way we want them to be. (page 140)
+
+> Where you are is a result of who you were, but where you end up depends
+> entirely on who you choose to be from this moment forward. (page 165)
 
 <!--
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
