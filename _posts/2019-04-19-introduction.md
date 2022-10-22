@@ -15,7 +15,7 @@ While I do study Computer Science at a
 science interest me.
 
 I'm familiar with some programming languages, so yes, I can
-[code](https://fkarg.github.io/aboutme/). You can find some of my public
+[code](https://fkarg.me/about/). You can find some of my public
 projects [here](https://github.com/fkarg/) - I received money for creating some
 of them, but most money-generating ones are (sadly) private.
 
@@ -38,9 +38,9 @@ Explore this idea further, that was just presented to you. Sometimes there's
 the option to comment. But sometimes this just doesn't cut it. Partially, the
 blog was created for those cases. Cases, where my thoughts are a bit more than
 would fit in a comment. Or, more accurately: should fit. This includes my [Book
-reviews](https://fkarg.github.io/tags/#book), [thoughts about
-lesswrong](https://fkarg.github.io/tags/#lesswrong) and an upcoming series on
-[replication](https://fkarg.github.io/tags/#replication).
+reviews](https://fkarg.me/tags/#book), [thoughts about
+lesswrong](https://fkarg.me/tags/#lesswrong) and an upcoming series on
+[replication](https://fkarg.me/tags/#replication).
 
 About other things, I have a different feeling. A desire to share something
 with the world. A desire for other people to understand a certain concept

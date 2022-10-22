@@ -61,7 +61,7 @@ https://www.youtube.com/watch?v=nQHBAdShgYI
 (GCP Grey The Trouble with Transporters)
 -->
 
-[replication]: https://fkarg.github.io/tags/#replication
+[replication]: https://fkarg.me/tags/#replication
 [wikipersonal]: https://en.wikipedia.org/wiki/Personal_identity
 [wikiself]: https://en.wikipedia.org/wiki/Identity_(social_science)
 [soma-review]: https://www.youtube.com/watch?v=J5fpTvdExsY

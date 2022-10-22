@@ -70,7 +70,7 @@ for you get there from being a D- student, it is obvious that you would need to
 do a lot more (it is conceptually farther away) than from being an A+ student
 already.
 
-[startingpoint]: https://fkarg.github.io/2019-04-30-starting-point/
+[startingpoint]: https://fkarg.me/2019-04-30-starting-point/
 
 ![Picture from https://www.wonderopolis.org/wonder/how-many-stars-are-in-the-sky](https://www.wonderopolis.org/_img?img=/wp-content/uploads/2011/03/open-cluster-in-perseus_shutterstock_55193803.jpg&transform=resizeCrop,720,450)
 

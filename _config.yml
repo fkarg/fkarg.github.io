@@ -15,6 +15,7 @@ navbar-links:
   More:
     - Privacy Policy: "home/privacy_policy"
     - Favicon Attribution: "home/attribution"
+    - Github: "https://github.com/fkarg/"
   Projects:
     - confertus: "confertus"
   Search: "search"

@@ -211,7 +211,7 @@ No comments here. That would be too weird. This is too personal. Just [email me]
 [changelog]: https://github.com/fkarg/repo-changelog-creator/
 [templates]: https://github.com/fkarg/repo-flow-scripts/
 [instrumental]: https://wiki.lesswrong.com/wiki/Rationality
-[ownership]: https://fkarg.github.io/2020-11-10-extreme-ownership/
+[ownership]: https://fkarg.me/2020-11-10-extreme-ownership/
 [talks]: https://github.com/fkarg/things-to-talk-about
 [delta]: https://delta-karlsruhe.de
 [lw]: https://lesswrong.com

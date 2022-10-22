@@ -16,7 +16,7 @@ There is no requirement that the email or name be real.
 If you want a comment removed, contact me with the e-mail address and permalink
 of the comment you wish to have removed. The permalink can be found by clicking
 on the date of the comment. For instance, the following is a comment permalink:
-[https://fkarg.github.io/2019-04-19-introduction/#comment1](https://fkarg.github.io/2019-04-19-introduction/#comment1)
+[https://fkarg.me/2019-04-19-introduction/#comment1](https://fkarg.me/2019-04-19-introduction/#comment1)
 .
 
 If you want all comments removed with an associated email, contact me with the
