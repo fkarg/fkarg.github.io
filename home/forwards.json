@@ -2,5 +2,7 @@
 	"now": "home/now",
 	"about": "home/about",
 	"attribution": "home/attribution",
-	"privacy_policy": "home/privacy_policy"
+	"privacy_policy": "home/privacy_policy",
+  "nixos": "2020-06-10-nixos-starting",
+  "books": "2019-09-12-books"
 }
