@@ -3,6 +3,8 @@
 	"about": "home/about",
 	"attribution": "home/attribution",
 	"privacy_policy": "home/privacy_policy",
+	"wishlist": "home/wishlist",
+	"referrals": "home/referrals",
   "nixos": "2020-06-10-nixos-starting",
   "books": "2019-09-12-books"
 }
