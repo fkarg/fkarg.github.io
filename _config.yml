@@ -13,9 +13,9 @@ author: Felix Karg
 
 navbar-links:
   More:
+    - Referrals: "home/referrals"
     - Privacy Policy: "home/privacy_policy"
     - Favicon Attribution: "home/attribution"
-    - Github: "https://github.com/fkarg/"
   Projects:
     - confertus: "confertus"
   Search: "search"
@@ -47,22 +47,21 @@ social-network-links:
   rss: true
   email: "f.karg10@gmail.com"
   github: fkarg
-
+  calendly: fkarg
+  twitter: fkarg10
+  telegram: fkarg10
     # linkedin: felix-karg-33973b178
     # stackoverflow: "3162351/fkarg"
-    # telegram: fkarg_me
     # telephone: +4917681501822
-    # calendly: fkarg
+    # steam: fkarg
 
 #  facebook: daattali
-#  twitter: yourname
 #  reddit: yourname
 #  xing: yourname
 #  snapchat: yourname
 #  instagram: yourname
 #  youtube: user/yourname
 #  spotify: yourname
-#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  mastodon: instance.url/@username
