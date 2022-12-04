@@ -2,7 +2,7 @@
 layout: post
 title: 'Book: Stillness is the Key'
 subtitle: An Ancient Strategy for Modern Life
-cover-img: 'https://assets.thalia.media/img/artikel/7c6f9d3bc6576be598f6cab907cfd9b0bccad6cd-00-00.jpeg'
+cover-img: 'https://images.squarespace-cdn.com/content/6254846339034a198c07dc06/1649710725951-YGK1JOXIDRZMIKDA3UCZ/Stillness.jpg'
 tags:
 - book
 - mental resilience
