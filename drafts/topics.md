@@ -72,7 +72,7 @@ I have a few things in mind I want to write about, including but not limited to:
   you act different in any way? -> How much of our behavior is actually
   deterministic?
 
-- insulin and all its effects and stuff
+- view of gradients, systems and dynamics surrounding insulin
 
 - Basic question: If our Reality is a simulation, would biological life be
   noticable in some way? Would its existence require more resources than just
@@ -128,5 +128,32 @@ I have a few things in mind I want to write about, including but not limited to:
   pictures/videos are certainly helpful, they rarely can describe the full
   picture with the necessary nuance.
 
-- I don't have the privilige: I have actual challenges and problems to solve,
-  to help numerous people first.
+- I don't have the 'supposed' privilige: I have actual challenges and problems
+  to solve, to help numerous people first.
+
+- Simulation detectability
+    - Weird Movement ?
+    - Check for Dyson spheres
+    - Check for radio bursts
+    - Below background radiation (temperature)
+
+- Write about exponential effort being required (e.g. to construct a modern
+  plane) due to the tech being 'closer' to the limit of what is possible
+
+- Write about flexibility / adaptability being the highest goal to strive for
+  any individual and organization
+
+- write +blog post about 'How society works, I think', describing social
+  contracts and structures, opportunities and structural 'oppression' and
+  opportunity
+
+- write +blog post about why rationality might not be for you: mentally hard
+  and difficult to change mind, reduce ego, others
+
+- write +blog post: it's too easy to despair and to see failure everywhere (->
+  improve overall to reduce extremism?)
+
+- Write post about societal splattering only getting worse, biggest threat to
+  society we are currently facing
+
+
