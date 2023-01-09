@@ -6,13 +6,14 @@ tags:
 - setup
 - blog
 ---
-When making visual changes on [my blog][blog], I used to _make a commit_ and
-_wait_ until GitHub pages rebuilt and published the site again. This takes
-somewhere between half a minute and up to several minutes. It works, but
-requires a lot of waiting and iterations to reach satisfactory results. At some
-point, I just googled how to run jekyll locally on [NixOS][nixos].
+When making (visual) changes on [my blog][blog], at first I _made a commit_ and
+_waited_ until GitHub pages rebuilt and published the site again, before I
+could verify that I liked the change or if I should modify it further. A single
+iteration often took several minutes. It worked, but requires a lot of waiting
+and iterations to reach satisfactory results. At some point, I just googled how
+to run jekyll locally (on [NixOS][nixos]).
 
-In this post, I will give you some resources and ideas how to do it yourself.
+In this post, I will give you some resources and ideas how to run jekyll .
 Feel free to follow what works, and ignore what does not. You don't need to be
 on `NixOS` -- all you need is `nix`, and I'll show you how.
 
@@ -20,85 +21,95 @@ on `NixOS` -- all you need is `nix`, and I'll show you how.
 {:toc}
 ---
 
-### Early Beginnings
-I started out by copying from [this blog post][nix-orig-unarch], and soon started
-making changes here and there.
+### Context
+Originally, I started out with the approach described in [this blog
+post I found][nix-orig-unarch]. As the exact way didn't work, I did some
+troubleshooting and fixed all issues that popped up.
 
-In preparation for this post, I tried to reproduce and update my original
-setup, and I spectacularly failed rebuilding it: `nokogiri`, a dependency of
-the `github-pages`-gem suddenly had a different hash than expected. Ultimately,
-I couldn't resolve it and decided to simplify my setup.
+In preparation for this post, I tried to retrace these steps, and I
+spectacularly failed rebuilding it (`nokogiri`, a dependency of the
+`github-pages`-gem has a different hash than expected. I figured out a way to
+solve it originally, but I gave up on it. Don't fret, I found a better solution).
 
-Regardless, the goal is to enable execution of `jekyll serve --watch
---incremental` in a `nix-shell` environment, so that I don't need to have
-anything installed locally.
+The goal is to run `jekyll serve --watch --incremental` in a `nix-shell`
+environment, so that I don't need to have anything installed locally.
 
-I'll show you both the original way with my adaptations (which is potentially
-more flexible), as well as my newfound setup -- which might actually be faster!
+I'll explain the original way with my adaptations (which is potentially
+more flexible), as well as my newfound setup -- which is a lot faster!
 
-### Installing nix
-Whichever way you want to follow later, you might want to [install
-`nix`][install-nix] first:
+### Package Manager `nix`
+In case of unfamiliarity with `nix`, you can learn more about it on [their
+website][nix-site], read about [how nix works][nix-guide] or one of the many
+blogposts about [what nix is][nix-blog]
+(Also check out [my thoughts on nix here][nixos]).
+
+
+The [official way to install `nix`][install-nix] is (yes I know ...):
 ```sh
 $ curl -L https://nixos.org/nix/install | sh
 ```
-This will install `nix` and related binaries, we'll be using `nix-shell`
-specifically. You might need to add a [channel][nix-channel] for a fresh
-install.
+This will install `nix` and its related binaries. In particular, we will be
+using `nix-shell`, which provides a local virtual environment with certain
+(additional) packages available. You probably need to add a [channel][nix-channel]
+for a fresh install.
+
 
 This is going to be the fastest way with the least amount of pain, if you don't
-have have `ruby` and `bundle` set up. Either way, you might want to take a look
-at [GitHub's site on testing locally][testing-locally].
-
-You can learn more about nix on [the website][nix-site], read about [how nix
-works][nix-guide] or one of the many blogposts about [what nix is][nix-blog].
-(You can also read more of my thoughts on nix [here][nixos])
+have have `ruby` and `bundle` set up. Either way, you might still want to take
+a look at [GitHub's site on testing locally][testing-locally] this is
+fundamentally based on.
 
 
 ## Original way
 I'll tell you about my original setup, how to replicate it, and what I changed.
-As mentioned earlier, it's mostly a copy from [this blog post][nix-orig]. It
+As mentioned earlier, it is mostly a copy from [this blog post][nix-orig]. It
 doesn't build at the time of writing, but might very well do so again in the
-future (or if you can resolve the dependency issue in some way).
+future, or if you can resolve the dependency issue in some way.
 
-You can also skip ahead to the [newfound way](#newfound-way) directly -- the
+Feel free to skip ahead to the [newfound way](#a-better-way) directly -- the
 original way didn't end up working again, after all.
 
-### Gemfile
-The `Gemfile` specifies the source of ruby dependencies as well as packages.
-You probably have a `Gemfile` with dependencies (e.g. your theme) for your page
-already.
+First, some explanations.
 
-Turns out there already is a gem with everything needed to build `github-pages`
-locally, so we're going to package that. Let's write the `Gemfile` for that:
+### Gemfile
+A `Gemfile` specifies the source of ruby (a programming language) package
+dependencies (gems). You probably have a `Gemfile` with dependencies (e.g. your
+theme) for your page in your repository.
+
+Turns out there exists a single package with everything needed to build
+`github-pages` locally, so we're going to use it. The Gemfile for it would look
+like this:
 ```py
 # file: Gemfile
 source 'https://rubygems.org'
 gem 'github-pages'
 ```
 As it is different from the `Gemfile` of my github pages site, I temporarily
-replaced it, and later saved this one as `Gemfile-nix-shell` - but I'll tell
-you when to do this.
+replaced it (ensure that you don't commit that change), and later saved this
+one as `Gemfile-nix-shell` -- I'll tell you when to do that.
 
 ### Packaging and Building
-While the `Gemfile` specifies our top-level dependencies, `github-pages` has
+The `Gemfile` specifies our top-level dependencies, but `github-pages` has
 dependencies itself. We will use `bundler` to determine and resolve them. Then,
 `bundix` will take the `Gemfile.lock` and convert it to a nix expression --
-which we can then use in our `shell.nix`-expression later.
+which we can then use in our `shell.nix`-expression later. For that:
 
 ```sh
-$ nix-shell -p bundler bundix # enter environment with `bundler` and `bundix` available
-$ bundler package --no-install --path vendor # execute bundler packaging
-$ bundix # run bundix
-$ rm -rf .bundle vendor # remove bundler artifacts
+$ nix-shell -p bundler bundix  # enter environment with `bundler` and `bundix` available
+$ bundler package --no-install --path vendor  # execute bundler packaging, this creates e.g. Gemfile.lock
+$ bundix  # run bundix
+$ rm -rf .bundle vendor  # remove bundler artifacts
 $ exit  # leave nix-shell environment
 ```
 
 ### shell.nix
-Now let's build our `shell.nix` building the `gemset.nix` expression based on
+The `nix-shell` provides us with an environment of packages we can specify. We
+can also use a `shell.nix`-file to provide them in a more deterministic way.
+When we build a `shell.nix`, we can import the `gemset.nix` expression based on
 the `Gemfile.lock` lockfile. At this point, I renamed my `Gemfile` to
 `Gemfile-nix-shell`, to be able to have it and the original `Gemfile` in the
-repository - GitHub pages won't build with the modified `Gemfile`.
+repository - GitHub pages will not build with the modified `Gemfile` for
+`shell-nix`.
 ```nix
 # file: shell.nix
 with import <nixpkgs> { };
@@ -124,8 +135,11 @@ With that, we can then finally run it:
 ```sh
 $ nix-shell # building and starting local jekyll server
 ```
+Usually, `nix-shell` just provides a shell with the requested packages
+additionally in context. Using the `shellHook` we can instead directly execute
+a command, in our case the one to run `jekyll`.
 
-### Editing gemset.nix and Gemfile.lock
+### Fixing gemset.nix and Gemfile.lock
 If `nix-shell` succeeds -- lucky you! The issue I had got fixed.
 
 If not -- you should see something similar to this:
@@ -137,47 +151,22 @@ error: 1 dependencies of derivation '/nix/store/dfvq6ppw9i7xf869z68vcx9j7lvmvbw6
 error: 1 dependencies of derivation '/nix/store/4ybs0rncdzn2z8dgc6bfd2ifsy3zfbvr-jekyll_env.drv' failed to build
 ```
 
-`gemset.nix` nixifies `Gemfile.lock`, which locks dependencies at a given point
-in time. They are not intended to be edited manually, but since I had 
-<!--
-```nix
-# file: gemset.nix
-  mini_portile2 = {
-    groups = ["default"];
-    platforms = [];
-    source = {
-      remotes = ["https://rubygems.org"];
-      sha256 = "0xg1x4708a4pn2wk8qs2d8kfzzdyv9kjjachg2f1phsx62ap2rx2";
-      type = "gem";
-    };
-    version = "2.5.1";
-  };
-  nokogiri = {
-    dependencies = ["mini_portile2" "racc"];
-    groups = ["default"];
-    platforms = [];
-    source = {
-      remotes = ["https://rubygems.org"];
-      sha256 = "19d78mdg2lbz9jb4ph6nk783c9jbsdm8rnllwhga6pd53xffp6x0";
-      type = "gem";
-    };
-    version = "1.11.3";
-  };
-```
+`gemset.nix` is a `nix`-transformed version of the `Gemfile.lock`, which locks
+ruby dependencies at a given point in time. They are not intended to be edited
+manually, but I remember succeeding by doing so. It was more complicated than
+doing just that, but it wasn't that much more complicated.
 
-```yml
-# file: Gemfile.lock
-    mini_portile2 (2.5.1)
-    nokogiri (1.11.3)
-      mini_portile2 (~> 2.5.0)
-```
--->
+{: .box-warning}
+I'm sorry, I couldn't reconstruct what I did. At this point you're on your own.
+
+{: .box-note}
+But you don't have to. You can just do what I'm doing now instead.
 
 
-## Newfound Way
+## A Better Way
 Since my original setup didn't work anymore -- and I'm only using the
-`jekyll-paginate` plugin -- it should be possible to use directly packaged
-`jekyll`. And indeed, this works:
+`jekyll-paginate` plugin -- it should be possible to use fully packaged
+`jekyll` directly. And indeed, doing this just works:
 ```sh
 $ nix-shell -p jekyll rubyPackages.jekyll-paginate
 $ jekyll serve --watch --incremental
@@ -210,9 +199,9 @@ with `nix-shell <filename>`. `shell.nix` is just the default.)
 
 
 ## Conclusion
-We saw how my setup worked originally, and how it works now. For the time
-being, I don't care about fixing the old setup -- I found something better
-after all. Do tell me if you find something even better!
+You hopefully learned a bit about the different parts necessary to build github
+pages locally, even if they are mostly abstracted away.
+Tell me if you find something even better!
 
 Don't use this for production deployment though! I use the official
 `jekyll/jekyll` docker image on my [server][server-setup]
@@ -221,17 +210,18 @@ Don't use this for production deployment though! I use the official
 
 ## Tips and Tricks
 - When you have your `shell.nix`, you can run the shell by executing `$
-  nix-shell` in the same directory, and end it with `Strg+C`.
+  nix-shell` in the same directory, and end it with `STRG+C`.
 - When you make changes to your `_config.yml`, you need to stop the `nix-shell`
-  and remove the `_site` directory before restarting `nix-shell` again.
+  and remove the `_site` directory before you can see the changes when
+  restarting `nix-shell` again.
 - Within the `_config.yml` you can [exclude][exclude] paths and specific files
   from triggering a page rebuild or being available on navigation. I exclude
-  e.g.  the `README.md` or my `drafts/` folder with unfinished posts.
+  e.g.  the `README.md` or a `drafts/` folder.
 - If you're confused about `nix-shell`, see [this introduction to nix-shell][nix-shell].
-- Even if your server is runnig locally doesn't mean all of your resources are
-  local and available offline. My site used to have many external `javascript`
-  and `css` dependencies, which aren't available without internet, making it
-  look very weird and mostly unfunctional when offline.
+- Even with the `jekyll` server runnig locally, this doesn't mean all of your
+  resources are local and available offline. My site used to have many external
+  `javascript` and `css` dependencies, which aren't available without internet,
+  making it look very weird and mostly unfunctional when offline.
 
 
 ---
