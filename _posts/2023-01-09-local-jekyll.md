@@ -2,13 +2,14 @@
 layout: post
 title: 'Local development with GitHub pages'
 subtitle: running jekyll locally with a few simple steps
+cover-img: 'https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png'
 tags:
 - setup
 - blog
 ---
-When making (visual) changes on [my blog][blog], at first I _made a commit_ and
-_waited_ until GitHub pages rebuilt and published the site again, before I
-could verify that I liked the change or if I should modify it further. A single
+When making (visual) changes on [my blog][blog], I used to _make a commit_ and
+_wait_ until GitHub pages rebuilt and published the site again, before I could
+verify that I liked the change or if I should modify it further. A single
 iteration often took several minutes. It worked, but requires a lot of waiting
 and iterations to reach satisfactory results. At some point, I just googled how
 to run jekyll locally (on [NixOS][nixos]).
@@ -214,6 +215,7 @@ Don't use this for production deployment though! I use the official
 - When you make changes to your `_config.yml`, you need to stop the `nix-shell`
   and remove the `_site` directory before you can see the changes when
   restarting `nix-shell` again.
+    - This is also true when you create or remove a file in `_posts`. Updating works fine
 - Within the `_config.yml` you can [exclude][exclude] paths and specific files
   from triggering a page rebuild or being available on navigation. I exclude
   e.g.  the `README.md` or a `drafts/` folder.
