@@ -195,7 +195,7 @@ additional software. No Operating-System adjustment is required, either.
 
 ### NEO
 
-![Picture from neo-layout.org](https://neo-layout.org/grafik/druckvorlage/neo-druckvorlage_full.png)
+![Picture from neo-layout.org](https://www.fkarg.me/assets/img/neo-druckvorlage_full.png)
 
 The layout was created after analyzing bi- and trigram frequencies of German
 and English, making it especially suited for German programmers. Also, in stark
