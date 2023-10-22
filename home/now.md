@@ -5,47 +5,45 @@ subtitle: What I’m Up to These Days.
 published: true
 ---
 
-(Never seen a now page before? [Here][nnn] is what it’s all about.)
+(Never seen a **now** page before? [Here][nnn] is what it’s all about.)
 
-## Studying
-I moved to Karlsruhe in October 2019 to do my Master's degree in Computer
-Science. At this point, I only have a few exams and my masters thesis left.
+## Job Hunting
+I concluded my (university) studies in computer science, and am now actively searching for a job.
+Please write me if you want me as a colleague or know of an opportunity that might be a good fit.
 
-## Coding
-I have a working student job at [heliopas.ai](https://heliopas.ai) as backend
-developer and data scientist. In the past, I've also worked on projects as a
-freelancer on the side too -- this is currently paused.
+My current skill set is Computer-Science-centric with a heavy focus on AI/ML and back-end development. I worked in-depth with LLMs in my Masters Thesis (used them for data-extraction tasks), though I'm confident I can quickly get up to speed in most other ML domains as well.
 
-I'm working with `Python/django`, `docker` and other technologies.
+I'm currently based in southern Germany, though I'd be willing to relocate. I'm trying to maximize the following factors:
+- Impact (though not in a strictly EA-sense)
+- Team with a high degree of Trust/Freedom
+- High-Performing Colleagues
+- Application and extension of my current Skillset
+- Learning new cool stuff
+- Bonus: Gaining information on the World (think 'Factfulness'-style of analysing the world)
+
+
+## Side-Job
+I currently have a working student job at [aimino.de](https://aimino.de) as
+machine learning engineer (girl for everything). In the past, I've also worked
+on projects as a freelancer on the side too -- this is currently paused.
+
+I'm working with `Python/FastAPI`, `docker`, `AWS` and other technologies.
 
 ## Blogging
-I've just recently begun writing something on my blog again. Before that, I
-focused my (creative writing) energy on a university seminar ([report][report]
-and [presentation][pointnet]) as well as a [project][confertus] for a while.
-
-## Reading
-I've been reading a bunch in 2020 and 2021, and begun doing so more again last
-month (August of 2022). I used to take a bunch of notes too, but I stopped
-doing that. With some delay, I [write reviews][books] about what I read.
+I've put blogging on pause for a while now. We'll have to see if I'll do it regularly again.
 
 ## Dancing
-I really enjoy pair dancing (Latin and Standard). We're training 2-3 times a
-week.
+I really enjoy ballroom dancing (Latin and Standard).
+We trained 2-3 times a week. I even recently got fourth place at a fun competition with a blind-date-matched partner!
 
-## Weekly Meetups
-In 2020, we initiated a local [LessWrong][lw] group, [Karlsruhe
-Rationality][ka-rat]. We wrote about some of our experiences and lessons
-leanrned [here][meetup]. In our meetups, we talk about how to make better
-decisions and related topics -- including character development, forecasting,
-AI, and many other fascinating topics.
-
+My main dancing partner moved due to finding a job elsewhere, and it may be the same for me very soon, so I'm not particularly eager on finding someone else. Should I move cities, I may just go back to martial arts again (or diving).
 
 ---
 
 You might also be interested in my [about][about] page.
 
 ---
-**Edit**: last updated on 2022-09-15
+**Edit**: last updated on 2023-10-23
 
 [books]: https://fkarg.me/2019-09-12-books/
 [about]: ../about/
@@ -53,6 +51,4 @@ You might also be interested in my [about][about] page.
 [meetup]: ../../2021-05-25-rat-meetup/
 [ka-rat]: https://www.lesswrong.com/groups/kw7Zb8DLmZtsK8g3R
 [nnn]: https://nownownow.com/
-[report]: ../../202X-XX-XX-pointnet/
-[pointnet]: https://github.com/fkarg/things-to-talk-about/blob/master/pointnet/main_handout.pdf
-[confertus]: ../../confertus/
+[factfulness]: ../../202X-XX-XX-factfulness/
