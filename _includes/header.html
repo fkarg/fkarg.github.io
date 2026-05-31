@@ -93,31 +93,20 @@
 
 
 {% if page.tex %}
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [              // start/end delimiter pairs for inline math
-      ['$','$'],
-      ['\\(','\\)']
-    ],
-    displayMath: [             // start/end delimiter pairs for display math
-      ['$$', '$$'],
-      ['\\[', '\\]']
-    ],
-    processEscapes: true,      // use \$ to produce a literal dollar sign
-    processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    tags: 'all'
+  },
+  options: {
+    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
   }
-  TeX: {
-    equationNumbers: {
-      autoNumber: "all"
-    }
-  }
-});
+};
 </script>
-
-<script type="text/javascript" id="MathJax-script" async
-  src="https://fkarg.me/assets/js/mathjax/tex-mml-chtml.js">
-</script>
-{% else %}
-<!-- No TEX active / loaded -->
+<script id="MathJax-script" async
+  src="{{ '/assets/js/mathjax/tex-mml-chtml.js' | relative_url }}"></script>
 {% endif %}
