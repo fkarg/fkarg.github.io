@@ -3,9 +3,9 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  comments_label             : "Comments and Feedback are appreciated"
+  comments_label             : "Leave a comment"
   comments_title             : "Comments"
-  comment_form_info          : "Your email address will not be published or saved (only hashed). Required fields are marked"
+  comment_form_info          : "Your email address will not be published. Required fields are marked"
   comment_form_comment_label : "Comment"
   comment_form_md_info       : "Markdown is supported."
   comment_form_name_label    : "Name"
@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   comment_form_website_label : "Website (optional)"
   comment_btn_submit         : "Submit comment"
   comment_btn_submitted      : "Submitted"
-  comment_success_msg        : "Thanks for your comment! It will show up in a few seconds."
+  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
 en-US:
   <<: *DEFAULT_EN
@@ -172,9 +172,9 @@ zh-HK:
 # German / Deutsch
 # ----------------
 de: &DEFAULT_DE
-  comments_label             : "Kommentare und Feedback sind gern gesehen"
+  comments_label             : "Hinterlasse einen Kommentar"
   comments_title             : "Kommentare"
-  comment_form_info          : "Die E-Mail Adresse wird nicht veröffentlicht oder gespeichert (nur gehasht). Benötigte Felder sind markiert"
+  comment_form_info          : "Die E-Mail Adresse wird nicht veröffentlicht. Benötigte Felder sind markiert"
   comment_form_comment_label : "Kommentar"
   comment_form_md_info       : "Markdown wird unterstützt."
   comment_form_name_label    : "Name"
@@ -182,7 +182,7 @@ de: &DEFAULT_DE
   comment_form_website_label : "Webseite (optional)"
   comment_btn_submit         : "Kommentar absenden"
   comment_btn_submitted      : "Versendet"
-  comment_success_msg        : "Danke für den Kommentar! Er wird in ein paar sekuden angezeigt."
+  comment_success_msg        : "Danke für den Kommentar! Er wird nach Prüfung auf der Seite angezeigt."
   comment_error_msg          : "Entschuldigung, es gab einen Fehler. Bitte fülle alle benötigten Felder aus und versuche es erneut."
 de-DE:
   <<: *DEFAULT_DE

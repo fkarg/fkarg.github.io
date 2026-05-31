@@ -1,0 +1,25 @@
+---
+layout: null
+permalink: /assets/data/searchcorpus.json
+---
+{% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}
+[
+{% assign first = true %}
+{% for post in site.posts %}
+  {% capture posttime %}{{ post.date | date: '%s' }}{% endcapture %}
+  {% if posttime < nowunix %}
+  {% if first %}{% assign first = false %}{% else %},{% endif %}
+  {
+    "id": {{ post.url | slugify | jsonify }},
+    "title": {{ post.title | strip_html | jsonify }},
+    "subtitle": {{ post.subtitle | default: "" | strip_html | jsonify }},
+    "url": {{ post.url | jsonify }},
+    "date": {{ post.date | date: "%B %-d, %Y" | jsonify }},
+    "tags": {{ post.tags | join: ", " | jsonify }},
+    "thumbnail": {% if post.thumbnail-img %}{{ post.thumbnail-img | jsonify }}{% elsif post.cover-img.first %}{{ post.cover-img[0].first.first | jsonify }}{% elsif post.cover-img %}{{ post.cover-img | jsonify }}{% else %}""{% endif %},
+    "excerpt": {{ post.excerpt | strip_html | truncatewords: 50 | jsonify }},
+    "content": {{ post.content | strip_html | jsonify }}
+  }
+  {% endif %}
+{% endfor %}
+]

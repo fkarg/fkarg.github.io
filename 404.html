@@ -2,52 +2,57 @@
 layout: default
 title: 404 - Page not found
 permalink: /404
-redirect_from:
-- /staged/
-- /home/
-- /assets/
 ---
 
 <div class="text-center" id="redirecting">
-    <h1>Redirecting…</h1>
-    <p>Please wait. This search won’t take long, promise.</p>
+  <h1>Redirecting...</h1>
+  <p>Please wait. This search will not take long.</p>
 </div>
-
 
 <div class="hidden" id="404">
   <h1>This page does not exist. (404 error)</h1>
   <h1>You might want to try again later.</h1>
 
   <p>
-  I sometimes create forward-links to <a href="{{ 'tags/#book' | relative_url }}">book reviews</a> I have not written yet. You can recognize them by a
-  number of 'XX' in the URL. When the review is written, these 'XX's will be
-  replaced with the publication date, and you will find a valid page there.
-  <br>
-  </p>
-  <p>
-  If the post exists, you will find it by searching. Why not give it a try?
-  </p>
-  <p>
-  <form action="/search" method="get">
-    <input type="text" id="search-box" name="query">
-    <input type="submit" value="search">
-  </form>
-
-    <script>
-    var searchBox = document.getElementById('search-box');
-    var re = /https?:\/\/(localhost:4000|www.fkarg.me|blog.fkarg.de)\/(20..-..-..-|404)?/;
-    var slash = /\//;
-    searchBox.value = window.location.href.replace(re, '').replace(slash, '');
-    </script>
-
+    I sometimes create forward-links to
+    <a href="{{ 'tags/#book' | relative_url }}">book reviews</a>
+    I have not written yet. You can recognize them by a number of 'XX' in the
+    URL. When the review is written, these 'XX's will be replaced with the
+    publication date, and you will find a valid page there.
   </p>
 
+  <p>If the post exists, you will find it by searching. Why not give it a try?</p>
+
   <p>
-  Search for it or try again later.
+    <button type="button" id="open-search-from-404" class="btn btn-primary">
+      Search this site
+    </button>
   </p>
+
+  <script>
+    // Pre-populate the navbar search overlay with whatever the user tried
+    // to find, then open it. Strips just the host+scheme, leaves anything
+    // after (slug, query, hash) as the seed query.
+    (function () {
+      var hostStrip = /^https?:\/\/[^\/]+\/?/;
+      var seed = window.location.href.replace(hostStrip, '').replace(/^404\/?/, '');
+      var btn = document.getElementById('open-search-from-404');
+      btn.addEventListener('click', function () {
+        var link = document.getElementById('nav-search-link');
+        var input = document.getElementById('nav-search-input');
+        if (link) link.click();
+        if (input) {
+          input.value = decodeURIComponent(seed);
+          input.dispatchEvent(new Event('input', { bubbles: true }));
+        }
+      });
+    })();
+  </script>
+
+  <p>Search for it or try again later.</p>
 
   <br/>
-  <img src="{{ 'assets/img/404-southpark.jpg' | relative_url }}" />
+  <img src="{{ 'assets/img/404-southpark.jpg' | relative_url }}" alt="Not found" />
 </div>
 
-<script src="/assets/js/redirect.js"></script>
+<script src="{{ '/assets/js/redirect.js' | relative_url }}"></script>

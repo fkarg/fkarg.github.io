@@ -23,17 +23,17 @@ title: 'Tag Index'
         &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
     </h2>
     <div class="post-list">
-        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+        {% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}
         {%- for post in site.tags[tag] -%}
-          {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
-          {% if posttime < nowunix %}
+            {% capture posttime %}{{ post.date | date: '%s' }}{% endcapture %}
+            {% if posttime < nowunix %}
             <div class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
+                <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
                 <div class="entry-date">
                     <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
                 </div>
             </div>
-          {% endif %}
+            {% endif %}
         {%- endfor -%}
     </div>
 {%- endfor -%}

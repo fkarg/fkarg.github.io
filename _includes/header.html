@@ -27,59 +27,70 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
-      {% if page.subtitle %}
-        {% if include.type == "page" %}
-            <hr class="small">
-            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
-      {% else %}
-      <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
-      {% endif %}
-      {% endif %}
-
-      {% if include.type == "post" %}
-      {% if page.date %}
-          <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
-      {% else %}
-          <span class="post-meta">Draft</span>
-      {% endif %}
-          {% if page.readtime %}
-            {% include readtime.html %}
+          <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
+          {% if page.subtitle %}
+            {% if include.type == "page" %}
+              <hr class="small">
+              <span class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</span>
+            {% else %}
+              <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
+            {% endif %}
           {% endif %}
-      {% endif %}
+
+          {% if include.type == "post" %}
+            {% if page.date %}
+              <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+            {% else %}
+              <span class="post-meta">Draft</span>
+            {% endif %}
+            {% if page.last-updated %}
+              <span class="post-meta">
+                <span class="d-none d-md-inline middot">&middot;</span>
+                Last updated {{ page.last-updated | date: date_format }}
+              </span>
+            {% endif %}
+            {% if page.readtime %}
+              {% include readtime.html %}
+            {% endif %}
+          {% endif %}
         </div>
       </div>
     </div>
   </div>
   <span class='img-desc'></span>
 </div>
-
 {% endif %}
 <div class="intro-header no-img">
   <div class="container-md">
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
-      {% if page.subtitle %}
-        {% if include.type == "page" %}
-            <hr class="small">
-            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
-      {% else %}
-      <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
-      {% endif %}
-      {% endif %}
-
-      {% if include.type == "post" %}
-      {% if page.date %}
-          <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
-      {% else %}
-          <span class="post-meta">Draft</span>
-      {% endif %}
-          {% if page.readtime %}
-            {% include readtime.html %}
+          <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
+          {% if page.subtitle %}
+            {% if include.type == "page" %}
+              <hr class="small">
+              <span class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</span>
+            {% else %}
+              <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
+            {% endif %}
           {% endif %}
-      {% endif %}
+
+          {% if include.type == "post" %}
+            {% if page.date %}
+              <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+            {% else %}
+              <span class="post-meta">Draft</span>
+            {% endif %}
+            {% if page.last-updated %}
+              <span class="post-meta">
+                <span class="d-none d-md-inline middot">&middot;</span>
+                Last updated {{ page.last-updated | date: date_format }}
+              </span>
+            {% endif %}
+            {% if page.readtime %}
+              {% include readtime.html %}
+            {% endif %}
+          {% endif %}
         </div>
       </div>
     </div>
@@ -87,26 +98,7 @@
 </div>
 </header>
 
+
 {% else %}
 <div class="intro-header"></div>
-{% endif %}
-
-
-{% if page.tex %}
-<script>
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    displayMath: [['$$', '$$'], ['\\[', '\\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    tags: 'all'
-  },
-  options: {
-    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-  }
-};
-</script>
-<script id="MathJax-script" async
-  src="{{ '/assets/js/mathjax/tex-mml-chtml.js' | relative_url }}"></script>
 {% endif %}
