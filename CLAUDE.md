@@ -51,7 +51,7 @@ The `shell.nix` / `default.nix` / `Gemfile-nix-shell` / `gemset.nix` files are v
 When editing chrome (header, footer, post layout, etc.) the relevant files are upstream theme files — change them in-place rather than creating new ones:
 
 - `_layouts/base.html` — root template; declares the `common-css`/`common-js` lists in its own front-matter and is extended by `default.html`, `post.html`, `page.html`, `home.html`, `minimal.html`, `search.html`.
-- `_includes/` — `head.html`, `nav.html`, `header.html`, `footer.html`, plus per-integration partials (`disqus.html`, `staticman-comment.html`, `utterances-comment.html`, `gtag.html`, `matomo.html`, …). Most are gated by `_config.yml` flags being uncommented.
+- `_includes/` — `head.html`, `nav.html`, `header.html`, `footer.html`, plus per-integration partials (`disqus.html`, `staticman-comment.html`, `utterances-comment.html`, `gtag.html`, …). Most are gated by `_config.yml` flags being uncommented. The Matomo include was removed when the dormant config was retired; the Staticman include now renders historical comments from `_data/comments/<slug>/` only (form gone with the Heroku endpoint) — new comments are served by Utterances.
 - `_data/ui-text.yml` — i18n strings used by the theme; `_data/comments/` is where Staticman writes received comments.
 
 Navbar entries, social links, comment provider, and analytics are all wired through `_config.yml` — prefer toggling config over editing includes.

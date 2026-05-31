@@ -153,10 +153,6 @@
   <meta name="twitter:image" content="{{ shareimg | relative_url }}">
   {% endif %}
 
-  {% if site.matomo %}
-  {% include matomo.html %}
-  {% endif %}
-
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
   <!-- Staticman -->
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
