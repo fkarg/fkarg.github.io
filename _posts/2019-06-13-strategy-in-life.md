@@ -72,7 +72,7 @@ already.
 
 [startingpoint]: https://fkarg.me/2019-04-30-starting-point/
 
-![Picture from https://www.wonderopolis.org/wonder/how-many-stars-are-in-the-sky](https://www.wonderopolis.org/_img?img=/wp-content/uploads/2011/03/open-cluster-in-perseus_shutterstock_55193803.jpg&transform=resizeCrop,720,450)
+![The Perseus Double Cluster (NGC 869 and NGC 884), an example of an open star cluster. Image from Wikimedia Commons.](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Double_Cluster.jpg/500px-Double_Cluster.jpg)
 
 
 ## Stars as Concept-space analogy

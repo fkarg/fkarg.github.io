@@ -129,7 +129,7 @@ Things are on your mind because:
 
 **Clarify** is mainly to ask the question as to if it is actionable or not, though the whole workflow is shown in the above image (the squared boxes, the round ones are the next step).
 
-![GTD Organize Workflow](http://donebeforebrekky.com/wp-content/uploads/2015/08/Getting-Things-Done-Flow-Diagram.jpg)
+![GTD Organize Workflow](https://upload.wikimedia.org/wikipedia/commons/f/f2/GTD_flowchart.svg)
 - ->
 
 ### 3 Getting Projects Creatively Under Way: The Five Phases of Project Planning

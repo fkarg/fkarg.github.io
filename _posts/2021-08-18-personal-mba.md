@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Book: The Personal MBA'
 subtitle: master the art of business
-cover-img: 'https://personalmba.com/img/personalmba-cover-us.png'
+cover-img: 'https://covers.openlibrary.org/b/isbn/9781591845577-L.jpg'
 tags:
 - book
 - financial

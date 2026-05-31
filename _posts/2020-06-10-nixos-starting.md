@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: What I Wish I Knew When Learning NixOS
-cover-img: 'https://nixos.org/logo/nix-wiki.png'
+cover-img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nixos-logo-default-gradient-black-regular-horizontal-minimal.svg/250px-Nixos-logo-default-gradient-black-regular-horizontal-minimal.svg.png'
 tags:
   - setup
 ---
