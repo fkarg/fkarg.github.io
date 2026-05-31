@@ -148,24 +148,11 @@ footer-link-col: "#404040"
 
 
 # --- Comments --- #
-# Utterances backs new comments via GitHub Issues. To activate:
-#   1. Enable Issues on fkarg/fkarg.github.io (already on).
-#   2. Install the Utterances GitHub App and grant it access to the repo:
-#      https://github.com/apps/utterances
-# Once both are done, the widget below renders the comment thread.
-utterances:
-  repository: fkarg/fkarg.github.io
-  issue-term: pathname  # keyed by URL path (stable across title changes)
-  theme: github-light
-  label: blog-comments
-
-# Staticman: form removed (`staticmanat.herokuapp.com` died with Heroku free
-# dynos in Nov 2022). The static display of historical comments under
-# `_data/comments/<slug>/` still renders — `_includes/staticman-comments.html`
-# gates that display on these two keys, so they must remain.
-staticman:
-  repository: fkarg/fkarg.github.io
-  branch: master
+# No comment backend wired up. Posts still set `comments: true` by default
+# (see `defaults:` below) so the call site in `_includes/comments.html`
+# still fires, but it only renders Disqus / Facebook (both also dormant —
+# their includes gate on `site.disqus` / `site.fb-comment` which aren't
+# set). Plan: Remark42 self-hosted, see TODO in `../site-setup/README.md`.
 
 
 # --- Misc --- #

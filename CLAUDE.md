@@ -51,8 +51,8 @@ The `shell.nix` / `default.nix` / `Gemfile-nix-shell` / `gemset.nix` files are v
 When editing chrome (header, footer, post layout, etc.) the relevant files are upstream theme files — change them in-place rather than creating new ones:
 
 - `_layouts/base.html` — root template; declares the `common-css`/`common-js` lists in its own front-matter and is extended by `default.html`, `post.html`, `page.html`, `home.html`, `minimal.html`, `search.html`.
-- `_includes/` — `head.html`, `nav.html`, `header.html`, `footer.html`, plus per-integration partials (`disqus.html`, `staticman-comment.html`, `utterances-comment.html`, `gtag.html`, …). Most are gated by `_config.yml` flags being uncommented. The Matomo include was removed when the dormant config was retired; the Staticman include now renders historical comments from `_data/comments/<slug>/` only (form gone with the Heroku endpoint) — new comments are served by Utterances.
-- `_data/ui-text.yml` — i18n strings used by the theme; `_data/comments/` is where Staticman writes received comments.
+- `_includes/` — `head.html`, `nav.html`, `header.html`, `footer.html`, plus per-integration partials (`disqus.html`, `gtag.html`, `gtm_*.html`, …). Most are gated by `_config.yml` flags being uncommented. Comments and Matomo are currently off — the Matomo / Staticman / Utterances includes (and the `_data/comments/` historical data) were all removed. `_includes/comments.html` still exists and still wires Disqus / Facebook gated on their config flags (also unset), but there's no working backend until Remark42 lands in `../site-setup` — see TODO in that repo.
+- `_data/ui-text.yml` — i18n strings used by the theme.
 
 Navbar entries, social links, comment provider, and analytics are all wired through `_config.yml` — prefer toggling config over editing includes.
 
@@ -60,6 +60,5 @@ Navbar entries, social links, comment provider, and analytics are all wired thro
 
 - Posts use kramdown + GFM with MathJax (`kramdown.math_engine: mathjax`). Set `tex: true` in a post's front-matter to load MathJax for that page.
 - Pagination is 5 posts/page via `jekyll-paginate`; the homepage uses `_layouts/home.html`.
-- Staticman is configured for comments against `fkarg/fkarg.github.io@master` (see `staticman.yml` + the `staticman:` block in `_config.yml`). The reCaptcha `secret` in `_config.yml` is an encrypted blob — don't try to "fix" it to plaintext.
 - `home/forwards.json` and the various `home/*.md` pages are linked from the navbar; their paths are referenced verbatim in `_config.yml`'s `navbar-links`, so renaming a file means updating the config too.
 - Periodically make commits. NEVER add extra co-author information - it is pure noise.
