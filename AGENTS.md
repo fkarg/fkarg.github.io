@@ -2,6 +2,15 @@
 
 Guidance for AI agents (Claude Code, etc.) working in this repository.
 
+## Giving writing feedback (the main use case)
+
+The biggest help here is **feedback on drafts, not writing them**. When asked to
+review/critique a post or story, or "how will this land?", use the
+`writing-feedback` skill (`.claude/skills/writing-feedback/`). It explains the
+craft rules and their *why*, respects intentional rule-bending, and can simulate
+reader reactions — and it **never edits or rewrites the author's prose** unless
+explicitly asked. Do not offer rewrites by default.
+
 ## What this repo is
 
 Personal blog "Cogitate" by Felix Karg, served from two independent origins:
