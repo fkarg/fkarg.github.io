@@ -26,6 +26,7 @@ navbar-links:
     - Favicon Attribution: "home/attribution"
   Projects:
     - confertus: "confertus"
+    - triplum: "https://www.fkarg.me/triplum/"
     - beancount-importer: "https://github.com/fkarg/beancount-importer"
     - UnifestBestellBot: "https://github.com/fkarg/UnifestBestellBot"
     - citation-velocity: "https://github.com/fkarg/citation-velocity"
