@@ -156,4 +156,6 @@ I have a few things in mind I want to write about, including but not limited to:
 - Write post about societal splattering only getting worse, biggest threat to
   society we are currently facing
 
+- My opinion on aligment: I don't think it's possible, it's not even possible to align a couple of humans in a family or company
 
+- starship is pretty amazing: simple in concept but ridiculous in all forms of practicality
