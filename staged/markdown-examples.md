@@ -76,3 +76,7 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+
+Quartz supports the Obsidian callout types Note, Abstract, Info, Todo, Tip, Success, Question, Warning, Failure, Danger, Bug, Example, and Quote, plus aliases such as tldr, hint, caution, and faq. They can also be nested and collapsed. [Quartz callouts docs](https://quartz.jzhao.xyz/features/callouts)
+
