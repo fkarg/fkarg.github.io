@@ -1,0 +1,18 @@
+#!/bin/sh
+set -eu
+
+repo_root=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
+preview_dir="$repo_root/.quartz-preview"
+
+# Keep authored notes in the repository's top-level notes/ folder while the
+# Quartz clone and generated indexes stay isolated in .quartz-preview/.
+mkdir -p "$repo_root/notes" "$preview_dir/content/notes"
+find "$preview_dir/content/notes" -maxdepth 1 -type l -delete
+for note in "$repo_root"/notes/*.md; do
+  [ -f "$note" ] || continue
+  ln -s "../../../notes/$(basename "$note")" "$preview_dir/content/notes/$(basename "$note")"
+done
+
+cd "$preview_dir"
+npm run quartz -- build -d content
+exec python3 "$repo_root/scripts/quartz-preview-server.py" "$preview_dir/public"

@@ -1,0 +1,174 @@
+# Quartz configuration for Cogitate.
+configuration:
+  pageTitle: Cogitate
+  pageTitleSuffix: ""
+  enableSPA: true
+  enablePopovers: true
+  prefetch: viewport
+  analytics: null
+  locale: en-GB
+  baseUrl: localhost:4173
+  publishAssets: referenced
+  ignorePatterns:
+    - .quartz-preview
+    - drafts
+    - private
+    - templates
+    - .obsidian
+    - .git
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Source Sans 3
+      body: Source Sans 3
+      code: IBM Plex Mono
+    colors:
+      lightMode:
+        light: "#ffffff"
+        lightgray: "#e5e5e5"
+        gray: "#999999"
+        darkgray: "#404040"
+        dark: "#262626"
+        secondary: "#008aff"
+        tertiary: "#0085a1"
+        highlight: "#008aff1a"
+        textHighlight: "#fff23688"
+      darkMode:
+        light: "#181818"
+        lightgray: "#343434"
+        gray: "#777777"
+        darkgray: "#d4d4d4"
+        dark: "#eeeeee"
+        secondary: "#5ab0ff"
+        tertiary: "#59b8c8"
+        highlight: "#5ab0ff29"
+        textHighlight: "#b3aa0288"
+  links:
+    markdownLinkResolution: shortest
+  contentIndex:
+    enableSiteMap: false
+    enableRSS: true
+plugins:
+  - source: "@quartz-community/created-modified-date"
+    enabled: true
+    options:
+      defaultDateType: created
+      priority:
+        - frontmatter
+        - filesystem
+    order: 10
+  - source: "@quartz-community/syntax-highlighting"
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+    order: 20
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 30
+  - source: "@quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    options:
+      enableInHtmlEmbed: false
+      enableCheckbox: true
+      mermaid: true
+    order: 40
+  - source: "@quartz-community/description"
+    enabled: true
+    order: 70
+  - source: "@quartz-community/latex"
+    enabled: true
+    options:
+      renderEngine: katex
+    order: 80
+  - source: "@quartz-community/alias-redirects"
+    enabled: true
+  - source: "@quartz-community/favicon"
+    enabled: true
+  - source: "@quartz-community/content-page"
+    enabled: true
+  - source: "@quartz-community/folder-page"
+    enabled: true
+  - source: "@quartz-community/tag-page"
+    enabled: true
+  - source: "@quartz-community/bases-page"
+    enabled: true
+  - source: "@quartz-community/reader-mode"
+    enabled: true
+    layout:
+      position: header
+      priority: 35
+  - source: "@quartz-community/graph"
+    enabled: true
+  - source: "@quartz-community/backlinks"
+    enabled: true
+  - source: "@quartz-community/recent-notes"
+    enabled: true
+  - source: "@quartz-community/search"
+    enabled: true
+    layout:
+      position: header
+      priority: 30
+  - source: "@quartz-community/article-title"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+      condition: not-index
+  - source: "@quartz-community/content-meta"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+      condition: not-index
+  - source: "@quartz-community/tag-list"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 30
+      condition: has-tags
+  - source: "@quartz-community/page-title"
+    enabled: true
+    layout:
+      position: header
+      priority: 10
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout:
+      position: header
+      priority: 40
+  - source: "@quartz-community/footer"
+    enabled: true
+    options:
+      links:
+        GitHub: https://github.com/fkarg
+    layout:
+      position: footer
+      priority: 50
+layout:
+  groups: {}
+  byPageType:
+    "404":
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    content:
+      template: full-width
+    folder:
+      template: full-width
+      exclude:
+        - content-meta
+      positions:
+        left: []
+        right: []
+    tag:
+      template: full-width
+      exclude:
+        - content-meta
+      positions:
+        left: []
+        right: []

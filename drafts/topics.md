@@ -131,12 +131,6 @@ I have a few things in mind I want to write about, including but not limited to:
 - I don't have the 'supposed' privilige: I have actual challenges and problems
   to solve, to help numerous people first.
 
-- Simulation detectability
-    - Weird Movement ?
-    - Check for Dyson spheres
-    - Check for radio bursts
-    - Below background radiation (temperature)
-
 - Write about exponential effort being required (e.g. to construct a modern
   plane) due to the tech being 'closer' to the limit of what is possible
 

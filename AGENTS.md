@@ -1,35 +1,23 @@
-# AGENTS.md
+# Repository guidance
 
-Guidance for AI agents (Claude Code, etc.) working in this repository.
+## What this repository contains
 
-## Giving writing feedback (the main use case)
+Cogitate is Felix Karg's personal blog and notes site, built with Quartz 5 and hosted as a single GitHub Pages site at the custom domain in `CNAME`.
 
-The biggest help here is **feedback on drafts, not writing them**. When asked to
-review/critique a post or story, or "how will this land?", use the
-`writing-feedback` skill (`.claude/skills/writing-feedback/`). It explains the
-craft rules and their *why*, respects intentional rule-bending, and can simulate
-reader reactions — and it **never edits or rewrites the author's prose** unless
-explicitly asked. Do not offer rewrites by default.
+## Writing feedback
 
-## What this repo is
+The main writing use case is feedback on drafts, not writing them. For requests to review or critique a post or story, use `.claude/skills/writing-feedback/`. Do not rewrite prose unless explicitly asked.
 
-Personal blog "Cogitate" by Felix Karg, built on Beautiful Jekyll v6.0.1. It is
-content + theme; it does not own its own runtime.
+## Content and publishing
 
-It is served from **two independent origins that must each work standalone** — if
-one is down, the other keeps serving:
+- Published content lives under `content/` (`posts/`, `notes/`, `staged/`, and `home/`).
+- `drafts/` is private working material and must stay excluded from generated output.
+- Quartz config is in `quartz.config.yaml` and `quartz.ts`.
+- `baseUrl` comes from the root `CNAME` file.
+- GitHub Actions builds on pull requests and deploys `master` to GitHub Pages. Do not deploy, change Pages settings, or commit unless asked.
 
-- `www.fkarg.me` — CNAME → GitHub Pages, built from `master`.
-- `blog.fkarg.de` — self-hosted via `../site-setup/docker-compose.yml`.
-
-This is the one load-bearing invariant: don't hard-code one origin's host in the
-other's output (internal/canonical/feed URLs use `relative_url`). Any edit that
-touches build, deploy, the theme, `_config.yml`, content layout, or search should
-load the **`site-maintenance` skill** (`.claude/skills/site-maintenance/`), which
-holds the build commands, theme structure, publishing flow, and customization
-inventory.
+For local setup and preview commands, follow `README.md`.
 
 ## Conventions
 
-- Periodically make commits. NEVER add extra co-author information — it is pure
-  noise.
+- Periodically make commits. Never add co-author or AI attribution trailers.

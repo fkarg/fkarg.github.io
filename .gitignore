@@ -27,3 +27,14 @@ result
 # pdfs
 docs
 *.pdf
+
+# Local Quartz migration preview (never part of the Jekyll site)
+.quartz-preview/
+
+# Quartz build artifacts
+node_modules/
+public/
+tsconfig.tsbuildinfo
+.quartz/
+.quartz-cache/
+.obsidian/

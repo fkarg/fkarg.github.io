@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.tags.length > 0
+views:
+  - type: table
+    name: All tagged pages
+    order:
+      - title
+      - file.tags
+      - file.name
+    sort:
+      - property: title
+        direction: ASC
