@@ -1,5 +1,6 @@
 ---
 title: Tex-Test
+unlisted: true
 layout: page
 tex: true
 ---

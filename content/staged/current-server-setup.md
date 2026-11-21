@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'My Current Server Setup'
+unlisted: true
 subtitle: configuration with docker-compose and traefik
 cover-img: 'Todo: search for cover-image'
 tags:

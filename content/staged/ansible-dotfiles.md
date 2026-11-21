@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dotfile-Management with Ansible
+unlisted: true
 subtitle: even if you don't know ansible yet
 cover-img: 'https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png'
 tags:

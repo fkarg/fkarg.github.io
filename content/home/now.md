@@ -37,7 +37,7 @@ Vibe coding has a number of relevant downsides - faster progress on side project
 
 ## Blogging
 
-After ... a bit of a break, I've started writing posts again, in particular [sailing][sailing]. We'll have to see if I'll do it regularly again - no promises. it'll be irregular at best, and for sure less than the 1/month it was a couple years ago.
+After ... a bit of a break, I've started writing posts again, in particular a sailing trip report. We'll have to see if I'll do it regularly again - no promises. it'll be irregular at best, and for sure less than the 1/month it was a couple years ago.
 
 ---
 
@@ -48,7 +48,6 @@ You might also be interested in my [about][about] page.
 **Edit**: last updated on 2026-05-31
 
 [books]: ../2019-09-12-books/
-[sailing]: ../2026-05-31-sailing-trip/
 [lean]: ../2020-09-11-lean-startup/
 [about]: ../about/
 [meetup]: ../../2021-05-25-rat-meetup/

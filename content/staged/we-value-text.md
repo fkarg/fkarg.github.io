@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'We Value Text'
+unlisted: true
 subtitle: the importance of detail and nuance
 cover-img: 'Todo: search for cover-image'
 tags:

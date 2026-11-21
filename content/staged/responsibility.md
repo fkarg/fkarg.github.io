@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Those who are Responsible
+unlisted: true
 subtitle: subtitle
 tags:
 - thoughts

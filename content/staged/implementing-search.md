@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Searching through your GitHub page'
+unlisted: true
 subtitle: a dynamic feature for static pages
 tags:
 - setup

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sailing Trip Report
+unlisted: true
 subtitle: Who would've thought, that sailing with a bunch of rats could be so much fun?
 tags:
 - trip
