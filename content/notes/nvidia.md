@@ -1,6 +1,6 @@
 ---
 title: NVIDIA
-tags: [thoughts]
+tags: [thoughts, ai, economy]
 ---
 
 NVIDIA currently has an operating margin of 86%. That is insane, and a massive
