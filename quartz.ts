@@ -73,6 +73,7 @@ export const layout = await loadQuartzLayout({
     content: { frame: "full-width" },
     folder: { frame: "full-width" },
     tag: { frame: "full-width" },
+    bases: { frame: "full-width" },
     "404": { frame: "full-width" },
   },
 })

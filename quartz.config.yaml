@@ -75,6 +75,7 @@ plugins:
       enableInHtmlEmbed: false
       enableCheckbox: true
       mermaid: true
+      strictLineBreaks: true
     order: 40
   - source: "@quartz-community/description"
     enabled: true
