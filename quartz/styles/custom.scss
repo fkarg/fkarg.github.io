@@ -104,6 +104,7 @@ body[data-slug^="tags/"] .popover-hint[data-quartz-plugin="tag-page"] li.section
   grid-template-areas: "meta desc";
   align-items: baseline;
   gap: 0 1rem;
+  position: relative;
 }
 
 body[data-slug^="tags/"]
@@ -117,6 +118,41 @@ body[data-slug^="tags/"]
   align-items: center;
   gap: 0 0.75rem;
   min-width: 0;
+}
+
+body[data-slug^="tags/"]
+  .popover-hint[data-quartz-plugin="tag-page"]
+  li.section-li
+  > .section
+  > .desc
+  h3
+  > a {
+  display: block;
+}
+
+body[data-slug^="tags/"]
+  .popover-hint[data-quartz-plugin="tag-page"]
+  li.section-li
+  > .section
+  > .desc
+  h3
+  > a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  cursor: pointer;
+}
+
+body[data-slug^="tags/"]
+  .popover-hint[data-quartz-plugin="tag-page"]
+  li.section-li
+  > .section
+  > .desc
+  h3
+  > a:focus-visible::after {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+  border-radius: 2px;
 }
 
 body[data-slug^="tags/"]
