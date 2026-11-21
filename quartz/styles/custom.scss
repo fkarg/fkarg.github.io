@@ -135,11 +135,24 @@ body[data-slug^="tags/"]
   > .section
   > .desc::after {
   content: "";
-  width: 0.4rem;
-  height: 0.4rem;
-  border: solid var(--gray);
-  border-width: 1px 1px 0 0;
+  width: 0.55rem;
+  height: 0.55rem;
+  border: solid var(--darkgray);
+  border-width: 1.5px 1.5px 0 0;
   transform: rotate(45deg);
+}
+
+body[data-slug^="tags/"]
+  .popover-hint[data-quartz-plugin="tag-page"]
+  li.section-li:hover
+  .section
+  > .desc::after,
+body[data-slug^="tags/"]
+  .popover-hint[data-quartz-plugin="tag-page"]
+  li.section-li:focus-within
+  .section
+  > .desc::after {
+  border-color: var(--secondary);
 }
 
 body[data-slug^="tags/"]
