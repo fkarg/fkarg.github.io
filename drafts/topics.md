@@ -4,7 +4,7 @@ published: false
 title: Topics
 ---
 
-## Plans about upcoming posts
+## Ideas
 
 I have a few things in mind I want to write about, including but not limited to:
 
@@ -105,11 +105,6 @@ I have a few things in mind I want to write about, including but not limited to:
   the fuck is wrong with that guy" levels of dedication, then you will not have
   the escape velocity you need to find deliverance from the "decent" zone.
 
-- My recent thoughts on the marshmellow experiment: When I know it will take a
-  lot of willpower otherwise, just pre-decide on eating/not eating dessert.
-
-- using beancount, with simple example and how it helped me
-
 - tesla: talent you can't get for money (after review of 'Drive')
 
 - everything you do should be with the goal of 'creating' something or
@@ -153,3 +148,13 @@ I have a few things in mind I want to write about, including but not limited to:
 - My opinion on aligment: I don't think it's possible, it's not even possible to align a couple of humans in a family or company
 
 - starship is pretty amazing: simple in concept but ridiculous in all forms of practicality
+
+
+## Drafts
+
+- My recent thoughts on the marshmellow experiment: When I know it will take a
+  lot of willpower otherwise, just pre-decide on eating/not eating dessert.
+
+- using beancount, with simple example and how it helped me
+
+## Staged
