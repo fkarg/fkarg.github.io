@@ -99,6 +99,29 @@
   margin-top: 1.5rem;
 }
 
+body[data-slug^="tags/"] .popover-hint[data-quartz-plugin="tag-page"] li.section-li > .section {
+  grid-template-columns: minmax(0, 1fr) max-content !important;
+  grid-template-areas: "desc meta";
+  align-items: baseline;
+  gap: 0 1rem;
+}
+
+body[data-slug^="tags/"] .popover-hint[data-quartz-plugin="tag-page"] li.section-li > .section > .desc {
+  grid-area: desc;
+  min-width: 0;
+}
+
+body[data-slug^="tags/"] .popover-hint[data-quartz-plugin="tag-page"] li.section-li > .section > .meta {
+  grid-area: meta;
+  margin: 0;
+  text-align: right;
+  white-space: nowrap;
+}
+
+body[data-slug^="tags/"] .popover-hint[data-quartz-plugin="tag-page"] li.section-li > .section > .tags {
+  display: none !important;
+}
+
 body[data-slug^="home/"] .content-meta,
 body[data-slug^="staged/"] .content-meta,
 body[data-slug="staged/index"] .page-listing .meta {

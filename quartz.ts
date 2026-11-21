@@ -3,6 +3,7 @@ import { readFileSync } from "node:fs"
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { External, type QuartzComponent } from "./quartz/components"
 import TopNav from "./quartz/components/TopNav"
+import TagIndex from "./quartz/components/TagIndex"
 import { FilenameDate } from "./quartz/plugins/transformers/filename-date"
 
 const baseUrl = process.env.QUARTZ_BASE_URL ?? readFileSync("CNAME", "utf8").trim()
@@ -72,7 +73,7 @@ export const layout = await loadQuartzLayout({
   byPageType: {
     content: { frame: "full-width" },
     folder: { frame: "full-width" },
-    tag: { frame: "full-width" },
+    tag: { frame: "full-width", beforeBody: [External("ArticleTitle"), TagIndex] },
     bases: { frame: "full-width" },
     "404": { frame: "full-width" },
   },

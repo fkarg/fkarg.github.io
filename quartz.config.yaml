@@ -95,6 +95,9 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
+    options:
+      # Keep every tagged page in the listing; there is no client-side limit.
+      numPages: 9007199254740991
   - source: "@quartz-community/bases-page"
     enabled: true
   - source: "@quartz-community/reader-mode"
