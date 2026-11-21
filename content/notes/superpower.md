@@ -1,5 +1,6 @@
 ---
 title: SWB Superpower (Electricity at margin cost zero)
+tags: [electricity, future]
 ---
 
 In germany, we now somewhat regularly have summery days where electricity costs
