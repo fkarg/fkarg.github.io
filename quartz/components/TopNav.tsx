@@ -27,6 +27,7 @@ const TopNav: QuartzComponent = () => (
     <a href="/tags/">Tags</a>
     <a href="/home/now">Now</a>
     <a href="/home/about">About</a>
+    <a href="/home/freelancing">Freelancing</a>
     <details class="site-nav-dropdown">
       <summary>Projects</summary>
       <div class="site-nav-menu">
