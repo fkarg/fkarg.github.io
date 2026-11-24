@@ -33,6 +33,7 @@ const TopNav: QuartzComponent = () => (
       <div class="site-nav-menu">
         <a href="/confertus/">confertus</a>
         <a href="https://www.fkarg.me/triplum/">triplum</a>
+        <a href="https://github.com/fkarg/einsteinbot">Einsteinbot</a>
         <a href="https://github.com/fkarg/beancount-importer">beancount-importer</a>
         <a href="https://github.com/fkarg/UnifestBestellBot">UnifestBestellBot</a>
         <a href="https://github.com/fkarg/citation-velocity">citation-velocity</a>
