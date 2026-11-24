@@ -149,6 +149,10 @@ I have a few things in mind I want to write about, including but not limited to:
 
 - starship is pretty amazing: simple in concept but ridiculous in all forms of practicality
 
+- elon musk is probably the most known, capabable person alive. management is part of his core skills too.
+
+- LLM Censoring is stupid. Information should be free.
+
 
 ## Drafts
 
