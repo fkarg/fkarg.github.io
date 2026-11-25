@@ -1,5 +1,6 @@
 ---
 title: Simulation Detectability
+date: 2026-11-19
 tags: [thought experiment]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: My Contribution to Building Software
+date: 2026-11-25
 tags: [ai, software]
 ---
 

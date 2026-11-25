@@ -1,5 +1,6 @@
 ---
 title: NVIDIA
+date: 2026-11-21
 tags: [thoughts, ai, economy]
 ---
 

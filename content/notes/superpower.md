@@ -1,5 +1,6 @@
 ---
 title: SWB Superpower (Electricity at margin cost zero)
+date: 2026-11-20
 tags: [electricity, future]
 ---
 
